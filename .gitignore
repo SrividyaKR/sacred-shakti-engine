@@ -1,0 +1,6 @@
+*.mp4
+review_queue/
+.env
+*.log
+__pycache__/
+.DS_Store

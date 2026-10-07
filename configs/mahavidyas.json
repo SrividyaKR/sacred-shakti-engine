@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "project": "sacred-shakti-engine",
+  "account": "@sacredshaktiAI",
+  "global": {
+    "style_lock": "Traditional Indian devotional art fused with cinematic realism; reverent, never sensational. Goddess is always the central, centered subject.",
+    "negative_prompt": "text, watermark, logo, modern clothing, western religious symbols, distorted hands, extra limbs, gore, caricature, cartoonish, low resolution",
+    "anchor_images": {
+      "kali": {
+        "profile_1x1": "anchors/kali_profile_1x1.png",
+        "portrait_9x16": "anchors/kali_portrait_9x16.png"
+      }
+    },
+    "output_formats": {
+      "reel": "9x16",
+      "profile": "1x1"
+    }
+  },
+  "mahavidyas": [
+    {
+      "id": "kali",
+      "order": 1,
+      "name": "Kali",
+      "sanskrit_title": "काली",
+      "epithet": "Devourer of Time",
+      "archetype": "Time, dissolution and liberation; the fierce truth that ends illusion and ego.",
+      "iconography": {
+        "colors": ["deep midnight black", "blood crimson", "bone white", "gold accents"],
+        "ornaments": ["garland of fifty skulls (varnamala)", "skirt of severed arms", "silver crescent moon crown", "anklets and heavy gold jewelry"],
+        "sacred_geometry": ["inverted triangle (yoni)", "cremation-ground circle", "eight-petaled lotus"],
+        "attributes": ["sword", "severed head", "abhaya and varada mudras", "lolling tongue"],
+        "setting": "Cremation ground under a star-filled night sky, smoldering pyres."
+      },
+      "motion": {
+        "camera": "Slow dolly-in from full figure to a close-up of the third eye; subtle low-angle tilt-up to convey power.",
+        "lighting": "Low-key chiaroscuro with crimson rim light and flickering pyre glow on dark skin.",
+        "atmosphere": "Drifting embers, ash and smoke; slow-moving storm clouds; hair and garland sway in a heavy wind.",
+        "pacing": "Slow, ominous build with a single sudden stillness at the peak."
+      },
+      "themes": {
+        "caption_hooks": ["Time devours everything but truth.", "What if the fear you feel is the doorway?", "She does not destroy you; she destroys what is false."],
+        "keywords": ["time", "transformation", "fearlessness", "ego death", "liberation"],
+        "hashtags": ["#Kali", "#Mahavidya", "#DasaMahavidya", "#Shakti", "#DivineFeminine", "#sacredshaktiAI"]
+      }
+    },
+    {
+      "id": "tara",
+      "order": 2,
+      "name": "Tara",
+      "sanskrit_title": "तारा",
+      "epithet": "The Saving Star",
+      "archetype": "Compassionate guide who carries the seeker across the ocean of suffering; creative speech and protection.",
+      "iconography": {
+        "colors": ["deep sapphire blue", "white", "tiger-skin gold", "silver"],
+        "ornaments": ["garland of skulls", "serpent ornaments", "jeweled crown with Akshobhya on the head", "tiger-skin skirt"],
+        "sacred_geometry": ["five-pointed star", "blue lotus", "downward triangle within a circle"],
+        "attributes": ["scissors (kartari)", "skull cup (kapala)", "blue lotus", "sword"],
+        "setting": "Shore of a cosmic ocean at the edge of night, a single star above."
+      },
+      "motion": {
+        "camera": "Gentle crane-up over rolling waves resolving onto the goddess; slow orbit at chest height.",
+        "lighting": "Cool moonlit blues with a soft starlight halo; luminous highlights on water.",
+        "atmosphere": "Mist over dark water, floating blue lotus petals, glimmering star particles.",
+        "pacing": "Smooth and flowing, like a tide; calm resolution."
+      },
+      "themes": {
+        "caption_hooks": ["Even the darkest sea has a guiding star.", "Compassion is the fiercest form of power.", "She carries you across when you cannot swim."],
+        "keywords": ["compassion", "guidance", "protection", "creative speech", "crossing sorrow"],
+        "hashtags": ["#Tara", "#Mahavidya", "#DasaMahavidya", "#Shakti", "#Compassion", "#sacredshaktiAI"]
+      }
+    },
+    {
+      "id": "tripura_sundari",
+      "order": 3,
+      "name": "Tripura Sundari",
+      "sanskrit_title": "त्रिपुरसुन्दरी (षोडशी)",
+      "epithet": "Beauty of the Three Worlds",
+      "archetype": "Supreme beauty and bliss; the unity of consciousness and desire, the sixteen-fold perfection (Shodashi).",
+      "iconography": {
+        "colors": ["radiant rose-red", "dawn gold", "saffron", "pearl white"],
+        "ornaments": ["ruby crown with crescent moon", "pearl necklaces", "red silk sari with gold border", "lotus-seat throne"],
+        "sacred_geometry": ["Sri Yantra (nine interlocking triangles)", "sixteen-petaled lotus", "concentric circles and bhupura gate"],
+        "attributes": ["sugarcane bow", "flower arrows", "noose (pasha)", "goad (ankusha)"],
+        "setting": "Jeweled palace garden at sunrise, seated on the lotus throne upon Shiva."
+      },
+      "motion": {
+        "camera": "Slow, graceful push-in with a gentle rotating orbit; reveal of a Sri Yantra glowing beneath the throne.",
+        "lighting": "Warm sunrise golden hour, soft bloom and glowing rose highlights.",
+        "atmosphere": "Falling flower petals, shimmering gold dust, slow pulses of the Sri Yantra.",
+        "pacing": "Serene and expanding, building to a luminous bloom."
+      },
+      "themes": {
+        "caption_hooks": ["Beauty is not decoration; it is the structure of the universe.", "Desire, when purified, becomes devotion.", "Meditate on the geometry that holds all worlds."],
+        "keywords": ["beauty", "bliss", "Sri Yantra", "wholeness", "devotion"],
+        "hashtags": ["#TripuraSundari", "#Shodashi", "#SriYantra", "#DasaMahavidya", "#DivineFeminine", "#sacredshaktiAI"]
+      }
+    },
+    {
+      "id": "bhuvaneshwari",
+      "order": 4,
+      "name": "Bhuvaneshwari",
+      "sanskrit_title": "भुवनेश्वरी",
+      "epithet": "Sovereign of the Cosmos",
+      "archetype": "Space and the nurturing mother of the universe; the expanse in which all worlds arise.",
+      "iconography": {
+        "colors": ["dawn red", "saffron", "sky blue", "gold"],
+        "ornaments": ["crescent moon on crown", "pearl and gold jewelry", "red and gold silk", "three-eyed gaze"],
+        "sacred_geometry": ["hrim bija mandala", "circle within square (cosmic space)", "twelve-petaled lotus"],
+        "attributes": ["noose", "goad", "abhaya mudra", "varada mudra"],
+        "setting": "Vast open sky with a rising sun, the cosmos unfolding around her."
+      },
+      "motion": {
+        "camera": "Wide, slow pull-back that expands from her face to reveal galaxies and worlds around her.",
+        "lighting": "Soft radiant sunrise with a gentle golden halo; deep-blue cosmic backdrop.",
+        "atmosphere": "Drifting clouds, slow-turning star fields, rays of light fanning outward.",
+        "pacing": "Expansive and spacious, with long unhurried movements."
+      },
+      "themes": {
+        "caption_hooks": ["You live inside her, and she lives inside you.", "Space is not empty; it is held.", "Make room, and the universe arrives."],
+        "keywords": ["space", "motherhood", "sovereignty", "expansion", "holding"],
+        "hashtags": ["#Bhuvaneshwari", "#Mahavidya", "#DasaMahavidya", "#CosmicMother", "#Shakti", "#sacredshaktiAI"]
+      }
+    },
+    {
+      "id": "bhairavi",
+      "order": 5,
+      "name": "Bhairavi",
+      "sanskrit_title": "भैरवी",
+      "epithet": "The Fierce Radiance",
+      "archetype": "Inner fire, discipline and tapas; the transformative heat that burns away impurity.",
+      "iconography": {
+        "colors": ["fiery vermilion", "sunrise red", "gold", "deep maroon"],
+        "ornaments": ["garland of skulls", "red silk", "crown with crescent moon", "rudraksha beads"],
+        "sacred_geometry": ["triangle of fire (agni)", "six-pointed star", "blazing circle"],
+        "attributes": ["japa mala", "book of wisdom", "abhaya mudra", "varada mudra"],
+        "setting": "Ash-covered ascetic ground ringed by a sacred fire at dawn."
+      },
+      "motion": {
+        "camera": "Locked, steady medium shot with a slow push-in toward her eyes; brief handheld flicker at the fire's peak.",
+        "lighting": "Intense orange and red firelight on her face with deep shadow behind.",
+        "atmosphere": "Rising sparks, heat-haze distortion, swirling smoke and ash.",
+        "pacing": "Rhythmic and intense, building like sustained breath practice."
+      },
+      "themes": {
+        "caption_hooks": ["Discipline is a flame, not a cage.", "Burn what no longer serves you.", "Your tapas is your transformation."],
+        "keywords": ["discipline", "tapas", "inner fire", "purification", "willpower"],
+        "hashtags": ["#Bhairavi", "#Tapas", "#DasaMahavidya", "#InnerFire", "#Shakti", "#sacredshaktiAI"]
+      }
+    },
+    {
+      "id": "chhinnamasta",
+      "order": 6,
+      "name": "Chhinnamasta",
+      "sanskrit_title": "छिन्नमस्ता",
+      "epithet": "The Self-Sacrificing One",
+      "archetype": "Radical self-sacrifice and the cycle of life, death and desire; transcendence of ego and identification with the body.",
+      "iconography": {
+        "colors": ["vivid crimson", "lotus pink", "black", "gold"],
+        "ornaments": ["garland of skulls", "serpent sacred thread", "bone ornaments", "elaborate crown"],
+        "sacred_geometry": ["lotus with copulating couple as base", "inverted red triangle", "three streams (nadis) in a circle"],
+        "attributes": ["her own severed head held in hand", "scimitar", "attendant yoginis (Dakini and Varnini)"],
+        "setting": "Sacred lotus field on a luminous red sun disc; stylized and symbolic, not graphic."
+      },
+      "motion": {
+        "camera": "Slow, symmetrical frontal framing with a gentle upward drift along the central axis; avoid close-ups of the wound.",
+        "lighting": "Saturated red-gold glow with a dramatic backlit sun disc.",
+        "atmosphere": "Stylized red streams rendered as flowing light ribbons and petals; swirling mist; strictly non-graphic and reverent.",
+        "pacing": "Measured and hypnotic, circular like a mandala."
+      },
+      "themes": {
+        "caption_hooks": ["Sacrifice is the oldest form of freedom.", "To give is to be whole.", "She loses her head to find the truth."],
+        "keywords": ["self-sacrifice", "ego transcendence", "life force", "non-attachment", "cycle of life"],
+        "hashtags": ["#Chhinnamasta", "#Mahavidya", "#DasaMahavidya", "#Kundalini", "#Shakti", "#sacredshaktiAI"]
+      }
+    },
+    {
+      "id": "dhumavati",
+      "order": 7,
+      "name": "Dhumavati",
+      "sanskrit_title": "धूमावती",
+      "epithet": "The Smoky One",
+      "archetype": "Emptiness, widowhood and renunciation; wisdom born from loss, the void behind appearances.",
+      "iconography": {
+        "colors": ["ash grey", "smoke white", "faded white", "muted black"],
+        "ornaments": ["none or minimal jewelry", "tattered white or grey garment", "disheveled hair"],
+        "sacred_geometry": ["broken circle", "empty square", "dissolving triangle"],
+        "attributes": ["winnowing basket (shurpa)", "crow banner or crow vahana", "chariot without horses"],
+        "setting": "A barren, windswept ruin or crossroads shrouded in smoke."
+      },
+      "motion": {
+        "camera": "Slow, static wide shot with a near-imperceptible push-in; long hold on empty space.",
+        "lighting": "Dim, desaturated overcast light with soft grey haze and faint backlit smoke.",
+        "atmosphere": "Thick drifting smoke, circling crows, blowing ash, a muted color palette.",
+        "pacing": "Sparse, quiet and contemplative with long pauses."
+      },
+      "themes": {
+        "caption_hooks": ["Not everything sacred is beautiful.", "In emptiness, nothing is lost.", "Loss is also a teacher."],
+        "keywords": ["emptiness", "renunciation", "loss", "wisdom", "detachment"],
+        "hashtags": ["#Dhumavati", "#Mahavidya", "#DasaMahavidya", "#Renunciation", "#Shakti", "#sacredshaktiAI"]
+      }
+    },
+    {
+      "id": "bagalamukhi",
+      "order": 8,
+      "name": "Bagalamukhi",
+      "sanskrit_title": "बगलामुखी",
+      "epithet": "The Paralyzer of Falsehood",
+      "archetype": "Stambhana, the power to silence and still; control of speech, mind and enemies within.",
+      "iconography": {
+        "colors": ["turmeric yellow", "golden yellow", "saffron", "white"],
+        "ornaments": ["yellow silk garments", "golden crown with crescent moon", "yellow flower garlands", "gold jewelry"],
+        "sacred_geometry": ["inverted triangle", "yellow lotus", "pentagon-based yantra"],
+        "attributes": ["club (gada)", "demon's tongue held in her hand", "golden throne"],
+        "setting": "Golden throne amid an ocean of nectar, surrounded by yellow lotuses."
+      },
+      "motion": {
+        "camera": "Sudden hard stop after a smooth push-in, freeze-frame hold; symmetric, authoritative framing.",
+        "lighting": "Brilliant golden-yellow light with crisp highlights; high-key and commanding.",
+        "atmosphere": "Suspended particles that freeze mid-air, stilled water, glowing yellow flowers.",
+        "pacing": "Movement that abruptly halts into stillness."
+      },
+      "themes": {
+        "caption_hooks": ["Silence is the sharpest power.", "She stills the mind that lies to you.", "Master your words before they master you."],
+        "keywords": ["silence", "control of speech", "stillness", "victory", "protection"],
+        "hashtags": ["#Bagalamukhi", "#Mahavidya", "#DasaMahavidya", "#Stillness", "#Shakti", "#sacredshaktiAI"]
+      }
+    },
+    {
+      "id": "matangi",
+      "order": 9,
+      "name": "Matangi",
+      "sanskrit_title": "मातङ्गी",
+      "epithet": "The Tantric Sarasvati",
+      "archetype": "Inspired expression, music, art and the sacred outcaste; knowledge beyond convention.",
+      "iconography": {
+        "colors": ["emerald green", "deep teal", "gold", "dark blue-green"],
+        "ornaments": ["crescent moon crown", "gold and gemstone jewelry", "flower garlands", "green silk"],
+        "sacred_geometry": ["eight-petaled lotus", "triangle within hexagon", "sound-wave spirals (nada)"],
+        "attributes": ["veena", "parrot", "skull or sword", "ritual leftovers (ucchishta) symbolism"],
+        "setting": "A lush emerald forest grove with a flowing river, seated on a jeweled throne."
+      },
+      "motion": {
+        "camera": "Gliding lateral track with a gentle arc around her as she plays the veena; shallow depth of field.",
+        "lighting": "Dappled green-gold forest light with soft emerald bounce and glowing highlights.",
+        "atmosphere": "Visible sound ripples, fluttering parrots, drifting leaves and fireflies.",
+        "pacing": "Rhythmic and musical, movements syncing to an implied beat."
+      },
+      "themes": {
+        "caption_hooks": ["Creativity does not ask permission.", "The sacred lives outside the rules.", "Your voice is a form of worship."],
+        "keywords": ["music", "creativity", "expression", "unconventional wisdom", "voice"],
+        "hashtags": ["#Matangi", "#Mahavidya", "#DasaMahavidya", "#SacredSound", "#Shakti", "#sacredshaktiAI"]
+      }
+    },
+    {
+      "id": "kamalatmika",
+      "order": 10,
+      "name": "Kamalatmika",
+      "sanskrit_title": "कमलात्मिका (कमला)",
+      "epithet": "The Lotus Goddess",
+      "archetype": "Abundance, prosperity and fulfillment; the completion of the path, tantric Lakshmi.",
+      "iconography": {
+        "colors": ["golden yellow", "lotus pink", "white", "emerald"],
+        "ornaments": ["gold crown", "jeweled necklaces", "pink and gold silk", "lotus garlands"],
+        "sacred_geometry": ["eight-petaled lotus", "overlapping circles", "lotus-shaped yantra"],
+        "attributes": ["two lotuses", "abhaya and varada mudras", "four white elephants pouring pots of nectar"],
+        "setting": "Seated on a full-bloom lotus in a serene lotus pond at golden hour."
+      },
+      "motion": {
+        "camera": "Slow, floating crane shot rising from the pond to the goddess; soft rotating orbit as the lotus blooms.",
+        "lighting": "Warm golden-hour glow with pink-gold bloom and luminous water reflections.",
+        "atmosphere": "Shimmering water ripples, blooming lotuses, elephants gently spraying water, floating petals.",
+        "pacing": "Soft, flowing and celebratory with a gentle bloom at the climax."
+      },
+      "themes": {
+        "caption_hooks": ["Abundance is your nature, not your reward.", "She rises untouched from the mud.", "The final gift of the path is fullness."],
+        "keywords": ["abundance", "prosperity", "grace", "fulfillment", "gratitude"],
+        "hashtags": ["#Kamala", "#Kamalatmika", "#Mahavidya", "#DasaMahavidya", "#Abundance", "#sacredshaktiAI"]
+      }
+    }
+  ]
+}
