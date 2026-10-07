@@ -4,3 +4,4 @@ review_queue/
 *.log
 __pycache__/
 .DS_Store
+.venv/
