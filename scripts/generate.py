@@ -211,7 +211,8 @@ def render_openrouter(payload: dict, api_key: str) -> str:
     headers = {"Authorization": f"Bearer {api_key}"}
     print(f"Submitting to OpenRouter: {payload['model']}...")
     r = requests.post(OPENROUTER_URL, json=payload, headers=headers, timeout=60)
-    r.raise_for_status()
+    if not r.ok:
+        raise SystemExit(f"OpenRouter rejected the request ({r.status_code}): {r.text[:500]}")
     job = r.json()
     poll_url = job["polling_url"]
     while True:
