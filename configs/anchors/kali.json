@@ -1,0 +1,43 @@
+{
+  "id": "kali",
+  "name": "Kali",
+  "epithet": "Devourer of Time",
+  "reference_images": {
+    "portrait_9x16": "anchors/kali_portrait_9x16.png",
+    "profile_1x1": "anchors/kali_profile_1x1.png"
+  },
+  "appearance": {
+    "skin": "obsidian-blue cosmic complexion",
+    "eyes": "amber-gold eyes",
+    "third_eye": "a vertical third eye at the brow",
+    "headwear": "tiered gold crown with a luminous silver crescent moon",
+    "hair": "voluminous wild black mane that settles under gravity past the shoulders during the stride",
+    "attire": [
+      "dark ornate brocade bodice with glowing gold floral embroidery",
+      "fitted pleated wrap skirt in the same dark brocade with matching glowing gold floral embroidery along the pleats and drape"
+    ],
+    "feet": "bare feet",
+    "ornamentation": [
+      "layered skull necklace",
+      "gold hip belt",
+      "ornate gold armbands and wrist bangles on both arms"
+    ]
+  },
+  "environment": {
+    "sky": "pitch-black midnight sky with cold distant stars",
+    "lighting": "low-key lighting; only the silhouette, crown and gold jewelry catch subtle luminous gleams",
+    "ground": "plain dark earth",
+    "excluded": [
+      "daylight",
+      "fire"
+    ]
+  },
+  "negatives": [
+    "daylight",
+    "bright sky",
+    "yellow garment",
+    "stiff hair",
+    "geometric overlays",
+    "low angle shot"
+  ]
+}
