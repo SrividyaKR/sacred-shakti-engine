@@ -63,13 +63,32 @@ A `global` block holds shared style lock, negative prompt, anchor image paths, a
 ```
 
 1. **Prompt Composer**: merges the selected goddess's iconography, motion directives, and the global style lock into a structured prompt, with the negative prompt applied.
-2. **Generation**: an image-to-video model animates the goddess from the anchor image (9:16 for Reels, 1:1 for profile and grid) to preserve identity.
+2. **Generation**: an image-to-video model animates the goddess from the anchor image (9:16 for Reels, 1:1 for profile and grid) to preserve identity. The anchor is sent as the first-frame keyframe. See [Video Models](#video-models).
 3. **Post-process**: trimming, upscaling, frame-rate and aspect-ratio normalization.
 4. **Audio & Assembly**: ambient or devotional soundscape (mantra, drone, instruments) is mixed in and the clip is finalized as an MP4.
 5. **Metadata & Caption**: a caption is built from the goddess's hooks and keywords, with hashtags, and written as a sidecar file next to the video.
 6. **Review**: outputs are checked for iconographic accuracy, tone, and quality before posting.
 
-> Model and tool choices for stages 2-4 are intentionally pluggable and will be implemented under `scripts/`.
+> Model and tool choices for stages 3-4 are intentionally pluggable and will be implemented under `scripts/`.
+
+## Video Models
+
+**ByteDance Seedance 2.5 is the recommended (and default) model.** It is built for multi-reference consistency, which matters for iconography: ornaments, skin tone, and sacred symbols stay stable across a clip and across the series. The anchor image is passed as the `first_frame` keyframe, and Seedance can produce up to 30 seconds per clip.
+
+| `--model` | Route | Notes |
+|-----------|-------|-------|
+| `seedance` / `seedance-2.5` (default) | OpenRouter (`bytedance/seedance-2.5`), or fal.ai (`bytedance/seedance-2.5/image-to-video`) | Provider chosen by `--provider auto`: OpenRouter if `OPENROUTER_API_KEY` is set, otherwise fal.ai if `FAL_KEY` is set |
+| a fal.ai model id, e.g. `fal-ai/kling-video/v1.5/pro/image-to-video` or `fal-ai/minimax-video/image-to-video` | fal.ai | Requires `FAL_KEY` |
+
+Seedance has no negative-prompt field, so the engine appends the global negative prompt to the prompt as an "Avoid:" clause. Native audio is off by default (`--audio` enables it) because the soundtrack is added in assembly. On fal.ai, image-to-video takes its aspect ratio from the anchor image.
+
+```bash
+cp .env.example .env                      # add OPENROUTER_API_KEY and/or FAL_KEY
+python3 scripts/generate.py --goddess kali --model seedance --dry-run   # inspect payload, no cost
+python3 scripts/generate.py --goddess kali --duration 10 --resolution 720p
+```
+
+Only Kali has anchor images so far; live mode for the other goddesses needs their anchors added under `anchors/` and registered in the config.
 
 ## Content Workflow
 
