@@ -47,6 +47,7 @@ class Iconography(BaseModel):
     sacred_geometry: list[str]
     attributes: list[str]
     appearance: list[str] = Field(default_factory=list)
+    render_geometry: bool = True  # False keeps sacred geometry out of the video prompt (it stays in the caption)
     setting: str
 
 
@@ -113,7 +114,7 @@ def build_motion_prompt(g: Goddess, cfg: dict) -> str:
         *ico.appearance,
         f"Setting: {ico.setting}",
         f"Palette: {', '.join(ico.colors)}.",
-        f"Sacred geometry subtly present: {', '.join(ico.sacred_geometry)}.",
+        *([f"Sacred geometry subtly present: {', '.join(ico.sacred_geometry)}."] if ico.render_geometry else []),
         f"Camera: {mo.camera}",
         *([f"Action: {mo.action}"] if mo.action else []),
         *([timeline(mo.shots)] if mo.shots else []),

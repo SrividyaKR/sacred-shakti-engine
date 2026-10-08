@@ -28,35 +28,36 @@
         "colors": ["deep obsidian black", "burnished gold", "cool moonlit blue", "midnight indigo"],
         "ornaments": ["ornate skull necklace across the chest", "ornate crown with a glowing silver crescent moon", "heavy gold jewelry"],
         "sacred_geometry": ["inverted triangle (yoni)", "eight-petaled lotus"],
+        "render_geometry": false,
         "attributes": ["sword", "severed head", "abhaya and varada mudras", "lolling tongue"],
         "appearance": [
-          "Deep obsidian skin and long unbraided black hair drifting gently.",
-          "An ornate skull necklace across Her chest, and a crown with a glowing silver crescent moon.",
-          "Cohesive attire: Her pleated dhoti wrap matches the exact color, texture, and style of the top She is wearing in the reference image.",
+          "Deep obsidian skin and long black hair that falls naturally under gravity.",
+          "An ornate skull necklace across Her chest, and a crown with a luminous crescent moon.",
+          "Cohesive attire: a fitted pleated dhoti wrap matching the exact dark ornate fabric and gold tones of the top in the reference image.",
           "She is barefoot.",
           "Reverent, sacred realism, elegant and non-graphic."
         ],
-        "setting": "Quiet, atmospheric night under a deep midnight sky. The ground is completely plain dark soil. No fires, no flames."
+        "setting": "Clean, open midnight sky filled with distant natural stars. The ground is plain dark earth. Absolutely no floating geometric symbols, no occult stars, no overlays."
       },
       "motion": {
-        "camera": "Locked strictly at horizontal eye level throughout. The crown with the glowing silver crescent moon remains centered and fully framed throughout. Avoid low-angle upward tilt, under-chin drift, or nostril angles.",
+        "camera": "Locked strictly at horizontal eye level throughout. The crown and luminous crescent moon remain centered and fully framed throughout.",
         "shots": [
           {
             "duration": 5,
-            "camera": "Start strictly on the face from the reference image at horizontal eye level. Smooth, slow optical zoom-out locked at horizontal eye level, gradually descending to reveal Her complete figure.",
-            "action": "She stands still and sovereign, long unbraided black hair drifting gently."
+            "camera": "Camera starts locked on the face from the reference image at eye level. Smooth, slow optical zoom-out locked strictly at horizontal eye level, gradually revealing Her full body.",
+            "action": "She stands composed and sovereign, long black hair resting naturally."
           },
           {
             "duration": 5,
             "camera": "The full-length figure stays framed at eye level.",
-            "action": "Once Her full length is framed, She walks forward with sovereign, majestic grace, a queenly stride. Her arms move naturally and casually at Her sides in rhythm with Her stride. Bare feet stepping forward onto plain dark ground."
+            "action": "She walks forward with majestic, sovereign grace. Her arms swing casually at Her sides, and Her long black hair falls naturally under gravity, swaying and settling gently across Her shoulders with every step. Bare feet step naturally onto plain dark earth."
           }
         ],
-        "lighting": "Natural, moody moonlight.",
-        "atmosphere": "Subtle cool mist and soft low-lying smoke drifting across the dark ground.",
+        "lighting": "Natural, moody moonlight and starlight.",
+        "atmosphere": "Still, clean night air; distant natural stars; no overlays.",
         "pacing": "Slow, serene and queenly; unhurried and majestic."
       },
-      "negative_prompt": "raised hand, low angle shot, upward tilt, shoes, modern clothes, chalk drawings, floor symbols, fire, flames, pyres",
+      "negative_prompt": "floating hair, gravity-defying hair, hair standing up, stiff hair, frozen hair, geometric overlays, occult symbols, raised hands, fire, smoke",
       "themes": {
         "caption_hooks": ["Time devours everything but truth.", "What if the fear you feel is the doorway?", "She does not destroy you; she destroys what is false."],
         "keywords": ["time", "transformation", "fearlessness", "ego death", "liberation"],
