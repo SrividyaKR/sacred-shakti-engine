@@ -38,6 +38,7 @@ class Iconography(BaseModel):
     ornaments: list[str]
     sacred_geometry: list[str]
     attributes: list[str]
+    appearance: list[str] = Field(default_factory=list)
     setting: str
 
 
@@ -56,6 +57,7 @@ class Goddess(BaseModel):
     archetype: str
     iconography: Iconography
     motion: Motion
+    negative_prompt: str = ""
     themes: Themes
 
 
@@ -91,6 +93,7 @@ def build_motion_prompt(g: Goddess, cfg: dict) -> str:
     ico, mo = g.iconography, g.motion
     parts = [
         f"{g.name}, {g.epithet}, the Hindu Tantric goddess, centered and facing the viewer, exactly matching the reference image.",
+        *ico.appearance,
         f"Setting: {ico.setting}",
         f"Palette: {', '.join(ico.colors)}.",
         f"Sacred geometry subtly present: {', '.join(ico.sacred_geometry)}.",
@@ -260,7 +263,7 @@ def main() -> None:
 
     g = get_goddess(cfg, args.goddess)
     prompt = build_motion_prompt(g, cfg)
-    negative = cfg["global"]["negative_prompt"]
+    negative = ", ".join(filter(None, [cfg["global"]["negative_prompt"], g.negative_prompt]))
     caption, tags = build_caption(g, len(ids))
     anchor = resolve_anchor(cfg, g.id, args.aspect_ratio)
     provider = resolve_provider(args.model, args.provider)

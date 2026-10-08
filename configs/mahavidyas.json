@@ -25,18 +25,26 @@
       "epithet": "Devourer of Time",
       "archetype": "Time, dissolution and liberation; the fierce truth that ends illusion and ego.",
       "iconography": {
-        "colors": ["deep midnight black", "blood crimson", "bone white", "gold accents"],
-        "ornaments": ["garland of fifty skulls (varnamala)", "skirt of severed arms", "silver crescent moon crown", "anklets and heavy gold jewelry"],
+        "colors": ["radiant obsidian black", "rich crimson red", "burnished gold", "warm amber firelight"],
+        "ornaments": ["necklace of golden skull pendants across the chest", "ornate crown with a glowing silver crescent moon", "heavy gold jewelry"],
         "sacred_geometry": ["inverted triangle (yoni)", "cremation-ground circle", "eight-petaled lotus"],
         "attributes": ["sword", "severed head", "abhaya and varada mudras", "lolling tongue"],
-        "setting": "Cremation ground under a star-filled night sky, smoldering pyres."
+        "appearance": [
+          "Very dark, radiant obsidian skin and long unbraided black hair drifting gently.",
+          "Wearing an ornate necklace of golden skull pendants across Her chest.",
+          "Draped in a rich crimson red silk sari with pleated fabric; a front slit reveals Her knees as She stands still and sovereign.",
+          "She is barefoot, Her bare feet planted firmly and gracefully on the earth.",
+          "Reverent, sacred realism, elegant and non-graphic."
+        ],
+        "setting": "Sacred nighttime cremation ground under a deep midnight sky. The ground is dark earth lightly dusted with soft sacred ash. In the deep background behind Her, a gentle sacred fire burns in the darkness."
       },
       "motion": {
-        "camera": "Slow dolly-in from full figure to a close-up of the third eye; subtle low-angle tilt-up to convey power.",
-        "lighting": "Low-key chiaroscuro with crimson rim light and flickering pyre glow on dark skin.",
-        "atmosphere": "Drifting embers, ash and smoke; slow-moving storm clouds; hair and garland sway in a heavy wind.",
-        "pacing": "Slow, ominous build with a single sudden stillness at the peak."
+        "camera": "Smooth, slow majestic optical zoom-out locked strictly at horizontal eye level, gradually descending to reveal a majestic full-length shot. Strictly avoid low-angle upward tilt, camera drift under chin, or nostril perspectives. The ornate crown with the glowing silver crescent moon remains centered and fully framed throughout.",
+        "lighting": "The sacred fire casts a soft warm amber backlight and subtle rim light along Her silhouette.",
+        "atmosphere": "Faint, low-lying smoke drifts across the ground with floating soft embers in the air.",
+        "pacing": "Slow, majestic and steady; She stands still and sovereign while the camera moves."
       },
+      "negative_prompt": "low angle shot, extreme close-up, nostril view, upward tilt, shoes, modern clothes, graphic gore, disfigured anatomy, cartoonish style",
       "themes": {
         "caption_hooks": ["Time devours everything but truth.", "What if the fear you feel is the doorway?", "She does not destroy you; she destroys what is false."],
         "keywords": ["time", "transformation", "fearlessness", "ego death", "liberation"],
