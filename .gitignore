@@ -5,3 +5,4 @@ review_queue/
 __pycache__/
 .DS_Store
 .venv/
+outputs/

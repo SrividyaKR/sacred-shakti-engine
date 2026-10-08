@@ -131,6 +131,9 @@ def main() -> int:
         print(json.dumps(payload_for("<first-frame image: data URI or uploaded URL>"), indent=2, ensure_ascii=False))
         return 0
 
+    if not (deity.anchor_locked and anchor.anchor_locked):
+        raise SystemExit(f"'{deity.id}' anchor is not locked (manifest: {deity.anchor_locked}, anchor file: "
+                         f"{anchor.anchor_locked}). Approve a reference portrait and lock it before a live render.")
     if ref is None:
         raise SystemExit(f"No {args.aspect_ratio} reference image in the anchor for '{deity.id}'.")
     if deity.status == "queued":

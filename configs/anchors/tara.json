@@ -1,0 +1,45 @@
+{
+  "id": "tara",
+  "name": "Tara",
+  "epithet": "The Saving Star",
+  "anchor_locked": false,
+  "reference_images": {
+    "portrait_9x16": "anchors/tara_portrait_9x16.png",
+    "profile_1x1": "anchors/tara_profile_1x1.png"
+  },
+  "appearance": {
+    "skin": "deep sapphire-blue complexion with a faint starlit sheen",
+    "eyes": "large, luminous eyes with a steady, compassionate gaze",
+    "third_eye": "a vertical third eye at the brow",
+    "headwear": "tiered gold crown with a radiant silver star at its center and a luminous crescent moon",
+    "hair": "thick, long black hair in heavy locks falling past the shoulders",
+    "attire": [
+      "midnight-blue silk bodice with fine silver star embroidery",
+      "fitted pleated wrap skirt in a tiger-skin pattern of gold and black stripes"
+    ],
+    "ornamentation": [
+      "layered skull garland",
+      "coiled gold serpent armbands and bracelets",
+      "gold hip belt",
+      "silver star pendant"
+    ],
+    "feet": "bare feet"
+  },
+  "environment": {
+    "sky": "deep indigo midnight sky with one bright guiding star and cold distant stars",
+    "lighting": "low-key moonlit lighting; cool blue-white gleams catch the silhouette, crown and silver jewelry",
+    "ground": "dark wet sand at the edge of a calm black ocean",
+    "excluded": [
+      "daylight",
+      "fire"
+    ]
+  },
+  "negatives": [
+    "daylight",
+    "bright sky",
+    "stiff hair",
+    "geometric overlays",
+    "low angle shot",
+    "modern clothing"
+  ]
+}

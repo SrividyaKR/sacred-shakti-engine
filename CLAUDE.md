@@ -14,9 +14,11 @@ Showrunner -> Director -> Validation Council (concurrent) -> Executor -> QA Visi
 |-------|------|--------|
 | **Series Showrunner** | Owns order and status of the ten deities in `configs/series_manifest.json` (`queued` / `active` / `completed`, `anchor_locked`). Returns the current deity, advances the queue. | `src/agents/showrunner.py` |
 | **Character Anchors** | Canonical, locked character definitions: `configs/anchors/<id>.json` (appearance, environment, negatives, reference images). The anchor is the source of truth for how a deity looks. | Kali only |
+| **Iconography Archivist** | Translates a deity's classical iconography into the strict anchor schema (appearance, attire, ornamentation, environment, exactly 6 negatives) in plain English, validates it against both guards, and writes `configs/anchors/<id>.json` with `anchor_locked: false`. Visual canon is curated in `CANON` (Tara so far) and must be reviewed by a human. | `src/agents/archivist.py` |
 | **Director Agent** | Reads an anchor and composes the prompt: anchor traits, lighting, and a timed shot plan (eye-level pull-back from the face, then a queenly walk). | `src/agents/director.py` |
 | **Semantic Guard** | Deterministic regex audit of the positive prompt: blocks daylight, occult symbols, the trigger words `sacred*` / `mystic*`, Sanskrit/Hindi loanwords and non-ASCII text, and any word the anchor lists under `environment.excluded`. Caps negatives at **6 terms** (comma-separated phrases). | `src/agents/validators.py` |
 | **Motion Guard** | Deterministic audit for motion contradictions: jump or hard cuts, hair state changes, non-physical hair, hair without gradual settling, eye-level versus low-angle conflicts, shot timing gaps. | `src/agents/validators.py` |
+| **Anchor Portrait Generator** | Renders 2 candidate reference portraits from an anchor via OpenRouter's image API (default `black-forest-labs/flux.2-pro`) into `outputs/anchors/<id>/` for human approval. | `scripts/generate_anchor_portrait.py` |
 | **Executor** | Dispatches to the video model (Seedance 2.5 via OpenRouter, fal.ai fallback), polls, downloads the MP4 and writes metadata JSON. | `scripts/run_pipeline.py` (reuses `scripts/generate.py` helpers) |
 | **QA Vision** | Samples frames at t=0, mid and end and checks identity, attire and environment drift against the anchor. | **Planned** |
 
@@ -46,6 +48,8 @@ Manifest ids are identical to the ids in `mahavidyas.json` (including `chhinnama
 .venv/bin/python scripts/run_pipeline.py --dry-run                    # current deity from the manifest
 .venv/bin/python scripts/run_pipeline.py --next --dry-run             # preview advancing the queue
 .venv/bin/python scripts/run_pipeline.py --character kali             # live render (costs money)
+.venv/bin/python -m src.agents.archivist tara                        # write configs/anchors/tara.json (unlocked)
+.venv/bin/python scripts/generate_anchor_portrait.py --character tara --dry-run   # then without --dry-run (costs money)
 ```
 
 Exit code is 0 when composition and validation pass, 1 when validation fails or the anchor is missing. `--next` completes the active deity and activates the next queued one (written to the manifest unless `--dry-run`). A live run marks a queued deity `active`; completing it is a deliberate `--next` after review.
@@ -71,4 +75,5 @@ Exit code is 0 when composition and validation pass, 1 when validation fails or 
 
 - Live renders cost money (a 10 s, 720p Seedance clip is a few dollars). Run `--dry-run` first and confirm before a live render.
 - Confirm before pushing or any other outward-facing action; commit only when asked.
-- Only Kali has anchor images and an anchor JSON so far. Each new deity needs both (and `anchor_locked: true`) before a live run.
+- **Anchor approval workflow** for a new deity: run the Archivist, generate portrait candidates, pick one by eye, copy it to `anchors/<id>_portrait_9x16.png`, then set `anchor_locked: true` in both `configs/anchors/<id>.json` and `configs/series_manifest.json`. A live video render refuses to run until both are true.
+- Kali is locked. Tara has an unlocked anchor JSON and no portrait yet.

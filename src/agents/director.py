@@ -38,6 +38,7 @@ class Anchor(BaseModel):
     id: str
     name: str
     epithet: str
+    anchor_locked: bool = False  # True only after a human approves the reference portrait
     reference_images: dict[str, str]
     appearance: Appearance
     environment: Environment
@@ -69,7 +70,7 @@ DEFAULT_SHOTS = [
         camera="The full-length figure stays framed at eye level.",
         action=("She walks forward toward the viewer with majestic, sovereign grace. Her arms swing casually and "
                 "naturally at Her sides in rhythm with Her steps, and Her hair billows softly with the cadence of "
-                "Her steps. Bare feet step forward onto plain dark earth."),
+                "Her steps. Bare feet step forward onto {ground}."),
     ),
 ]
 
@@ -85,9 +86,30 @@ class Director:
         return Anchor(**json.loads(path.read_text(encoding="utf-8")))
 
     def compose(self, character_id: str, aspect: str = "portrait_9x16") -> PromptBundle:
-        a = self.load_anchor(character_id)
+        return self.compose_anchor(self.load_anchor(character_id), aspect)
+
+    def compose_portrait(self, a: Anchor) -> str:
+        """Still-image prompt for the reference portrait that becomes the video's first frame."""
         ap, env = a.appearance, a.environment
-        shots = a.shots or DEFAULT_SHOTS
+        return " ".join([
+            f"Cinematic photorealistic portrait of {a.name}, {a.epithet}, the Hindu goddess.",
+            "Framing: head and upper chest, front-facing, camera at horizontal eye level, "
+            "crown fully framed and centered, vertical 9:16 composition.",
+            f"Complexion: {ap.skin}. Eyes: {ap.eyes}. Forehead: {ap.third_eye}.",
+            f"Crown: {ap.headwear}.",
+            f"Hair: {ap.hair}.",
+            f"Attire: {'; '.join(ap.attire)}.",
+            *([f"Ornamentation: {'; '.join(ap.ornamentation)}."] if ap.ornamentation else []),
+            f"Background: {env.sky}.",
+            f"Lighting: {env.lighting}.",
+            "Style: reverent, elegant, non-graphic, finely detailed, calm sovereign expression.",
+        ])
+
+    def compose_anchor(self, a: Anchor, aspect: str = "portrait_9x16") -> PromptBundle:
+        ap, env = a.appearance, a.environment
+        shots = [sh.model_copy(update={"camera": sh.camera.format(ground=env.ground),
+                                       "action": sh.action.format(ground=env.ground)})
+                 for sh in (a.shots or DEFAULT_SHOTS)]
 
         t, timeline = 0, []
         for i, sh in enumerate(shots, 1):

@@ -2,6 +2,7 @@
   "id": "kali",
   "name": "Kali",
   "epithet": "Devourer of Time",
+  "anchor_locked": true,
   "reference_images": {
     "portrait_9x16": "anchors/kali_portrait_9x16.png",
     "profile_1x1": "anchors/kali_profile_1x1.png"
