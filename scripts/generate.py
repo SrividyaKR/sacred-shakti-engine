@@ -28,6 +28,7 @@ BASE_HASHTAGS = ["#DasaMahavidya", "#Shakti", "#Tantra", "#SacredFeminine", "#Hi
 
 class Motion(BaseModel):
     camera: str
+    action: str = ""
     lighting: str
     atmosphere: str
     pacing: str
@@ -98,6 +99,7 @@ def build_motion_prompt(g: Goddess, cfg: dict) -> str:
         f"Palette: {', '.join(ico.colors)}.",
         f"Sacred geometry subtly present: {', '.join(ico.sacred_geometry)}.",
         f"Camera: {mo.camera}",
+        *([f"Action: {mo.action}"] if mo.action else []),
         f"Lighting: {mo.lighting}",
         f"Atmosphere: {mo.atmosphere}",
         f"Pacing: {mo.pacing}",

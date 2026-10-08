@@ -27,24 +27,25 @@
       "iconography": {
         "colors": ["radiant obsidian black", "rich crimson red", "burnished gold", "warm amber firelight"],
         "ornaments": ["necklace of golden skull pendants across the chest", "ornate crown with a glowing silver crescent moon", "heavy gold jewelry"],
-        "sacred_geometry": ["inverted triangle (yoni)", "cremation-ground circle", "eight-petaled lotus"],
+        "sacred_geometry": ["inverted triangle (yoni)", "eight-petaled lotus"],
         "attributes": ["sword", "severed head", "abhaya and varada mudras", "lolling tongue"],
         "appearance": [
-          "Very dark, radiant obsidian skin and long unbraided black hair drifting gently.",
-          "Wearing an ornate necklace of golden skull pendants across Her chest.",
-          "Draped in a rich crimson red silk sari with pleated fabric; a front slit reveals Her knees as She stands still and sovereign.",
-          "She is barefoot, Her bare feet planted firmly and gracefully on the earth.",
+          "Very dark, radiant obsidian skin; voluminous unbraided black hair.",
+          "Wearing an ornate necklace of golden skull pendants across Her chest and a crown with a glowing silver crescent moon.",
+          "Draped in a rich crimson red silk sari with pleated fabric; a front slit reveals Her knees.",
+          "She is barefoot, Her lotus bare feet unadorned by shoes.",
           "Reverent, sacred realism, elegant and non-graphic."
         ],
-        "setting": "Sacred nighttime cremation ground under a deep midnight sky. The ground is dark earth lightly dusted with soft sacred ash. In the deep background behind Her, a gentle sacred fire burns in the darkness."
+        "setting": "Sacred nighttime cremation ground under a deep midnight sky. Towering, wild sacred cremation pyres blaze furiously behind and around Her, parting as She walks through them. The ground is raw dark earth dusted with sacred white ash and glowing charcoal embers."
       },
       "motion": {
-        "camera": "Smooth, slow majestic optical zoom-out locked strictly at horizontal eye level, gradually descending to reveal a majestic full-length shot. Strictly avoid low-angle upward tilt, camera drift under chin, or nostril perspectives. The ornate crown with the glowing silver crescent moon remains centered and fully framed throughout.",
-        "lighting": "The sacred fire casts a soft warm amber backlight and subtle rim light along Her silhouette.",
-        "atmosphere": "Faint, low-lying smoke drifts across the ground with floating soft embers in the air.",
-        "pacing": "Slow, majestic and steady; She stands still and sovereign while the camera moves."
+        "camera": "Dramatic ground-level extreme low-angle perspective looking upward from the ash-covered earth. Point-of-view as if looking up from the ground as the goddess strides forward, her lotus bare foot stepping forward toward the lens in a towering, sovereign advance. Heroic wide-angle composition emphasizing Her monumental scale, rising majestic against the night sky. Keep Her facial proportions majestic and sovereign from below: wide fierce gaze locked forward, crown and glowing silver crescent moon towering above.",
+        "action": "The goddess strides forward through towering sacred cremation flames with unstoppable authority. Dynamic forward step: one bare foot coming down firmly onto dark ash earth, kicking up subtle sparks and embers. Right hand raised high in commanding Abhaya Mudra (blessing of fearlessness); chest expanded with divine power. Voluminous unbraided black hair and pleated crimson silk sari billowing dynamically in the thermal updraft.",
+        "lighting": "Intense golden-amber rim lighting chisels Her dark obsidian skin.",
+        "atmosphere": "Vortex of glowing embers, golden sparks, and thick atmospheric smoke rising into the deep night.",
+        "pacing": "Powerful, deliberate forward stride; weighty and unstoppable."
       },
-      "negative_prompt": "low angle shot, extreme close-up, nostril view, upward tilt, shoes, modern clothes, graphic gore, disfigured anatomy, cartoonish style",
+      "negative_prompt": "chalk circles, pentagrams, occult floor sigils, white floor geometry, ritual stars, modern shoes, pinned arms, mannequin pose, feet glued together, modern clothing, grotesque gore",
       "themes": {
         "caption_hooks": ["Time devours everything but truth.", "What if the fear you feel is the doorway?", "She does not destroy you; she destroys what is false."],
         "keywords": ["time", "transformation", "fearlessness", "ego death", "liberation"],
