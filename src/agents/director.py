@@ -2,7 +2,7 @@
 
 import json
 from pathlib import Path
-from typing import Optional
+from typing import Literal, Optional
 
 from pydantic import BaseModel, Field
 
@@ -28,6 +28,15 @@ class Environment(BaseModel):
     excluded: list[str] = Field(default_factory=list)  # words the Semantic Guard keeps out of the prompt
 
 
+MotionArchetype = Literal["grounded_stride", "stationary_command", "atmospheric_arc"]
+
+
+class CreativePalette(BaseModel):
+    elemental_domain: str  # the natural element or setting that shapes the scene's physics
+    motion_archetype: MotionArchetype  # how the figure and camera move after the opening pull-back
+    signature_phenomena: list[str]  # physical dynamics unique to this deity, written as things to show
+
+
 class Shot(BaseModel):
     duration: int
     camera: str
@@ -42,6 +51,7 @@ class Anchor(BaseModel):
     reference_images: dict[str, str]
     appearance: Appearance
     environment: Environment
+    creative_palette: Optional[CreativePalette] = None  # None keeps the legacy grounded_stride plan (Kali)
     negatives: list[str]
     shots: list[Shot] = Field(default_factory=list)  # optional override of the default shot plan
 
@@ -55,24 +65,43 @@ class PromptBundle(BaseModel):
     reference_image: Optional[str]
 
 
-# Default plan, locked from the approved Kali render: eye-level pull-back from the face, then a queenly walk.
-DEFAULT_SHOTS = [
-    Shot(
-        duration=5,
-        camera=("Starts on the face from the reference portrait at horizontal eye level, then a smooth, continuous "
-                "optical pull-back locked at eye level reveals Her full length. The crown and silver crescent moon "
-                "stay centered and fully framed."),
-        action=("As the camera pulls back and She begins Her stride, Her hair gradually settles under natural "
-                "gravity, cascading down past Her shoulders."),
-    ),
-    Shot(
-        duration=5,
-        camera="The full-length figure stays framed at eye level.",
-        action=("She walks forward toward the viewer with majestic, sovereign grace. Her arms swing casually and "
-                "naturally at Her sides in rhythm with Her steps, and Her hair billows softly with the cadence of "
-                "Her steps. Bare feet step forward onto {ground}."),
-    ),
-]
+OPENING_CAMERA = ("Starts on the face from the reference portrait at horizontal eye level, then a smooth, continuous "
+                  "optical pull-back locked at eye level reveals Her full length. The crown and silver crescent moon "
+                  "stay centered and fully framed.")
+SETTLE = "Her hair gradually settles under natural gravity, cascading down past Her shoulders."
+
+# One shot plan per motion archetype. grounded_stride is the plan locked from the approved Kali render.
+SHOT_PLANS = {
+    "grounded_stride": [
+        Shot(duration=5, camera=OPENING_CAMERA, action=f"As the camera pulls back and She begins Her stride, {SETTLE}"),
+        Shot(
+            duration=5,
+            camera="The full-length figure stays framed at eye level.",
+            action=("She walks forward toward the viewer with majestic, sovereign grace. Her arms swing casually and "
+                    "naturally at Her sides in rhythm with Her steps, and Her hair billows softly with the cadence of "
+                    "Her steps. Bare feet step forward onto {ground}."),
+        ),
+    ],
+    "stationary_command": [
+        Shot(duration=5, camera=OPENING_CAMERA, action=f"As the camera pulls back, {SETTLE}"),
+        Shot(
+            duration=5,
+            camera="The full-length figure stays framed at eye level while the camera holds steady.",
+            action=("She stands planted on {ground}, bare feet firm, radiating sovereign command, chest expanded and "
+                    "gaze steady toward the viewer."),
+        ),
+    ],
+    "atmospheric_arc": [
+        Shot(duration=5, camera=OPENING_CAMERA, action=f"As the camera pulls back, {SETTLE}"),
+        Shot(
+            duration=5,
+            camera=("The camera glides in a slow, smooth arc at eye level around the figure, keeping the crown "
+                    "centered and fully framed."),
+            action="She stands composed and sovereign while the surroundings move around Her.",
+        ),
+    ],
+}
+DEFAULT_SHOTS = SHOT_PLANS["grounded_stride"]
 
 
 class Director:
@@ -107,9 +136,10 @@ class Director:
 
     def compose_anchor(self, a: Anchor, aspect: str = "portrait_9x16") -> PromptBundle:
         ap, env = a.appearance, a.environment
+        palette = a.creative_palette
+        plan = a.shots or SHOT_PLANS[palette.motion_archetype if palette else "grounded_stride"]
         shots = [sh.model_copy(update={"camera": sh.camera.format(ground=env.ground),
-                                       "action": sh.action.format(ground=env.ground)})
-                 for sh in (a.shots or DEFAULT_SHOTS)]
+                                       "action": sh.action.format(ground=env.ground)}) for sh in plan]
 
         t, timeline = 0, []
         for i, sh in enumerate(shots, 1):
@@ -125,8 +155,10 @@ class Director:
             *([f"Ornamentation: {'; '.join(ap.ornamentation)}."] if ap.ornamentation else []),
             f"{ap.feet.capitalize()}.",
             f"Setting: {env.sky}; the ground is {env.ground}.",
+            *([f"Elemental domain: {palette.elemental_domain}."] if palette else []),
             f"Lighting: {env.lighting}.",
             *timeline,
+            *([f"Physical dynamics throughout: {'; '.join(palette.signature_phenomena)}."] if palette else []),
             "Style: reverent cinematic realism, elegant and non-graphic, smooth natural motion, "
             "consistent identity and costume throughout.",
         ])

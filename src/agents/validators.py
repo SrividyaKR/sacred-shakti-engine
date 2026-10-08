@@ -67,6 +67,8 @@ class MotionGuard:
     HAIR_BAD = r"\b(stiff|frozen|rigid|floating|gravity-defying)\s+(hair|mane)\b"
     HAIR_JUMP = r"\b(combed|ties?|tied|braid(?:s|ed)?|bun)\b"  # "unbraided" does not match
     LOW_ANGLE = r"\b(low[- ]angle|upward tilt|nostril)\b"
+    STATIONARY = r"\b(stands? planted|stationary)\b"
+    LOCOMOTION = r"\b(walks?|walking|strides?|striding|steps? forward)\b"
     SHOT = re.compile(r"Shot (\d+) \((\d+)-(\d+)s\)")
 
     def check(self, prompt: str) -> Report:
@@ -82,6 +84,8 @@ class MotionGuard:
                 r.error("hair-continuity", f"hair state changes mid-clip: {', '.join(hits)}")
         if re.search(r"eye level", prompt, re.IGNORECASE) and (hits := _hits(self.LOW_ANGLE, prompt)):
             r.error("camera-contradiction", f"eye-level camera conflicts with: {', '.join(hits)}")
+        if re.search(self.STATIONARY, prompt, re.IGNORECASE) and (hits := _hits(self.LOCOMOTION, prompt)):
+            r.error("archetype-contradiction", f"stationary figure conflicts with locomotion: {', '.join(hits)}")
         shots = [tuple(map(int, m.groups())) for m in self.SHOT.finditer(prompt)]
         end = 0
         for n, start, stop in shots:

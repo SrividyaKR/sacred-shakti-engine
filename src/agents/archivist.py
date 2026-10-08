@@ -29,22 +29,30 @@ GLOSSARY = {
 CANON = {
     "tara": {
         "appearance": {
-            "skin": "deep sapphire-blue complexion with a faint starlit sheen",
+            "skin": "deep sapphire-blue skin",
             "eyes": "large, luminous eyes with a steady, compassionate gaze",
-            "third_eye": "a vertical third eye at the brow",
-            "headwear": "tiered gold crown with a radiant silver star at its center and a luminous crescent moon",
+            "third_eye": "a subtle vertical third eye",
+            "headwear": "elaborate tiered gold and silver crown resting flush on voluminous black hair, seamlessly integrated with a solid crescent moon at its peak, with a faint guiding star above",
             "hair": "thick, long black hair in heavy locks falling past the shoulders",
             "attire": [
-                "midnight-blue silk bodice with fine silver star embroidery",
+                "dark indigo fitted V-neck silk bodice with subtle embroidered silver starbursts",
                 "fitted pleated wrap skirt in a tiger-skin pattern of gold and black stripes",
             ],
             "ornamentation": [
-                "layered skull garland",
-                "coiled gold serpent armbands and bracelets",
-                "gold hip belt",
-                "silver star pendant",
+                "multi-layered skull garland",
+                "ornate serpent-shaped gold armbands and wrist cuffs on both arms",
+                "gold and silver waist belt",
             ],
             "feet": "bare feet",
+        },
+        "creative_palette": {
+            "elemental_domain": "reflective dark ocean shore, distant starlight, solitary guiding star",
+            "motion_archetype": "stationary_command",
+            "signature_phenomena": [
+                "expanding concentric ripples across calm dark water",
+                "voluminous black hair drifting in sea breeze and settling under natural gravity",
+                "slow deliberate arm gesture",
+            ],
         },
         "environment": {
             "sky": "deep indigo midnight sky with one bright guiding star and cold distant stars",
@@ -103,6 +111,8 @@ class Archivist:
 
     def validate(self, anchor: Anchor) -> None:
         problems = []
+        if anchor.creative_palette is None or not anchor.creative_palette.signature_phenomena:
+            problems.append("creative_palette with at least one signature phenomenon is required")
         if len(anchor.negatives) != NEGATIVE_COUNT:
             problems.append(f"expected exactly {NEGATIVE_COUNT} negatives, got {len(anchor.negatives)}")
         bundle = Director().compose_anchor(anchor)

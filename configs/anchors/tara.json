@@ -2,26 +2,25 @@
   "id": "tara",
   "name": "Tara",
   "epithet": "The Saving Star",
-  "anchor_locked": false,
+  "anchor_locked": true,
   "reference_images": {
-    "portrait_9x16": "anchors/tara_portrait_9x16.png",
+    "portrait_9x16": "outputs/anchors/tara/tara-anchor.jpeg",
     "profile_1x1": "anchors/tara_profile_1x1.png"
   },
   "appearance": {
-    "skin": "deep sapphire-blue complexion with a faint starlit sheen",
+    "skin": "deep sapphire-blue skin",
     "eyes": "large, luminous eyes with a steady, compassionate gaze",
-    "third_eye": "a vertical third eye at the brow",
-    "headwear": "tiered gold crown with a radiant silver star at its center and a luminous crescent moon",
+    "third_eye": "a subtle vertical third eye",
+    "headwear": "elaborate tiered gold and silver crown resting flush on voluminous black hair, seamlessly integrated with a solid crescent moon at its peak, with a faint guiding star above",
     "hair": "thick, long black hair in heavy locks falling past the shoulders",
     "attire": [
-      "midnight-blue silk bodice with fine silver star embroidery",
+      "dark indigo fitted V-neck silk bodice with subtle embroidered silver starbursts",
       "fitted pleated wrap skirt in a tiger-skin pattern of gold and black stripes"
     ],
     "ornamentation": [
-      "layered skull garland",
-      "coiled gold serpent armbands and bracelets",
-      "gold hip belt",
-      "silver star pendant"
+      "multi-layered skull garland",
+      "ornate serpent-shaped gold armbands and wrist cuffs on both arms",
+      "gold and silver waist belt"
     ],
     "feet": "bare feet"
   },
@@ -32,6 +31,15 @@
     "excluded": [
       "daylight",
       "fire"
+    ]
+  },
+  "creative_palette": {
+    "elemental_domain": "reflective dark ocean shore, distant starlight, solitary guiding star",
+    "motion_archetype": "stationary_command",
+    "signature_phenomena": [
+      "expanding concentric ripples across calm dark water",
+      "voluminous black hair drifting in sea breeze and settling under natural gravity",
+      "slow deliberate arm gesture"
     ]
   },
   "negatives": [

@@ -163,7 +163,8 @@ def with_negative(prompt: str, negative: str) -> str:
 
 
 def data_uri(path: Path) -> str:
-    return f"data:image/png;base64,{base64.b64encode(path.read_bytes()).decode()}"
+    mime = "image/jpeg" if path.suffix.lower() in (".jpg", ".jpeg") else "image/png"
+    return f"data:{mime};base64,{base64.b64encode(path.read_bytes()).decode()}"
 
 
 def resolve_provider(model: str, requested: str) -> str:
