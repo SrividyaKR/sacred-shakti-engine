@@ -1,0 +1,759 @@
+{
+  "character": "tara",
+  "passed": false,
+  "rounds": 4,
+  "model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.6539,
+  "llm_calls": 19,
+  "final": {
+    "id": "A",
+    "title": "The Stilling of the Dark Water",
+    "logline": "Tara presses her open hand down, and a dark swell below her flattens into glassy water carrying one bright line of stars.",
+    "hook": "The calm starry portrait holds for a heartbeat, then one heavy dark swell heaves up along the bottom edge as her open hand lowers toward it with a stern, level gaze.",
+    "story": "Tara's name is read as the star that guides, the saviour, and the one who ferries across the ocean of worldly existence. This clip is a symbolic picture of that crossing, not a fixed traditional scene. Rough dark water rises below her, her hand presses down toward it, and it goes glassy with one bright line of stars laid across it like a path. Her gaze is direct and stern, so she reads as a rescuer and not a gentle ornament. A devotional tradition, not found in the main Puranic accounts and told in different versions, says she saved Shiva from the poison of the churned ocean. The clip only echoes that tale. Blue skin, third eye, tiger-skin wrap, skull garland and serpent ornaments stay clear. Her loose hair is a stylisation; traditional images show matted locks or a single braid.",
+    "loop": "The last frame is a held image of still black water holding a line of stars beneath her, mirroring the starry sky of the first frame. The restart to the bare portrait reads as the water becoming sky again, so the rough water can rise anew.",
+    "share_trigger": "Devotees of Tara and people curious about the ten great wisdom goddesses send it as a clear image of her as rescuer and ferrier across. Viewers who love satisfying moments of rough water going still share it too.",
+    "caption_hook": "Tara, second of the ten great wisdom goddesses, is the star that guides and the one who ferries across. Her loose hair here is a stylisation; traditional images show matted locks or a single braid.",
+    "audio": "A deep, heavy water rumble that drops to a hush the moment her hand stops. A soft low drone follows, with one clear, gentle tone as the line of stars appears.",
+    "shots": [
+      {
+        "duration": 3,
+        "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+        "action": "A single heavy swell of dark water rises low along the bottom edge, below her waist and clear of her garland and wrap, while her right hand lowers into view with the palm open and facing down, and the swell flattens where her palm stops above it.",
+        "purpose": "Cause and effect read at once: dark water rises, her hand presses down, and the swell collapses. Her stern three-eyed gaze marks her as a rescuer."
+      },
+      {
+        "duration": 7,
+        "camera": "Same locked straight-on eye-level framing, crown centered and fully framed.",
+        "action": "Her palm stays steady above the water, and the last ripples spread outward and fade until the surface is glassy black, and a single bright line of pale stars forms across it, its soft glow touching her skull garland. Her hair settles gently under its own weight, and the final image holds.",
+        "purpose": "The payoff arrives and stays: rough water becomes still, with a clear line of stars as the path across. The held final image is the shareable picture of Tara as protector."
+      }
+    ]
+  },
+  "final_scores": {
+    "virality": 6,
+    "authenticity": 8,
+    "feasibility": 5
+  },
+  "finalists": [
+    {
+      "concept": {
+        "id": "A",
+        "title": "The Stilling of the Dark Water",
+        "logline": "Tara presses her open hand down, and a dark swell below her flattens into glassy water carrying one bright line of stars.",
+        "hook": "The calm starry portrait holds for a heartbeat, then one heavy dark swell heaves up along the bottom edge as her open hand lowers toward it with a stern, level gaze.",
+        "story": "Tara's name is read as the star that guides, the saviour, and the one who ferries across the ocean of worldly existence. This clip is a symbolic picture of that crossing, not a fixed traditional scene. Rough dark water rises below her, her hand presses down toward it, and it goes glassy with one bright line of stars laid across it like a path. Her gaze is direct and stern, so she reads as a rescuer and not a gentle ornament. A devotional tradition, not found in the main Puranic accounts and told in different versions, says she saved Shiva from the poison of the churned ocean. The clip only echoes that tale. Blue skin, third eye, tiger-skin wrap, skull garland and serpent ornaments stay clear. Her loose hair is a stylisation; traditional images show matted locks or a single braid.",
+        "loop": "The last frame is a held image of still black water holding a line of stars beneath her, mirroring the starry sky of the first frame. The restart to the bare portrait reads as the water becoming sky again, so the rough water can rise anew.",
+        "share_trigger": "Devotees of Tara and people curious about the ten great wisdom goddesses send it as a clear image of her as rescuer and ferrier across. Viewers who love satisfying moments of rough water going still share it too.",
+        "caption_hook": "Tara, second of the ten great wisdom goddesses, is the star that guides and the one who ferries across. Her loose hair here is a stylisation; traditional images show matted locks or a single braid.",
+        "audio": "A deep, heavy water rumble that drops to a hush the moment her hand stops. A soft low drone follows, with one clear, gentle tone as the line of stars appears.",
+        "shots": [
+          {
+            "duration": 3,
+            "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+            "action": "A single heavy swell of dark water rises low along the bottom edge, below her waist and clear of her garland and wrap, while her right hand lowers into view with the palm open and facing down, and the swell flattens where her palm stops above it.",
+            "purpose": "Cause and effect read at once: dark water rises, her hand presses down, and the swell collapses. Her stern three-eyed gaze marks her as a rescuer."
+          },
+          {
+            "duration": 7,
+            "camera": "Same locked straight-on eye-level framing, crown centered and fully framed.",
+            "action": "Her palm stays steady above the water, and the last ripples spread outward and fade until the surface is glassy black, and a single bright line of pale stars forms across it, its soft glow touching her skull garland. Her hair settles gently under its own weight, and the final image holds.",
+            "purpose": "The payoff arrives and stays: rough water becomes still, with a clear line of stars as the path across. The held final image is the shareable picture of Tara as protector."
+          }
+        ]
+      },
+      "scores": {
+        "virality": 6,
+        "authenticity": 8,
+        "feasibility": 5
+      },
+      "guard_problems": []
+    },
+    {
+      "concept": {
+        "id": "B",
+        "title": "She Stills the Dark Sea",
+        "logline": "Tara raises one steady hand and the dark, churning sea behind her goes still, mirroring the stars.",
+        "hook": "In the first second a dark sea rises into view behind her, its swells rolling restlessly, as her stern gaze holds and her hand begins to lift against the danger.",
+        "story": "Tara's name is read as star, as saviour, and as the one who ferries you across the ocean of worldly life. She is the second of the ten great wisdom goddesses, a protector who steps in when danger comes suddenly. A rough dark sea is the danger. Her raised open palm is a guarding gesture, and the sea stills into a mirror of her stars, so the crossing becomes visible as a calm, star-lit water. Her three eyes stay stern and watchful, and her blue skin, tiger-skin wrap, skull garland and serpent ornaments stay in view, so she reads as a fierce guardian. This is a symbolic scene, not a fixed temple image. Her hair is shown loose, while tradition more often shows it matted or in a single braid. One devotional telling also says she calmed the poison of the churning sea, and versions of that tale differ.",
+        "loop": "The final frame is her centered portrait with the same star-filled sky, now doubled in the still water, so the ending looks like the opening sky made whole. When the clip restarts, the sky returns to its first stillness and the dark sea rises again, so the calm at the end feeds straight back into the threat at the start.",
+        "share_trigger": "Sent to someone in a frightening or stormy stretch, such as a hard diagnosis, a night journey or a crisis at home, with a line like 'may she still this for you.' It is a protector image, saved and sent by people who know her as the one who guards you from sudden danger.",
+        "caption_hook": "Tara, second of the ten great wisdom goddesses, is the star, the saviour and the one who ferries you across. Here her raised hand stills a dark sea. A symbolic scene, with her hair loose where tradition shows it matted or braided.",
+        "audio": "A low, deep rumble of restless water and a held, tense drone at the start. As her hand reaches full height, the rumble drops away to a hush, and one deep, clear bell tone sounds and rings out over a soft, steady hum until the end.",
+        "shots": [
+          {
+            "duration": 5,
+            "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+            "action": "A dark sea rises into view behind her, its horizon at chest height and its swells rolling restlessly on both sides of her body. Her three eyes hold the viewer in a stern, steady gaze as her right hand lifts slowly to chest height with the palm open and facing forward, and as it rises the swells begin to slow and flatten.",
+            "purpose": "The problem is on screen from the first second: a dark rough sea. One large, slow gesture is the cause, and the calming water is the visible effect, easy to read on a small screen."
+          },
+          {
+            "duration": 5,
+            "camera": "Same straight-on eye-level framing, locked off, crown centered and fully framed.",
+            "action": "Her hand holds steady at chest height, palm forward, and the sea goes fully still, so the stars of the night sky appear in the water and a bright band of reflected starlight spreads across the calm surface on both sides of her. Her stern gaze stays on the viewer as the clip ends on this held image.",
+            "purpose": "The payoff is a before and after: restless dark water becomes a still, star-filled mirror. It shows protection from danger and a safe crossing in one clear change, and the final frame echoes the opening sky."
+          }
+        ]
+      },
+      "scores": {
+        "virality": 7,
+        "authenticity": 8,
+        "feasibility": 3
+      },
+      "guard_problems": []
+    }
+  ],
+  "final_guard_problems": [],
+  "created": "2026-10-08T11:41:01",
+  "transcript": [
+    {
+      "round": 1,
+      "results": [
+        {
+          "concept": {
+            "id": "A",
+            "title": "The Path Across",
+            "logline": "Tara slowly extends her open hand toward us, and a narrow path of starlight spreads across the dark water to our feet.",
+            "hook": "In the first second her open hand rises from below the frame toward the viewer, and a faint shimmer of black water slides into the lower edge of the frame.",
+            "story": "Tara is the one who ferries across the ocean of hardship. She doesn't pull anyone out of the dark; she shows the way over it. The starlight path is that promise, drawn straight toward the person watching.",
+            "loop": "The path of light softens, her hand returns to rest below the frame, and the water sinks out of view. She is left alone in the starry sky as in the opening frame, ready for the gesture to begin again.",
+            "share_trigger": "Sent to a friend in a hard season, with the message 'there is a way across, keep going.' It also suits people who feel lost at night or are facing a big change.",
+            "caption_hook": "When the night feels too wide to cross, look for the star that shows you the way.",
+            "audio": "A low, steady drone with soft water lapping. A single clear bell-like chime sounds as the path of light reaches the viewer.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+                "action": "Her steady gaze meets the viewer. Her open hand slowly rises from below the frame and extends toward the viewer, and as it opens, a glossy surface of calm black water slides into the lower edge of the frame. Her black hair settles gradually under its own weight.",
+                "purpose": "Starts visible motion within 1.5 seconds. The gesture asks for trust, and the water introduces the ocean she must be seen to cross."
+              },
+              {
+                "duration": 6,
+                "camera": "Same straight-on eye-level framing, locked off, crown centered and fully framed.",
+                "action": "Her hand holds open and steady toward the viewer, and a narrow path of starlight spreads across the black water, running from beneath her hand to the bottom of the frame. Soft ripples move outward from the path. Then her hand lowers slowly, the path fades gently, and the frame returns to her portrait.",
+                "purpose": "The payoff is one clear image: a path of light made by her hand. The slow fade and lowered hand return to the opening frame so the clip loops."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 8,
+            "feasibility": 4
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is a slow rise of a hand from below frame. It is motion, but it is a 'hand rises' gesture, not a surprising event. The black water 'slides' into the bottom edge as a faint shimmer, which is barely visible on a phone.",
+            "virality: The payoff (starlight path) does not begin until shot 2, about second 4. The first 4 seconds are a hand rising and a calm surface appearing. That is a long wait for a viewer who has not yet seen what the hand does.",
+            "virality: Geometry is confused. The path runs 'from beneath her hand to the bottom of the frame' in a locked waist-up portrait where her hand points at the camera. A path toward the lens in a straight-on shot foreshortens to a thin strip at the bottom edge. The 'path to our feet' idea may not read at all, and the model may render it as a vague glow.",
+            "virality: Loop is soft. The hand lowers, the path fades and the water sinks, so the end is an ebb and the beginning is a rise. A viewer can't tell the clip has restarted, which gives no rewatch pull.",
+            "virality: Closest to the dossier's recommended beat, and the path of starlight is a recognisable image, but 'open hand extended' is still the generic goddess-blessing gesture the rubric warns against. The consequence arrives late.",
+            "virality: Send-worthiness is good: 'there is a way across' is a clear message for a friend in a hard season. Save value is moderate, since it is a pleasant image rather than something to keep.",
+            "authenticity: Core idea (ferrying across the ocean of existence, star as guide) matches the dossier's etymology and purpose, and it is non-graphic and reverent. But the dossier says the 'ferries across' reading is one of three etymologies that vary by source, and the story states it as flat fact ('Tara is the one who ferries across...').",
+            "authenticity: The story line 'She doesn't pull anyone out of the dark; she shows the way over it' is invented theology. Tara is also the saviour who rescues (the poison story, Ugra Tara protecting from sudden danger), so this contrast narrows her and partly contradicts the dossier's 'rescue' emphasis.",
+            "authenticity: The dossier says the locked anchor has loose flowing hair, which departs from the matted jata or single braid. The repeated 'black hair settles under its own weight' perpetuates that mismatch. The shots never mention her iconic features (blue skin, third eye, tiger skin, skull garland), so a viewer could take her for a generic goddess.",
+            "authenticity: The share trigger and caption lean toward secular self-help ('keep going', 'the night feels too wide') and say nothing of devotion. This is mild, but it drifts from her tantric identity, and Tara is also associated with cremation grounds and wrathful protection, which are entirely absent.",
+            "authenticity: The open outstretched hand is a pan-Indic blessing/giving gesture. The dossier lists no hand-object set or fixed mudra for her, so it should not be presented as her signature gesture.",
+            "feasibility: Too many moving elements: rising hand, water sliding in, spreading starlight path, outward ripples, then a hand lowering and the path fading. That is at least four on top of the hair, against a limit of two.",
+            "feasibility: The hand extends toward the camera from below frame. Foreshortened hands moving toward the lens are a known weak spot, and the hand will likely distort or morph as it opens.",
+            "feasibility: Geometry does not work. In a locked-off, eye-level, waist-up shot, a water surface 'slides in' at the bottom edge and a path of light runs 'from beneath her hand to the bottom of the frame'. There is no coherent ground plane, and the water has no source or cause.",
+            "feasibility: The water and the starlight path are entirely new content that is not in the reference portrait. They have to be invented mid-clip, and the path's appearance is only loosely tied to the hand's gesture.",
+            "feasibility: Returning the hand below the frame, sinking the water out of view and landing back on the exact opening frame is a fragile reverse sequence.",
+            "feasibility: The two-shot split (4 s and 6 s) and the 'within 1.5 seconds' hook rely on timing, and the shot split reads like a cut. It should be one continuous clip.",
+            "virality fix: Make the path of light the hook. Open on the hand already extended, with the first star-stepping stones igniting one by one across the black water within 1 second, so the consequence is visible immediately.",
+            "virality fix: Change the camera or composition so the path reads on a phone screen. Use a slight high angle or have the path run vertically up the frame toward her palm, so the lit line is large and unmistakable.",
+            "virality fix: Shorten the setup. Drop the separate 'hand rises' beat. Spend about 3 seconds on the path forming and 5 on the lit path holding and pulsing.",
+            "virality fix: Build a real loop. End on the path dissolving back into starry water and her palm reaching the same raised position as the first frame, so the last frame cuts cleanly into the first.",
+            "virality fix: Cut the instruction that the hair 'settles under its own weight'. It adds a render risk and no payoff.",
+            "authenticity fix: Soften the etymology claim to 'one of the meanings of her name is the one who ferries across', or word it as 'devotees know her as...'.",
+            "authenticity fix: Drop the 'doesn't pull anyone out' line. Use 'she guides and carries across' so the rescue aspect is preserved.",
+            "authenticity fix: Keep the blue skin, third eye and tiger-skin wrap visible in the opening frame. Either fix the hair to jata/Ekajata or avoid drawing attention to the hair motion.",
+            "authenticity fix: Add one line in the caption or story tying the image to Tara by name, as star, saviour and ferrier, so the clip reads as devotional and not generic.",
+            "authenticity fix: Do not call the open hand her signature mudra. Present it as an invitation.",
+            "feasibility fix: Cut it to two moving elements: the hand opening slowly and a starlight path appearing. Drop the ripples and the sliding water, or have the water already be a faint dark band at the bottom of the reference portrait.",
+            "feasibility fix: Keep the hand at chest height with the palm open sideways or upward, rather than reaching at the lens.",
+            "feasibility fix: Write one continuous 10 s action without per-shot durations or a 1.5 s hook, e.g. 'her open hand rises slowly and a thin path of starlight gradually appears below it'.",
+            "feasibility fix: Drop the exact return to frame 1 and end on the held gesture, or a simple slow fade."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "B",
+            "title": "Two Stars",
+            "logline": "Tara's third eye slowly glows, and the guiding star above her crown brightens in answer, washing her face and jewelry in cool light.",
+            "hook": "Within the first second a soft glow begins to gather at her third eye, and the star above her crown starts to grow brighter.",
+            "story": "Tara is the Saving Star: the light a lost traveler steers by. Her third eye and the star above her crown are two lights answering each other. It shows that her guidance is both her own sight and the light she hangs in the sky for others.",
+            "loop": "Both lights ease back to their faint first-frame glow, and the cool light on her crown and silver fades away. The final frame matches the opening frame exactly, so the glow can begin again.",
+            "share_trigger": "Sent as a quiet, comforting good-night message, or to someone who needs to feel looked after. Easy to send with a line like 'someone is watching over you.'",
+            "caption_hook": "She is the star you steer by, and she is watching over you tonight.",
+            "audio": "A soft, high shimmering tone that slowly rises, with distant wind-chime notes. A deep, warm hum underneath gives it body.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+                "action": "Her eyes stay calm and level on the viewer while a soft sapphire glow slowly gathers in her third eye, making the skin around it shine. Her black hair settles gradually under its own weight.",
+                "purpose": "A visible change begins right away on the most recognisable part of her face, so the viewer's eyes go to it at once."
+              },
+              {
+                "duration": 5,
+                "camera": "Same straight-on eye-level framing, locked off, crown centered and fully framed.",
+                "action": "The guiding star above her crown brightens to match her third eye, and a cool blue-white light spreads down over her crown, face, skull garland and silver jewelry so they gleam. Then both lights slowly settle back to their faint opening glow.",
+                "purpose": "The payoff is the star answering her eye. It joins her to the sky and shows the star is her light. The settling back closes the loop."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 4,
+            "authenticity": 7,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is a faint glow gathering at the third eye. It is subtle on a phone, and a viewer scrolling at speed will read it as a still portrait, so it fails the 1.5-second 'visible, specific motion' test.",
+            "virality: It is essentially the 'goddess stands there' scene the rubric penalises: a locked, straight-on portrait where the only change is lighting. There is no action and no consequence in the world, only brightness changing.",
+            "virality: The 'guiding star above her crown' is not in the dossier or the locked anchor description. It is an unsupported element that may not render, and the 'two lights answering' idea is abstract and needs a caption to explain.",
+            "virality: The payoff is a light wash over jewelry. It is pretty but not a moment a viewer grasps instantly, and it is not tied to her story of crossing, saving or protecting.",
+            "virality: Loop is mechanically clean because the final frame matches the first, but nothing happens in between to make a viewer want to watch again.",
+            "virality: Send-worthiness is a soft 'good-night, someone is watching over you', which is pleasant but generic. Save value is low, and novelty versus generic AI devotional glow clips is low, since glowing eyes on a goddess portrait is the standard output.",
+            "authenticity: Best match to the 'star' reading of her name and the third eye, and non-graphic. But the claim 'her third eye and the star above her crown are two lights answering each other' is invented iconography. The dossier mentions no star above her crown, and 'a guiding star above her crown' is not documented in her imagery. The third eye is a general Shaiva/Shakta feature, not a specific 'sight she shares with the sky' symbol.",
+            "authenticity: Presents 'Saving Star' as established. The star reading is one of three disputed etymologies, and the sailors'-guide line comes from the dossier as only one reading.",
+            "authenticity: The caption 'she is watching over you tonight' and the 'good-night message' framing is cozy and comforting. It misses her wrathful, protective, tantric character and reads closer to a lullaby than to a Mahavidya. A devotee might find it soft but not offensive.",
+            "authenticity: 'Sapphire glow' and 'cool blue-white light' on the skull garland is fine and non-graphic, but the garland is mentioned only as something that gleams. The dossier says the skulls stand for the letters of the alphabet. Highlighting them without context risks an exoticised or macabre read.",
+            "authenticity: Hair mismatch persists ('black hair settles'), contradicting the matted jata/Ekajata iconography.",
+            "feasibility: The concept depends on a 'guiding star above her crown' and a 'faint first-frame glow' on both the third eye and the star. The dossier does not list a star in the anchor. If the reference portrait lacks it, the clip fails the rule against content that is in frame 1 but not in the reference.",
+            "feasibility: The cool light spreading over her crown, face, skull garland and jewelry is a global relighting effect. Video models often flicker or shift skin tone and detail when asked for this, and it could turn the skin from blue to white.",
+            "feasibility: It says 'silver jewelry', but the dossier describes gold, pearls and bone ornaments. Check this against the anchor so the model is not told to change the metal.",
+            "feasibility: 'Final frame matches the opening frame exactly' is unrealistic. Small drift is likely, and the loop should not rely on an exact match.",
+            "feasibility: The 5 s plus 5 s shot split and the 'within the first second' hook rely on timing. It should read as one continuous clip.",
+            "virality fix: Give the light a consequence in the world. For example, her third-eye flash lights a single star in the sky, and that star drops a beam that lights a whole path or dark water below.",
+            "virality fix: Make the first 1.5 seconds a sharp event: the third eye snaps open from closed, with a visible pulse of light. Opening an eye is unambiguous motion even on a small screen.",
+            "virality fix: Replace the unsourced crown star with a dossier-grounded device, such as the sea or the starlight path, or drop it. Keep one image only.",
+            "virality fix: Tie it to the story: the eye-light is what the lost sailor steers by, so show a point of light travelling out from her eye across dark water.",
+            "virality fix: If the glow idea is kept, make the change large and fast (dark to bright), not a slow swell.",
+            "authenticity fix: Either remove the 'star above her crown' as a fixed iconographic element or label it as a symbolic, artistic device in the story ('a star appears as the light she is named for'). Do not claim it as traditional iconography.",
+            "authenticity fix: Qualify the name: 'Tara means star, and also saviour', so the star meaning is not the only reading.",
+            "authenticity fix: Add a note of protection and strength to the caption (guide and protector), so she does not read as only a gentle night-light.",
+            "authenticity fix: If the garland is lit, keep the framing tasteful and, if possible, reference the 'letters of the alphabet' meaning in the caption.",
+            "authenticity fix: Fix or avoid the loose-hair motion.",
+            "feasibility fix: Confirm that the star above the crown and a dim third-eye glow are visible in the reference portrait. If not, remove the star and make it a single-element piece: third eye glow plus a soft light bloom on the face.",
+            "feasibility fix: Limit the light spread to the face and crown, and name the garland and jewelry only as 'catching a little light'. Say that the skin stays blue.",
+            "feasibility fix: Write the action as one continuous sequence, 'the third eye slowly glows, the star brightens in answer, then both ease back', with no second-based beats.",
+            "feasibility fix: Describe the loop as 'ease back toward the opening glow', not an exact match."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "C",
+            "title": "The Water Goes Still",
+            "logline": "Tara slowly lowers her open palm, and a restless dark sea beneath her settles into a still mirror full of stars.",
+            "hook": "In the first 1.5 seconds her palm starts to lower, and dark, restless water swells into view at the bottom of the frame.",
+            "story": "Tara is the protector who steps in when danger comes suddenly, and the one who calms the poisoned sea in her story. The clip shows that calm in one simple movement: a lowered hand, and trouble becomes still water.",
+            "loop": "Her palm rises slowly out of the lower frame, the mirror-still water sinks away below the frame edge, and the sky behind her is as it was at the start, ready for the palm to lower again.",
+            "share_trigger": "Sent to an anxious or overwhelmed friend with 'breathe, it will settle.' Also saved for calming moments, and for people interested in protective goddess imagery.",
+            "caption_hook": "Whatever is churning inside you, let it settle like this.",
+            "audio": "Low, rolling water sounds that soften into silence as the sea calms. A slow, deep breath-like pad plays underneath, and one soft chime sounds at the moment of stillness.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+                "action": "Her open palm turns downward and begins to lower slowly. As it moves, a dark sea with faint, restless currents swells into the lower edge of the frame. Her black hair settles gradually under its own weight.",
+                "purpose": "Motion starts at once and shows the problem: troubled water. Her palm is the response the viewer is waiting for."
+              },
+              {
+                "duration": 6,
+                "camera": "Same straight-on eye-level framing, locked off, crown centered and fully framed.",
+                "action": "Her palm hovers low and steady, and the currents in the water fade until the surface becomes a still black mirror that reflects the stars and her cool glow. Then her palm rises slowly and the water sinks out of view below the frame.",
+                "purpose": "The payoff is the instant of stillness: she calms the water with one movement. The palm rising and the water leaving return the frame to the opening portrait."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 7,
+            "authenticity": 8,
+            "feasibility": 3
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Strongest concept: it has a clear cause and effect (palm lowers, the sea goes from churning to a still mirror) and one instantly graspable transformation. It also matches the dossier's calming-the-poisoned-sea beat and the 'sudden danger' protection theme.",
+            "virality: The hook promises motion, but the water that 'swells into view at the bottom' with 'faint, restless currents' is low contrast. If the churn is faint, the before and after will not differ enough on a phone screen, and the payoff is weakened. The turbulence needs to be dramatic first.",
+            "virality: The calming arrives at about second 5 to 6, after a slow lowering palm. The tension is not built hard enough early, so a scroller may leave before the water settles.",
+            "virality: Loop is weak: the palm rises and the water sinks away, which is a reversal rather than a return to a recognisable first frame. The last 2 seconds are an exit, so the viewer sees an ending and not a restart.",
+            "virality: A downward-pushing palm on a locked waist-up shot means the water sits at the very bottom edge and may be mostly cropped. The still-mirror reflection of stars needs enough frame area to be seen.",
+            "virality: Send-worthiness is strong ('breathe, it will settle' to an anxious friend). The calming effect also has save value as a relaxation clip. Novelty is moderate: the 'calming hand' is relatively common, but the churn-to-mirror contrast is a clean visual.",
+            "authenticity: Closest tie to the dossier's main narrative: the churning of the ocean and the poison, and her calming role. But the dossier flags the poison story as devotional tradition, not in the main Puranic accounts, with variant identities of the goddess (Tara, Durga, Parvati). The story line 'the one who calms the poisoned sea in her story' presents it as settled. The 'poisoned sea' framing is also a loose conflation: in the legend the poison burns Shiva and Tara cools it with her milk. She does not still the sea.",
+            "authenticity: Caption and share text ('breathe, it will settle', 'whatever is churning inside you') read as a wellness/anxiety trope, which flattens her protective power into a calming meditation clip. It also lacks any mention of the poison, Shiva or Tarapith, so the connection is only an inference.",
+            "authenticity: A downward-lowered palm over water is not a documented gesture of hers. It resembles a generic 'peace be still' motif (a Christian gospel echo), which risks mixing traditions without care.",
+            "authenticity: Hair mismatch persists; the anchor's identifying features are never shown in the action.",
+            "feasibility: The action begins with 'her open palm turns downward and begins to lower', which assumes a raised open palm is already in frame 1. The dossier says the anchor omits hand objects and gestures, so this is probably not in the reference portrait. If it is not, the first frame has to invent the hand.",
+            "feasibility: Too many moving elements: the palm lowering, a restless sea swelling in, currents fading, the surface turning into a mirror, reflections of stars and her glow, then the palm rising and the water sinking away. That is far beyond two.",
+            "feasibility: The mirror reflecting the stars and her glow requires physically coherent reflections of a scene that is not fully visible. Reflections are a common failure and are likely to shimmer or look wrong.",
+            "feasibility: Water 'swells into the lower edge' of a locked-off waist-up frame, with no ground plane or source, and then 'sinks out of view'. This is implausible motion with weak cause and effect, since a lowered palm calming churning water has no physical link.",
+            "feasibility: The restless-to-still transition (fading currents) is subtle and hard to render. It could just read as static water from the start.",
+            "feasibility: Rising palm, sinking water and an exact return to the opening frame add a long reverse sequence. The 4 s and 6 s split plus the '1.5 second' hook are timing-dependent.",
+            "virality fix: Open with violent, high-contrast churning: whitecaps or dark waves slamming up the lower third in frame 1, so the problem is obvious in the first second.",
+            "virality fix: Let the palm lowering do the work immediately. Have the waves visibly flatten in sync with the palm descent over about 3 seconds, then hold the mirror and starry reflection for 3 to 4 seconds as the payoff.",
+            "virality fix: Give the water about the bottom 40 percent of the frame so the mirror and its star reflections are readable on a phone.",
+            "virality fix: Make the loop clean: end with the palm and sea returning to the churn at the same pose and position as the first frame, or start on the still mirror and have the churn arrive, so the last frame matches the first.",
+            "virality fix: Time the chime exactly to the moment the last ripple dies so the stillness lands as a beat.",
+            "authenticity fix: Reword the story: 'In one devotional tradition, when Shiva drank the poison from the churning of the ocean, Tara appeared and soothed him'. Mark it as a devotional account, not canonical. Alternatively, frame the water as a symbol of samsara so no disputed myth is asserted.",
+            "authenticity fix: Avoid claiming she 'calms the sea'. Say the sea is a symbol of the poison and turmoil that she soothes, or keep it a visual metaphor.",
+            "authenticity fix: Keep the lowered palm as a gentle, original gesture and do not claim it as her mudra. Add a line tying it to the dossier's protector role (Ugra Tara protects from sudden danger).",
+            "authenticity fix: Keep the caption but add her name and role (e.g. 'Tara, who carries us through') so it stays rooted in the tradition.",
+            "authenticity fix: Fix or avoid the loose-hair movement.",
+            "feasibility fix: Only use a palm gesture if the reference portrait already shows a raised palm. Otherwise start with her hands out of frame and bring the hand in slowly.",
+            "feasibility fix: Reduce it to two actions, her hand lowering slowly and the water surface calming, with no reflections, no water entering the frame, and no reverse sequence.",
+            "feasibility fix: Have a dark water band already in the reference portrait's lower edge and only change its texture from rippled to smooth.",
+            "feasibility fix: Remove the second-based beats and state one continuous action, ending on the held stillness rather than undoing it."
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "results": [
+        {
+          "concept": {
+            "id": "A",
+            "title": "The Star Path",
+            "logline": "Tara opens her palm and a line of starlight ignites upward from the dark below, guiding the viewer across to her.",
+            "hook": "Within the first second, one bright star-point ignites at the bottom edge of the frame as her palm turns upward, and more points light one by one up toward her hand.",
+            "story": "One meaning of her name is 'the one who ferries across', and devotees also know Tara as the star that guides and the saviour who protects. Here her open palm is an invitation. A line of starlight lights up from the dark below and leads up to her, so she guides and carries across, not only points the way. Her blue skin, third eye, tiger-skin wrap and skull garland stay clear in the frame.",
+            "loop": "In the last second the star-points dim one by one and melt back into the stars of the midnight sky. This leaves her calm portrait, close to the opening frame, so the first star-point igniting again reads as a fresh start.",
+            "share_trigger": "Devotees send it on her feast days, and people send it to a friend in a hard season. It says that Tara guides and carries you across, so keep going.",
+            "caption_hook": "Tara means star, saviour, and the one who carries you across. Follow the light to her.",
+            "audio": "A low, steady drone with a soft rising shimmer. A clear bell-like chime sounds as each star-point lights, and the final chime rings as the line reaches her palm.",
+            "shots": [
+              {
+                "duration": 3,
+                "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+                "action": "Her calm three-eyed gaze meets the viewer as her hand turns slowly open with the palm facing upward at chest height. As it opens, small glowing star-points ignite one by one in a thin vertical line, rising from the bottom edge of the frame toward her palm.",
+                "purpose": "The consequence is visible at once: the first star-point lights within a second. The hand opening gently and the line of stars climbing toward it are the only two movements, and both read clearly on a phone."
+              },
+              {
+                "duration": 7,
+                "camera": "Same straight-on eye-level framing, locked off, crown centered and fully framed. No cut from the first shot.",
+                "action": "The last star-point lights just beneath her open palm, completing a bright line from the bottom edge of the frame up to her hand. The line holds and pulses softly, so the path looks alive. In the final second the star-points dim one by one and melt into the starry sky behind her.",
+                "purpose": "The payoff is a single unmistakable image: a path of starlight leading up to her open hand. The slow dissolve into the sky gives a soft loop back to her opening portrait."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 5,
+            "authenticity": 8,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is weak. A single star-point igniting at the bottom edge while a palm slowly turns up is small, quiet motion. The 'bright star-point' is a tiny dot on a phone, so there is no big visual event in the first 1.5s.",
+            "virality: Shot 1 spends 3 seconds on a slow gaze and a gentle hand turn. The brief penalises slow starts and 'goddess stands there' scenes, and this is close to that with sparkles added.",
+            "virality: The consequence is thin. Dots lighting up in a line is a decorative effect. Nothing changes in the world and nothing is at stake: no danger, no rescue, no before and after. 'Guide' is told in the caption, not shown.",
+            "virality: The payoff is just a bright line reaching her palm. It resolves nothing and there is no question or tension, so there is little reason to stay past second 4 and then watch 6 more seconds of a pulsing line.",
+            "virality: The 7-second second shot is nearly static: locked-off camera, a held, softly pulsing line. This is where completion dies.",
+            "virality: It is generic AI devotional fare (glowing stars, palm, calm gaze), so novelty is low and it does not use the poison, ocean-crossing or scissors material from the dossier.",
+            "virality: The loop is a dim-and-fade to a calm portrait. It is soft rather than a true flow into the opening, and the fade-out makes the end read as an ending.",
+            "virality: Rendering risk: a thin vertical line of discrete star-points rising from the frame edge to a hand at chest height may come out as noise, with inconsistent spacing or a hand that does not match the line.",
+            "virality: Send-worthiness is a vague 'keep going' sentiment. It is pleasant but forgettable, with low save value beyond a generic wallpaper-style clip.",
+            "authenticity: Concept is faithful to the name etymologies (star, ferrier) and non-graphic, but it is thin on her wrathful/protective dimension: a calm portrait with an upturned palm reads more like a generic benevolent goddess or a Buddhist Green Tara-style gesture than the tantric Mahavidya who saves from danger. Risk of blurring traditions.",
+            "authenticity: Upturned open palm at chest height is not an iconographic gesture from the dossier; the story text does not flag that this is a symbolic invention (Concept B does flag it).",
+            "authenticity: The line rises from the bottom edge 'up to her hand' while the logline says 'guiding the viewer across to her.' Direction of travel is muddled: ferrying across is a crossing, not a climb toward the deity. The ocean/samsara element is only implied by 'dark below.'",
+            "authenticity: 'Devotees send it on her feast days' is an unsupported claim; the dossier gives no confirmed feast-day practice beyond a hindupad Tarashtami page of unclear reliability.",
+            "authenticity: Caption presents all three etymologies as settled; the dossier says etymology varies by source.",
+            "authenticity: Locked anchor discrepancy (loose hair vs. matted/Ekajata jata) is not addressed in the concept, and no held attribute (scissors, lotus, sword) appears, so the image carries little of her identifying iconography beyond skin colour, tiger skin and skull garland.",
+            "feasibility: Two shots with durations 3 and 7 imply a cut or a timing change, but the camera says 'no cut'. This is second-by-second timing reliance: the first star must ignite within 1 second, the stars must light one by one, and the 'final second' must dim them. Seedance will not hit those marks reliably.",
+            "feasibility: The 'one by one' sequential ignition of many star-points is a lot of discrete moving elements. It reads as many small events, not one clear motion, and the model is likely to light them all at once or flicker them.",
+            "feasibility: Frame 1 conflict: the hook says a star-point is igniting at the bottom edge in the first second, while the reference portrait has no stars. Her palm must also turn upward, but the reference portrait's hand pose is unknown. If the palm is already open in the portrait, there is no real motion. If the hand is not visible at chest height in a waist-up framing, the action cannot happen.",
+            "feasibility: The 'starry sky behind her' must already exist in the reference portrait. That is not confirmed. If the background is not already a star field, stars appearing in frame 1 would be a mismatch.",
+            "feasibility: Moving elements: hand turning, stars rising, line pulsing, and stars dimming. That is four, which breaks the two-element limit once hair is excluded. The dim-and-melt ending adds a further transition.",
+            "feasibility: The loop depends on the final dissolve matching the opening portrait, which is hard to guarantee. The 'pulses softly' hold for 7 seconds is vague and may render as flicker.",
+            "feasibility: Cause and effect is weak. A palm opening and then a line of stars is symbolic, not physical, so there is no visible link between the hand and the stars. The stars climb 'toward' the palm instead of coming from it.",
+            "virality fix: Start with the action already in progress. At frame 0, stars are already blazing upward in a fast cascade or a bright streak climbing from the bottom edge, so the motion is large and unmistakable.",
+            "virality fix: Add a problem the path solves. Show the lower frame as black void or dark water, and have the starlight bridge it. The path then visibly crosses something and the 'ferries across' meaning is shown, not captioned.",
+            "virality fix: Cut shot 1 to about 1.5s of action and use the remaining time for a single clear escalation, such as the path racing toward the viewer or her hand closing gently around the last star. Drop the 6-second pulse hold.",
+            "virality fix: Make the loop literal: end on the star-points snapping dark except one at the bottom edge, which is the first frame's ignition point, so the opening spark reads as the continuation.",
+            "virality fix: Give it a distinct image from the dossier, for example the path made of stars that forms as a thread or scissors-cut line, so it is not interchangeable with any 'goddess with sparkles' clip.",
+            "authenticity fix: Add one line in the story acknowledging this is a symbolic rendering of the 'ferries across' reading, not a fixed iconographic scene.",
+            "authenticity fix: Show the dark water or ocean faintly at the bottom so the starlight path is clearly a crossing of the 'ocean of existence' rather than a ladder up to her.",
+            "authenticity fix: Give her a steady, slightly fierce-protective expression, or a hint of the stance, so she reads as Tara Mahavidya and not a generic gentle goddess.",
+            "authenticity fix: Soften the caption to something like 'Tara is read as star, saviour, and the one who carries across,' and remove the feast-day claim from the share trigger.",
+            "authenticity fix: Flag or correct the loose-hair departure from jata/Ekajata at the anchor level if possible.",
+            "feasibility fix: Collapse to one continuous 10-second action with no shot split and no timings: the open palm is already raised, and a soft line of starlight gradually brightens from the bottom of the frame up to her palm. It then holds and fades slowly.",
+            "feasibility fix: Drop 'one by one' sequencing. Use a single continuous ribbon or line of light that grows upward, so there is one moving element plus the slow glow.",
+            "feasibility fix: Confirm the reference portrait shows the hand at chest height and a night sky. Otherwise choose a gesture that is already in frame 1.",
+            "feasibility fix: Remove the pulsing and the staged dimming. Let the line simply fade at the end, with no exact frame match required for the loop.",
+            "feasibility fix: Make the cause visible by having the light emerge from or travel into her palm."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "B",
+            "title": "She Calms the Water",
+            "logline": "Tara lowers her open hand over dark churning water, the sea calms, and a path of starlight opens toward the viewer.",
+            "hook": "In the first second, dark swells heave up into the lower frame while her open hand starts to lower toward them, so the screen is moving from the very start.",
+            "story": "Her name is read as star, as saviour, and as the one who ferries you across the ocean of worldly life. Devotional tradition also tells of her calming the poison of the churning ocean. Here she is a protector with real strength: her hand stills rough water, and the path of starlight that forms is the way across. It is a symbolic scene drawn from these readings, not a fixed image from her traditional iconography.",
+            "loop": "The calm water and its starlight path sink gently below the lower edge of the frame, and her hand returns to rest. The sky and portrait ease back toward the opening, so the heaving swells can rise again as the clip restarts.",
+            "share_trigger": "Sent to a friend or family member going through a rough stretch, with a line like 'the water will settle, and there is a way across.' It works as a reassurance people will save for hard days.",
+            "caption_hook": "Tara means star, saviour, and the one who carries you across. When the water is at its wildest, she is the one who calms it.",
+            "audio": "A low, rolling swell of dark water and a deep drone at the start. As the sea calms, the water hushes and soft, clear chime notes appear one by one, with a warm low hum underneath.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+                "action": "Dark, heaving swells rise into the lower part of the frame in front of her. Her calm eyes stay on the viewer as she lowers her open right hand, palm down, over the water, and the nearest swells flatten beneath it. Her hair settles gradually under its own weight.",
+                "purpose": "Large, readable motion from the first second: rough dark water rises and her hand answers it. The gesture and the water reacting to it are easy to follow on a small screen."
+              },
+              {
+                "duration": 5,
+                "camera": "Same straight-on eye-level framing, locked off, crown centered and fully framed.",
+                "action": "The water spreads out smooth and still beneath her hand, and a path of starlight forms on its surface, stretching toward the viewer. Then her hand rests, and the water and path sink slowly below the lower edge of the frame, leaving the starry sky and her portrait close to how the clip began.",
+                "purpose": "The payoff is that she calms the water and shows the way across, which ties directly to her saving and ferrying role. The sinking water makes the loop seamless without needing an exact frame match."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 7,
+            "authenticity": 8,
+            "feasibility": 4
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is much stronger. Heaving dark swells in the lower frame with her hand lowering is large, readable motion from frame 1, and the cause-and-effect (hand lowers, water flattens) is a clear, instant consequence.",
+            "virality: It is tied to dossier material: the ocean setting, the poison and churning legend, and the 'ferries across' reading. It is honestly labelled symbolic, which is good, and it shows protection and rescue rather than a pose.",
+            "virality: The risk is rendering. Water flattening under a hand, hair settling 'under its own weight' and a starlight path forming on a surface are several simultaneous physical effects. Video models often make the water calm unconvincingly or ignore the hand, and the settling hair is a needless extra beat.",
+            "virality: The payoff lands only at about 5s and is a soft one. The calm second half (smooth water, path forming, everything sinking) is slower and lower-energy, so the retention curve may sag after the water flattens.",
+            "virality: The loop is weaker than claimed. Everything sinking out of frame and the hand returning to rest is a quiet reset, and it relies on the model returning near the original portrait. The re-rising swells at the restart are a plausible but not guaranteed flow.",
+            "virality: The camera is locked-off and straight-on for the full 10s. The water carries the movement, but there is no scale or camera change to make the calming feel powerful rather than a gentle flatten.",
+            "virality: Send-worthiness is decent ('the water will settle' to a friend in a rough patch) and the metaphor is instantly grasped. It is somewhat generic comfort content, though the water-calming image is a distinctive visual.",
+            "virality: The hand lowers 'over the water' and 'palm down' with no clear sense of whether the water is in front of or below her, which may cause spatial confusion in a waist-up frame.",
+            "authenticity: It draws on the poison/churning legend, which the dossier says is devotional tradition, not main Puranic accounts. The story says 'devotional tradition also tells' and 'symbolic scene,' which is good, but the caption ('she is the one who calms it') states it as plain fact with no qualifier.",
+            "authenticity: The legend as recorded is about her soothing Shiva by nursing him (some variants: taking the poison herself, or naming other goddesses). Turning it into 'her hand stills the sea' departs from the tale and generalises it; a devotee may find it a loose, even sanitised, reading, though it is respectful.",
+            "authenticity: Dossier shows the poison episode comes in varied versions; the concept picks one flavour (calming water) without noting the variation.",
+            "authenticity: Hair 'settles under its own weight' leans into the anchor's loose hair, which the dossier says departs from her jata/braid iconography. This draws attention to the discrepancy rather than fixing it.",
+            "authenticity: Downward palm over water reads like a blessing or Christ-calms-the-storm trope; the borrowing is subtle but could feel like mixed-tradition imagery. Also no cremation-ground or corpse/Shiva element, so the wrathful side is absent.",
+            "authenticity: Share trigger and 'when the water is at its wildest' are fine, but 'a way across' repeats the etymology claim as certain.",
+            "feasibility: Water churning into the lower frame is a large new element. If the reference portrait has no water, the frame-1 hook of 'dark swells heaving' puts something in frame 1 that is not in the portrait.",
+            "feasibility: Fluid simulation is the weakest area for video models. Heaving swells that flatten under a hand, then spread smooth, then grow a starlight path on the surface, then sink below the frame edge, is four distinct water states. That is too many for one 10 second clip.",
+            "feasibility: Moving elements exceed the limit: swells, hand lowering, water flattening, starlight path forming, and water sinking. Five or more, beyond settling hair.",
+            "feasibility: Cause and effect depends on the hand 'flattening' the water without touching it. The model is likely to render the water ignoring the hand or reacting incoherently. A waist-up framing also puts the hand near the water and the frame edge, so the geometry is awkward.",
+            "feasibility: Heavy second-by-second structure: 5 seconds of churn and calm, then 5 seconds of path and sinking, with the sinking needing to line up with the loop.",
+            "feasibility: The loop requires the water to sink exactly out of frame and the hand to return to rest. This is a reversal-style motion models rarely do cleanly, so the clip is unlikely to restart seamlessly.",
+            "feasibility: A 'path of starlight on water' toward the viewer needs perspective, which conflicts with the locked straight-on, waist-up framing. The water would have to read as a foreground plane below a waist-up crop.",
+            "virality fix: Cut the hair-settling detail and keep one cause and one effect: hand lowers, a visible ring of calm spreads outward from beneath it across the swells. A ripple of stillness is simple and more renderable.",
+            "virality fix: Make the contrast stark: very dark, violent, white-tipped swells at frame 0, then a clean flat mirror that snaps calm fast (by about 3s). The sharper the before and after, the stronger the hold.",
+            "virality fix: Make the starlight path appear as a bright event, such as stars igniting outward along the calm water toward the viewer, and give it 3 to 4 seconds of motion rather than a slow hold. This is the share-worthy image.",
+            "virality fix: Strengthen the loop by ending with the first swell beginning to lift again at the bottom edge as her hand starts to rise, so the final frame hands off straight into the opening heave.",
+            "virality fix: Consider a slow push-in during the calming or as the path forms, so the viewer is carried across and the camera adds energy to the second half.",
+            "authenticity fix: Qualify the caption: 'In one devotional tradition, Tara calms the poison of the churning ocean. Her name is also read as the one who carries across.'",
+            "authenticity fix: Remove the 'hair settles under its own weight' beat or keep the hair still, so the loose-hair departure from jata/Ekajata is not emphasised.",
+            "authenticity fix: Keep the water dark with faint poison-like currents, as the dossier suggested, so the link to the churning-ocean poison is legible, and keep the 'symbolic scene' note in the on-screen or description text.",
+            "authenticity fix: Consider a slight fierce-compassionate expression and visible tiger-skin and skull garland to ensure the Mahavidya identity is not lost behind a generic benevolent figure.",
+            "authenticity fix: Avoid a blessing-style flat palm; use an open, steady hand that echoes protection (abhaya-like) without implying a Christian or other borrowed motif.",
+            "feasibility fix: Cut to one slow event: the water is already dark and nearly still at the bottom of the frame, and a soft path of starlight gradually appears on it as her open palm lowers slightly.",
+            "feasibility fix: Remove the churn-to-calm transition and the sinking exit. Let the clip end on the held calm image, and accept a soft fade instead of a built-in loop.",
+            "feasibility fix: Only use water if the reference portrait already includes a water surface. Otherwise switch to the star-path idea with sky and light only.",
+            "feasibility fix: Limit the motion to two elements: the hand lowering slowly and the light path brightening. Describe the water as gently rippling, not heaving."
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "results": [
+        {
+          "concept": {
+            "id": "A",
+            "title": "The Calming of the Dark Water",
+            "logline": "Tara raises her open hand over churning dark water, which calms into a path of starlight leading across to the viewer.",
+            "hook": "From the first second, heavy dark water swells up from the bottom edge of the portrait and churns across the lower frame, while Tara's steady, stern gaze holds the viewer and her hand rises.",
+            "story": "Tara is read as the star that guides, the saviour, and the one who carries across the ocean of worldly existence. Her devotional story tells of the poisoned sea that she calms. This clip is a symbolic rendering of the 'carries across' reading, not a fixed traditional scene. Dark water churns below her, and her raised open hand settles it. The still surface then carries a path of starlight that runs out toward the viewer, so the crossing is shown, not just told. Her stern, protective gaze keeps her a rescuer, not a gentle ornament. Blue skin, third eye, tiger-skin wrap, skull garland and serpent ornaments stay clear. Her loose hair follows the portrait and departs from the matted or single-braid forms in the tradition.",
+            "loop": "In the last seconds the calm water and the starlight path sink slowly below the bottom edge, leaving the starry sky and her portrait with the hand still raised. The opening swell of dark water rising again then reads as the next wave to cross.",
+            "share_trigger": "People send it to a friend facing a rough stretch, as a picture of dark water going still and a safe path appearing. Devotees of Tara also save it as a short image of her as protector.",
+            "caption_hook": "Tara is read as star, saviour, and the one who carries across. Watch the dark water settle.",
+            "audio": "A deep, slow rumble of heavy water that hushes as the surface calms. A soft low drone follows, with one clear, gentle tone as the path of starlight spreads.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+                "action": "Heavy dark water swells up from the bottom edge and churns across the lower third of the frame, with faint dark currents curling in it. Tara's steady, slightly stern three-eyed gaze stays on the viewer as her hand rises to chest height with the palm open and facing outward, and the churning slows under it.",
+                "purpose": "This is a large, readable event at once: dark water is rising and something must be done about it. Her hand answers the water and the churning visibly slows, which sets up the question of whether the water will settle."
+              },
+              {
+                "duration": 6,
+                "camera": "Same straight-on eye-level framing, locked off, crown centered and fully framed, continuing directly from the first shot.",
+                "action": "As her open hand holds steady, the water goes still and smooth, and a broad ribbon of starlight spreads across its surface from beneath her hand toward the viewer at the bottom edge. In the last seconds the calm water and the ribbon sink slowly below the frame, leaving her portrait against the starry sky.",
+                "purpose": "The payoff is a before and after: churning dark water becomes a still surface with a clear path across it, caused by her hand. The slow sinking returns to the opening portrait, so the next swell reads as a continuation."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 8,
+            "feasibility": 4
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is only partly strong. Churning water is visible motion from frame 1, but the hand rises slowly to chest height and the water only 'slows' in shot 1. The 4 seconds of build-up gives no payoff until the second half, so a scroller sees a goddess and rough water and has little reason to stay.",
+            "virality: The story is a real before/after (churn to still to path), the clearest causal beat of the two concepts. But the cause is a raised palm, which is exactly the 'gesture' trope. Whether the water obeys her hand depends on timing the model may not render. Models tend to keep churning, or settle the water without any link to the hand.",
+            "virality: Loop is weak. The end sinks the calm water and the path below the frame, but the start has the dark water swelling up. That is a nice idea on paper, yet the final frame is a calm portrait with the hand still raised, while the first frame already has the water in motion. The jump is a cut, not a flow. A viewer sees 'resolved' then 'trouble again', which can read as a gimmick or an undone payoff.",
+            "virality: Hold is risky. Shot 2 runs six seconds, and the payoff (stillness plus a starlight ribbon) is calm and slow. The final 2 to 3 seconds are a sinking-away that removes the payoff just after it arrives. People who stay for the resolution lose it right as they get it.",
+            "virality: Send-worthiness is plausible but generic. 'Dark water goes still for a friend in a rough patch' is the same comfort-meme logic as many AI devotional clips. Saving as 'image of Tara as protector' is weak because the key image vanishes by the end.",
+            "virality: Rendering and phone clarity: churning water with faint dark currents, a smooth ribbon of starlight, a water-to-sky transition, a sinking surface, and a three-eyed face with ornaments, all in one portrait frame. Dark water against a dark sky and a blue figure may merge on a small screen. The ribbon 'toward the viewer at the bottom edge' is a hard perspective to read.",
+            "virality: The 'loose hair' departure and the omission of any held object (the scissors) mean the iconography is thin. Nothing besides skin colour and a raised palm marks this as Tara rather than any generic goddess.",
+            "authenticity: Overall it matches the dossier's recommended beat 1 (calming the poisoned sea, path of starlight) and the 'ferries across samsara' etymology. It is reverent and non-graphic, and the 'symbolic rendering, not a fixed traditional scene' disclaimer is honest.",
+            "authenticity: The scene is labelled 'dark water' and 'poisoned sea' in the dossier, but the story blends the poison legend with the ocean-of-existence metaphor without separating them. The poison story is a devotional-tradition account, not Puranic, and its goddess identity varies (Tara, Durga, Parvati). The story text says 'Her devotional story tells of the poisoned sea that she calms', which presents it more firmly than the dossier supports. Also, in the legend she soothes Shiva by nursing him, not by raising a hand to calm the sea, so the calming gesture is an invention.",
+            "authenticity: The raised open palm reads as a generic abhaya/blessing gesture. The dossier warns that her story is 'rescue and crossing, not standing still and raising a hand'. The hand is doing the work, but the gesture is still close to the generic pose the dossier cautions against. The clip also drops all iconographic hand objects, and no wrathful or corpse/Shiva stance is present, so she risks reading as a gentle benevolent figure despite the 'stern' wording.",
+            "authenticity: The loose hair departs from the matted or single-braid forms. It is acknowledged in the story, but only in internal notes. Nothing in the caption flags it to devotees.",
+            "authenticity: The caption states 'Tara is read as star, saviour, and the one who carries across' accurately, but 'Watch the dark water settle' has no reference to her mahavidya or tantric context. The share trigger frames it as a comfort image for a friend, which slightly flattens her as a tantric Mahavidya into self-help imagery.",
+            "feasibility: Frame 1 is built around churning dark water already swelling up the lower third. That water is not in the reference portrait, so it fails the rule against content in frame 1 that the reference lacks.",
+            "feasibility: Too many moving elements: churning water with curling currents, the rising hand, the water settling, the spreading starlight ribbon, and the water and ribbon sinking away. That is well over two besides hair.",
+            "feasibility: The water has to rise up in front of a waist-up portrait, so it overlaps her torso, garland and wrap. This invites identity drift, warping of the ornaments, and unclear depth. Starlight spreading 'toward the viewer' across a flat water surface at eye level is also hard to read in perspective.",
+            "feasibility: The structure depends on second-by-second timing: a 4s churn-then-slow beat, a 6s settle-then-ribbon beat, and 'in the last seconds' sinking. Seedance will not reliably hit those handoffs.",
+            "feasibility: The 'sinks slowly below the frame' ending is physically implausible, because water and light do not drop out of frame like a lift. It also has no visible cause.",
+            "feasibility: The two-shot split with 'continuing directly' reads as a cut or a re-prompt, not one continuous 10s clip.",
+            "feasibility: The hand has to rise to chest height, but the reference portrait's hand position is not stated. If the hand is not already visible, it is a new element.",
+            "virality fix: Make the first second carry the payoff-setup: a single huge dark swell rising and nearly covering the lower half in frame 1, with her palm already coming down or pressed forward, so cause and effect are visible at once.",
+            "virality fix: Cut the water-to-stillness moment to a hard, unmistakable beat around 2.5 to 3 seconds: the palm stops, the churn freezes in a visible ripple-out ring, and the surface turns glassy. Give the remaining time to the starlight path, not to build-up.",
+            "virality fix: Do not sink the payoff away. End on the held image of the glassy water with the star path, and loop by having the first frame be a near-identical dark glassy surface that the swell rises from, so the last frame flows into the first.",
+            "virality fix: Simplify to one reflection of light: a single bright line of stars on still water, not a 'broad ribbon' plus starry sky plus portrait. Use contrast (pale stars on near-black water, a blue figure rim-lit) so it reads on a phone.",
+            "virality fix: Consider swapping the open palm for the scissors on a thread (beat 2 of the dossier), which is more distinctive and visually specific than a stop gesture. At the least, add a Tara-specific marker such as the skull garland catching starlight when the path forms.",
+            "authenticity fix: In the story and caption, say plainly that the poison-sea tale is a devotional tradition (not in the main Puranic accounts) and that versions differ. Keep it as 'echoes' rather than 'tells of'. Better, lead with the 'ocean of existence' reading and mention the poison story only as an optional echo.",
+            "authenticity fix: Keep the sternness explicit in the frame: a direct three-eyed gaze with no smile, and a slightly wider, grounded stance if the crop allows. Consider having her hand sweep or press down toward the water rather than static-raise, so it reads as active rescue.",
+            "authenticity fix: Add a line to the caption or pinned comment noting that the loose hair is a stylisation and that traditional images show matted hair (jata) or a single braid (Ekajata).",
+            "authenticity fix: Name her as Tara, the second Mahavidya, in the caption so the Mahavidya context is not lost, and avoid a purely self-help tone in the share framing.",
+            "feasibility fix: Start from a calm frame matching the reference portrait, and let the water emerge gradually from the bottom edge in a clearly visible way, or drop the water-in-frame-1 hook.",
+            "feasibility fix: Cut to two moving elements: her raised palm holding steady, and one surface that goes from rippling to still, with a soft glow of starlight appearing on it.",
+            "feasibility fix: Remove the sinking-away ending. End on the settled water and path, and accept a soft loop or a hard restart.",
+            "feasibility fix: Rewrite the action as one continuous sentence of cause and effect with no per-shot durations, e.g. 'Her palm holds steady and the rippling dark water below slowly stills, a faint starlit path appearing on it.'",
+            "feasibility fix: Keep the water low and clearly behind or below her body so it does not overlap the garland or wrap."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "B",
+            "title": "She Lights the Way Across",
+            "logline": "Tara lowers her open hand, and a path of stars lights up toward the viewer, showing the way across.",
+            "hook": "From the first second her open hand lowers, and a bright star flares under her palm and starts a trail of stars across the lower frame.",
+            "story": "Tara's name is read as star, as saviour, and as the one who carries you across the ocean of worldly life. Here she is a steady, fierce-eyed protector. Her open hand lowers, and a road of stars lights up under it as the way across. It is a symbolic scene drawn from these readings, not a fixed image from her traditional iconography. One devotional tradition also tells of her calming the poison of the churning ocean, and the versions of that story differ. Her tiger-skin wrap, skull garland and serpent ornaments stay visible, so she reads as the strong guardian, not a generic gentle figure.",
+            "loop": "The clip ends on the held image of the glowing star path and her lowered hand. The path is made of the same stars as the sky, so the last frame sits close to the opening sky. A soft dissolve then lets the path fade back into the sky as the clip restarts.",
+            "share_trigger": "Sent to a friend or family member in a hard stretch, with a line like 'there is a way across, and you are not alone.' It works as a reassurance people save for difficult days.",
+            "caption_hook": "Tara's name is read as star, saviour, and the one who carries you across. Here she lights the way, a symbolic scene drawn from those readings.",
+            "audio": "A low, deep drone and a soft held breath of wind at the start. As the first star flares, clear chime notes sound one by one, rising in pace as the path fills with stars. A warm low hum sits underneath until the end.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+                "action": "Her calm, fierce-compassionate eyes stay on the viewer as her open right hand, palm facing outward, lowers slowly to waist height. As it lowers, a bright star flares beneath her palm and a thin trail of stars lights up outward from it across the lower frame.",
+                "purpose": "Motion starts in the first second. The viewer sees one clear cause (the hand lowers) and one instant effect (stars light up beneath it), which is easy to follow on a small screen."
+              },
+              {
+                "duration": 5,
+                "camera": "Same straight-on eye-level framing, locked off, crown centered and fully framed.",
+                "action": "Her hand settles and stays steady. Stars light up one after another along the trail, which widens toward the bottom edge of the frame into a glowing road of starlight leading to the viewer. The road holds its glow as the clip ends.",
+                "purpose": "This is the payoff: a bright, growing road of stars that shows the way across, tied to her role as guide and ferrier. Constant light motion keeps the second half lively with only the hand and the star path changing."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 5,
+            "authenticity": 6,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is only mildly strong. A hand lowering and a star flaring is visible motion, but there is no problem on screen. With no threat, no dark water, no tension, nothing is at stake for the first 5 seconds, and it reads as a pretty light effect rather than a rescue.",
+            "virality: Hold is weak. The concept has no question and no before/after. Stars appear one after another along a path, which is an accumulation, not a payoff. A viewer can guess the whole 10 seconds from the first 2, so there is little reason to stay to the end.",
+            "virality: The gesture has thin consequence. A lowered hand making stars appear is magic-wand logic, the generic 'goddess does glowing thing' pattern the rubric penalises. It also loses the protector or rescuer reading the dossier says the clip should show. The concept's own story admits it is not drawn from her iconography.",
+            "virality: Loop is weak. The ending holds the glowing path, and the start has one star flaring from nothing. The loop depends on a dissolve into the sky, which is a fade-out and fade-in, not a continuation. Nothing in the ending implies the opening.",
+            "virality: Send-worthiness is the most generic of the two: 'there is a way across, and you are not alone' fits any glowing-path clip. Save value is low because nothing is specific to Tara beyond the caption.",
+            "virality: Rendering: a 'road of stars' widening toward the viewer at the bottom edge with a trail lighting in sequence is hard to control, and a hand lowering to waist height may drop out of the framing. Lowering a palm also reads as 'giving' or 'blessing', which is ambiguous on a small screen.",
+            "virality: Simpler than A, which counts in its favour for clarity, but the simplicity comes from removing the conflict instead of sharpening it.",
+            "authenticity: The core idea is weakly tied to the dossier. A lowered open hand that lights a star road draws only on the 'star' reading of her name. It does not show the ocean, the crossing, the rescue, or the poison story, even though the dossier says a beat should show her saving or guiding. 'Lighting a path' with no water or danger shows guidance but not protection from sudden danger, her main devotional purpose.",
+            "authenticity: The 'carries across' idea has nothing to be carried across. With no ocean or darkness, 'the way across' is abstract and a viewer will not read it as samsara or the ocean of existence. It looks like a generic spiritual/wellness graphic that could be any goddess or angel.",
+            "authenticity: The gesture, a lowered open palm with stars falling from it, resembles a generic benediction or fairy-like magic, which risks the trivialising the rubric warns against. A glowing star trail from a palm is a pop-fantasy trope, not an element of Tara's iconography.",
+            "authenticity: The story mentions the poison-churning legend only in passing ('versions of that story differ') without any visual link, so the disclaimer is unconnected to the content. The caption says 'Here she lights the way' and then does not mention the hair deviation. The story also omits the loose-hair departure from matted/Ekajata hair, which the dossier flagged.",
+            "authenticity: The wrathful register (stern, protective, fierce) is weakly delivered. 'Fierce-compassionate eyes' and a calm lowered hand lean gentle. The share line 'you are not alone' is a modern comfort-card framing that flattens a tantric Mahavidya.",
+            "feasibility: Cause and effect is clear and the element count is low: one lowering hand and one star trail. This is close to what Seedance handles well.",
+            "feasibility: The hook assumes the open hand starts raised. If the reference portrait's hand is not raised, the lowering motion starts from a pose the reference does not show.",
+            "feasibility: The 'star flares beneath her palm' and the trail 'lighting up one after another' are many small sequential sparkles. Their ordering and timing are unreliable and could read as noise or flicker.",
+            "feasibility: The road of starlight 'across the lower frame' toward the viewer overlaps her waist-up body, with the same depth and overlap ambiguity as A, though milder.",
+            "feasibility: The 5s/5s split and the 'stars light up one after another' staging lean on second-by-second timing.",
+            "feasibility: The loop describes a 'soft dissolve' as the clip restarts. That is an edit effect, not something one render produces, and the end frame (glowing road, lowered hand) does not match the opening frame.",
+            "feasibility: Whether the stars are already in the sky of the reference portrait is not stated. If they are not, stars in frame 1 would be new content.",
+            "virality fix: Add the threat in frame 1: darkness, a blackout, or a storm sea that her hand lowers into, so the stars are a response and the viewer has a problem to watch resolved.",
+            "virality fix: Make one hard, countable cause and effect: her fingertip touches the black surface and one star ignites, then a single line of stars shoots outward in under a second and reaches the lens. Cut the slow accumulation.",
+            "virality fix: Build the loop deliberately: end with the path of stars reaching the viewer and the whole frame going star-bright, then open on a black frame with one star flaring, so the last frame feeds directly into the first.",
+            "virality fix: Anchor it in her iconography: use the scissors or the ferry/boat image, or let the stars appear on the water under a skull-garland silhouette, so a viewer who does not read the caption still sees something specific to Tara.",
+            "virality fix: Fold in A's best idea, a visible dark-to-light transformation, so the clip has a before and an after instead of only an after.",
+            "authenticity fix: Reintroduce the ocean: start with dark water at the bottom edge and have the star path form across it, so the crossing and the 'ferries across samsara' reading are visible. In effect this converges on concept A's structure.",
+            "authenticity fix: Replace the palm-emitting-stars effect with a gesture of guiding or lifting, and let the stars appear in the sky and water as a reflection of her, as the 'star' reading rather than a hand-cast spell.",
+            "authenticity fix: State the hair deviation (loose vs matted jata or Ekajata braid) in the story and caption, and keep the poison legend either out or clearly labelled as one devotional version.",
+            "authenticity fix: Hold the stern, protective expression, and rewrite the share trigger and caption to name her as the second Mahavidya and a protector from danger, not only a comforting presence.",
+            "feasibility fix: State that the reference hand is raised, or change the motion to one the portrait already supports, such as a slow open-palm gesture starting from its reference position.",
+            "feasibility fix: Replace the sequential star-by-star lighting with one continuous glowing trail or ribbon that grows outward from the palm.",
+            "feasibility fix: Anchor the trail in a clear space, such as the lower background or a surface in front of her, so it does not run across her torso.",
+            "feasibility fix: Drop the dissolve loop language and the per-shot durations, and describe one continuous 10s motion.",
+            "feasibility fix: Keep the hand lowering slow and large, with the glow beginning only after the hand has visibly moved, so the cause is unambiguous."
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "results": [
+        {
+          "concept": {
+            "id": "A",
+            "title": "The Stilling of the Dark Water",
+            "logline": "Tara presses her open hand down, and a dark swell below her flattens into glassy water carrying one bright line of stars.",
+            "hook": "The calm starry portrait holds for a heartbeat, then one heavy dark swell heaves up along the bottom edge as her open hand lowers toward it with a stern, level gaze.",
+            "story": "Tara's name is read as the star that guides, the saviour, and the one who ferries across the ocean of worldly existence. This clip is a symbolic picture of that crossing, not a fixed traditional scene. Rough dark water rises below her, her hand presses down toward it, and it goes glassy with one bright line of stars laid across it like a path. Her gaze is direct and stern, so she reads as a rescuer and not a gentle ornament. A devotional tradition, not found in the main Puranic accounts and told in different versions, says she saved Shiva from the poison of the churned ocean. The clip only echoes that tale. Blue skin, third eye, tiger-skin wrap, skull garland and serpent ornaments stay clear. Her loose hair is a stylisation; traditional images show matted locks or a single braid.",
+            "loop": "The last frame is a held image of still black water holding a line of stars beneath her, mirroring the starry sky of the first frame. The restart to the bare portrait reads as the water becoming sky again, so the rough water can rise anew.",
+            "share_trigger": "Devotees of Tara and people curious about the ten great wisdom goddesses send it as a clear image of her as rescuer and ferrier across. Viewers who love satisfying moments of rough water going still share it too.",
+            "caption_hook": "Tara, second of the ten great wisdom goddesses, is the star that guides and the one who ferries across. Her loose hair here is a stylisation; traditional images show matted locks or a single braid.",
+            "audio": "A deep, heavy water rumble that drops to a hush the moment her hand stops. A soft low drone follows, with one clear, gentle tone as the line of stars appears.",
+            "shots": [
+              {
+                "duration": 3,
+                "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+                "action": "A single heavy swell of dark water rises low along the bottom edge, below her waist and clear of her garland and wrap, while her right hand lowers into view with the palm open and facing down, and the swell flattens where her palm stops above it.",
+                "purpose": "Cause and effect read at once: dark water rises, her hand presses down, and the swell collapses. Her stern three-eyed gaze marks her as a rescuer."
+              },
+              {
+                "duration": 7,
+                "camera": "Same locked straight-on eye-level framing, crown centered and fully framed.",
+                "action": "Her palm stays steady above the water, and the last ripples spread outward and fade until the surface is glassy black, and a single bright line of pale stars forms across it, its soft glow touching her skull garland. Her hair settles gently under its own weight, and the final image holds.",
+                "purpose": "The payoff arrives and stays: rough water becomes still, with a clear line of stars as the path across. The held final image is the shareable picture of Tara as protector."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 8,
+            "feasibility": 5
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is weak. The first beat is a 'calm starry portrait [that] holds for a heartbeat', which is a static goddess-stands-there opening. The swell only arrives after that, so visible motion misses the 1.5s window.",
+            "virality: The swell is confined to the bottom edge, below her waist, and her hand has to 'lower into view'. On a phone the action sits in a thin strip at the bottom and may be hidden by UI overlays and captions. The cause and effect is small and easy to miss.",
+            "virality: Shot 1 asks for three things in 3 seconds: a swell rising, a hand entering, and the swell flattening. The video model may blur these into mush, and the cause and effect may not read cleanly.",
+            "virality: Shot 2 is 7 seconds of mostly stillness: a steady palm, fading ripples, a faint star line. That is a slow back half with no new development. Retention will sag, and people may swipe away before the payoff.",
+            "virality: Loop logic is muddy. The end is a still black water with a star line, but the start is a calm starry portrait with no water. The 'water becoming sky again' idea is conceptual, and a viewer will see a jump cut, not a seamless loop.",
+            "virality: The hand pressing down is a gentle gesture that the story calls 'stern'. The hand is read as hushing or patting the water, not rescuing. It lacks the stakes of danger, and nothing is actually saved or crossed.",
+            "virality: Send-worthiness is thin and niche: devotees plus 'satisfying calm water' viewers. There is no clear person to send it to, and no emotional line to attach.",
+            "virality: Save value is low. It is a pretty image, with no knowledge, caption payload or reason to keep it.",
+            "virality: Novelty is only moderate. Calming water with a starry glow is a familiar AI devotional trope, though the downward press is a slightly fresher gesture than the usual raised palm.",
+            "authenticity: Strong match to the dossier's recommended beat 1 (calming the poisoned sea), and the 'crossing over' meaning is expressed. It flags the scene as symbolic, not canonical, and the poison tale as devotional, not Puranic, with versions differing. That is honest handling.",
+            "authenticity: The hand presses DOWN onto the water. In Indian iconography a raised open palm is the protective gesture (abhaya). A downward-facing palm reads as dominating or suppressing the sea, not rescuing. A devotee may find it more 'commanding' than 'guiding', and it drifts from the 'ferrier / guide' meaning toward control.",
+            "authenticity: The water is meant as the 'ocean of samsara' and also echoes the poison. The story text blends the two without saying which. The 'dark swell' could read as the poison, but nothing in the visuals distinguishes it.",
+            "authenticity: 'Hair settles gently under its own weight' draws extra attention to the loose hair, which departs from the matted or single-braid iconography. The caption and story disclose it, but the beat itself spotlights the departure.",
+            "authenticity: The line of stars 'touching her skull garland' is an invented flourish. It is harmless but mixes the garland, which stands for the alphabet, with the star path. Keep the garland incidental.",
+            "authenticity: Scale: the scene is waist-up with the water 'below her waist', so there is no standing-on-Shiva or cremation-ground context. That is fine and avoids sensitive imagery, but the 'star' and 'ferry' readings rely heavily on the caption, since the on-screen scene shows a hand and still water, not a crossing.",
+            "authenticity: The stern gaze is used to read as a 'rescuer'. Sternness is acceptable for Ugra Tara but should not tip into anger directed at the viewer.",
+            "feasibility: Frame 1 is the plain starry portrait, which is correct. But her right hand \"lowers into view\", so it enters the frame from outside. The reference is waist-up and the hand may not be visible there. Hands that enter mid-clip tend to render with distorted fingers.",
+            "feasibility: There are three distinct moving elements besides settling hair: the swell rising and flattening, the descending hand, and the star line forming with its glow. That is over the limit of two.",
+            "feasibility: The cause and effect is symbolic. The palm hovers above the water and never touches it, so the swell flattening reads as magic rather than visible physics. The model may flatten the water before the hand arrives, or ignore the hand.",
+            "feasibility: The water must appear from nothing along the bottom edge of a portrait that has none, and it must be kept clear of the garland and wrap. This is an unreferenced new element that could creep up over her body or garland.",
+            "feasibility: The star line's glow \"touching her skull garland\" adds a light-interaction effect on a detailed ornament. It is the sort of fine detail that tends to flicker or morph.",
+            "feasibility: The brief depends on timing: a 3 s swell-and-collapse, then 7 s of ripples fading, the star line forming and the hair settling. Seedance will not hit that split reliably. The swell could take the whole clip, or the ripples could be skipped.",
+            "feasibility: Hair is described as settling under its own weight, but the shot also asks for a static, locked-off hold. A clear action sequence in a 10 s clip with a mostly idle second half risks drifting or a wandering camera.",
+            "virality fix: Cut the calm portrait opener. Open on frame 1 with the swell already heaving high and the hand already moving, so motion starts at 0.0s.",
+            "virality fix: Raise the water to chest or shoulder height and put it in the middle of the frame, so the threat and the press are the dominant visual and survive the phone UI crop.",
+            "virality fix: Shorten to a tighter structure: about 2s of violent swell, a 1s press and collapse, then a short payoff. Let the star line draw itself toward the viewer so there is a travelling motion in the back half.",
+            "virality fix: Fill the back half with one new, simple beat, such as the star path unrolling toward the camera as the crossing. This delivers the 'ferries across' meaning and gives a reason to stay to the end.",
+            "virality fix: Fix the loop by making the first frame match the last. Start on the starlit still water and have the swell rise from it, or end with the water darkening back into the opening state, so the restart is seamless.",
+            "virality fix: Make the press forceful and decisive, with a visible consequence such as a shockwave ring flattening the swell outward, so she reads as a rescuer and not a hush.",
+            "virality fix: Add a text-free hook in the caption that gives a send target ('send this to someone crossing a rough night') and one line of meaning for saves.",
+            "authenticity fix: Change the gesture to a level, open-palm hold (hovering or extended toward the water) instead of pressing down, or have the palm face outward in abhaya as the water settles, so protection, not domination, is the read.",
+            "authenticity fix: Make the star path run toward the viewer, as in the dossier's beat 1, so it reads as a way across rather than a line lying on the water.",
+            "authenticity fix: Drop the hair-settling detail and the star glow touching the garland. Keep the disclosure in the caption only.",
+            "authenticity fix: Soften the gaze from 'stern' to 'steady, watchful, compassionate-fierce' so the devotee reads a mother who protects, in line with Bamakhepa's 'my children' devotion.",
+            "authenticity fix: In the caption, name the 'ocean of existence' meaning plainly and state that the poison echo is from a devotional tradition.",
+            "feasibility fix: Drop the hand entering frame. Start with the hand already visible in the reference, or use a small downward palm motion that is already in frame. If neither works, remove the hand and let her gaze and the water carry the cause.",
+            "feasibility fix: Cut to two moving elements. Keep the swell calming into glassy water and let the star line appear as part of the water's change, with no separate glow on the garland.",
+            "feasibility fix: Remove the second-by-second structure. Describe one continuous sequence, \"the dark swell slowly settles into glassy water as the stars appear\", without a 3 s/7 s split.",
+            "feasibility fix: Let the water be a low band at the very bottom of the frame, well below the waist, and say nothing about reaching her ornaments."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "B",
+            "title": "She Stills the Dark Sea",
+            "logline": "Tara raises one steady hand and the dark, churning sea behind her goes still, mirroring the stars.",
+            "hook": "In the first second a dark sea rises into view behind her, its swells rolling restlessly, as her stern gaze holds and her hand begins to lift against the danger.",
+            "story": "Tara's name is read as star, as saviour, and as the one who ferries you across the ocean of worldly life. She is the second of the ten great wisdom goddesses, a protector who steps in when danger comes suddenly. A rough dark sea is the danger. Her raised open palm is a guarding gesture, and the sea stills into a mirror of her stars, so the crossing becomes visible as a calm, star-lit water. Her three eyes stay stern and watchful, and her blue skin, tiger-skin wrap, skull garland and serpent ornaments stay in view, so she reads as a fierce guardian. This is a symbolic scene, not a fixed temple image. Her hair is shown loose, while tradition more often shows it matted or in a single braid. One devotional telling also says she calmed the poison of the churning sea, and versions of that tale differ.",
+            "loop": "The final frame is her centered portrait with the same star-filled sky, now doubled in the still water, so the ending looks like the opening sky made whole. When the clip restarts, the sky returns to its first stillness and the dark sea rises again, so the calm at the end feeds straight back into the threat at the start.",
+            "share_trigger": "Sent to someone in a frightening or stormy stretch, such as a hard diagnosis, a night journey or a crisis at home, with a line like 'may she still this for you.' It is a protector image, saved and sent by people who know her as the one who guards you from sudden danger.",
+            "caption_hook": "Tara, second of the ten great wisdom goddesses, is the star, the saviour and the one who ferries you across. Here her raised hand stills a dark sea. A symbolic scene, with her hair loose where tradition shows it matted or braided.",
+            "audio": "A low, deep rumble of restless water and a held, tense drone at the start. As her hand reaches full height, the rumble drops away to a hush, and one deep, clear bell tone sounds and rings out over a soft, steady hum until the end.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Straight-on at eye level, locked off, waist-up, crown centered and fully framed.",
+                "action": "A dark sea rises into view behind her, its horizon at chest height and its swells rolling restlessly on both sides of her body. Her three eyes hold the viewer in a stern, steady gaze as her right hand lifts slowly to chest height with the palm open and facing forward, and as it rises the swells begin to slow and flatten.",
+                "purpose": "The problem is on screen from the first second: a dark rough sea. One large, slow gesture is the cause, and the calming water is the visible effect, easy to read on a small screen."
+              },
+              {
+                "duration": 5,
+                "camera": "Same straight-on eye-level framing, locked off, crown centered and fully framed.",
+                "action": "Her hand holds steady at chest height, palm forward, and the sea goes fully still, so the stars of the night sky appear in the water and a bright band of reflected starlight spreads across the calm surface on both sides of her. Her stern gaze stays on the viewer as the clip ends on this held image.",
+                "purpose": "The payoff is a before and after: restless dark water becomes a still, star-filled mirror. It shows protection from danger and a safe crossing in one clear change, and the final frame echoes the opening sky."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 7,
+            "authenticity": 8,
+            "feasibility": 3
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is better than A's. The dark sea is on screen in the first second with rolling swells. But the sea 'rises into view', which implies a fade-in, and her hand lifts 'slowly'. The first 1.5s is atmospheric motion in the background, not one decisive action.",
+            "virality: The slow 5-second hand lift is a classic raised-palm pose, the most generic devotional gesture. Her stillness and the slow pace mean the calming effect reads as gradual and soft, not a strong cause-and-effect beat.",
+            "virality: Shot 2 is a hold. The sea is already still and the hand does not move, with only a starlight band spreading. About 5 seconds of near stillness at the end risks a drop-off, and the payoff reveal is modest.",
+            "virality: The sea in the background with swells on both sides of her body, plus the star reflection, asks the model to render a lot of coherent water and a mirror reflection. Reflections of a night sky in still water are a common failure point, and the background may flicker.",
+            "virality: The loop claim is partly weak. The ending has the stars 'doubled in the still water' while the opening is the 'same star-filled sky' with a dark rough sea. It matches the sky, but the water state differs, so the restart is a hard cut from calm to storm. It is arguably a fine hard-cut loop, but it is not seamless.",
+            "virality: Her raised palm facing forward reads more as 'stop' or blessing than as rescue or ferrying. Nothing is carried or crossed, so the 'ferrier' meaning is only in the caption.",
+            "virality: The save value is modest. It is a pretty protector image, though the share framing is stronger than A's.",
+            "authenticity: Closely aligned with the dossier: the sea as 'ocean of existence', protection from sudden danger, and a raised open palm that reads as a classic protective (abhaya-like) gesture. This is the more iconographically natural gesture of the two concepts.",
+            "authenticity: It discloses that the scene is symbolic, that the hair is loose where tradition shows matted or braided, and that the poison story is devotional and varies. Good caution handling.",
+            "authenticity: The sea is placed behind her at chest height with swells on both sides. A restless sea at chest height could crowd her torso and ornaments, and 'against the danger' makes her a fighter of the sea, not a guide across. The 'ferrier' meaning is shown only as calm water, with no path or crossing.",
+            "authenticity: The hook says her hand lifts 'against the danger', which frames her as combative toward the sea. The dossier's meaning is rescue and crossing, so the framing leans slightly off.",
+            "authenticity: The share trigger suggests sending it to people with 'a hard diagnosis' with 'may she still this for you'. It is sincere, but it turns a deity image into a personal-crisis message template. A devotee might accept this, but it risks sentimentality, so the caption should not push it.",
+            "authenticity: The loop claims the sky is 'doubled' in the water and the 'sea rises again' at restart. Fine, but the star mirror gives no explicit guide or path, so the 'star' etymology is only implied.",
+            "authenticity: The audio says 'one deep, clear bell tone'. A bell is a generic temple cue and acceptable, but it should not suggest a specific ritual practice.",
+            "feasibility: Frame 1 already contains a dark rough sea behind her with its horizon at chest height. The reference portrait has a starry sky, so this is a new element in frame 1 that is absent from the reference. That is a direct rubric failure. The hook text (\"rises into view\") also contradicts the shot description (sea already at chest height).",
+            "feasibility: The whole background has to be swapped from sky to sea around her silhouette, with swells \"on both sides of her body\". Rendering that without bleeding into her hair, shoulders and garland is a heavy compositing job.",
+            "feasibility: There are four or more moving elements: rolling swells, the lifting hand, swells slowing, and the star reflections and a spreading band of light. That is well beyond two.",
+            "feasibility: A palm raised forward toward the camera involves foreshortening and a hand moving to chest height across her ornaments and garland. This is a likely source of finger and anatomy errors.",
+            "feasibility: The stars \"appear in the water\" and a reflected band \"spreads\" on both sides. A reflection that mirrors the sky while the figure and sky are static is physically tricky, and the model may produce a plain glow instead.",
+            "feasibility: The brief depends on timing, with a 5 s and 5 s split: the swells slow as the hand rises, then the sea goes fully still once the hand holds. The loop claim of the sky \"doubled in the still water\" also needs a sky and a horizon layout that is not in the reference.",
+            "feasibility: The hand's cause and effect is plausible as a gesture of authority, but the sea responds to a raised hand at a distance with no physical link, so the cause reads as vague.",
+            "virality fix: Start with the sea already churning hard and the hand already mid-rise at 0.0s, with no fade-in, so the first frame carries the threat and the motion.",
+            "virality fix: Speed up the gesture. Make the palm snap up decisively around 1.5 to 2s, and have the sea flatten in a clear outward wave from her hand, so the cause and effect is unmistakable and not a slow fade.",
+            "virality fix: Shorten the settle and use the back half for one new beat, such as a path of starlight running from her feet toward the camera, which says 'crossing' and gives a visual reward in place of a hold.",
+            "virality fix: Simplify the background. Keep the horizon low and the reflection to one bright band of stars, to avoid flicker from a full mirrored sky.",
+            "virality fix: Make the loop tighter by having the end image begin to darken or ripple in the final 0.5s, so the cut back to the rough sea feels continuous.",
+            "virality fix: Keep and sharpen the share angle. The line 'may she still this for you' is the strongest send hook across both concepts, so put it on the caption's first line.",
+            "authenticity fix: Reword the hook and shot 1 so her hand lifts 'in protection' and not 'against the danger'. The sea settles in her presence, not as a battle.",
+            "authenticity fix: Lower the horizon or sea so it stays clear of her chest, garland and serpent ornaments, and keep the iconography fully readable.",
+            "authenticity fix: Add a subtle path of starlight leading from her toward the viewer on the still water to carry the 'guide / ferrier across' meaning, as in the dossier's beat 1.",
+            "authenticity fix: Keep the caption's disclosures, and leave out any prompt to send the clip with a specific blessing or in medical crisis. Let viewers decide how to share it.",
+            "authenticity fix: Keep the poison reference in the caption as 'a devotional telling' and avoid implying the clip depicts that story.",
+            "feasibility fix: Begin on the exact reference portrait with the starry sky and no sea. Let the dark water rise in from the bottom edge during the clip rather than being present from frame 1.",
+            "feasibility fix: Cut to two moving elements: the water calming and one slow hand gesture. Drop the spreading reflection band and just have the stars show on the calm surface.",
+            "feasibility fix: Use a hand pose that is already in the reference, or a very small lift of an open palm, instead of a large raise to chest height facing the camera.",
+            "feasibility fix: Do not put water on both sides of her body. Keep it as a low band at the bottom, away from the silhouette.",
+            "feasibility fix: Describe one continuous change, restless to still, instead of a 5 s/5 s structure."
+          ],
+          "passed": false
+        }
+      ]
+    }
+  ]
+}

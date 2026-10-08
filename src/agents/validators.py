@@ -69,6 +69,11 @@ class MotionGuard:
     LOW_ANGLE = r"\b(low[- ]angle|upward tilt|nostril)\b"
     STATIONARY = r"\b(stands? planted|stationary)\b"
     LOCOMOTION = r"\b(walks?|walking|strides?|striding|steps? forward)\b"
+    # A gesture must say what it does: name a visible consequence in the same sentence.
+    GESTURE = (r"\b(gestur\w*|(?:rais\w+|lift\w*|extend\w*|sweep\w*)\s+(?:Her\s+|a\s+|the\s+)?"
+               r"(?:right\s+|left\s+|open\s+)?(?:hand|arm|palm)s?)\b")
+    EFFECT = (r"\b(ripples?|waves?|breeze|wind|sparks?|embers?|mist|swirl\w*|bloom\w*|glow\w*|"
+              r"tide|star\w*|paths?|spread\w*|petals?|light\w*|currents?|parts?|rises?|stir\w*)\b")
     SHOT = re.compile(r"Shot (\d+) \((\d+)-(\d+)s\)")
 
     def check(self, prompt: str) -> Report:
@@ -86,6 +91,9 @@ class MotionGuard:
             r.error("camera-contradiction", f"eye-level camera conflicts with: {', '.join(hits)}")
         if re.search(self.STATIONARY, prompt, re.IGNORECASE) and (hits := _hits(self.LOCOMOTION, prompt)):
             r.error("archetype-contradiction", f"stationary figure conflicts with locomotion: {', '.join(hits)}")
+        for segment in re.split(r"[.;]\s+", prompt):
+            if re.search(self.GESTURE, segment, re.IGNORECASE) and not re.search(self.EFFECT, segment, re.IGNORECASE):
+                r.error("purposeless-gesture", f"gesture with no visible consequence: \"{segment.strip()[:80]}\"")
         shots = [tuple(map(int, m.groups())) for m in self.SHOT.finditer(prompt)]
         end = 0
         for n, start, stop in shots:

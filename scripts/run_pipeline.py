@@ -14,7 +14,7 @@ sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(ROOT / "scripts"))
 
 import generate as gen  # noqa: E402  (reuses the fal/OpenRouter helpers, caption builder and config loader)
-from src.agents.director import Director  # noqa: E402
+from src.agents.director import Director, Shot  # noqa: E402
 from src.agents.showrunner import Showrunner  # noqa: E402
 from src.agents.validators import MotionGuard, SemanticGuard  # noqa: E402
 
@@ -73,6 +73,7 @@ def main() -> int:
     ap.add_argument("--resolution", default="720p", choices=["480p", "720p", "1080p"])
     ap.add_argument("--audio", action="store_true")
     ap.add_argument("--duration", type=int, default=None, help="override seconds (default: total of the shot plan)")
+    ap.add_argument("--storyboard", type=Path, help="JSON with an approved concept (shots, caption_hook); replaces the template shot plan")
     args = ap.parse_args()
 
     showrunner = Showrunner()
@@ -94,7 +95,15 @@ def main() -> int:
     except FileNotFoundError as e:
         print(f"Director: {e}", file=sys.stderr)
         return 1
-    bundle = Director().compose(deity.id, "portrait_" + args.aspect_ratio.replace(":", "x"))
+    aspect_key = "portrait_" + args.aspect_ratio.replace(":", "x")
+    concept = {}
+    if args.storyboard:
+        data = json.loads(args.storyboard.read_text(encoding="utf-8"))
+        concept = data.get("final", data)
+        bundle = Director().compose_anchor(anchor, aspect_key, [Shot(**sh) for sh in concept["shots"]])
+        print(f"Storyboard: {concept.get('title', args.storyboard.name)} ({bundle.duration}s)")
+    else:
+        bundle = Director().compose(deity.id, aspect_key)
     if args.duration:
         bundle.duration = args.duration
 
@@ -107,6 +116,8 @@ def main() -> int:
     cfg = gen.load_config()
     goddess = gen.get_goddess(cfg, deity.id)
     caption, tags = gen.build_caption(goddess, len(showrunner.deities))
+    if concept.get("caption_hook"):
+        caption = caption.split("\n\n", 1)[1].join([concept["caption_hook"] + "\n\n", ""]) if False else concept["caption_hook"] + "\n\n" + caption.split("\n\n", 1)[1]
     negative = ", ".join(bundle.negatives)
     provider = gen.resolve_provider(args.model, args.provider)
     model_id = gen.model_id(args.model, provider)
@@ -120,7 +131,7 @@ def main() -> int:
         "character": bundle.character, "order": deity.order, "provider": provider, "model": model_id,
         "aspect_ratio": args.aspect_ratio, "duration": bundle.duration,
         "reference_image": bundle.reference_image, "prompt": bundle.prompt, "negatives": bundle.negatives,
-        "caption": caption, "hashtags": tags, "generated_at": datetime.now().isoformat(timespec="seconds"),
+        "caption": caption, "hashtags": tags, "storyboard": str(args.storyboard) if args.storyboard else None, "generated_at": datetime.now().isoformat(timespec="seconds"),
     }
 
     if args.dry_run:

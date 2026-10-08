@@ -17,7 +17,7 @@ Showrunner -> Director -> Validation Council (concurrent) -> Executor -> QA Visi
 | **Iconography Archivist** | Translates a deity's classical iconography into the strict anchor schema (appearance, attire, ornamentation, environment, exactly 6 negatives) in plain English, validates it against both guards, and writes `configs/anchors/<id>.json` with `anchor_locked: false`. Visual canon, including the creative palette, is curated in `CANON` (Tara so far) and must be reviewed by a human. | `src/agents/archivist.py` |
 | **Director Agent** | Reads an anchor and composes the prompt: anchor traits, lighting, and a timed shot plan chosen by the anchor's `creative_palette.motion_archetype`, plus its signature phenomena. | `src/agents/director.py` |
 | **Semantic Guard** | Deterministic regex audit of the positive prompt: blocks daylight, occult symbols, the trigger words `sacred*` / `mystic*`, Sanskrit/Hindi loanwords and non-ASCII text, and any word the anchor lists under `environment.excluded`. Caps negatives at **6 terms** (comma-separated phrases). | `src/agents/validators.py` |
-| **Motion Guard** | Deterministic audit for motion contradictions: jump or hard cuts, hair state changes, non-physical hair, hair without gradual settling, eye-level versus low-angle conflicts, a stationary figure that also walks, shot timing gaps. | `src/agents/validators.py` |
+| **Motion Guard** | Deterministic audit for motion contradictions: jump or hard cuts, hair state changes, non-physical hair, hair without gradual settling, eye-level versus low-angle conflicts, a stationary figure that also walks, gestures with no visible consequence, shot timing gaps. | `src/agents/validators.py` |
 | **Anchor Portrait Generator** | Renders 2 candidate reference portraits from an anchor via OpenRouter's image API (default `black-forest-labs/flux.2-pro`) into `outputs/anchors/<id>/` for human approval. | `scripts/generate_anchor_portrait.py` |
 | **Executor** | Dispatches to the video model (Seedance 2.5 via OpenRouter, fal.ai fallback), polls, downloads the MP4 and writes metadata JSON. | `scripts/run_pipeline.py` (reuses `scripts/generate.py` helpers) |
 | **QA Vision** | Samples frames at t=0, mid and end and checks identity, attire and environment drift against the anchor. | **Planned** |
@@ -46,7 +46,7 @@ Each agent is a plain, deterministic Python module with a typed input and output
 **Pre-Render Guards** (`src/agents/validators.py`)
 - *In:* the composed prompt, the negatives, and the anchor's `excluded` words. *Out:* a `Report` per guard (`ok`, `findings`).
 - Both guards run concurrently and have no side effects. Any `error` finding blocks the render, the orchestrator exits 1, and nothing is sent to a paid API.
-- Semantic Guard: daylight, occult symbols, `sacred*` / `mystic*`, non-English terms, anchor exclusions, negative cap (6). Motion Guard: abrupt cuts, hair physics and continuity, camera contradictions, stationary-versus-locomotion contradictions, shot timing.
+- Semantic Guard: daylight, occult symbols, `sacred*` / `mystic*`, non-English terms, anchor exclusions, negative cap (6). Motion Guard: abrupt cuts, hair physics and continuity, camera contradictions, stationary-versus-locomotion contradictions, purposeless gestures, shot timing.
 
 ## Creative Palette
 
@@ -66,7 +66,24 @@ Each anchor may carry a `creative_palette` that tells the Director how the deity
 }
 ```
 
+Every gesture in `signature_phenomena` must name what it causes (for example "a slow raised hand sending ripples across the water"), so no beat is a gesture for its own sake. The Motion Guard enforces this heuristically; judging whether a beat is meaningful beyond that is the planned LLM audit.
+
 All three archetypes share the same eye-level opening pull-back from the face. The Archivist requires a palette for every new anchor. Kali predates the palette and has none, which the Director treats as `grounded_stride`.
+
+## Claude Code subagents (research and creative agents)
+
+The reasoning agents are Claude Code subagents in `.claude/agents/`; they run on the Claude subscription, not on API credits. The deterministic modules in `src/agents/` (showrunner, archivist, director compiler, guards) stay in Python.
+
+| Subagent | Job |
+|----------|-----|
+| `deity-researcher` | Web research with sources; writes `research/<id>.md` including story seeds and a "not found" list. |
+| `concept-director` | Reads dossier, anchor, rules and capability sheet; proposes concepts where the goddess does something, built on a named story seed; revises from feedback. Self-checks with `scripts/check_storyboard.py`. |
+| `virality-critic`, `authenticity-critic`, `feasibility-critic` | Score concepts against `research/concept_rules.md`. Authenticity is a veto below 7; feasibility is a risk flag (verified renders in `research/seedance_capabilities.md` outrank guesses). |
+| `qa-vision` | Compares reference portraits and render frames with the anchor; reports mismatches, artifacts and drift. |
+
+`/develop-concept <deity id>` runs the loop (research, propose, three critics in parallel, guard check, revise, present finalists). Subagents cannot call each other, so the main session orchestrates. Rendering stays a human decision.
+
+`src/agents/concept_loop.py` is the same loop as a standalone script that calls OpenRouter's chat API (`src/agents/llm.py`, billed per token); it mirrors `research/concept_rules.md`. Prefer the subagents for routine work.
 
 ## Layout
 

@@ -1,0 +1,776 @@
+{
+  "character": "tara",
+  "passed": false,
+  "rounds": 4,
+  "model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.7471,
+  "llm_calls": 19,
+  "final": {
+    "id": "C",
+    "title": "The Eye and the Star",
+    "logline": "Tara's third eye lights up softly as the camera slowly pushes in, and the stars behind Her twinkle, watching over the viewer.",
+    "hook": "From the first moment the camera creeps toward Her calm, level gaze, and within the first second Her third eye lights up with a clear silver-gold glow. The viewer sees one distinct event on the brow, right at the centre of the phone screen, set against the deep midnight blue of the sky. The question the viewer carries forward is what this goddess is watching over.",
+    "story": "One idea: Tara's name means star, and a genuine secondary sense of the word is the pupil of the eye. The clip pairs them in one image, with a watchful third eye under a sky of stars. This pairing is a devotional reflection on Her name, not scripture and not a standard iconographic scene. The glow means one thing only: Her sight watches over and protects. The 'carries across' reading of Her name is left to the caption so the clip stays one idea. Her expression stays calm and unsmiling, a protector's steadiness. Caption notes for human review: (1) the Tarapith tradition says Sati's third eye fell there (some accounts say eyeball), and the Bamakhepa account of Tara as mother is also devotional tradition; both belong in the caption, not the picture. (2) The calm-only portrayal is a deliberate series choice. She remains an ugra, wrathful-protective figure, and this clip shows only the watchful side. (3) Known inaccuracy, not a decision: the anchor's loose hair departs from the matted braid or single braid of usual iconography. It is kept nearly still, with only a gentle settle. (4) Pre-production check: confirm the third eye is clearly visible in the reference portrait. The clip does not depend on any single star being present. The sky stars are simply allowed to twinkle faintly.",
+    "loop": "The clip ends with the glow at its fullest and the gaze steady, which gives the longest possible payoff. On replay the portrait returns to its calm starting look, so the loop reads as a gentle reset: the glow lights up again in the first second, and the eye is once more the event the viewer waits for. The framing difference from the slow push-in is small enough to pass on replay.",
+    "share_trigger": "People send it to someone who needs to feel watched over tonight, because the glowing eye gives a clear, quiet picture of being looked after. Mythology and art fans save it for the caption fact that her name means both star and the pupil of the eye.",
+    "caption_hook": "Tara means star, and also the pupil of the eye. Send this to someone who needs to feel watched over tonight.",
+    "audio": "A low, warm string drone under soft bell tones. One gentle bell note marks the moment the third eye lights up, then the drone holds steadily to the end.",
+    "shots": [
+      {
+        "duration": 5,
+        "camera": "A very slow push-in at eye level from the reference framing: front-facing, waist-up, crown centered and fully framed. The camera does not tilt or change height.",
+        "action": "Her calm gaze stays level on the viewer while Her third eye lights up with a soft silver-gold glow in the first second, which makes the brow the clear focus of the frame. The glow then keeps brightening gently, and the stars behind Her twinkle faintly. Her hair settles lightly under its own weight.",
+        "purpose": "Gives an early, specific event: the third eye lighting up near the start. It rests on what the model renders best: a face, a slow camera and a soft light carried from the source image. The glow stays low-intensity and keeps the colours of the reference, which limits shimmer on the brow."
+      },
+      {
+        "duration": 5,
+        "camera": "The same slow push-in continues at the same speed and direction, ending slightly closer with the crown still centered and fully framed at eye level.",
+        "action": "The third eye holds its soft glow at its fullest, which keeps Her brow luminous against the dark sky, while Her gaze stays steady on the viewer and the stars behind Her go on twinkling gently.",
+        "purpose": "Holds the payoff at its peak so the most attentive seconds show the full image, an eye of light under the stars, instead of a fade. The clip is one continuous description of a gradual glow, so the model has no timed cues to follow."
+      }
+    ]
+  },
+  "final_scores": {
+    "virality": 4,
+    "authenticity": 7,
+    "feasibility": 7
+  },
+  "finalists": [
+    {
+      "concept": {
+        "id": "C",
+        "title": "The Eye and the Star",
+        "logline": "Tara's third eye lights up softly as the camera slowly pushes in, and the stars behind Her twinkle, watching over the viewer.",
+        "hook": "From the first moment the camera creeps toward Her calm, level gaze, and within the first second Her third eye lights up with a clear silver-gold glow. The viewer sees one distinct event on the brow, right at the centre of the phone screen, set against the deep midnight blue of the sky. The question the viewer carries forward is what this goddess is watching over.",
+        "story": "One idea: Tara's name means star, and a genuine secondary sense of the word is the pupil of the eye. The clip pairs them in one image, with a watchful third eye under a sky of stars. This pairing is a devotional reflection on Her name, not scripture and not a standard iconographic scene. The glow means one thing only: Her sight watches over and protects. The 'carries across' reading of Her name is left to the caption so the clip stays one idea. Her expression stays calm and unsmiling, a protector's steadiness. Caption notes for human review: (1) the Tarapith tradition says Sati's third eye fell there (some accounts say eyeball), and the Bamakhepa account of Tara as mother is also devotional tradition; both belong in the caption, not the picture. (2) The calm-only portrayal is a deliberate series choice. She remains an ugra, wrathful-protective figure, and this clip shows only the watchful side. (3) Known inaccuracy, not a decision: the anchor's loose hair departs from the matted braid or single braid of usual iconography. It is kept nearly still, with only a gentle settle. (4) Pre-production check: confirm the third eye is clearly visible in the reference portrait. The clip does not depend on any single star being present. The sky stars are simply allowed to twinkle faintly.",
+        "loop": "The clip ends with the glow at its fullest and the gaze steady, which gives the longest possible payoff. On replay the portrait returns to its calm starting look, so the loop reads as a gentle reset: the glow lights up again in the first second, and the eye is once more the event the viewer waits for. The framing difference from the slow push-in is small enough to pass on replay.",
+        "share_trigger": "People send it to someone who needs to feel watched over tonight, because the glowing eye gives a clear, quiet picture of being looked after. Mythology and art fans save it for the caption fact that her name means both star and the pupil of the eye.",
+        "caption_hook": "Tara means star, and also the pupil of the eye. Send this to someone who needs to feel watched over tonight.",
+        "audio": "A low, warm string drone under soft bell tones. One gentle bell note marks the moment the third eye lights up, then the drone holds steadily to the end.",
+        "shots": [
+          {
+            "duration": 5,
+            "camera": "A very slow push-in at eye level from the reference framing: front-facing, waist-up, crown centered and fully framed. The camera does not tilt or change height.",
+            "action": "Her calm gaze stays level on the viewer while Her third eye lights up with a soft silver-gold glow in the first second, which makes the brow the clear focus of the frame. The glow then keeps brightening gently, and the stars behind Her twinkle faintly. Her hair settles lightly under its own weight.",
+            "purpose": "Gives an early, specific event: the third eye lighting up near the start. It rests on what the model renders best: a face, a slow camera and a soft light carried from the source image. The glow stays low-intensity and keeps the colours of the reference, which limits shimmer on the brow."
+          },
+          {
+            "duration": 5,
+            "camera": "The same slow push-in continues at the same speed and direction, ending slightly closer with the crown still centered and fully framed at eye level.",
+            "action": "The third eye holds its soft glow at its fullest, which keeps Her brow luminous against the dark sky, while Her gaze stays steady on the viewer and the stars behind Her go on twinkling gently.",
+            "purpose": "Holds the payoff at its peak so the most attentive seconds show the full image, an eye of light under the stars, instead of a fade. The clip is one continuous description of a gradual glow, so the model has no timed cues to follow."
+          }
+        ]
+      },
+      "scores": {
+        "virality": 4,
+        "authenticity": 7,
+        "feasibility": 7
+      },
+      "guard_problems": []
+    },
+    {
+      "concept": {
+        "id": "A",
+        "title": "Star and Eye",
+        "logline": "Her third eye and the stars behind Her brighten together, two meanings of Her name, then ease back to calm.",
+        "hook": "From the first second, Her third eye begins to glow softly in silver-white while the stars behind Her brighten with it, so brow and sky read as one pair of lights.",
+        "story": "Tara's name means star, and a documented secondary sense of the word is the pupil of the eye. A temple tradition in Bengal says Her third eye (some accounts say an eyeball) fell where Her temple town now stands. The clip shows the two meanings side by side as parallel lights. Her brow and the sky brighten together, so the stars read as Her own light and not as something She answers. The star and the eye are not fused into one thing. The soft light that settles over Her face and reaches toward the viewer is a quiet hint of Her role as the guide who carries souls across. This is a devotional reflection on Her name, not a scene from scripture. The link between being seen and being carried through is the creator's own reading. Notes for human review: (1) the reference portrait has loose hair, while traditional images show matted or single-braid hair, so the framing stays on face and brow; (2) this reel shows only Her gentle side, a deliberate series choice, and the ferrying story is left to other reels; (3) the reference must already show the third eye, and if it does not, rebuild the anchor instead of asking the model to generate it; (4) no single star needs to be picked out, because the whole sky brightens gently and evenly, and the caption carries the devotional-reflection disclosure.",
+        "loop": "The lights ease down together over the last three and a half seconds and end at the same calm level as the first frame. The camera is locked, so the framing is identical at both ends and the replay flows straight back into the brow beginning to glow, with no fade or jump.",
+        "share_trigger": "Someone sends it to a friend facing a long, dark stretch, with a line such as 'May you be guided through this night.' The name fact (star and pupil of the eye) gives the sender a reason to choose this clip, and the line ties the clip to Her role as protector and guide.",
+        "caption_hook": "Tara means star. It also means the pupil of the eye. Two meanings of one name, one gaze.",
+        "audio": "A low, soft drone. A single clear bell tone swells gently as the brow and stars brighten, then fades gradually with the lights so the sound returns to the drone alone as the clip loops.",
+        "shots": [
+          {
+            "duration": 5,
+            "camera": "Eye-level, front-facing waist-up framing, locked in place, with the crown centered and fully framed and the starry midnight sky behind Her.",
+            "action": "Her third eye begins to glow in soft silver-white while the stars behind Her brighten gently, which makes the brow and the sky form a clear pair of lights by about second 3 against the dark. Her calm eyes stay on the viewer, and Her hair settles gently under its own weight.",
+            "purpose": "Gives a visible change from the first second and brings both lights in early, so the viewer does not wait for the payoff. The two lights rise together as parallel meanings of Her name, and the model can follow a simple simultaneous brightening."
+          },
+          {
+            "duration": 5,
+            "camera": "The same locked eye-level framing, with the crown centered and fully framed.",
+            "action": "The brow glow and the starlight reach their fullest at about second 6, and a soft silver light settles across Her face and shoulders, which gives the feeling of a guiding light turned toward the viewer. Both lights then ease down together to the calm level of the opening, which makes the last frame match the first.",
+            "purpose": "The payoff is the pair held at full brightness for a moment, followed by a gentle return that matches the first frame so the loop is seamless. The light on Her face hints at guidance and keeps Her steady and reverent."
+          }
+        ]
+      },
+      "scores": {
+        "virality": 4,
+        "authenticity": 8,
+        "feasibility": 5
+      },
+      "guard_problems": []
+    }
+  ],
+  "final_guard_problems": [],
+  "created": "2026-10-08T11:55:26",
+  "transcript": [
+    {
+      "round": 1,
+      "results": [
+        {
+          "concept": {
+            "id": "C",
+            "title": "The Crescent Answers",
+            "logline": "A faint, compassionate smile arrives on Her face as a slow gleam travels along the crescent moon of Her crown.",
+            "hook": "Within a second Her calm expression begins to soften, and the first cool gleam appears at the edge of the crown.",
+            "story": "Tara is feared as a protector but approached as a mother, and Her devotees call themselves Her children. The clip shows that turn in one small expression: the stern guardian becomes the one who welcomes. The gleam on the crescent shows the warmth reaching the crown.",
+            "loop": "After the smile and the gleam settle, the final frame is a calm front-facing portrait close to the opening one, so the clip repeats as a quiet new welcome.",
+            "share_trigger": "Devotees send it to family, especially a mother or a friend who calls Tara 'Ma', as a greeting or blessing. It also fits Tarashtami posts.",
+            "caption_hook": "Fierce to the fear. Gentle to her children.",
+            "audio": "A warm, slow tanpura-like drone with soft chimes, and a gentle swell at the moment the smile arrives.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Locked at eye level, front-facing waist-up framing, with the crown centered and fully framed.",
+                "action": "Her calm face softens into a faint compassionate smile while Her eyes stay on the viewer, and Her heavy hair and the serpent armbands settle slightly as She breathes out.",
+                "purpose": "A micro-expression with a locked camera is reliable for the model and keeps identity stable. It starts the motion at once and shows Her motherly side."
+              },
+              {
+                "duration": 6,
+                "camera": "A slow push-in at eye level, ending at a slightly closer framing with the crown centered and fully inside the frame.",
+                "action": "A slow cool gleam travels along the crescent moon and tiered gold and silver of the crown and then settles, as if answering Her smile, while Her gaze stays warmly fixed on the viewer.",
+                "purpose": "The payoff is one clear lighting change that lets the viewer feel the warmth. The push-in adds closeness without any risky hand or water motion."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 5,
+            "authenticity": 7,
+            "feasibility": 8
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is a calm expression 'beginning to soften' and a first gleam at the crown edge. Neither is a visible motion in the first 1.5 seconds. This is the weakest opening on a phone.",
+            "virality: A faint smile is the smallest possible payoff. Subtle micro-expressions are hard for viewers to notice at feed size and can read as a model glitch rather than a deliberate beat.",
+            "virality: The gleam traveling along the crescent is a decorative lighting effect. It does not clearly connect to the smile, so the 'crescent answers' title is only a claim.",
+            "virality: The loop ends on a calm front portrait similar to the opening, which loops fine, but only because nothing much changed.",
+            "virality: The emotional idea (fierce protector who is a mother) is the most distinctive story of the three, but the clip shows only the gentle half. Without the contrast, the 'turn' is not visible. A stern face that softens would need a clearly stern start, and the brief says the opening is 'calm'.",
+            "virality: The share trigger is the most specific (send to a mother or someone who calls Tara 'Ma'), but it is a narrow, devotee-only audience with a low reach ceiling.",
+            "virality: It is the most generic 'goddess stands there' clip: locked camera, small face change, gleam. Low novelty and low curiosity.",
+            "authenticity: The mother theme is grounded: devotees call her Ma, and the Bamakhepa 'he is my son' story supports it. Of the three concepts, this one stays closest to the devotional relationship.",
+            "authenticity: 'Feared as a protector' is a stretch. The dossier supports Ugra Tara as protector from severe danger, not a goddess who is feared. The fear framing could be read as Western horror stereotyping.",
+            "authenticity: The concept never names Bamakhepa or Tarapith, so the mother claim is generic. It could be any goddess, not specifically Tara.",
+            "authenticity: The crescent gleam is described as 'warmth reaching the crown', but the gleam is 'cool' and the crescent moon is not in the dossier's iconography (only the anchor). The symbolism is arbitrary and not traditional.",
+            "authenticity: A smile on a deity who is shown wrathful and standing on a corpse is acceptable as a devotional interpretation, but a flat smile risks making her look like a generic gentle goddess. 'Her heavy hair' again highlights the loose-hair departure.",
+            "authenticity: The caption 'Fierce to the fear' is slightly flip and could read as marketing slogan language.",
+            "feasibility: A faint smile with a locked or slowly pushing camera is exactly what the model does best. The main risk is identity drift: a smile can alter a stern deity face, narrow the third eye, or show teeth, and the lips of a wrathful or fierce figure may not soften convincingly.",
+            "feasibility: Two ordered beats (smile first, then the crescent gleam 'answering' the smile) depend on timing across a single render. The gleam may occur at the same time as the smile or not at all.",
+            "feasibility: A travelling gleam along the crescent and tiered crown is a moving highlight on small, detailed metal. It risks shimmer and flicker, and 'travels along' is a sequential effect, which the guide marks as risky.",
+            "feasibility: Settling serpent armbands and heavy hair adds extra moving parts. Serpent armbands are small, detailed objects that may morph. It's a waist-up frame, so they may sit near the edge.",
+            "feasibility: The camera changes from locked to push-in between shots, again implying a mid-clip change.",
+            "virality fix: Start with a visibly stern or wrathful expression, such as a hard stare with slightly furrowed brows, then soften. The contrast is the whole story and needs to be seen.",
+            "virality fix: Make the smile land at about 2 seconds with a clear blink or a slight head tilt so it reads at phone size.",
+            "virality fix: Sync the crescent gleam to the exact moment the smile arrives, with a bright, quick flash rather than a slow travel, so the cause and effect is obvious.",
+            "virality fix: Add on-screen text such as 'Fierce to the fear.' appearing on the stern frame and 'Gentle to her children.' on the smile, so the contrast works without the caption.",
+            "virality fix: Ending on the stern face again, with a quick fade back, would give a stronger loop: stern, soft, stern, soft.",
+            "authenticity fix: Replace 'feared' with 'fierce protector', and tie the caption to the dossier: 'Ugra Tara protects from danger. To her devotees she is Ma.'",
+            "authenticity fix: Use Bamakhepa's 'she called him her son' in the description to anchor the mother theme in a specific tradition, and flag it as a devotional account.",
+            "authenticity fix: Do not give the cool moon-gleam a meaning. Describe it only as light, or change it to a warm light at the third eye or ornaments.",
+            "authenticity fix: Keep the smile very subtle (compassion, not cheer), and keep the third eye and skull garland steady so her fierce side stays visible.",
+            "authenticity fix: Reword the caption to avoid the slogan tone, for example 'Protector of her devotees. Mother to her children.'",
+            "feasibility fix: Use one camera instruction for the whole clip: a very slow push-in. Describe it as one continuous event: 'her expression softens into a faint, closed-lip smile while a gentle highlight glints once on the crescent moon'.",
+            "feasibility fix: Replace 'travels along' with a single soft brightening of the crown, not a moving gleam, to avoid shimmer.",
+            "feasibility fix: Specify a closed-lip, barely-there smile and keep the eyes on the viewer to protect identity.",
+            "feasibility fix: Remove the serpent armbands from the motion description and let only the hair settle.",
+            "feasibility fix: Check that the reference frame has a calm, neutral expression, so the smile reads as a clear change."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "A",
+            "title": "The Eye That Is a Star",
+            "logline": "A slow push toward Her face as Her third eye softly lights and the guiding star above Her crown answers by brightening.",
+            "hook": "From the first second the camera drifts toward Her face and a faint pale glow begins to gather in the third eye on Her brow.",
+            "story": "Her name means both star and the pupil of the eye, and the Tarapith tradition holds that the third eye fell there. The clip stages that link as one image: the eye lights, and the star above Her answers. It tells the viewer that She sees them and that She is the light that guides them.",
+            "loop": "The clip ends on direct eye contact with the star at full brightness. The opening frame has only a faint star, so replaying feels like the star being lit again.",
+            "share_trigger": "Someone sends it to a friend who is going through a dark stretch, with the message 'she sees you, you are not alone in the dark.' It is also easy to post for Tarashtami.",
+            "caption_hook": "Her name means star. It also means the pupil of the eye.",
+            "audio": "A low, soft drone with one clear bell tone when the third eye lights, and a faint rising shimmer as the star brightens.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Eye-level, front-facing waist-up framing. A very slow push-in begins at once, and the crown stays centered and fully framed.",
+                "action": "Her steady eyes hold on the viewer while a soft pale glow gathers in the vertical third eye, gently lighting the skin of Her brow. Her hair settles under its own weight.",
+                "purpose": "Gives immediate visible motion in the first 1.5 seconds. Face-centred work with a slow camera is what the video model renders most reliably, and it introduces the eye half of the meaning of Her name."
+              },
+              {
+                "duration": 6,
+                "camera": "The slow push-in continues at the same pace at eye level, moving to a slightly closer chest-up framing. The crown stays centered and fully inside the frame.",
+                "action": "The single guiding star above Her crown brightens steadily, casting a cool gleam over the crescent moon and the silver of the crown, while the third eye keeps its soft glow and Her calm gaze stays on the viewer.",
+                "purpose": "This is the payoff, where the star answers the eye. It makes the star half of the name visible and ends on a steady, comforting look into the camera."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 5,
+            "authenticity": 8,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is a faint pale glow gathering in a small third eye while the camera drifts. That is barely visible on a phone and is not the 'specific motion' the first 1.5 seconds need. Most viewers will scroll past a portrait that looks static.",
+            "virality: The payoff is slow and low-contrast: a star brightens over 6 seconds. There is no question, surprise or reveal, so nothing pulls people to the end. This is still a 'goddess stands there' portrait with a lighting change.",
+            "virality: The loop is weak. It ends on a full-brightness star and restarts on a faint one, so the replay has a visible brightness jump rather than a seamless return.",
+            "virality: The strongest idea, that Tara means both star and pupil of the eye, lives only in the caption. The video cannot show it, so viewers who skip the caption see a glowing forehead and a star.",
+            "virality: The share line ('she sees you') is sweet but generic comfort-devotional. It does not give a sender a reason to send this clip over any other glowing-goddess clip.",
+            "virality: The third eye lights up before the star answers, but the two are 4 and 6 seconds apart and read as separate lighting effects. The causal link ('the star answers the eye') is not obvious at a glance.",
+            "virality: Novelty is low. Slow push-in plus glow is the standard AI devotional clip. The only distinctive element is the etymology, and it is not on screen.",
+            "virality: Bell tone and shimmer help, but audio cannot rescue a visually quiet first second.",
+            "authenticity: Best grounded of the three. The star and pupil-of-the-eye readings of the name are both supported (Cologne lexicon), and the Tarapith eye legend is in the dossier.",
+            "authenticity: The story says the Tarapith tradition holds 'the third eye fell there' as settled fact. The dossier says sources split between 'third eye' and 'eyeball'. It is also one temple account, not canon.",
+            "authenticity: The 'eye lights, star answers' image is a modern synthesis of the two meanings. It is a poetic device, not a traditional iconographic scene, and the story should not imply it is traditional.",
+            "authenticity: The clip is only gentle and comforting. It leaves out her core purpose in the dossier, crossing over, rescue and protection from sudden danger. A devotee may find it pleasant but generic.",
+            "authenticity: 'Her hair settles under its own weight' draws attention to the loose hair, which the dossier flags as departing from jata or Ekajata. Nothing in the clip addresses it.",
+            "authenticity: 'Guiding star' sits close to the sailor-star idea. The dossier corrected that to a modern comparison, not a textual image. The clip avoids saying 'sailors', which is good.",
+            "feasibility: Two timed shots (4s then 6s) inside a single 10s render. The rubric penalises second-by-second timing, and the clip is one continuous render, so the 'eye lights first, then star answers' sequencing won't hold reliably. Both glows may start together or the order may invert.",
+            "feasibility: Sequential cause-and-effect ('the star answers the eye') relies on ordering. Seedance may brighten both at once, or the star may flicker, so the narrative payoff is not guaranteed.",
+            "feasibility: The brightening star is a small, isolated light source. Dense or small glows tend to shimmer and flicker. A soft glow in a vertical third eye is also a small localised element that may drift or distort the facial feature.",
+            "feasibility: Moving elements: camera push, third-eye glow, star brightening, hair settling, plus a cool gleam on the crescent and crown. That is at the limit of the 'no more than two moving elements besides hair' rule. The gleam on the crescent and crown is effectively a third lighting change.",
+            "feasibility: The brief says the opening frame has 'only a faint star', and that the third eye starts unlit. If the reference portrait already shows a bright star or a glowing eye, the start state is wrong. Whether the star and the third eye appear in the reference is unverified.",
+            "feasibility: Push-in from waist-up to chest-up while keeping the crown 'fully framed' is a tight constraint. A push-in toward the face may crop the star above the crown and kill the payoff.",
+            "feasibility: The loop claim ('replay feels like the star being lit again') only works if frame 1 truly has the faint star, and the end-to-start jump is a hard cut anyway.",
+            "virality fix: Make the first beat unmistakable: start with the third eye already dark and have it snap open or ignite with a clear flash in the first second, then let the star respond right away.",
+            "virality fix: Put the etymology on screen. Use a short text overlay such as 'TARA = STAR + PUPIL OF THE EYE' or a one-word reveal timed to the bell tone, so the clip works without the caption.",
+            "virality fix: Shorten the delay between cause and effect. Light the third eye at about 1s and the star at about 2.5s, so the viewer sees an eye-to-star spark in one glance.",
+            "virality fix: Fix the loop by starting the clip at a mid-brightness star, or by ending with a dim-down to the faint starting state, so the replay is seamless.",
+            "virality fix: Increase contrast: a darker night background and a brighter third-eye bloom, so the effect reads at thumbnail size on a phone.",
+            "virality fix: Sharpen the share trigger with a specific on-screen line a sender can mean ('when you feel unseen'), not just a generic comfort message.",
+            "authenticity fix: Soften the story and caption to 'at Tarapith, temple tradition says Sati's third eye fell', or 'one account'. Do not state it as fact.",
+            "authenticity fix: Say in the caption or description that the pairing of eye and star is a devotional reflection on her name, not a scripted scene.",
+            "authenticity fix: Add a line or visual cue for 'carries across', for example a faint path of starlight below the frame, so the clip carries the saviour meaning as well.",
+            "authenticity fix: Drop the hair-settling motion, or keep it minimal, so the departure from matted hair is not highlighted.",
+            "feasibility fix: Collapse to one continuous action: slow push-in with a single lighting change, the third eye and star glowing together as one soft event. Drop the ordered 'eye then star' structure and the 4s/6s split.",
+            "feasibility fix: Write it as one prompt: 'slow push-in, soft pale light gradually gathers at the third eye and the star above the crown glows slightly brighter, hair settles'. Remove the extra crescent and silver gleam.",
+            "feasibility fix: Keep the push-in very small so the star stays in frame. Use a starting framing that already has headroom for the star.",
+            "feasibility fix: Confirm the reference portrait has a visible unlit third eye and a faint star. Otherwise remove the claim about the opening frame.",
+            "feasibility fix: Ask for a steady soft glow rather than an 'answering' pulse, to avoid flicker."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "B",
+            "title": "She Looks Up, Then Looks at You",
+            "logline": "Her eyes lift to the guiding star, which brightens, then return to the viewer as soft starlight settles across Her face.",
+            "hook": "In the first second Her eyes move upward toward the star while Her head stays level, a clear and specific change in the portrait.",
+            "story": "Tara is the star that guides and the one who carries across. In this clip She looks to the star, takes its light, and turns that light toward the viewer. The beat reads as guidance being handed from the sky to the person watching.",
+            "loop": "Her gaze returns to the exact eye contact of the opening frame, so the clip can restart as She looks up again.",
+            "share_trigger": "People send it to someone who feels lost or at a crossroads, as a quiet 'someone is looking out for you' message. It also works as a late-night comfort save.",
+            "caption_hook": "When you can't find your way, look for the star.",
+            "audio": "Soft, spacious night ambience with a thin high tone that swells as the star brightens, then settles into a warm low hum.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Locked at eye level, front-facing waist-up framing, with the crown centered and fully framed.",
+                "action": "Her eyes lift slowly toward the guiding star above Her crown while Her head stays level, and the star brightens in response, giving the crown's crescent moon a cool edge of light. Her hair settles gently.",
+                "purpose": "Opens with visible motion that is easy to render, which is a gaze shift and one light change. It shows Her connection to the star and sets up the payoff."
+              },
+              {
+                "duration": 5,
+                "camera": "A very slow push-in at eye level, with the crown still centered and fully in frame.",
+                "action": "Her gaze lowers and settles on the viewer, and the star's cool light spreads softly over Her forehead, cheeks, crown and silver jewelry, giving Her face a gentle glow.",
+                "purpose": "The payoff is the moment of being seen. The guiding light passes from the star to the viewer, which is the emotional point of Her role as guide."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 7,
+            "authenticity": 6,
+            "feasibility": 5
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: It has the clearest cause and effect of the three: she looks up, the star brightens, she looks back at you. A viewer grasps it in a second, and a gaze shift is easy for the model to render.",
+            "virality: The hook is a gaze shift with the head level. Eye-only movement is subtle on a phone, so the first 1.5 seconds may not read as strong motion unless the star's response is also visible immediately.",
+            "virality: The payoff is soft: the light spreads across her face. 'Being seen' is emotionally nice, but it is not a surprise. The strongest moment is the look back at the viewer, and it arrives only at the 5-second cut.",
+            "virality: The loop is only partly handled. She ends on eye contact, which matches the opening, but the star is now bright while it opens dim, so the restart has a mismatch.",
+            "virality: Eye direction depends on the model rendering a clean upward glance without drifting the face. Expect uncanny eye shifts or identity wobble, and the brief says the gaze shift is easy, which is optimistic.",
+            "virality: Locked camera for 5 seconds, then a slow push-in, is a very quiet clip. The pacing risks a low completion rate.",
+            "virality: The caption ('When you can't find your way, look for the star') is the best share hook of the set, but it leans on the sailor/guide image the dossier says is a modern comparison, not a textual one. It is fine as a modern framing but should not be presented as tradition.",
+            "virality: Weak on novelty versus other glowing-goddess clips, though the look-up-then-look-at-you structure is more story-like than A or C.",
+            "authenticity: Theological inversion: Tara is the star, the saviour and the one who carries across. Here she looks up at a separate star, 'takes its light' and passes it to the viewer. That makes her a recipient or intermediary of a higher light. A devotee could read this as diminishing her.",
+            "authenticity: The caption 'When you can't find your way, look for the star' leans on the navigation and guiding-star image. The dossier's round-2 correction says no textual source supports that image. It is a modern comparison such as Stella Maris, and the concept presents it as her meaning.",
+            "authenticity: The story's 'guidance handed from the sky to the person' is an invented mechanism. It is not grounded in any tradition in the dossier and risks mixing in a Marian-style 'star of the sea' feel.",
+            "authenticity: Like A, it shows only a soft comforting look. It leaves out the protective, ferrying and wrathful sides of her character.",
+            "authenticity: The upward gaze reads like a prayerful or submissive posture, which does not fit a tantric Mahavidya who stands over a corpse and is fierce.",
+            "feasibility: The hook depends on a precise eye-only movement: eyes lift to the star while the head stays level. Seedance tends to move the whole head or lose the gaze direction. Eyes looking up at something above the crown also means the eyes may roll or the face may distort, and identity drift is likely.",
+            "feasibility: Gaze up, then gaze back to the viewer, makes a two-stage action that depends on timing (5s then 5s). The clip is one render, so the return to eye contact is unreliable and may never land on the exact frame-1 gaze, which breaks the loop claim.",
+            "feasibility: Moving elements: gaze lift, star brightening, gaze lowering, light spreading across forehead, cheeks, crown and jewelry, hair settling, and a push-in in the second half. That exceeds two moving elements.",
+            "feasibility: 'Star's cool light spreads over forehead, cheeks, crown and silver jewelry' is a broad lighting change across many surfaces. It is hard to control, and diffuse relighting tends to be inconsistent or to wash out the face.",
+            "feasibility: Cause and effect is reversed. The star is meant to brighten 'in response' to the gaze, which is hard to read when the star is small and above the crown.",
+            "feasibility: The camera is locked in shot 1 and then pushes in during shot 2, which implies a change mid-clip, a cut-like instruction.",
+            "virality fix: Make the gaze shift larger and faster, with the head tilting up slightly as well, so it is visible at thumbnail size. Have the star flare within the first second as the eyes arrive.",
+            "virality fix: Hold the look-down moment: add a one-beat pause and a small reaction such as a soft blink or a faint smile when her eyes land on the viewer, so the payoff has a clear punctuation.",
+            "virality fix: Make the loop seamless by dimming the star back to its starting level in the last half-second, or by starting the clip with the star already partly lit.",
+            "virality fix: Keep the caption but add an on-screen text prompt like 'look up' at the start to give the viewer a reason to watch the star and to wait for the return glance.",
+            "virality fix: Consider moving the look-back to roughly the 3.5 to 4 second mark so the payoff comes earlier and the rest of the clip lets it land.",
+            "authenticity fix: Make her the source: the star brightens because she turns her gaze toward it, or the star is an extension of her, such as her third eye or crown light. Her gaze should lead and the star should answer her.",
+            "authenticity fix: Change the caption to something grounded in the name, such as 'Tara means star, and the one who carries you across', and drop 'look for the star' as a navigation instruction.",
+            "authenticity fix: Rewrite the story so the light is hers and she gives it, not something she receives.",
+            "authenticity fix: If a gaze shift is kept, end on a protective, steady look and not only a soft glow.",
+            "feasibility fix: Drop the look-up and return. Keep the gaze on the viewer and let the star's light do the work, as in A.",
+            "feasibility fix: If the gaze shift is kept, make it a single slow eye movement with no return, and accept that the head may move slightly. Test it cheaply first.",
+            "feasibility fix: Use one camera instruction for the whole clip (a slow push-in).",
+            "feasibility fix: Limit the lighting change to the face. Remove the crescent and jewelry spill.",
+            "feasibility fix: Remove the exact-return-to-frame-1 loop claim."
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "results": [
+        {
+          "concept": {
+            "id": "C",
+            "title": "The Guardian Welcomes",
+            "logline": "Tara's steady guardian gaze softens into a faint closed-lip smile as Her third eye brightens once in welcome.",
+            "hook": "In the first second a slow blink opens into a firm, level guardian stare with the brows drawn slightly lower. The calm portrait visibly changes at once.",
+            "story": "Tara is the protector who guards her devotees from severe danger, and she is also the mother they call on. In one devotional account from Tarapith, the saint Bamakhepa called her mother. She is said to have appeared in a queen's dream and told her to feed him first because he was her son. The clip shows both sides in one face: a firm guardian look that eases into a faint, compassionate smile. The smile is kept restrained, closer to compassion than cheer. Her name also means the pupil of the eye, and Tarapith tradition holds that Sati's third eye fell there. So the one soft brightening of the third eye, at the moment of the smile, ties the welcome to her own story. The light carries no other meaning.",
+            "loop": "The final frame is the soft face with the lit third eye. When the clip restarts, the calm portrait opens into the firm guardian look again. Soft then firm then soft makes the repeat read as protector, then mother, again and again.",
+            "share_trigger": "People send it to a mother, or to a friend who is both fiercely protective and tender. Devotees share it as a greeting. The firm-to-gentle turn is easy to read at phone size, so non-devotees understand it too.",
+            "caption_hook": "Protector of her devotees. Mother to her children.",
+            "audio": "A low, warm string drone with soft bell chimes. One gentle swell as the smile and the third eye light arrive.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "One very slow push-in begins at eye level from the reference framing: front-facing, waist-up, crown centered and fully framed.",
+                "action": "Her eyes close in one slow blink and open into a level, steady stare, with the brows drawn slightly lower, so Her face reads as a firm guardian. Her hair settles gently under its own weight.",
+                "purpose": "A blink followed by a clear expression change is a visible motion in the first 1.5 seconds. It sets up the firm half of the contrast. Faces with a slow camera are what the model renders most reliably."
+              },
+              {
+                "duration": 6,
+                "camera": "The same slow push-in continues at eye level without changing speed or direction, ending slightly closer with the crown still centered and fully framed.",
+                "action": "Her brows ease and Her lips close into a faint, barely-there smile while Her eyes stay on the viewer. At that moment the third eye brightens once with a soft warm gold light, which makes the smile read as a mother's welcome. The smile and the light then hold steady to the end.",
+                "purpose": "The payoff is the visible turn from firm to gentle, with the third eye lighting at the instant of the smile so cause and effect are clear. Only the face and one soft light change, which keeps identity stable and avoids hands, water and shimmer."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 6,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is a blink plus a brow-lowering. Brow-lowering is a very subtle change on a phone screen and the blink is a slow, quiet start. It is visible motion, but it is low-energy and it does not create a question.",
+            "virality: Hold: the whole payoff is a barely-there closed-lip smile plus one light brightening. The viewer knows what is coming after 3 seconds of firm stare and the stakes are tiny, so the second half gives little reason to stay. Completion risk is real.",
+            "virality: Loop is weak at the seam: the clip ends on a soft smile with a lit third eye and restarts on a closed-eye blink and a firm stare. That is a hard reset, not a flow-back. The 'soft then firm then soft' framing is spin, because the viewer just sees a cut.",
+            "virality: The firm-to-soft turn depends on a 'faint, barely-there' smile and slightly lowered brows. Video models often fail to render such micro-expressions and may drift into a blank face or an off-model grin, and at phone size the difference may not read. The concept's own restraint works against its clarity.",
+            "virality: Story is overloaded for a 10 s face clip: Bamakhepa, the queen's dream and the Tarapith eye are all in the logic, but none is visible on screen. The viewer sees a woman's face soften. The mother/protector duality has to be supplied by the caption.",
+            "virality: Novelty is low. A face that softens and glows is close to the generic AI devotional portrait. Nothing in the frame is specific to Tara beyond the blue skin.",
+            "virality: The 'third eye brightens once' is a generic glow trope and the concept admits it carries no other meaning. The cause and effect (smile, then light) is arbitrary rather than a consequence.",
+            "virality: Save value is low. There is no fact or image people would keep, and the Bamakhepa story is not shown.",
+            "authenticity: The core idea is a firm guardian stare that eases into a faint smile. This is a generic 'warm portrait' arc. Tara's iconography is wrathful and dancing, standing over a corpse. The dossier says her story is crossing over, protection and rescue. The concept has no saving or guiding beat, and it ignores the dossier's note that a beat should show her saving or guiding.",
+            "authenticity: 'Protector then mother' is sound, but 'welcome' and 'greeting' recast her as a friendly, approachable figure. That drifts toward trivialising. She is the ferrier across samsara and a tantric Mahavidya, not a greeter. The title 'The Guardian Welcomes' and the share framing ('send to a mother', 'greeting') pull her toward a sentimental Mother's Day register.",
+            "authenticity: The Bamakhepa anecdote is a reported devotional account (the dossier says 'reportedly') about a queen's dream. It is used as the emotional engine of the concept and stated as 'she is said to have appeared'. The hedging is acceptable, but a 15-second clip with no text cannot convey it. The viewer will not see the Bamakhepa link, so the story is carried only in the caption and notes.",
+            "authenticity: The third eye lighting 'in welcome' is an invented meaning. The story paragraph links the light to the Tarapith eye legend and then says 'the light carries no other meaning', which contradicts itself. The light is tied to the Tarapith eye legend and to welcome at once. Nothing on screen makes that connection, so the Tarapith link is unreadable and the 'welcome' meaning is imposed.",
+            "authenticity: The 'brows drawn slightly lower' firm stare is a modern emotion-acting device and not iconographic. A faint smile is also not part of Tara's iconography, though some benign depictions exist. Pairing it with a wrathful, skull-garlanded form without care risks a tonal mismatch that a devotee may find sweetened.",
+            "authenticity: Hair 'settles under its own weight' leaves the anchor's loose hair, which the dossier flags as departing from the matted jata or Ekajata braid. The concept does not address this and adds a motion that draws attention to it.",
+            "authenticity: The 'pupil of the eye' meaning is given as a secondary sense. It is an acceptable fact but is stated here as part of the story without the 'star' meaning, which the dossier lists first.",
+            "feasibility: The motion is mostly face and light, which is the model's strongest territory. But it stacks two distinct expression changes in sequence: blink, then firm stare with lowered brows, then ease into a smile. That is a sequential effect in one continuous render, and it may blur into a muddy middle expression instead of a clear firm-to-soft turn.",
+            "feasibility: The hook asks for a slow blink opening into a firm stare with lowered brows 'in the first second'. That is fast and conflicts with the slow, restrained motion the model handles best.",
+            "feasibility: The third eye brightening 'at that moment' of the smile depends on synchronising two events. The 4s/6s split and 'at the instant of the smile' rely on second-by-second timing. The model may light the eye early or late, or not at all.",
+            "feasibility: The brightening is on a small element, the third eye. The warm gold glow could flicker or bleed onto the brow. It also has to match the reference portrait's third-eye rendering.",
+            "feasibility: The loop is imperfect. The final frame is a smile with a lit eye, but the first frame is the neutral portrait, so there is a visible jump on replay. This is a minor feasibility issue, but the story leans on it ('soft then firm then soft').",
+            "feasibility: Subtle brow-lowering and a 'barely-there' smile may be too faint to read at phone size, or may drift into a different face. Identity drift risk is moderate over 10s.",
+            "virality fix: Make the first 1.5 s bolder: start on closed eyes with a dark frame and have the third eye snap open first, or have her stare cut straight to the viewer at once, so the hook is a clear event rather than a slow blink.",
+            "virality fix: Make the turn larger and unmistakable. Use a visible shift such as the head tilting a few degrees, a soft exhale, or the eyes visibly warming, rather than relying on a micro-smile. Test the render at thumbnail size.",
+            "virality fix: Fix the loop by ending on the firm stare after the warmth, or by opening the clip on the softened face and ending on the blink closing. Then the last frame (eyes closing) flows into the first (eyes opening).",
+            "virality fix: Put the mother line on screen as a short text card: 'Protector. Mother.' Or tie to the Bamakhepa line: 'She told the queen: feed him first, he is my son.' That gives sends and saves a concrete reason.",
+            "virality fix: Cut the exposition to one idea. The story should be a single line a viewer can repeat, not three legends.",
+            "virality fix: Add one tangible Tara-specific element in frame, such as the star above the crown or the tiger-skin pattern catching the light, to separate it from generic goddess portraits.",
+            "authenticity fix: Reframe the clip as protector and ferrier rather than welcomer. Rename it (for example 'The Guardian Who Carries Across') and drop 'welcome' and 'greeting' from the logline, caption and share trigger.",
+            "authenticity fix: Keep the firm-to-gentle turn but add a visible rescue or guiding cue. For example, let faint starlight form a path toward the viewer as the smile arrives, echoing the recommended 'calming the poisoned sea' beat, so the clip shows crossing over and not only a facial expression.",
+            "authenticity fix: Pick one meaning for the third-eye light and state it consistently. The simplest is 'her sight protects', or the Tarapith eye legend flagged as devotional. Remove the contradiction ('ties to her story' versus 'carries no other meaning').",
+            "authenticity fix: Keep the smile very restrained, nearer a calm composure than a smile, so it does not undercut her fierce, tantric character. Do not let the expression read as cute or cheerful.",
+            "authenticity fix: Frame Bamakhepa as 'a devotional tradition from Tarapith' in the caption and keep it out of the on-screen content. Do not present the queen's-dream story as canonical.",
+            "authenticity fix: Either leave the hair still, or note in the production brief that the anchor's loose hair departs from the matted or single-braid iconography, and flag it for human review.",
+            "feasibility fix: Cut it to one expression change: hold a calm guardian gaze, then a single slow ease into a faint smile. Drop the separate blink-to-firm-stare step, or fold it into one natural blink.",
+            "feasibility fix: Remove the 'at that moment' sync. Have the third eye glow softly and gradually through the smile, so the cause and effect needs no precise timing.",
+            "feasibility fix: Drop the 4s/6s shot split and write it as one continuous action in a single prompt.",
+            "feasibility fix: Open the clip on the reference portrait with no 'first second' change. Let the slow push-in carry the early motion.",
+            "feasibility fix: Keep the glow subtle and warm with no rays or particles. Confirm the reference third eye is visible, centred and large enough to light at phone size."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "A",
+            "title": "The Eye That Is a Star",
+            "logline": "Her third eye and the star above Her crown glow together once, then ease back, as the camera drifts gently closer.",
+            "hook": "In the first second the third eye on Her brow begins to open with a clear pale-blue light, and the bright star above Her crown starts to glow with it against the deep midnight sky.",
+            "story": "Tara's name means star, and a genuine secondary sense of the word is the pupil of the eye. One temple account in Bengal says an eye of the goddess fell where Her temple town now stands, though sources differ between third eye and eyeball. The clip shows Her third eye and the star above Her sharing one soft light, so the two meanings of Her name read as a pair. It is a devotional reflection on Her name, not a scene from scripture. Her steady gaze on the viewer stands for the one who sees you and carries you through the dark.",
+            "loop": "The shared glow rises and then eases back to the soft level of the opening frame while Her gaze stays on the viewer. The last frame closely matches the first, so the replay returns to the same quiet portrait and the light gathers again.",
+            "share_trigger": "Someone sends it to a friend who feels unseen or is stuck in a long night, with the line 'Tara means star and the pupil of the eye: the one who sees you and carries you through.' The name fact gives the sender a reason to pick this clip over other glowing-goddess clips.",
+            "caption_hook": "Her name means star. It also means the pupil of the eye.",
+            "audio": "A low, soft drone with one clear bell tone as the light gathers at Her brow, then a gentle fade of the tone as the glow eases back.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Eye-level, front-facing waist-up framing with headroom above the crown. A very small, slow push-in begins at once, and the crown stays centered and fully framed with the star inside the frame.",
+                "action": "Her calm eyes hold on the viewer as the third eye opens and a clear pale-blue light spreads from it across Her brow. At the same moment the bright star above Her crown glows stronger in the same pale tone, so the eye and the star read as one shared light.",
+                "purpose": "Gives a visible change in the first second, with the light reading at phone size against the dark sky. The eye and star glowing together show both meanings of Her name in a single glance, and a single soft event holds up better in rendering than an ordered sequence."
+              },
+              {
+                "duration": 5,
+                "camera": "The slow push-in continues at the same gentle pace at eye level and settles on a framing only slightly closer than the opening. The crown stays centered and fully framed.",
+                "action": "Her gaze stays steady on the viewer as the light at Her brow and the star above Her crown ease back together to a soft glow close to the opening level, which returns the portrait to its quiet starting look.",
+                "purpose": "This is the payoff, a calm held look at the viewer that carries the sense of being seen and carried through. Easing back to the starting light makes the replay near-seamless."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 7,
+            "authenticity": 8,
+            "feasibility": 5
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is stronger than C. A third eye opening with pale-blue light and a star igniting is visible, high-contrast and readable at phone size, and it starts at 0 s. It is still a glow, which is a familiar trope, but it is a clear event.",
+            "virality: The payoff is front-loaded. The big event happens in the first second, then the clip spends 9 s easing back and holding a calm gaze. The retention curve may drop after the first glow because nothing new happens in the second half. The 'payoff' shot is just the glow fading.",
+            "virality: Loop is the best of the two. It ends on the opening light level, so the replay is near-seamless and the glow gathering again at the start feels like a pulse. The risk is that the seam is so smooth that the viewer sees no beginning or end, which works for a loop but does not add to the story.",
+            "virality: The name fact (Tara means star and pupil of the eye) is a real send/save hook and is the most distinctive thing in either concept. But it only lives in the caption. The viewer who does not read the caption sees a glowing third eye and star, so the clip needs to carry the idea on screen.",
+            "virality: The star and the eye glow together in the same pale tone, which makes the pair a visual rhyme but weakens the 'two meanings' reading: they look like one light effect, not two things becoming one.",
+            "virality: The send line ('for a friend who feels unseen') is plausible, but 'the one who sees you' is carried only by a steady gaze, which is passive. Nothing in the clip reaches toward the viewer.",
+            "virality: Rendering risk is moderate: a glowing third eye on a face and a bright star in the sky may bloom or flicker, and a slow push-in may drift the crown out of the frame. It is still much simpler than water or hands.",
+            "virality: Novelty is only moderate. A glowing third eye against a night sky is common in AI devotional clips, and the name fact is the only differentiator.",
+            "authenticity: The concept is grounded in the dossier. Tara means star, and 'pupil of the eye' is a documented secondary sense in the Sanskrit lexicon. The Tarapith eye legend is real temple tradition, and the dossier's round-2 beat for the eye and the star is closely followed.",
+            "authenticity: It handles uncertainty well. It notes that sources differ between third eye and eyeball, and it calls the piece 'a devotional reflection on Her name, not a scene from scripture'. This is the right level of care.",
+            "authenticity: The 'one who sees you and carries you through' reading mixes the pupil sense with the 'carries across' sense. Both are supported separately, but joining them is the creator's own synthesis. It is plausible and reverent, though it should be labeled as a reflection in the caption, not as a name etymology.",
+            "authenticity: The share-trigger line 'Tara means star and the pupil of the eye: the one who sees you and carries you through' blends fact with interpretation in one sentence. A reader could take 'carries you through' as part of the pupil meaning.",
+            "authenticity: The clip shows only a luminous face and a star. It carries no ferrying or rescue imagery and is silent on her wrathful, cremation-ground aspect. The result is gentle and safe but thin on her fierce character. This is acceptable for one short reel, but it presents only the benign side.",
+            "authenticity: The pale-blue light is a creative choice with no source. It fits her blue complexion and the star, and it is not objectionable.",
+            "authenticity: The hair issue (loose hair versus a matted jata) is not addressed, though the concept does not call attention to it.",
+            "feasibility: The star above the crown and the 'deep midnight sky' are not confirmed in the reference portrait. The dossier's anchor description lists blue skin, third eye, tiger skin, skull garland and serpents, with no star. If the star is in frame 1 but not in the reference, this fails the rubric. The 'headroom above the crown' framing also needs checking against the reference.",
+            "feasibility: The third eye 'begins to open'. If the reference has it drawn open or as a mark, an eye opening is a new facial feature appearing from nothing. That risks geometry drift or a second pupil. If it is closed, the hook still shows it already opening in frame 1.",
+            "feasibility: Two glowing elements, the brow light and the star, plus the camera push-in, all animate together. Dense or spreading glow is flagged as flicker and shimmer prone. A pale-blue light 'spreading across Her brow' may also tint the skin and hurt identity stability, since she is already blue.",
+            "feasibility: The glow has a rise-then-ease-back arc that must return 'close to the opening level'. This is timing-dependent, and the model does not reliably reverse an effect to match frame 1. The 'near-seamless' loop is therefore unlikely.",
+            "feasibility: The two glows are linked only by claiming they are 'one shared light'. There is no visible cause: nothing triggers the light. It reads as a generic glowing-goddess effect.",
+            "feasibility: The star is a small, distant element that the model may twinkle, drift or shift independently of the brow light, so the pair will not stay in sync.",
+            "virality fix: Add a second beat in the back half so the clip is not all decay. For example, the star drifts down and settles into the pupil of her third eye, or a line of light travels from the star to the eye. That shows 'star = pupil' as an event instead of two simultaneous glows.",
+            "virality fix: Differentiate the two lights: let the star ignite first, then a thin thread of light drops to the brow and the eye opens in answer. This gives an order, a cause and a consequence, and is still one simple gesture.",
+            "virality fix: Put a short text overlay on screen: 'Tara = star. Tara = pupil of the eye.' Place it at the glow peak so non-caption readers get the fact and so it is worth saving.",
+            "virality fix: Keep the near-seamless loop, but make the ending a tiny pulse of glow, not a flat hold, so the replay reads as a heartbeat.",
+            "virality fix: Lock the framing in the prompt (crown and star inside the frame, a very slow push-in) and avoid bloom on the star, which can flicker and cause artifacts.",
+            "virality fix: Use the 'seen' idea more actively: a single slow blink at the end that reopens on the first frame, so the gaze feels responsive and the loop gets a beat.",
+            "authenticity fix: In the caption and share text, separate the facts from the reflection. For example: 'Her name means star, and also the pupil of the eye. Devotees also know her as the one who carries across.' Keep 'sees you' as an explicitly devotional reading.",
+            "authenticity fix: Name the Tarapith legend in the caption as 'temple tradition' and keep 'third eye or eyeball' hedged. Do not make it the headline fact.",
+            "authenticity fix: If the format allows, add a restrained nod to her ferrying role, such as a faint path of starlight, without adding hands or water, which the notes say render poorly. Otherwise accept the gentle focus and make it a series choice.",
+            "authenticity fix: Add a note for human review on the loose hair versus the matted or Ekajata iconography, and keep the framing from drawing attention to it.",
+            "authenticity fix: Keep the glow soft and non-dazzling. Avoid any flashing or sparkle effect that would read as a generic 'magical goddess' filter.",
+            "feasibility fix: Confirm the star and sky are in the reference portrait. If not, remove the star, or regenerate the anchor with it before video.",
+            "feasibility fix: Do not animate the eye 'opening'. Use the third eye that exists in the reference and let it brighten softly. Animate only that one glow.",
+            "feasibility fix: Pick a single moving element: either the third eye glows, or the star glows. Keep the other static. Do not require them to match.",
+            "feasibility fix: Drop the 'ease back to opening level' requirement. End on the lit state and write the loop as a soft cut or fade instead.",
+            "feasibility fix: Make the glow gentle and local to the eye with no spreading wash across the brow. Add a simple visible cause, for example the gaze settling on the viewer as the light grows."
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "results": [
+        {
+          "concept": {
+            "id": "A",
+            "title": "The Star and the Eye",
+            "logline": "A star above Her crown brightens, and Her third eye glows softly in answer as the camera drifts gently closer.",
+            "hook": "From the first frame, one star in the midnight sky just above Her crown begins to brighten in a clean silver-white while the camera starts a slow drift toward Her calm face.",
+            "story": "Tara's name means star, and a documented secondary sense of the word is the pupil of the eye. A temple tradition in Bengal says Her third eye (some accounts say an eyeball) fell where Her temple town now stands. The clip stages the two meanings as cause and answer: a star in the sky brightens, then the third eye already on Her brow glows softly in reply. This is a devotional reflection on Her name, not a scene from scripture. The idea that She sees you and carries you through is the creator's own reading, joining the pupil sense with Her role as the one who carries across. Notes for human review: (1) the reference portrait has loose hair, while traditional images show a matted or single braid, so the framing stays on face and brow and does not draw attention to it; (2) this reel shows only Her gentle side, with no ferrying or fierce imagery, and that is a deliberate series choice; (3) the star must be confirmed as one of the stars in the reference sky, and the third eye must already exist on the reference.",
+            "loop": "The clip ends on the lit state, with the star bright and the brow glow soft. The replay is a soft fade back to the calm opening portrait, so each loop begins again with the star calling and the eye answering. The seam is a gentle reset, not a reverse of the glow.",
+            "share_trigger": "Someone sends it to a friend who feels unseen or is stuck in a long night. The fact that Tara means both 'star' and 'pupil of the eye' gives the sender a reason to pick this clip over other glowing-goddess clips. The sender adds their own line, such as 'May you feel seen tonight', so the reflection stays separate from the name fact.",
+            "caption_hook": "Her name means star. It also means the pupil of the eye.",
+            "audio": "A low, soft drone. One clear bell tone as the star brightens, then a second, softer and lower tone as the glow reaches Her brow. Both tones fade out together near the end.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Eye-level, front-facing waist-up framing with headroom above the crown. A very small, slow push-in begins at once, with the crown centered and fully framed and the star inside the frame.",
+                "action": "Her calm eyes hold on the viewer as one star in the sky just above Her crown slowly brightens in silver-white, which makes it the clearest point of light in the sky and sets up the answer to come. Her hair settles gently under its own weight.",
+                "purpose": "Gives a visible change at second zero that reads at phone size against the dark sky. The star is the first light and the cause, and the clip uses only gentle sky twinkle, which the model renders reliably."
+              },
+              {
+                "duration": 5,
+                "camera": "The same slow push-in continues at the same gentle pace at eye level and settles only slightly closer than the opening. The crown stays centered and fully framed.",
+                "action": "The third eye already on Her brow brightens into a small, soft, warm-white glow as Her steady gaze settles on the viewer, which makes the brow light read as the star's answer. The glow stays local to the eye and the star stays bright above Her crown to the last frame.",
+                "purpose": "This is the payoff: the star becomes an eye. A new light appears on Her face in reply, so the second half has its own event and the viewer feels seen. The warm-white glow is a different tone from the silver star, so the two read as two things becoming a pair."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 7,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Strongest hook of the two: the star brightens from frame 0 against a dark sky, which is a visible, specific event. It is still a small light, so it may read as a faint twinkle on a phone.",
+            "virality: Clear cause then answer structure (star, then the eye) gives the viewer a reason to hold for the second event. This is better than C's simultaneous glow.",
+            "virality: The answer arrives at about second 5, which is late for a 10s clip. The first five seconds are only a star brightening and a still face, so retention may drop before the payoff.",
+            "virality: The loop is weak. The clip ends lit and then 'fades back' to the calm opening, a reset rather than a flow. A hard-ish seam from lit to dark loses the completion and rewatch benefit.",
+            "virality: A third eye glowing in 'warm-white' is a subtle change on a face and may be barely visible at phone size, especially if the brow is already lit. This is the key payoff, so a faint result undercuts the whole clip.",
+            "virality: The star must be confirmed on the reference image, and the third eye must already exist. These are dependencies that could break the concept.",
+            "virality: Share and save value rely on the name fact and a sender's own line. It is the same fact as C's, with no unique visual. It is still a goddess portrait with glow effects, and novelty versus generic AI devotional clips is modest.",
+            "authenticity: The cause-and-answer logic is theologically awkward. A star in the sky brightens and Tara's third eye 'answers' it, so the goddess responds to a celestial object. But Tara is the star (the name means star). Her eye reacting to a star, and the loop line 'star calling and the eye answering', invert that relationship.",
+            "authenticity: 'The star becomes an eye' fuses two separate senses of the word into one visual metaphor. This risks reading as a literal claim that the star and the eye are the same thing.",
+            "authenticity: The concept deliberately omits ferrying, crossing and protection, which the dossier names as the core of her story. The clip reduces her to 'she sees you', and the share trigger ('feels unseen') drifts toward generic comfort content that could attach to any glowing deity.",
+            "authenticity: The star must be 'confirmed as one of the stars in the reference sky'. This is a production dependency that could force an invented element if the reference has no suitable star.",
+            "authenticity: The loop ends on the lit state and resets by fading to the opening portrait. A fade to a reset frame feels like a cut, which cuts against the reverent, steady tone.",
+            "authenticity: On the plus side, the concept labels itself as a devotional reflection and the creator's own reading, and it handles the 'third eye or eyeball' variation honestly. That handling is more careful than concept C's.",
+            "feasibility: The star above the crown and the third eye must both already be in the reference portrait. The concept admits this is unconfirmed ('the star must be confirmed'). If either is missing, the clip fails on anything in frame 1 that is not in the reference. This is a blocking dependency.",
+            "feasibility: The two-stage sequence (star brightens first, then the eye answers) is an ordered sequential effect that depends on timing within a single continuous render. The model may brighten both at once, or the eye may glow from the start, which breaks the cause-and-answer logic.",
+            "feasibility: Two light changes on two different areas (sky star and brow) plus push-in and hair settle is at the upper limit of moving elements. It is within the 'no more than two besides hair' limit only if the push-in is not counted, so it is borderline.",
+            "feasibility: A single star brightening in a field of other stars risks being lost or competing with the neighbouring stars twinkling. At phone size the 'clearest point of light' may not read. It needs a distinct, isolated star.",
+            "feasibility: The warm-white versus silver colour distinction between star and eye is subtle, and the model is likely to flatten it into one tone. It is not needed for the story and should not be relied on.",
+            "feasibility: The loop is a hard reset from the lit state to the calm opening, a visible jump. The concept calls it a 'gentle reset', but in practice it is a cut from bright to calm, which weakens replay value.",
+            "virality fix: Bring the third eye's answer forward to about second 3 and make it a clear, larger pulse, so there are two events in the first half. Let the second half hold the pair together, brightest at the end.",
+            "virality fix: Fix the loop by ending on the pair of lights at full and having the opening begin with them already dimming to the star-only state, or by easing both lights down over the last 1.5s, so the seam is continuous.",
+            "virality fix: Make the star larger and more distinct (a four-point glint or a single flare), and make the brow glow warm and bright enough to survive compression.",
+            "virality fix: Add a short text overlay such as 'Tara = star' at the start and 'Tara = pupil of the eye' as the eye lights, so the two meanings are tied to the two events and the clip is self-explanatory.",
+            "virality fix: Keep the clip simple. The star-to-eye link should be the only thing that moves, with no extra effects.",
+            "authenticity fix: Reverse or soften the causality: let the third eye glow first, or let both lights rise together, so the star reads as her light and not as something she answers.",
+            "authenticity fix: Keep the star and the eye as parallel meanings of her name, not a transformation, and phrase the caption accordingly (for example 'two meanings of her name, one gaze').",
+            "authenticity fix: Add a faint hint of guidance or passage, such as the star's light falling softly toward the viewer, so 'carries across' is not lost.",
+            "authenticity fix: Replace the fade-reset loop with an easing-back loop in which the lights return to their calm levels, matching the first frame.",
+            "authenticity fix: Keep the explicit 'devotional reflection' disclosure in the caption and the reviewer notes, and tie the share line to her role as protector and guide, not just to being seen.",
+            "feasibility fix: Check the reference first. Confirm one clearly isolated star above the crown and an existing third eye. If either is absent, rebuild the anchor rather than ask the video model to generate it.",
+            "feasibility fix: Simplify the prompt so the star brightens slowly and the third eye glow follows gently, without 'first' and 'then' timing language. Accept it if both brighten together, since the story still reads as a pair.",
+            "feasibility fix: Keep the star isolated, with a clear dark patch of sky around it, so the brightening reads at phone size.",
+            "feasibility fix: Drop the colour-contrast requirement, or treat it as a bonus rather than a story point.",
+            "feasibility fix: For the loop, either end on a modest glow that is close to the opening state, or lean into the soft-reset seam and keep the end-state glow low so the jump is less noticeable."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "C",
+            "title": "The Eye and the Star",
+            "logline": "As Her third eye glows softly, a single star above Her crown brightens, showing Tara as the guiding star who carries across.",
+            "hook": "The slow push-in is already moving from the first frame. Her steady gaze holds on the viewer while a soft silver-gold light begins to gather at Her third eye. The change is on the brow, so it reads at phone size.",
+            "story": "One idea: Tara's name means star, and also the pupil of the eye. The clip shows both meanings in one image. Her third eye glows, and one star above Her crown answers it, as a guiding light that carries across. Her expression stays calm and composed, a protector's watchfulness and not a smile. The light means one thing only: Her sight guides and protects. Caption note: the Tarapith tradition that Sati's third eye fell there, and the Bamakhepa account of Tara as mother, are devotional traditions. Both belong in the caption and not in the picture. Production note for human review: the anchor's loose hair departs from the matted braid or single braid of the usual iconography. It is kept almost still, with only a gentle settle.",
+            "loop": "In the last two seconds the third eye glow and the star ease back to their calm starting levels. The final frame, a steady gaze under a quiet sky, nearly matches the first frame. The loop then reads as a slow breath of light, with no cut from lit to dark. The push-in is so gentle that the small difference in framing is hard to see on replay.",
+            "share_trigger": "People send it to a friend going through a hard stretch, as a message that someone is watching over them and showing the way. Mythology and art fans save it for the fact in the caption, that her name means both star and the pupil of the eye. Viewers can read it in one glance at phone size.",
+            "caption_hook": "Her name means star, and also the pupil of the eye.",
+            "audio": "A low, warm string drone under soft bell tones. One slow, gentle swell as the star reaches its brightest, then a quiet fade that matches the light easing back.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "A very slow push-in at eye level from the reference framing: front-facing, waist-up, crown centered and fully framed. The camera does not tilt or change height.",
+                "action": "Her calm gaze stays level on the viewer while a soft silver-gold light gradually gathers at Her third eye, which slowly brightens until it gently lights the skin of Her brow. Her hair settles lightly under its own weight.",
+                "purpose": "Opens the clip with a visible, readable change on the face, with the light starting from the first second. It uses what the model renders best: a face, a slow camera and a soft light carried from the source image. Only one thing changes, and it is large enough to read on a phone."
+              },
+              {
+                "duration": 5,
+                "camera": "The same slow push-in continues at the same speed and direction, ending slightly closer with the crown still centered and fully framed at eye level.",
+                "action": "As the third eye glow reaches its fullest, the single star above Her crown gradually brightens in answer, which makes the guiding link between eye and star clear. In the last two seconds both lights ease back toward their calm starting levels while Her gaze stays steady on the viewer.",
+                "purpose": "The payoff is the answering star, which shows the meaning of Her name as eye and star. No precise timing is needed, because the star brightens gradually as the glow deepens. Easing both lights back makes the end nearly match the first frame, so the loop flows. The change stays simple: two lights, with no hands, water or particles."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 5,
+            "authenticity": 8,
+            "feasibility": 6
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is weak. A slow push-in on a still face with a glow 'gathering' is not specific motion in the first 1.5s. The viewer sees a goddess portrait, and the soft light barely shows against a lit face.",
+            "virality: Hold depends on a payoff (the star answering) that only arrives in the second half, around second 5-8. Nothing makes a scroller wait for it. There is no question or tension before then.",
+            "virality: The star is a small point of light above the crown and may be too minor to read on a phone. The 'answer' is subtle and easy to miss.",
+            "virality: The loop is the best part of this concept (ease back to the starting levels, near-identical first and last frames), but the clip spends its last two seconds fading. The viewer's most attentive moment is a deflating wind-down, so the payoff is short and the end is anticlimactic.",
+            "virality: This is nearly the generic 'goddess stands there and glows' clip the rubric penalises. The calm, composed expression means no emotional change and no consequence for the viewer.",
+            "virality: Send-worthiness is vague ('friend going through a hard stretch'). Nothing in the picture speaks to that. The star/pupil fact lives only in the caption, so the video alone doesn't carry the share.",
+            "virality: Visual causality is muddy: the glow peaks, the star brightens 'in answer', then both retreat. This is two lights breathing, not a clear cause and effect.",
+            "authenticity: The 'guiding star who carries across' idea is carried only by the star. Nothing in the clip shows crossing, rescue or protection, so the 'carries across' half of her purpose is claimed in the logline but not shown.",
+            "authenticity: The story states the name meanings as fact, which is accurate (star is the leading sense, pupil a genuine secondary sense). But the equation of the glowing third eye with the 'pupil' sense is the creator's interpretation, and the concept does not label it as one. A devotee or scholar could read it as an established iconographic link.",
+            "authenticity: The caption note says Sati's third eye fell at Tarapith. The dossier says sources vary between 'third eye' and 'eyeball', and the note leaves that out.",
+            "authenticity: The star above the crown is not part of her standard iconography. It is a creator's device, and the concept doesn't say so beyond 'the light means one thing only'.",
+            "authenticity: Showing only a serene, watchful Tara leaves out her ugra, wrathful side. The concept does not note this as a deliberate choice, unlike concept A.",
+            "authenticity: The loose hair is flagged as a departure, which is good. The only mitigation is that it is 'kept almost still'. The human reviewer should be told this is a known inaccuracy and not a decision.",
+            "feasibility: The 'single star above Her crown' is never confirmed to exist in the reference portrait. The concept's own payoff depends on it. If the star is not in the reference, it is a new object appearing from nowhere, and the rubric fails anything in frame 1 that is not in the reference. Concept A at least flags this check; C does not.",
+            "feasibility: The clip is a sequence of events: eye glow builds, then the star answers, then both ease back. That is sequential cause-and-effect with a three-stage arc, which leans on second-by-second timing. The shot split (5s + 5s) and 'last two seconds' fade-back are timing cues the model cannot follow in one continuous render.",
+            "feasibility: Two lights that must rise, answer each other, and then fall back make three or four moving elements counting the push-in and hair. The ease-back is the weakest part. Models tend to drift toward a monotonic brightening, not a symmetric return, so the loop-match promise is unreliable.",
+            "feasibility: A glowing third eye casting light on the brow skin is dense glow work on the face. It risks flicker, shimmer, and identity drift in the forehead region. The glow is localised, which helps, but 'lights the skin of Her brow' asks for relighting.",
+            "feasibility: The hook says light 'begins to gather' from the first frame, while the story calls the star's answer the payoff. Together with a face glow, this leaves the star as a small, easily missed element at phone size.",
+            "feasibility: The shots are written as two separate shots with separate camera notes, but the deliverable is one continuous 10s clip. The 'same push-in continues' phrasing is fine, but the shot split invites the cut-like timing the model cannot honour.",
+            "feasibility: Hair 'settles under its own weight' is fine, but it adds another moving element on top of two lights and the camera.",
+            "virality fix: Start with the third eye already dark or closed-looking and the sky empty, then make the star ignite sharply in the first second, so a clear event happens at the start. Then let the glow answer it.",
+            "virality fix: Move the star's brightening earlier (by about second 3) and give it a visible beam or line of light to the third eye, so cause and effect is unmistakable. Keep it as one simple line, not particles.",
+            "virality fix: Make the star bigger and brighter, with a clear contrast against a darker sky, so it reads at phone size.",
+            "virality fix: Shorten the ease-back to about 1 second, or end on the peak and loop with a quick light dip, so the payoff isn't buried.",
+            "virality fix: Add an on-screen text hook in the first second, such as 'Tara means star. And the pupil of the eye.', so the fact is in the video itself and gives the viewer something to wait for and send.",
+            "virality fix: Sharpen the share line: 'Send this to someone who needs to feel watched over tonight.'",
+            "authenticity fix: Add a caption line marking the eye-and-star pairing as a devotional reflection on her name, not scripture or a standard iconographic scene.",
+            "authenticity fix: Rewrite the caption note to read 'third eye (some accounts say eyeball)'.",
+            "authenticity fix: Either drop 'who carries across' from the logline and share trigger, or add a gentle visual cue of passage (the star's light settling as a faint path toward the viewer). Keep it minimal so the clip stays one idea.",
+            "authenticity fix: Add a production note that the calm-only portrayal is a deliberate series choice, and that she remains an ugra, wrathful-protective figure.",
+            "authenticity fix: Keep the calm, non-smiling expression and the strict ban on graphic or fierce imagery, which are both respectful and consistent with the dossier.",
+            "feasibility fix: Verify that the star and the third eye are both visible in the reference portrait. If the star is missing, drop it or regenerate the anchor with the star baked in before animating.",
+            "feasibility fix: Reduce to one intentional change: the third eye glow brightens slowly and the star stays static or twinkles very gently as a background element. Do not require an answering relationship or a timed ease-back.",
+            "feasibility fix: Drop the ease-back-to-start loop claim, or write it as a soft, loosely phrased settling. Do not specify 'last two seconds'. Accept a loop that is a gentle reset on replay, as Concept A does.",
+            "feasibility fix: Write the prompt as one continuous description (slow push-in, calm gaze, third eye gradually brightens, star twinkles faintly) with no per-second beats.",
+            "feasibility fix: Keep the glow soft and low-intensity, with the colour carried from the reference, to limit shimmer and relighting of the brow."
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "results": [
+        {
+          "concept": {
+            "id": "C",
+            "title": "The Eye and the Star",
+            "logline": "Tara's third eye lights up softly as the camera slowly pushes in, and the stars behind Her twinkle, watching over the viewer.",
+            "hook": "From the first moment the camera creeps toward Her calm, level gaze, and within the first second Her third eye lights up with a clear silver-gold glow. The viewer sees one distinct event on the brow, right at the centre of the phone screen, set against the deep midnight blue of the sky. The question the viewer carries forward is what this goddess is watching over.",
+            "story": "One idea: Tara's name means star, and a genuine secondary sense of the word is the pupil of the eye. The clip pairs them in one image, with a watchful third eye under a sky of stars. This pairing is a devotional reflection on Her name, not scripture and not a standard iconographic scene. The glow means one thing only: Her sight watches over and protects. The 'carries across' reading of Her name is left to the caption so the clip stays one idea. Her expression stays calm and unsmiling, a protector's steadiness. Caption notes for human review: (1) the Tarapith tradition says Sati's third eye fell there (some accounts say eyeball), and the Bamakhepa account of Tara as mother is also devotional tradition; both belong in the caption, not the picture. (2) The calm-only portrayal is a deliberate series choice. She remains an ugra, wrathful-protective figure, and this clip shows only the watchful side. (3) Known inaccuracy, not a decision: the anchor's loose hair departs from the matted braid or single braid of usual iconography. It is kept nearly still, with only a gentle settle. (4) Pre-production check: confirm the third eye is clearly visible in the reference portrait. The clip does not depend on any single star being present. The sky stars are simply allowed to twinkle faintly.",
+            "loop": "The clip ends with the glow at its fullest and the gaze steady, which gives the longest possible payoff. On replay the portrait returns to its calm starting look, so the loop reads as a gentle reset: the glow lights up again in the first second, and the eye is once more the event the viewer waits for. The framing difference from the slow push-in is small enough to pass on replay.",
+            "share_trigger": "People send it to someone who needs to feel watched over tonight, because the glowing eye gives a clear, quiet picture of being looked after. Mythology and art fans save it for the caption fact that her name means both star and the pupil of the eye.",
+            "caption_hook": "Tara means star, and also the pupil of the eye. Send this to someone who needs to feel watched over tonight.",
+            "audio": "A low, warm string drone under soft bell tones. One gentle bell note marks the moment the third eye lights up, then the drone holds steadily to the end.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "A very slow push-in at eye level from the reference framing: front-facing, waist-up, crown centered and fully framed. The camera does not tilt or change height.",
+                "action": "Her calm gaze stays level on the viewer while Her third eye lights up with a soft silver-gold glow in the first second, which makes the brow the clear focus of the frame. The glow then keeps brightening gently, and the stars behind Her twinkle faintly. Her hair settles lightly under its own weight.",
+                "purpose": "Gives an early, specific event: the third eye lighting up near the start. It rests on what the model renders best: a face, a slow camera and a soft light carried from the source image. The glow stays low-intensity and keeps the colours of the reference, which limits shimmer on the brow."
+              },
+              {
+                "duration": 5,
+                "camera": "The same slow push-in continues at the same speed and direction, ending slightly closer with the crown still centered and fully framed at eye level.",
+                "action": "The third eye holds its soft glow at its fullest, which keeps Her brow luminous against the dark sky, while Her gaze stays steady on the viewer and the stars behind Her go on twinkling gently.",
+                "purpose": "Holds the payoff at its peak so the most attentive seconds show the full image, an eye of light under the stars, instead of a fade. The clip is one continuous description of a gradual glow, so the model has no timed cues to follow."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 4,
+            "authenticity": 7,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is better stated than shown: 'third eye lights up within the first second' is a real event, which is stronger than A's gradual brighten. But it is described as a 'soft' glow plus a very slow push-in, so the visible motion is faint. On a phone in a feed, a soft silver-gold glow on a forehead may not stop a scroll.",
+            "virality: Hold: the only question is 'what is this goddess watching over', which the clip never answers. After the eye lights up in second 1, seconds 2-10 are the same glow held at peak with twinkling stars. It is a 9-second static hold. Retention would fall off.",
+            "virality: Loop is admitted to be a 'reset' and not a flow: the clip ends at the fullest glow, then jumps to the dim starting look, and the push-in framing differs between the ends. That is a visible cut at the loop point and it works against completion/replay.",
+            "virality: The 'event' is a face glowing, with no consequence. Nothing is affected by the gaze, nothing is protected or guided. 'Watching over' is asserted by the caption, not shown. This is the generic 'goddess stands there' scene with a light effect.",
+            "virality: Concept is almost identical to A (star + third eye + stars twinkling), so the team would be producing two near-duplicates; neither is novel versus generic AI devotional clips.",
+            "virality: Send-worthiness relies on the caption line 'send this to someone who needs to feel watched over tonight'. This is an explicit send prompt, which is a mild plus, but the clip's visuals do not carry the feeling. A static glowing eye may also read as eerie or surveillance-like rather than comforting.",
+            "virality: Slow push-in plus a glow at low intensity is safe for the model, but it is safe to the point of being dull. Nothing differentiates it from thousands of AI deity clips.",
+            "authenticity: The concept fuses the two senses ('pairs them in one image'). It also assigns the glow a single fixed meaning, 'Her sight watches over and protects'. No source says the third eye signifies protective watching. This is an invented meaning, though flagged as devotional reflection. The 'watched over tonight' framing also carries a faint surveillance connotation that sits oddly with a maternal goddess.",
+            "authenticity: The 'lights up within the first second' effect, a bell chime and a push-in on the glowing brow, risks reading as a special-effects power-up or a laser-eye moment. The third eye in Shaiva-Shakta context is tied to destructive fire and insight. A sudden glow could trivialise it for a devotee.",
+            "authenticity: The colour direction is inconsistent. It specifies 'silver-gold' glow but also says the glow 'keeps the colours of the reference'. This invites drift away from the locked anchor.",
+            "authenticity: As in A, it shows only the calm side of an ugra goddess. It does acknowledge she remains ugra, but nothing in the picture shows it. The Bamakhepa and Tarapith material is pushed into the caption, so the visual carries little tradition-specific content.",
+            "authenticity: The hair is acknowledged as inaccurate, yet it is still animated ('settles lightly'), and the loop is a visible reset, not a seamless return. The loop issue is a craft problem more than an authenticity one.",
+            "authenticity: The caption hook asks for the clip to be sent to 'someone who needs to feel watched over', which turns a name-etymology reflection into a comfort-meme format. It is a mild trivialising risk.",
+            "feasibility: Two elements move besides the camera: the third-eye glow and the twinkling stars. That is within the limit, but twinkling stars plus a glowing brow are both shimmer-prone glow effects. The stars twinkle is the weaker element and could be dropped.",
+            "feasibility: The glow is said to 'light up within the first second' and then 'keep brightening gently'. This is a mild timing reliance and it conflicts with the continuous-render nature. A glow that appears quickly in the first second may also pop or flicker instead of rising smoothly.",
+            "feasibility: The third eye must already be in the reference and visible. The concept flags this only as a pre-production check, so the whole clip fails if the check fails. Lighting up a feature that is present is fine, but it must be visibly unlit in the reference.",
+            "feasibility: The loop is weak. Ending at peak glow and relying on a 'gentle reset' on replay produces a visible pop from lit to unlit, and from a pushed-in to a wider frame. The claim that the difference is 'small enough to pass' is optimistic. This is a polish issue, not a feasibility one.",
+            "feasibility: 'Watching over the viewer' is carried only by the glow and the steady gaze. The cause and effect is thin: the eye lights up for no visible reason. It is an acceptable meditative beat but not much of a story.",
+            "feasibility: Shot 2 repeats shot 1 and is effectively a hold, so the 5+5 split is cosmetic. The prompt should be written as one continuous action, not two shots, because there are no cuts.",
+            "virality fix: Use a stronger ignition in the first 0.5s: the brow goes from dark to a bright, crisp point of light with a quick small bloom, then the glow settles. Make the contrast high enough to read at thumbnail size.",
+            "virality fix: Give the gaze a consequence in the second half: as the eye holds, the stars brighten in a wave toward the viewer, or a single star descends toward the camera and resolves into a light on the viewer's side. That answers 'what is she watching over' with something shown.",
+            "virality fix: Fix the loop: either end by easing the glow down to the opening state with the push-in reversing (or a locked camera), or end on a bright eye that matches a first frame already glowing. Avoid a hard reset with mismatched framing.",
+            "virality fix: Cut the nine-second hold; change something every 2-3 seconds, for example ignition, stars respond, one star settles above her crown, then return.",
+            "virality fix: Differentiate from A or merge the two. There is one star-and-eye idea here; pick the version with the clearest visible cause and effect and drop the other.",
+            "virality fix: Consider replacing the concept with the dossier's recommended beat (calming the poisoned sea, with a path of starlight forming toward the viewer), which has a real before/after and ties to her saviour story.",
+            "authenticity fix: Remove the single-meaning claim ('one thing only'). Describe the glow as a reflection on her name and leave its meaning open, or tie it to the dossier-grounded 'saviour / carries across' reading.",
+            "authenticity fix: Replace the abrupt light-up with a slow, gradual kindling of the brow light so it reads as a blessing and not a power-up. Drop or soften the bell stinger at the moment of ignition.",
+            "authenticity fix: Fix the glow colour to a single value that matches the anchor, for example soft silver, and delete the 'silver-gold' wording.",
+            "authenticity fix: Keep the iconographic attributes (tiger-skin, serpent, skull garland) in frame, and have the caption briefly name Ugra Tara so the calm portrayal is not mistaken for her whole nature.",
+            "authenticity fix: Keep the hair still. Confirm the anchor's third eye is visible before generation, as the concept itself notes.",
+            "authenticity fix: Reword the caption: 'Tara means star, and also the pupil of the eye', then add one line on Tarapith, flagged as temple tradition (third eye or eyeball), and drop the 'feel watched over tonight' pitch.",
+            "feasibility fix: Write the prompt as a single continuous 10 second move: slow push-in, third eye gradually brightening to a soft silver-gold, steady gaze. Remove the 'first second' trigger and let the glow build slowly over the clip.",
+            "feasibility fix: Keep stars static or very faintly twinkling, ideally as already present in the reference, or drop the twinkle to reduce shimmer risk. The glow is the one intentional change.",
+            "feasibility fix: Confirm the third eye is visible and unlit in the reference portrait before generation, and keep the glow low-intensity and matched to the reference palette.",
+            "feasibility fix: Keep the push-in very slow and short in distance so that identity and framing stay stable and replay looks close to the start.",
+            "feasibility fix: Consider letting the glow settle at a moderate level instead of peak, which reduces the lit-to-unlit pop on replay."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "A",
+            "title": "Star and Eye",
+            "logline": "Her third eye and the stars behind Her brighten together, two meanings of Her name, then ease back to calm.",
+            "hook": "From the first second, Her third eye begins to glow softly in silver-white while the stars behind Her brighten with it, so brow and sky read as one pair of lights.",
+            "story": "Tara's name means star, and a documented secondary sense of the word is the pupil of the eye. A temple tradition in Bengal says Her third eye (some accounts say an eyeball) fell where Her temple town now stands. The clip shows the two meanings side by side as parallel lights. Her brow and the sky brighten together, so the stars read as Her own light and not as something She answers. The star and the eye are not fused into one thing. The soft light that settles over Her face and reaches toward the viewer is a quiet hint of Her role as the guide who carries souls across. This is a devotional reflection on Her name, not a scene from scripture. The link between being seen and being carried through is the creator's own reading. Notes for human review: (1) the reference portrait has loose hair, while traditional images show matted or single-braid hair, so the framing stays on face and brow; (2) this reel shows only Her gentle side, a deliberate series choice, and the ferrying story is left to other reels; (3) the reference must already show the third eye, and if it does not, rebuild the anchor instead of asking the model to generate it; (4) no single star needs to be picked out, because the whole sky brightens gently and evenly, and the caption carries the devotional-reflection disclosure.",
+            "loop": "The lights ease down together over the last three and a half seconds and end at the same calm level as the first frame. The camera is locked, so the framing is identical at both ends and the replay flows straight back into the brow beginning to glow, with no fade or jump.",
+            "share_trigger": "Someone sends it to a friend facing a long, dark stretch, with a line such as 'May you be guided through this night.' The name fact (star and pupil of the eye) gives the sender a reason to choose this clip, and the line ties the clip to Her role as protector and guide.",
+            "caption_hook": "Tara means star. It also means the pupil of the eye. Two meanings of one name, one gaze.",
+            "audio": "A low, soft drone. A single clear bell tone swells gently as the brow and stars brighten, then fades gradually with the lights so the sound returns to the drone alone as the clip loops.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Eye-level, front-facing waist-up framing, locked in place, with the crown centered and fully framed and the starry midnight sky behind Her.",
+                "action": "Her third eye begins to glow in soft silver-white while the stars behind Her brighten gently, which makes the brow and the sky form a clear pair of lights by about second 3 against the dark. Her calm eyes stay on the viewer, and Her hair settles gently under its own weight.",
+                "purpose": "Gives a visible change from the first second and brings both lights in early, so the viewer does not wait for the payoff. The two lights rise together as parallel meanings of Her name, and the model can follow a simple simultaneous brightening."
+              },
+              {
+                "duration": 5,
+                "camera": "The same locked eye-level framing, with the crown centered and fully framed.",
+                "action": "The brow glow and the starlight reach their fullest at about second 6, and a soft silver light settles across Her face and shoulders, which gives the feeling of a guiding light turned toward the viewer. Both lights then ease down together to the calm level of the opening, which makes the last frame match the first.",
+                "purpose": "The payoff is the pair held at full brightness for a moment, followed by a gentle return that matches the first frame so the loop is seamless. The light on Her face hints at guidance and keeps Her steady and reverent."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 4,
+            "authenticity": 8,
+            "feasibility": 5
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is weak: a soft glow 'begins' at second 0, but a gentle brightening of a brow and a starfield is slow, low-contrast and easy to miss on a phone. It is a mood, not a visible event. It also fails the 'specific motion in 1.5s' test.",
+            "virality: Hold is thin. No question is posed and nothing is withheld. The payoff (both lights at peak around second 6) is a bigger version of what the viewer already saw. Nothing makes a viewer stay until second 10.",
+            "virality: Loop is the best part (lights return to the opening level, locked camera), but a loop that ends at 'calm' means the replay starts at the same low-energy state. It is clean but gives no pull to rewatch.",
+            "virality: The claimed 'two meanings side by side' is only legible with the caption. The visual shows a glowing forehead and stars. A viewer will not decode 'star' versus 'pupil of the eye' from the picture, so the concept depends on text to work.",
+            "virality: Two simultaneous lights brightening is simple for the model, but it is also generic 'goddess stands there glowing'. This is the standard AI devotional clip: a static front-facing waist-up pose, a glow, a drone.",
+            "virality: Gestures and consequences: nothing happens as a result of the glow. The sky 'answering' is explicitly ruled out, so there is no cause and effect.",
+            "virality: Send-worthiness is a generic 'may you be guided through this night'. The star/pupil fact lives in the caption, so the clip itself is not what is sent. The recipient gets a pretty glow.",
+            "virality: Save value is low beyond the one etymology fact. The clip does not use her actual story (ferrying, rescue), which the dossier flagged as her core.",
+            "virality: Hair 'settles under its own weight' is a vague, trivial motion that adds nothing and may make the brow flicker.",
+            "authenticity: The core claim is grounded: star and pupil of the eye are both documented senses of 'tara', and the Tarapith third-eye/eyeball tradition is flagged as tradition. The concept labels the pairing as the creator's devotional reflection, not scripture, and the caption carries that disclosure. This is the strongest point in its favour.",
+            "authenticity: It shows only the gentle side of an ugra, wrathful-protective goddess. No wrathful or tantric iconography is visible (corpse, tiger-skin, skull garland, cremation ground). A devotee may find a serene glowing portrait generic, since it could be any blue goddess. The deliberate series choice is noted, but the result is thin on Tara-specific meaning.",
+            "authenticity: The third eye is linked to the pupil sense by wordplay, not by tradition. The Tarapith legend concerns Sati's eye falling, not Tara's own pupil. The caption line 'one name, one gaze' blurs this, and it works against the story text's own statement that the two are not fused.",
+            "authenticity: The share line 'May you be guided through this night' leans on the night-guide image. The dossier says this is a modern comparison (Stella Maris), not textual. It is acceptable as a wish, but it should not be presented as her documented role.",
+            "authenticity: 'Her hair settles gently' draws attention to the loose hair that departs from the matted or single-braid iconography. The concept admits the hair is wrong but still animates it.",
+            "authenticity: Presenting the stars as 'Her own light and not something She answers' is a cosmological assertion beyond the sources. It is disclosed as the creator's reading, but it is still an assertion.",
+            "feasibility: Two simultaneous glow changes are required: the third eye brightens and the whole starfield brightens. The rubric says to prefer a few elements moving clearly and slowly, and these are two dense-glow effects, which are exactly where flicker and shimmer appear. A global sky brightening is also not a camera-led or face-led motion.",
+            "feasibility: The brief leans on second-by-second timing: 'clear pair of lights by about second 3', 'fullest at about second 6', and 'ease down over the last three and a half seconds'. The clip is one continuous render and cannot hit these cues. A rise, hold and return to a matching frame is an arc the model will not honour.",
+            "feasibility: The loop depends on the last frame matching the first, meaning the glow and starfield must return to baseline brightness. Seedance has no end-frame guarantee, so brightness will likely drift or stay lit. 'Locked camera, so framing is identical' only holds if identity and lighting do not drift, which is unlikely over 10 seconds.",
+            "feasibility: The hook says the third eye 'begins to glow from the first second', yet the loop requires frame 1 to be at calm baseline. Both the glow-on and glow-off states cannot be in frame 1 and the reference, so the brow glow is only defensible if the reference portrait shows an unlit third eye. The concept itself admits that the reference must already show the third eye, which is an unverified dependency.",
+            "feasibility: A 'soft silver light settling across Her face and shoulders' is a third lighting change. It is vague, it re-lights the face (identity and skin-tone drift risk), and it has no visible cause, since there is no light source in the scene.",
+            "feasibility: The stars 'brighten gently and evenly' as a whole sky. Uniform brightening of many small points is hard to control, and models tend to twinkle unevenly or add or remove stars.",
+            "feasibility: The wording is oddly mixed: 'the stars read as Her own light' and 'a guiding light turned toward the viewer' are interpretive notions the viewer cannot see. There is no cause and effect on screen, only two things lighting up.",
+            "virality fix: Make the first frame already dramatic: start with the brow dark and the sky dark, then within the first 0.5-1s a clear, higher-contrast flash or ignition of the third eye, followed by the stars igniting outward from it in a visible ripple. The change should be unmistakable at thumbnail size.",
+            "virality fix: Give the brightening a consequence so the viewer has something to wait for. For example, the stars light up one by one from the brow outward, ending with one star directly above the crown settling into place. Or a thin line of light travels from the eye up to the sky. Use the Tara-as-star pun as a visible event, not a simultaneous fade.",
+            "virality fix: Add an on-screen text hook in the first second, for example 'Tara = star. Also: the pupil of the eye.', so the pairing is legible without audio.",
+            "virality fix: Design the loop so the end motivates replay: end on the lights extinguishing to just the third eye as one point, which is the first frame, so the ignition feels like a fresh event every loop.",
+            "virality fix: Reconsider using the dossier's stronger story beats (calming the poisoned sea with a path of starlight toward the viewer, or the scissors cutting a thread). They have actual cause and effect, which this concept lacks.",
+            "virality fix: Drop the hair-settling motion; keep the face still so the glow is the only change and avoids brow shimmer.",
+            "authenticity fix: Change the caption to 'two meanings of one name' and drop 'one gaze', so the caption matches the story's no-fusion position.",
+            "authenticity fix: Keep Tara-specific attributes visible in the waist-up frame (tiger-skin wrap, serpent, skull garland) so the image reads as Tara and not a generic goddess. Have the caption name Ugra Tara and the protective-wrathful aspect in one line.",
+            "authenticity fix: Remove the hair-settle motion and keep the hair static, or crop to avoid it, until the anchor is rebuilt with jata or an Ekajata braid.",
+            "authenticity fix: Rephrase the share line as a blessing without the sailor/night-guide framing, for example 'May you be carried through', which matches the 'carries across' etymology in the dossier.",
+            "authenticity fix: In the caption, state outright that the star-and-eye pairing is a reflection on her name and not a scriptural scene, and note that the Tarapith account varies between third eye and eyeball.",
+            "feasibility fix: Cut to one primary change: the third eye glowing softly, with stars left as a faint ambient twinkle already present in the reference. Drop the synchronised starfield brightening and the face-wash light.",
+            "feasibility fix: Remove all second-based cues ('by about second 3', 'at about second 6', 'last three and a half seconds') and describe a single continuous slow brightening.",
+            "feasibility fix: Drop the engineered ease-down loop. Either accept a hard cut on replay, or design the clip to end at a state that is natural to loop (for example a steady glow and steady gaze) instead of promising an identical first and last frame.",
+            "feasibility fix: Add a slow push-in, which is the reliable motion, to give the clip life without depending on lighting choreography.",
+            "feasibility fix: Verify against the reference portrait that the third eye is visible and unlit, and that the stars are already in frame, before generating. Do not rely on the model to add either.",
+            "feasibility fix: Test cheaply that a soft low-intensity glow does not shimmer on the brow, and keep the glow colour matched to the reference."
+          ],
+          "passed": false
+        }
+      ]
+    }
+  ]
+}

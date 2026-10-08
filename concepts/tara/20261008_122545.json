@@ -1,0 +1,1139 @@
+{
+  "character": "tara",
+  "passed": false,
+  "rounds": 5,
+  "model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 1.0421,
+  "llm_calls": 24,
+  "final": {
+    "id": "E",
+    "title": "She Leans Toward Her Own",
+    "source_seed": "The mother of the devoted: She turns toward the viewer, recognising them as Her own.",
+    "logline": "Tara's gaze settles on you and She leans gently closer, and the star above Her crown brightens in answer.",
+    "hook": "In the first 1.5 seconds Her calm open eyes settle on the lens and Her head and shoulders begin a slow, small lean toward you, so Her face grows slightly closer.",
+    "story": "Devotees at Tarapith call Tara a mother to those who call on Her, though She is also a fierce protector. One devotional account tells of the saint Bamakhepa, who was beaten for eating the offering first. Tara is said to have appeared in a queen's dream and told her to feed him first because he was Her son. This is a devotional story, and the clip does not retell it literally. It carries the feeling of the fierce one turning toward someone and recognising them as Her own. She meets the viewer's eyes with a calm, soft face and leans a few degrees closer, and the star above Her crown, already in the reference portrait, brightens gently in answer. That brightening is a creators' symbol for being noticed, not a textual detail. The third eye stays unlit throughout, as in the reference. The tiger-skin wrap and skull garland stay in view. The loose hair in the reference differs from the matted or braided hair of the tradition. This is logged for human review, and the framing keeps attention on the face and the star.",
+    "loop": "The clip ends on the held, closer gaze with the star bright. The editor loops it with a short crossfade back to the opening portrait, so the replay reads as Her turning toward you again and the render does not need to reverse its motion.",
+    "share_trigger": "Sent to someone going through a hard time. The moment Tara looks straight at you, leans in and the star above Her brightens reads as being seen and cared for, and it promises nothing more.",
+    "caption_hook": "Send this to someone who needs to be seen.",
+    "audio": "A low, steady tone under faint, quiet water, with one soft low bell note and a gentle breath as the star brightens, then fading into the tone.",
+    "shots": [
+      {
+        "duration": 4,
+        "camera": "Camera holds steady at eye level on the three-quarter-length portrait, crown with the sun disc centered and fully in frame, star above it, third eye unlit.",
+        "action": "Her open eyes settle on the lens and Her head and shoulders lean slowly forward by a few degrees, which brings Her calm face slightly closer to the viewer. Her hair settles gradually under natural gravity as She leans.",
+        "purpose": "The hook is immediate. Being looked at directly by Her stops the scroll, and the small lean makes the viewer feel noticed without looming."
+      },
+      {
+        "duration": 6,
+        "camera": "Camera holds steady at eye level, crown centered and fully in frame, tiger-skin wrap and skull garland visible.",
+        "action": "She completes the same slow lean and rests Her soft gaze on the viewer, and the star above Her crown brightens gently in answer, which lights the dark sky around it with a calm, steady glow. Her hair continues to settle under natural gravity.",
+        "purpose": "The payoff is the star answering Her gaze, so the sky responds to being seen. The clip ends on the closer, held look, which gives a lasting feeling of being watched over and gives the editor a clean point to loop from."
+      }
+    ]
+  },
+  "final_scores": {
+    "virality": 3,
+    "authenticity": 7,
+    "feasibility": 8
+  },
+  "finalists": [
+    {
+      "concept": {
+        "id": "E",
+        "title": "She Leans Toward Her Own",
+        "source_seed": "The mother of the devoted: She turns toward the viewer, recognising them as Her own.",
+        "logline": "Tara's gaze settles on you and She leans gently closer, and the star above Her crown brightens in answer.",
+        "hook": "In the first 1.5 seconds Her calm open eyes settle on the lens and Her head and shoulders begin a slow, small lean toward you, so Her face grows slightly closer.",
+        "story": "Devotees at Tarapith call Tara a mother to those who call on Her, though She is also a fierce protector. One devotional account tells of the saint Bamakhepa, who was beaten for eating the offering first. Tara is said to have appeared in a queen's dream and told her to feed him first because he was Her son. This is a devotional story, and the clip does not retell it literally. It carries the feeling of the fierce one turning toward someone and recognising them as Her own. She meets the viewer's eyes with a calm, soft face and leans a few degrees closer, and the star above Her crown, already in the reference portrait, brightens gently in answer. That brightening is a creators' symbol for being noticed, not a textual detail. The third eye stays unlit throughout, as in the reference. The tiger-skin wrap and skull garland stay in view. The loose hair in the reference differs from the matted or braided hair of the tradition. This is logged for human review, and the framing keeps attention on the face and the star.",
+        "loop": "The clip ends on the held, closer gaze with the star bright. The editor loops it with a short crossfade back to the opening portrait, so the replay reads as Her turning toward you again and the render does not need to reverse its motion.",
+        "share_trigger": "Sent to someone going through a hard time. The moment Tara looks straight at you, leans in and the star above Her brightens reads as being seen and cared for, and it promises nothing more.",
+        "caption_hook": "Send this to someone who needs to be seen.",
+        "audio": "A low, steady tone under faint, quiet water, with one soft low bell note and a gentle breath as the star brightens, then fading into the tone.",
+        "shots": [
+          {
+            "duration": 4,
+            "camera": "Camera holds steady at eye level on the three-quarter-length portrait, crown with the sun disc centered and fully in frame, star above it, third eye unlit.",
+            "action": "Her open eyes settle on the lens and Her head and shoulders lean slowly forward by a few degrees, which brings Her calm face slightly closer to the viewer. Her hair settles gradually under natural gravity as She leans.",
+            "purpose": "The hook is immediate. Being looked at directly by Her stops the scroll, and the small lean makes the viewer feel noticed without looming."
+          },
+          {
+            "duration": 6,
+            "camera": "Camera holds steady at eye level, crown centered and fully in frame, tiger-skin wrap and skull garland visible.",
+            "action": "She completes the same slow lean and rests Her soft gaze on the viewer, and the star above Her crown brightens gently in answer, which lights the dark sky around it with a calm, steady glow. Her hair continues to settle under natural gravity.",
+            "purpose": "The payoff is the star answering Her gaze, so the sky responds to being seen. The clip ends on the closer, held look, which gives a lasting feeling of being watched over and gives the editor a clean point to loop from."
+          }
+        ]
+      },
+      "scores": {
+        "virality": 3,
+        "authenticity": 7,
+        "feasibility": 8
+      },
+      "guard_problems": []
+    },
+    {
+      "concept": {
+        "id": "E",
+        "title": "The Eye Opens",
+        "source_seed": "The reveal: the two sisters who turn out to be the goddess; the ordinary or hidden becoming plainly divine.",
+        "logline": "She closes Her eyes in a quiet blink, and when they reopen the third eye opens with them in soft light.",
+        "hook": "At 0.3s Her eyes begin a slow, long blink while the camera starts to ease in.",
+        "story": "The stillness is the hidden quality, the quiet figure who seems ordinary and calm. The reveal comes as the third eye opens, and with it the goddess is plainly seen. Her name also means 'pupil of the eye' (a secondary sense), which this beat uses as a supporting reading. No invented symbols.",
+        "loop": "The third eye glow settles to a faint gleam while She holds Her gaze. This brings the final frame close to the opening and invites a replay to catch the moment of opening again.",
+        "share_trigger": "Sent as 'wait for the moment at 5 seconds.' A single sharp reveal that is easy to describe and satisfying to rewatch.",
+        "caption_hook": "Watch the exact second She opens Her third eye.",
+        "audio": "A near-silent hush with faint water, then one deep, resonant tone the instant the third eye opens.",
+        "shots": [
+          {
+            "duration": 4,
+            "camera": "Slow push-in at eye level, keeping the crown centered and fully framed.",
+            "action": "Her eyes close in a long, slow blink and Her face rests, calm as carved stone, so the viewer sees only a quiet, serene figure. Her hair settles slowly.",
+            "purpose": "Starts motion immediately and builds anticipation with the hidden, quiet state."
+          },
+          {
+            "duration": 6,
+            "camera": "Continued slow push-in at eye level, keeping the crown centered with clear space above the star.",
+            "action": "Her eyes reopen, and at the same moment the vertical third eye opens to show a luminous pupil, which casts a soft silver-blue light across Her brow and the base of the crown. The glow then settles to a gentle gleam.",
+            "purpose": "Delivers the reveal. One facial change causes one lighting change, which reads clearly on a phone screen."
+          }
+        ]
+      },
+      "scores": {
+        "virality": 6,
+        "authenticity": 5,
+        "feasibility": 8
+      },
+      "guard_problems": [
+        "no clear action by the goddess (turn, step, lean, expression change); passive concepts are rejected"
+      ]
+    }
+  ],
+  "final_guard_problems": [],
+  "created": "2026-10-08T12:25:45",
+  "transcript": [
+    {
+      "round": 1,
+      "results": [
+        {
+          "concept": {
+            "id": "E",
+            "title": "The Eye Opens",
+            "source_seed": "The reveal: the two sisters who turn out to be the goddess; the ordinary or hidden becoming plainly divine.",
+            "logline": "She closes Her eyes in a quiet blink, and when they reopen the third eye opens with them in soft light.",
+            "hook": "At 0.3s Her eyes begin a slow, long blink while the camera starts to ease in.",
+            "story": "The stillness is the hidden quality, the quiet figure who seems ordinary and calm. The reveal comes as the third eye opens, and with it the goddess is plainly seen. Her name also means 'pupil of the eye' (a secondary sense), which this beat uses as a supporting reading. No invented symbols.",
+            "loop": "The third eye glow settles to a faint gleam while She holds Her gaze. This brings the final frame close to the opening and invites a replay to catch the moment of opening again.",
+            "share_trigger": "Sent as 'wait for the moment at 5 seconds.' A single sharp reveal that is easy to describe and satisfying to rewatch.",
+            "caption_hook": "Watch the exact second She opens Her third eye.",
+            "audio": "A near-silent hush with faint water, then one deep, resonant tone the instant the third eye opens.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Slow push-in at eye level, keeping the crown centered and fully framed.",
+                "action": "Her eyes close in a long, slow blink and Her face rests, calm as carved stone, so the viewer sees only a quiet, serene figure. Her hair settles slowly.",
+                "purpose": "Starts motion immediately and builds anticipation with the hidden, quiet state."
+              },
+              {
+                "duration": 6,
+                "camera": "Continued slow push-in at eye level, keeping the crown centered with clear space above the star.",
+                "action": "Her eyes reopen, and at the same moment the vertical third eye opens to show a luminous pupil, which casts a soft silver-blue light across Her brow and the base of the crown. The glow then settles to a gentle gleam.",
+                "purpose": "Delivers the reveal. One facial change causes one lighting change, which reads clearly on a phone screen."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 5,
+            "feasibility": 8
+          },
+          "guard_problems": [
+            "no clear action by the goddess (turn, step, lean, expression change); passive concepts are rejected"
+          ],
+          "feedback": [
+            "virality: The hook is a slow blink with the eyes closed. A closed-eye, still face for the first 4 seconds is the weakest possible opening for retention.",
+            "virality: The third eye opening at about 4-5s is a genuine single, clear reveal moment and gives a reason to hold on, and 'wait for 5 seconds' is a decent share prompt.",
+            "virality: Whether the video model can open a vertical third eye with a luminous pupil cleanly is uncertain. It could look like a glow smear or a distorted forehead.",
+            "virality: The story link is tenuous. The 'two sisters reveal' seed becomes a generic eye-opening, and the eye-as-pupil reading is secondary.",
+            "virality: The loop is poor: it ends with an open gaze and glowing third eye while it starts with closed eyes, so the return does not rhyme.",
+            "virality: Retention is a gamble because many viewers will leave before the reveal.",
+            "authenticity: Source seed is the Tara Tarini sisters 'reveal', but the concept depicts no disguise or hidden-then-revealed identity. A blink and a third eye opening has no connection to that story. The seed is claimed, not honoured.",
+            "authenticity: The story note says 'the quiet figure who seems ordinary', which misreads Tara. She is not shown as ordinary anywhere in the iconography, and the sisters story is a Taratarini (Odisha) temple legend.",
+            "authenticity: The third eye 'opening to show a luminous pupil' is a visual that may read as a supernatural-power reveal, and it risks looking horror-adjacent or like a trope from film and games. In Shaiva and Shakta tradition the third eye is not typically dramatised as a sudden activation moment.",
+            "authenticity: The 'pupil of the eye' reading is a real secondary sense, and the Tarapith eye legend is real, but the concept leans on a pun about her name and does not offer devotional meaning.",
+            "authenticity: 'Wait for the moment at 5 seconds' is clickbait framing that undercuts the reverent tone.",
+            "authenticity: Hair 'settles' and a face 'calm as carved stone' are fine, but the overall effect is a special-effects reveal rather than a devotional one.",
+            "feasibility: The closest fit to the model's strengths: a slow blink, a locked or slowly pushing camera and one facial change causing one lighting change. The weak point is the third eye 'opening to show a luminous pupil', which needs the model to animate a vertical eye on the forehead. Eye-opening on a third eye is an unusual action and may render as a glitch or a smeared glow.",
+            "feasibility: The hook is a blink with the eyes closed for much of the first 4s, so the first frames are weak for a Reel. The 4s-closed then 6s-reveal split depends on timing that the model cannot guarantee.",
+            "feasibility: The share trigger ('wait for the moment at 5 seconds') relies on a precise timestamp that a single continuous render cannot promise.",
+            "feasibility: The 'luminous pupil' and 'soft light across the brow and crown' make two glow effects, with a settling third.",
+            "virality fix: Start with the eyes already opening, or with a bright flicker from under the closed lids, so there is motion in the first second.",
+            "virality fix: Move the reveal earlier, to about 2.5-3s, and give the rest of the time to the aftermath, such as the glow spreading across the water.",
+            "virality fix: Loop by closing the eyes again in the last half second, so the end meets the opening closed-eye frame.",
+            "virality fix: Make the third eye opening unmistakable, with a clear change in size or brightness, and have a fallback if the model cannot render a pupil.",
+            "authenticity fix: Either swap the source seed to the eye and star direction already in the dossier (Tarapith eye legend, 'tara' as pupil) and say so honestly, or build a real reveal from the sisters story. Do not keep a mismatched seed.",
+            "authenticity fix: If keeping the eye beat, tie it to the Tarapith tradition where Sati's third eye fell, and note the sources vary between 'third eye' and 'eyeball'.",
+            "authenticity fix: Make the third eye glow gentle and steady rather than a sudden opening, and avoid a blinding or flash effect.",
+            "authenticity fix: Remove 'ordinary' language. Describe the hidden quality as stillness, not disguise.",
+            "authenticity fix: Replace the caption with something reverent, for example 'Tara means star, and the pupil of the eye.'",
+            "feasibility fix: Make the third eye already faintly visible in frame 1 and have it brighten, not open, so there is no new feature appearing from nowhere.",
+            "feasibility fix: Shorten the closed-eye phase to a single natural blink so the face is not blank for 4 seconds, and keep the push-in slow.",
+            "feasibility fix: Change the share trigger and caption to avoid a precise second.",
+            "feasibility fix: Keep the glow soft and low in intensity to avoid shimmer.",
+            "guard: no clear action by the goddess (turn, step, lean, expression change); passive concepts are rejected"
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "A",
+            "title": "Stern, Then Soft",
+            "source_seed": "Fierce protector, tender mother: the Ugra gaze that guards you softens for the one who calls (the 'feed him first, he is my son' story).",
+            "logline": "Her stern guarding stare melts into a tender smile, and Her third eye lights softly as the viewer is welcomed in.",
+            "hook": "At 0.3s Her brows lower and Her jaw firms into a stern, guarding stare straight at the viewer.",
+            "story": "She is a fierce protector who turns tender toward her own. The stern stare shows the guardian standing between the viewer and the dark. The softening shows the mother who feeds her devoted son first. The third eye lighting is the visible sign that the viewer has been recognised. No invented symbols; the light is a simple reading of the third eye.",
+            "loop": "The smile relaxes to the calm opening expression while the third eye glow settles to a faint gleam. The last frame echoes the first calm portrait, so the stern look at the start reads as a new beginning.",
+            "share_trigger": "Sent to a friend in a hard season, or to a mother, with the message 'she's tough on what hurts you and gentle with you.' The contrast is understood instantly.",
+            "caption_hook": "She guards you like a storm. She holds you like a mother.",
+            "audio": "A low, soft drone with one distant bell as the smile forms. Quiet night-water ambience underneath.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Eye level, locked on the opening framing, with the crown centered and fully framed.",
+                "action": "Her brows lower and Her jaw firms into a stern, steady stare, so Her gaze seems to hold back the dark behind the viewer. Her heavy hair settles slowly.",
+                "purpose": "Starts motion in the first second. Shows the fierce guardian side with a face-only change that the video model renders reliably."
+              },
+              {
+                "duration": 6,
+                "camera": "Slow, small push-in at eye level, keeping the crown centered with clear space above the star.",
+                "action": "Her brows release and a faint, tender smile forms. As it does, the vertical third eye lights with a soft silver-blue glow that gently brightens Her forehead and the base of the crown.",
+                "purpose": "Delivers the payoff. The stern guardian turns into the tender mother, and the third eye lighting shows the viewer has been recognised."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 8,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is a micro-expression (brows lower, jaw firms) at 0.3s. On a phone this is barely visible and reads as a static portrait, so the first 1.5s is weak.",
+            "virality: The payoff is a smile and a soft glow. This is the generic 'goddess portrait with a glow' that the rubric penalises, and the smile and glow may look nearly the same as the start.",
+            "virality: The contrast is clear (stern then soft) but the goddess does nothing with consequence. Nothing in the world changes except Her face.",
+            "virality: The loop is soft. The stern opening is not repeated at the end, so the replay hook is weak.",
+            "virality: Third eye lighting is the weakest part of the arc. It is a lighting effect, not an action.",
+            "virality: The share line 'tough on what hurts you, gentle with you' is the best idea here, but it relies on the viewer reading it from facial change alone.",
+            "authenticity: Grounded in the Bamakhepa 'feed him first, he is my son' story, which is sourced, but the concept never shows or names it. It also compresses a Tarapith devotional story into a generic stern-to-smile arc.",
+            "authenticity: The 'stern, then soft' framing risks implying Tara is only tender toward the worthy, or that her fierceness is a mask. In the dossier the Ugra form is itself protective compassion, not a lesser mode.",
+            "authenticity: 'Third eye lights as a sign the viewer is recognised' is a new meaning. It is mild, but the third eye is not described that way in the sources. The 'no invented symbols' claim is slightly overstated.",
+            "authenticity: Silver-blue glow is a stylistic choice, not an iconographic one. This is minor.",
+            "authenticity: Caption 'guards you like a storm' is acceptable but leans on a weather metaphor not found in the tradition.",
+            "feasibility: Two sequential expression changes (stern, then tender smile) plus a third-eye glow and hair settling. That is three or four changes, and the clip leans on second-by-second timing: a 4s stern hold, then a switch.",
+            "feasibility: The third eye is a glowing element on the forehead. Soft glow is acceptable, but the glow could flicker or shimmer, and the 'vertical third eye' must already exist in the reference portrait. It is only listed in the dossier as matching the anchor.",
+            "feasibility: The loop claims the last frame echoes a 'first calm portrait', but the hook starts with a stern stare at 0.3s, so frame 1 is not calm. The loop logic is muddled.",
+            "feasibility: The two 'shots' (4s and 6s) are really one continuous render; the shot split reads as cuts or timing instructions. The camera change from locked to a push-in is minor but still timing-dependent.",
+            "feasibility: Brow lowering and jaw firming are subtle micro-expressions, which suits the model. The risk is that 'stern to tender' drifts the face identity.",
+            "virality fix: Make the stern beat unmistakable in the first second: a sharp turn of the head toward the camera, or eyes snapping open, rather than a brow tweak.",
+            "virality fix: Give the softening a consequence in the scene, such as the dark water behind Her stilling at the moment She smiles, so the guardian-to-mother shift shows in the world.",
+            "virality fix: End by returning to the stern stare (soften, then guard again) or start on the soft face so the last frame cuts back cleanly into the first.",
+            "virality fix: Overlay a short on-screen line such as 'for the ones who call' to carry the story, since facial acting alone may not read.",
+            "authenticity fix: State in the story note that the tenderness is the same compassion as the fierce guarding, so the stern stare is not a different or false face.",
+            "authenticity fix: Reword the third eye line to 'the third eye glows softly' without claiming it signals recognition, or label it explicitly as a cinematic reading.",
+            "authenticity fix: Soften the caption to 'She protects you fiercely. She holds you like a mother.'",
+            "authenticity fix: Include a gentle credit line in the caption or description pointing to the Bamakhepa devotional story, and mark it as devotional.",
+            "feasibility fix: Drop the shot split. Describe one continuous clip: a slow push-in, the expression easing from a steady, serious gaze to a faint smile.",
+            "feasibility fix: Keep one intentional change (the expression softening) with the third-eye glow as its single consequence. Cut the separate stern-hold phase and the hair settling.",
+            "feasibility fix: Confirm the third eye is visible in the reference portrait. If it is not, drop the glow or render it only as a faint brightening of existing light.",
+            "feasibility fix: Fix the loop claim: end on a calm, soft expression and do not claim it echoes frame 1."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "F",
+            "title": "The Gentle Bow",
+            "source_seed": "The mother of the devoted: She turns toward the viewer, recognising them as Her own.",
+            "logline": "She bows Her head slightly toward the viewer like a mother toward a child, and the stars behind Her shimmer brighter.",
+            "hook": "At 0.5s Her head begins to incline slowly toward the viewer and Her heavy locks start to slide forward.",
+            "story": "The great goddess bends toward the viewer, the way a mother bends toward a small child. The small bow is the whole message, that the powerful one makes herself near. No invented symbols.",
+            "loop": "She lifts her head back to level and Her gaze rests on the viewer as in the first frame. The stars calm to their opening twinkle, so the end flows into the start.",
+            "share_trigger": "Sent to a parent, a child or a close friend, with the message 'this is how I picture being cared for.' The gesture is warm and easy to understand.",
+            "caption_hook": "The most powerful one in the sky still bends down to you.",
+            "audio": "Gentle sustained strings and a soft, low hum. A small rise of high, glassy tones as the stars shimmer.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Eye level, locked, with the crown centered and fully framed.",
+                "action": "Her head inclines forward a small way and Her eyes lower gently to meet the viewer's, as if bending to a child, so Her heavy black locks slide forward over Her shoulders.",
+                "purpose": "Gives a clear, simple gesture with natural hair motion as its visible consequence."
+              },
+              {
+                "duration": 6,
+                "camera": "Slow push-in at eye level, keeping the crown centered with clear space above the star.",
+                "action": "Her head lifts back to level and a soft smile settles on Her face, and the cold stars in the sky behind Her shimmer a little brighter together in answer.",
+                "purpose": "Provides the warm payoff and returns to the opening pose, leaving a feeling of being cared for."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 5,
+            "authenticity": 6,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: A slight bow of the head is a very small gesture. It is the closest to a 'goddess stands there' clip in the set, with only a head tilt and shimmering stars.",
+            "virality: The hook at 0.5s (head inclining) is gentle, so the first 1.5s has little visible motion.",
+            "virality: The consequence is hair sliding and stars shimmering, which is decorative rather than a story event. The stars shimmering is a glow-only payoff.",
+            "virality: Emotionally warm and easy to understand, and the share message ('this is how I picture being cared for') is real, but it is a mood, not a moment.",
+            "virality: The shot structure (bow, then lift and smile) has no tension or question, so there is little reason to stay to the end.",
+            "virality: Loop is fine mechanically, but nothing about it invites a rewatch.",
+            "authenticity: Seed is the mother of the devoted, but the bow itself is not iconographic. Tara in the sources is wrathful and standing over a corpse, and a goddess bowing her head to the viewer inverts the usual direction of reverence, where the devotee bows. A devotee could find it odd or presumptuous.",
+            "authenticity: The 'bends toward a small child' framing is sentimental and infantilises the devotee relationship. The Bamakhepa story is a mother defending a son, not a goddess stooping.",
+            "authenticity: The stars behind her shimmering is an unsourced added symbol. The story note says 'no invented symbols' but this is one, and it blurs the star-of-her-name reading.",
+            "authenticity: Hair 'sliding forward' as 'heavy black locks' conflicts with the dossier, which says her hair is matted jata or a single braid and the anchor's loose hair is already a departure. The concept draws attention to it.",
+            "authenticity: Sentimental caption ('The most powerful one in the sky still bends down to you') with a generic 'sky' deity framing; Tara's domain is the cremation ground and ocean of existence, not simply the sky.",
+            "feasibility: A slight bow is a small, restrained head motion, which is good. But the heavy locks 'sliding forward over Her shoulders' is a secondary hair simulation that can look physically odd, and the hair has to be already in place in the reference.",
+            "feasibility: The bow, the lift back to level, a smile and shimmering stars are four changes in two sequential phases (4s bow, 6s lift), which again depends on timing.",
+            "feasibility: Stars 'shimmering brighter together' is a multi-point glow effect, which the notes list as risky for flicker. The stars are also a background element that has to exist in the reference image.",
+            "feasibility: Bowing toward the camera while the camera pushes in may produce an exaggerated scale change on the face and crown, and the crown must stay fully framed.",
+            "feasibility: The 'in answer' causality for the stars is weak.",
+            "virality fix: Give the bow a consequence: for example the dark water or a lock of hair settling toward the viewer, or a hand reaching out so She touches or lifts something toward the viewer.",
+            "virality fix: Open with a stronger movement, such as a quick turn and then a bow, so motion is clear in the first second.",
+            "virality fix: Hold the lowest point of the bow near the middle and make the stars respond at once to the bow, so cause and effect read.",
+            "virality fix: Consider merging with B or A: use the 'recognition' structure with a question, so there is a reason to stay.",
+            "authenticity fix: Replace the bow with a gesture closer to the sources, such as a steady, tender gaze or an open protective hand toward the viewer, and keep her upright and regal.",
+            "authenticity fix: If a slight inclination is kept, make it a small, dignified nod, not a bend toward a child, and say in the story note that it is a modern devotional gesture.",
+            "authenticity fix: Remove the shimmering stars or tie any star light to her name, and do not claim 'no invented symbols'.",
+            "authenticity fix: Avoid emphasising the loose hair; minimise hair motion so the departure from matted jata is not highlighted.",
+            "authenticity fix: Rewrite the caption without 'sky' or 'bends down', for example 'The fierce mother who carries you across.'",
+            "feasibility fix: Keep one change: a slow, small head incline toward the viewer with a soft smile forming, while the camera pushes in gently. Remove the lift back to level.",
+            "feasibility fix: Drop the star shimmer, or limit it to the existing twinkle in the background.",
+            "feasibility fix: Describe the hair as just settling, not sliding.",
+            "feasibility fix: Check that the crown remains in frame during the push-in and incline."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "B",
+            "title": "Found You",
+            "source_seed": "The mother of the devoted: She turns toward the viewer, recognising them as Her own.",
+            "logline": "Her gaze searches the dark water, then finds the viewer and warms, and the guiding star above Her crown brightens.",
+            "hook": "At 0.5s Her eyes leave the viewer and Her head begins a slow turn to the side, as if She is searching the water.",
+            "story": "A mother searching a dark shore finds her child. The searching look shows she is never idle. The moment her eyes settle on the viewer is the recognition, and the guiding star brightening is the visible answer. No invented symbols.",
+            "loop": "After the star brightens, Her gaze holds steady and level on the viewer, as in the first frame. A replay makes the viewer feel looked for again.",
+            "share_trigger": "Sent to someone who feels unseen or far from home, with the message 'she's looking for you.' The direct-gaze moment is personal and easy to forward.",
+            "caption_hook": "Send this to someone who needs to be found tonight.",
+            "audio": "Soft low strings, with a single high chime exactly as Her eyes meet the viewer. Faint lapping water.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Eye level, locked, with the crown centered and fully framed.",
+                "action": "Her eyes drift away from the viewer toward the dark water at the left, and Her head turns a small way with them, so She appears to be searching the horizon. Her hair settles slowly.",
+                "purpose": "Gives an immediate, visible hook and creates the question 'what is She looking for?'"
+              },
+              {
+                "duration": 6,
+                "camera": "Slow push-in at eye level, keeping the crown centered with clear space above the star.",
+                "action": "Her head turns back and Her eyes settle on the viewer. Her expression warms into a soft smile of recognition, and the bright star above Her crown grows a little brighter in answer.",
+                "purpose": "Pays off the question. The turn back and the star brightening show She has found the viewer, and that is the emotional centre of the clip."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 7,
+            "authenticity": 8,
+            "feasibility": 6
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is a slow head turn away from the viewer at 0.5s. It is visible motion but low-energy, and turning away from the camera risks scroll-past.",
+            "virality: The question 'what is She looking for?' is a genuine hold mechanism, and the answer ('you') is a direct-address moment with real emotional pull.",
+            "virality: The star brightening is a small effect and may be subtle on a phone. The recognition lands mainly on the eye contact and smile.",
+            "virality: The head turn left and back is simple and renders reliably, but the 'searching' read could come across as just glancing sideways.",
+            "virality: The loop is decent. Ending on steady eye contact matches the opening, but the opening starts with eye contact too, so the search could feel like a repeat.",
+            "virality: The caption 'Send this to someone who needs to be found tonight' is the strongest send prompt of the set.",
+            "authenticity: Seed is 'the mother of the devoted', which is supported by the Bamakhepa story, but the 'searching the shore, finding her child' narrative is invented and not in any source. A devotee may read it as implying the goddess is absent or has to look for the devotee.",
+            "authenticity: 'She's looking for you' and 'needs to be found tonight' lean toward generic comfort-content language and a slightly sentimental register. It is still respectful.",
+            "authenticity: The guiding star brightening is called 'no invented symbols', but tying it to recognition is a modern gloss. The dossier says the sailor-guide image is a modern comparison, though 'star' is the grounded sense of her name.",
+            "authenticity: The sideways search for the horizon drifts toward the seafarer seed without the sourcing.",
+            "feasibility: Head turn away, then back, with a gaze shift, a smile and a star brightening. Two sequential turns amount to a large pose change and rely on second-by-second timing (away for 4s, back for 6s).",
+            "feasibility: Looking at the 'dark water at the left' needs the model to hold the face in profile or three-quarter, which risks identity drift, particularly with a heavy crown and jewellery.",
+            "feasibility: The star brightening is a glow change on a small element, and it risks shimmer or flicker.",
+            "feasibility: Cause and effect is weak: the star brightening 'in answer' has no physical cause.",
+            "feasibility: The 'the head begins to turn at 0.5s' hook and the 'chime exactly as eyes meet' depend on timing the model cannot guarantee.",
+            "virality fix: Make the search more legible: a slower scan across the horizon, a slight lean forward, and eyes that clearly track something, so the viewer is asked the question.",
+            "virality fix: Time the star brightening and the eye contact to land together at about 5s, and make the star pulse bolder than a slight increase.",
+            "virality fix: Open with a stronger first beat, such as eyes already moving at frame 1, rather than starting at 0.5s.",
+            "virality fix: Consider a text hook such as 'She's looking for someone...' to lock in the question in the first second.",
+            "authenticity fix: Reframe the opening as watchful rather than lost or searching, for example her gaze moving across the dark water as a guardian, then turning to the devotee. This keeps her from seeming to be missing something.",
+            "authenticity fix: Add a note that the star is a reading of her name (star, saviour, one who carries across), not a textual attribute.",
+            "authenticity fix: Soften the caption to something like 'She already knows your name.'",
+            "authenticity fix: Keep the story note honest that the search-and-find arc is a cinematic device built on the mother-of-devotees theme.",
+            "feasibility fix: Make it a single small gesture: her gaze starts slightly off-axis and settles on the viewer during a slow push-in, with a faint smile. Remove the full head turn out and back.",
+            "feasibility fix: Choose one consequence, either the star brightening or the smile, not both.",
+            "feasibility fix: Do not specify exact timestamps. Describe the sequence as one continuous action.",
+            "feasibility fix: Keep the head turn under about 15 degrees to protect identity."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "D",
+            "title": "Before the Voyage",
+            "source_seed": "Before the voyage: the goddess the seafarer prays to before crossing; she looks out over the dark water and clears the way.",
+            "logline": "She turns Her gaze to the dark horizon, the guiding star above Her blazes brighter, and She looks back to the viewer.",
+            "hook": "At 0.5s Her head begins a slow, restrained turn toward the distant black horizon.",
+            "story": "Traders of the old coast prayed to her before they crossed the sea. Here She does what they hoped for. She looks out over the dark water, her star brightens to mark the way, and She turns back to the traveller. The star acting as a signal is an invented symbol, a simple visual reading of her name meaning 'star'.",
+            "loop": "She turns back to face the viewer in the opening pose, and the star settles to its original glow. The clip ends on the first frame, so it loops cleanly.",
+            "share_trigger": "Sent to someone starting a trip, a move or a new chapter, with the message 'she's clearing the way for you.' It is a travel blessing in 10 seconds.",
+            "caption_hook": "Before you cross anything new, let Her look at the dark first.",
+            "audio": "Slow, low ambient pads with a faint, distant ship's bell. A soft rising swell as the star brightens.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Eye level, locked, with the crown centered and fully framed.",
+                "action": "Her head turns slowly to the left and Her eyes lift to the black horizon, and the bright star above Her crown grows steadily brighter, as if lighting the far way. Her hair settles slowly.",
+                "purpose": "Gives a clear action with a clear consequence. The guardian looks ahead on the viewer's behalf."
+              },
+              {
+                "duration": 5,
+                "camera": "Slow push-in at eye level, keeping the crown centered with clear space above the star.",
+                "action": "Her head turns back to face the viewer and Her eyes settle on them with a calm nod of the chin, so the star above Her crown softens back to its original glow, as if the way is clear.",
+                "purpose": "Closes the journey and returns to the opening frame for a clean loop."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 5,
+            "authenticity": 6,
+            "feasibility": 5
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is a slow, 'restrained' head turn toward a black horizon. It is slow, reads as a static pose, and the horizon is dark and empty.",
+            "virality: The star brightening is the one consequence, and the text admits it is an invented symbol. It also carries a lot of the story with little visible action.",
+            "virality: Story is the least legible on a phone: 'seafarer's prayer' is not obvious from a woman looking left. The seafarer source is also thin (patron of seafarers is a regional or broader Tara tradition, not the Mahavidya).",
+            "virality: A nod of the chin and a star returning to its original glow is a subtle ending with no payoff, and it undoes the brightening, which weakens the climax.",
+            "virality: Send-worthiness (travel blessing) is a reasonable niche but narrow.",
+            "virality: Loop is clean in mechanics but the energy is flat.",
+            "authenticity: Built on the Taratarini seafarer tradition, but the dossier flags that this source concerns Tara more broadly (the Pala-period navigation goddess), not only the Hindu Mahavidya. It risks mixing Buddhist and Hindu Tara traditions without care.",
+            "authenticity: The story note admits the star acting as a signal is an invented symbol. The dossier's correction says 'guide for sailors' is a modern comparison with no textual source. The concept leans on it twice.",
+            "authenticity: 'Clearing the way' and 'travel blessing in 10 seconds' trivialise her as a good-luck charm. The core meaning is carrying across the ocean of samsara, which is a spiritual crossing and not an itinerary.",
+            "authenticity: 'Ship's bell' audio and the 'traders of the old coast' narration are imported colour, and the dossier says no folk tale of rescuing a ship was found.",
+            "authenticity: The caption 'let Her look at the dark first' is vague and slightly eerie.",
+            "feasibility: Same out-and-back head turn as B, with a gaze lift, a star brightening, a chin nod and the star softening back. At least four sequential changes tied to a 5s/5s split.",
+            "feasibility: The star brightening 'steadily' then dimming back is a glow ramp up and down. Dense or changing glow is a flicker risk, and the ramp-down is a second effect.",
+            "feasibility: The story admits the star-as-signal is an invented symbol, and the 'black horizon' beyond the shoulder is background that may not exist in the reference image.",
+            "feasibility: The chin nod is another discrete head movement on top of the turn back.",
+            "feasibility: The loop depends on the star returning exactly to its original glow, which the model will not guarantee.",
+            "virality fix: Show the star doing something unmistakable, for example flaring and casting a visible path of light across the dark water ahead of Her, and leave it lit at the end.",
+            "virality fix: Have the look land at once with a fast, decisive turn rather than a slow one, and start the star building in the first second.",
+            "virality fix: Add a visible ship-less cue such as a faint line of light on the water, so the 'clearing the way' idea reads without the caption.",
+            "virality fix: Add an on-screen line such as 'before you cross...' so the viewer understands the premise at once.",
+            "authenticity fix: Anchor the beat in the sourced Taratarini temple tradition (the Kalinga merchants prayed to her before voyages) and label it as local temple tradition, not Tara in general.",
+            "authenticity fix: Drop the ship's bell and keep audio neutral (water, drone) so it does not suggest a specific maritime legend.",
+            "authenticity fix: Reframe the crossing as both a literal voyage and the 'carries across' sense of her name, so it is not only a travel-luck gimmick.",
+            "authenticity fix: Remove the 'invented symbol' admission by making the star brightening a plain light change tied to her name, or cut it.",
+            "authenticity fix: Change the caption to something like 'Before you cross, she carries you through the dark.'",
+            "feasibility fix: Simplify to one move: a slow, small head turn toward the horizon with the star glowing slightly brighter, and end there. Do not demand the return.",
+            "feasibility fix: Drop the chin nod and the dimming.",
+            "feasibility fix: Do not promise a seamless loop. Aim for a last frame that is calm and close to frame 1.",
+            "feasibility fix: Keep the star change very subtle so it reads as light rather than a particle effect."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "C",
+            "title": "The Stride",
+            "source_seed": "The advancing stride: She steps toward you through the water with the unstoppable force the verses describe.",
+            "logline": "Tara steps once toward the viewer through the dark water, and rings of ripples spread out behind Her stride.",
+            "hook": "At 0.5s Her eyes harden, Her weight shifts forward and one foot starts to lift from the shallow water.",
+            "story": "The texts describe Her advancing with unstoppable force. Here that force is restrained to one slow, certain step. The ripples are the visible proof that She is coming for you. No invented symbols.",
+            "loop": "The step lands and She settles back into the calm opening stance. The rings fade toward stillness, so the end rhymes with the calm first frame.",
+            "share_trigger": "Sent as a 'help is on the way' message to someone facing something big. Also a strong pick for people who like powerful, cinematic goddess clips.",
+            "caption_hook": "When everything feels too heavy, She walks toward it, not away.",
+            "audio": "A slow, deep drum pulse at a walking pace, one beat on the footfall. A cold wind-free hush behind it.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Eye level, locked on the opening framing, with the crown centered and fully framed.",
+                "action": "Her gaze hardens and Her weight shifts forward, and Her foot lifts slowly from the water, so a few small drops fall from Her toes. The serpent armbands catch a cold gleam.",
+                "purpose": "Shows intent and force right away. The shift of weight is a body action the model handles reliably."
+              },
+              {
+                "duration": 6,
+                "camera": "Slow, steady glide backward at eye level, keeping Her at the same size with the crown centered and fully framed.",
+                "action": "Her foot lowers into the shallow water in one slow step, and soft rings of ripples spread outward across the dark surface. Her hair sways slightly and settles.",
+                "purpose": "Delivers the payoff. One step has one clear visible consequence (the rings), and it conveys advancing protection."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 8,
+            "authenticity": 8,
+            "feasibility": 3
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: This is the only concept in which the goddess visibly DOES something with a visible consequence: a step, ripples, and drops of water. It meets the 'must DO something' rule.",
+            "virality: The stride and the ripple rings are physical, easy to understand and easy to render. It also ties to the pratyalidha iconography from the sources.",
+            "virality: The hook (foot lifting, weight shifting) starts at 0.5s and is readable, but 'one foot lifts' is a slow-motion build. It needs to be punchy in the first 1.5s.",
+            "virality: A backward camera glide with a figure stepping forward can cause scale and perspective drift in a video model. The foot must also land believably in shallow water.",
+            "virality: Standing over a corpse is omitted, which is wise, but the 'help is on the way' message depends on the stride reading as protective, not threatening.",
+            "virality: Loop is workable (step lands, she settles) but the return to the 'calm opening stance' is a slight reset rather than a seamless loop.",
+            "virality: Novelty is higher than the face-only concepts, since most AI devotional clips show a standing figure.",
+            "authenticity: Strongly grounded in the pratyalidha stride from the Nila Tantra and Tantrasara verses (secondary summaries). It is the most iconographically faithful concept.",
+            "authenticity: The verse stride is over a corpse (often Shiva) with a terrifying laugh and weapons. Reducing it to a gentle wade with ripples omits that context. This is acceptable and arguably sensible for reverence, but the concept should not claim to depict the verses fully.",
+            "authenticity: 'Help is on the way' and the caption 'She walks toward it, not away' read as modern self-help framing. They are plausible for a protective goddess, but the sources do not describe her as a rescuer arriving on cue.",
+            "authenticity: Eyes 'harden' could tip toward menace or action-movie tone if rendered carelessly.",
+            "authenticity: The viewer is placed as the one being approached, with no framing that the force is protective rather than threatening.",
+            "feasibility: A full-body step is a large pose change and the riskiest motion in the brief. A lifted foot, a weight shift, drops falling from the toes and expanding ripple rings stack several moving elements.",
+            "feasibility: Water and fluid physics are on the avoid list: ripples, drops and surface reflections regenerate independently and tend to break.",
+            "feasibility: The 'slow glide backward' camera must match Her forward step so She stays the same size. That is a compound camera-and-subject motion and invites scale drift.",
+            "feasibility: Her feet and the water may not be in frame 1 or the reference portrait; a waist-up portrait would not show a lifted foot at all. The foot and toes would be invented content.",
+            "feasibility: The serpent armband 'cold gleam' is a further small glow, and the hair sway is a fifth moving element.",
+            "feasibility: The ripples are specified as 'rings spreading outward', which means sequential, timed effects.",
+            "virality fix: Cut the build: start with the foot already mid-lift at frame 1, and land the step at about 3-4s so the ripples carry the rest.",
+            "virality fix: Ripples should be big and clear, and the drum beat should hit exactly on the footfall.",
+            "virality fix: Add a second cheap consequence, such as the dark water brightening or parting along the ripple rings, only if it does not add complexity.",
+            "virality fix: Fix the framing so the full legs and water are visible, since the ripples are the payoff and need to be in frame.",
+            "virality fix: Add a protective cue (a steady, calm face with open eyes toward the viewer) so the stride does not read as menacing.",
+            "authenticity fix: Make the story note explicit that the stride is a restrained reading of pratyalidha, with the corpse, laugh and weapons deliberately left out for reverence.",
+            "authenticity fix: Have the gaze read as resolute and compassionate rather than hard, and avoid any aggressive or predatory feel.",
+            "authenticity fix: Revise the caption to something like 'The fierce one steps toward your fear, not away from you.'",
+            "authenticity fix: Do not add any corpse or Shiva imagery to compensate.",
+            "feasibility fix: If the stride is kept, reduce it to a slow camera push-in with a slight forward lean of the upper body, and skip the footfall and ripples.",
+            "feasibility fix: Drop the water drops, the armband gleam and the glide-back camera.",
+            "feasibility fix: Check whether the reference framing shows her feet. If it does not, do not describe them.",
+            "feasibility fix: Alternatively convert it to a 'slow step forward' like the Kali render that worked, with a single push-in and no water interaction."
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "results": [
+        {
+          "concept": {
+            "id": "E",
+            "title": "The Look of a Mother",
+            "source_seed": "The mother of the devoted: She turns toward the viewer, recognising them as Her own.",
+            "logline": "Her head inclines and Her gaze settles on the viewer with a softening expression, and Her third eye brightens gently, as if recognising a child.",
+            "hook": "From the first frame Her eyes are open and Her head begins a slow incline toward the viewer, while the camera eases in and Her gaze settles on you.",
+            "story": "In the Tarapith tradition She is the fierce protector who is also a mother. In the story of the devoted Bamakhepa, She tells a queen to feed him first because he is Her son. This clip shows that moment of recognition. Her calm face softens, Her head inclines, Her eyes meet the viewer, and Her third eye brightens softly in answer. The soft brightening of the third eye is an invented symbol of recognition, not a textual detail. Tarapith is also where tradition says Sati's third eye (some sources say eyeball) fell, and Her name means star and also the pupil of the eye. The third eye is already in the opening frame and only brightens. It does not snap open as a sudden power.",
+            "loop": "In the last second Her head returns level, Her expression settles back to calm, and the third eye dims to its unlit state. The final frame matches the opening portrait, so the clip restarts as if She has looked at you again.",
+            "share_trigger": "Sent to someone who is going through a hard time, with 'she looks at you like a mother.' It is a gentle, comforting gaze that is easy to share without explanation.",
+            "caption_hook": "Tara means star, and the pupil of the eye.",
+            "audio": "Faint, quiet water at the start, with a soft low tone that warms and swells as Her gaze meets the viewer, then fades gently with the glow.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Slow push-in at eye level from the starting portrait framing, crown centered and fully framed with the star above it.",
+                "action": "Her head inclines a few degrees toward the viewer and Her gaze settles directly on the lens. Her calm expression softens into a gentle, warm look, which makes the third eye on Her forehead begin to glow faintly. Her hair settles slowly under gravity.",
+                "purpose": "Motion starts in the first second. The viewer feels Her attention turn to them, and the soft glow ties the expression change to the third eye."
+              },
+              {
+                "duration": 6,
+                "camera": "Continued slow push-in at eye level, crown centered and fully framed with clear space around the star.",
+                "action": "She holds the warm, steady gaze and the third eye brightens to a soft silver-blue, which lightly lights Her brow and the base of the crown. In the final second Her head returns level and Her expression settles back to calm, so the third eye dims to its unlit state.",
+                "purpose": "This is the payoff, the moment of recognition. One gentle brightening answers Her gaze, and the return to the opening pose makes the loop rhyme."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 4,
+            "authenticity": 8,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Weak hook: a head tilt of 'a few degrees' plus a slow push-in is barely visible motion on a phone. It reads as a near-static portrait, which is the 'goddess stands there' pattern the rubric penalises.",
+            "virality: The goddess does almost nothing. An incline and a softer expression have no consequence in the world: no water, object or other visible change. The only consequence is a faint glow, and glow-only scenes are penalised.",
+            "virality: The payoff is too subtle. Warm gaze to faint third-eye glow to return is hard to read in a 10s clip, and a micro-expression shift from calm to 'warm' will probably not render reliably in a video model.",
+            "virality: The hold is weak. There is no question or surprise, so viewers know within 2 seconds that nothing else will happen, and completion suffers.",
+            "virality: The loop is mechanically perfect (end frame equals opening frame), but the return to calm in the last second undoes the emotional payoff. The viewer gets 'she looked, then she un-looked', which feels like an animation reset rather than a satisfying loop.",
+            "virality: The 'star' and 'pupil of the eye' wordplay lives only in the caption. Nothing on screen shows a star responding, so the clever idea is not visualised. The caption is trivia, not a hook.",
+            "virality: The shot is calm and sleepy for a fierce tantric goddess. It is generic AI-devotional-clip territory, with low novelty and a low save value.",
+            "authenticity: The Bamakhepa story is a devotional anecdote from Tarapith, and this concept leans on it for the 'mother' reading without saying so. The story field does name it as tradition, but it is not framed as a devotional account, and nothing in the visuals ties the clip to it.",
+            "authenticity: The third-eye brightening is flagged as an invented symbol, which is honest. But the story then ties it to the Tarapith eye legend and the 'pupil of the eye' meaning, which makes an invention look textually grounded. 'Tara' meaning pupil is a real but secondary sense, and the Tarapith legend says the eye fell. It does not say the eye glows in recognition.",
+            "authenticity: The dossier's Tarapith account is 'third eye (some say eyeball)'. The concept uses 'third eye' for the legend without repeating the variance in the caption or the story logic. The caption_hook 'Tara means star, and the pupil of the eye' is accurate but gives no context for a general viewer and may look like a pun.",
+            "authenticity: The pure soft gaze presents only the tender, maternal side. The dossier's iconography is wrathful (corpse, pratyalidha, terrifying laugh). Without any trace of the Ugra aspect, a devotee could find it a generic benevolent-goddess portrait. This is acceptable as one aspect, but the loop contains nothing of Tara's power or crossing-over purpose.",
+            "authenticity: The anchor's loose hair departs from the dossier's matted or braided jata. 'Her hair settles slowly under gravity' draws attention to the loose hair instead of correcting or avoiding it.",
+            "authenticity: The share trigger, 'she looks at you like a mother', makes a personal claim about the goddess's relationship to the viewer. It is gentle and consistent with the tradition's mother-child devotion, but it should not promise outcomes or blessings.",
+            "feasibility: Mostly plays to Seedance's strengths: a face-centred shot, a slow push-in, a small head incline, a gaze settling and a faint expression change. It is the safer of the two concepts.",
+            "feasibility: The brief's mandatory-clip logic is sound, but the actions are the same two beats as the loop and the shot split: 'incline, glow, return level, dim'. That is four sequential state changes (incline, expression soften, third eye brighten, then reverse everything). The reversal in the last second is a second-by-second timing dependency the model cannot be told to hit. Seedance usually drifts rather than returning exactly to the start pose.",
+            "feasibility: The third eye glow is a dense-glow effect on a small facial region. It risks flicker and shimmer, and it may bleed into skin tone or change the eye's shape. The 'brightens to soft silver-blue' colour change is a second change on top of the glow itself, and the dim back to 'unlit state' adds another.",
+            "feasibility: 'Third eye already in the opening frame' is asserted, but the dossier notes the anchor's third eye exists without saying it is a visibly unlit state. If the reference portrait shows the third eye at some other state, the 'dims to unlit state' loop target is unreliable.",
+            "feasibility: The loop claim that the final frame 'matches the opening portrait' cannot be guaranteed in a single continuous render. Treat it as a hope, not a design.",
+            "feasibility: Lit brow and 'the base of the crown' lit by the glow adds a lighting change on a second area, and the star above the crown is not asked to do anything, which is fine, but 'clear space around the star' adds framing demands during a push-in that may crop the crown.",
+            "feasibility: Hair 'settles under gravity' is fine, but combined with the head incline, expression change, glow and push-in it brings the moving elements to about four, above the limit of two besides settling hair.",
+            "virality fix: Put a bigger, unmistakable physical action in the first 1.5s, for example her eyes snapping to the lens and the water around her visibly shivering or stilling, or the star above the crown flaring when her eyes land on you.",
+            "virality fix: Give the gaze a visible consequence. When she looks at you, the dark water goes glass-still, or ripples reaching the lens calm. One simple cause-and-effect beats a mood shift.",
+            "virality fix: Show the pupil/star pun on screen: the third eye lights and the star above brightens in sync, or a reflection of the star appears in her eye. That gives the caption a visual payoff.",
+            "virality fix: Make the loop the payoff, not a reset. End on a still, softened gaze that cuts back to the opening look, or have the glow fade into the opening glow, instead of walking the expression back.",
+            "virality fix: Cut the 4s+6s structure to one continuous move so the emotional turn lands by about 5s and the rest is held.",
+            "virality fix: If keeping the concept, add a send hook such as on-screen text 'Who needs to hear this?' rather than relying on a quiet face change.",
+            "authenticity fix: Name the Bamakhepa story in the caption or on-screen text as 'a Tarapith devotional story', not as established doctrine.",
+            "authenticity fix: Separate the invented glow from the tradition. Keep the symbol, but do not tie it in the story text to the Tarapith eye legend as if it were the same thing. Give the star/pupil etymology its own caption line, and mention 'some say eyeball' if the Tarapith legend is cited.",
+            "authenticity fix: Keep the calm opening portrait's hint of the fierce aspect, such as steady eyes or the tiger-skin and skull garland staying visible, so the softening reads as the Ugra mother and not a generic kind goddess.",
+            "authenticity fix: Frame or compose so that the hair does not become a focal motion detail. Avoid noting it as a feature, and keep the jata departure on the human review list.",
+            "authenticity fix: Keep any caption or comment copy free of promises, such as 'she will answer you'. Phrase it as 'devotees say' or 'in the Tarapith tradition'.",
+            "feasibility fix: Drop the return-to-level and dim-to-unlit ending. End on the warm gaze with the glow held steady, and let the loop rely on the cut-back to the start rather than a rendered reversal.",
+            "feasibility fix: Cut it to two moving elements: the slow push-in plus one facial change. Choose either the head incline plus softening gaze, or the third-eye glow, not both.",
+            "feasibility fix: If the glow stays, make it very faint and warm-toned, with no colour shift and no lighting spill onto the brow or crown. Phrase it as 'the third eye gently lights', one change in one direction.",
+            "feasibility fix: Remove the crown framing constraints and just say 'waist-up, crown and star stay in frame', or push in less so nothing crops.",
+            "feasibility fix: Confirm in the prompt that the third eye is closed or unlit in the reference portrait before claiming it dims or brightens."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "A",
+            "title": "She Steps Toward You",
+            "source_seed": "Fierce protector, tender mother: the Ugra gaze that guards you softens for the one who calls (the 'feed him first, he is my son' story).",
+            "logline": "She steps forward through the dark water with a steady gaze, then softens into a gentle smile as Her third eye brightens.",
+            "hook": "From the first second She takes a slow step toward the viewer with a steady, serious gaze, and wide ripples spread across the dark water around Her.",
+            "story": "Her fierce protection and Her tenderness are one compassion, not two faces. The advancing step is the guardian coming straight to the one who calls. The softening smile is the mother who feeds her devoted son first, from the devotional story told at Tarapith. The third eye brightening softly is a cinematic touch and not a meaning taken from the tradition. The silver-blue tone is a stylistic choice.",
+            "loop": "The clip ends on a calm, soft expression close to the opening calm portrait, with the water settling after Her step. Replaying starts again on the calm portrait and the step, so the arc reads as She arrives, then comforts.",
+            "share_trigger": "Sent to a friend in a hard season, or to a mother, with the message 'she comes straight toward what you're carrying, and she's gentle with you.'",
+            "caption_hook": "She protects you fiercely. She holds you like a mother.",
+            "audio": "A low steady drone with the slow sound of one step in water, then one distant soft bell as the smile forms. Quiet night-water ambience underneath.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Eye level, slow steady push-in from the opening framing, with the crown centered and fully framed.",
+                "action": "She takes one slow step toward the viewer with a firm, steady gaze, and the dark water around Her ripples outward in wide, gentle rings. Her hair settles slowly as She moves.",
+                "purpose": "Gives a clear, readable action in the first second. The step shows the protector coming toward the viewer, and the ripples show the effect on the world."
+              },
+              {
+                "duration": 5,
+                "camera": "Same eye-level push-in, easing to almost still, with the crown centered and clear space above the star.",
+                "action": "She stops, Her brows release and a faint, tender smile forms, so the ripples fade into calm water and Her third eye brightens with a soft silver-blue light across Her forehead.",
+                "purpose": "Delivers the payoff. The arriving guardian turns into the tender mother, and the water settling shows the change in the world."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 7,
+            "feasibility": 3
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The hook is much stronger. A step toward the viewer with ripples radiating is specific, visible motion from frame 1, and it matches the pratyalidha iconography and a real seed.",
+            "virality: The ripples give her action a visible consequence in the world, which is exactly what the rubric asks for, and the 'fierce then tender' arc is a real mini-story with a payoff.",
+            "virality: Rendering risk: a standing figure taking a believable step through water while the camera pushes in is doable, but 'one slow step' plus wide ripples can look floaty. Her smile forming as the brows release is a subtle facial change that models often botch, and it risks looking uncanny on a fierce blue goddess.",
+            "virality: The loop is soft. It ends on a smiling or tender expression 'close to' the opening calm portrait, but the opening is a stern step, not a calm portrait. The cut back from a smile to a mid-step is not seamless.",
+            "virality: The third-eye brightening is again an invented glow stacked on top of the smile and the water settling. That is three simultaneous payoff changes (smile, ripples fading, glow), which dilutes the single clear moment.",
+            "virality: The step slows into near-still for the second half. Momentum drops after 5s, and the second shot risks being a static portrait with a glow.",
+            "virality: The caption and share trigger are good ('protects you fiercely, holds you like a mother'), but the fierce-to-tender turn is told by a barely visible smile, so the viewer may not feel it without the caption.",
+            "authenticity: The advancing step comes from the pratyalidha stance in the Nila Tantra verses, but the dossier describes that stance as an archer's stride over a corpse with a terrifying laugh. The concept turns it into a gentle walk through water and then a 'tender smile'. Ending on a smile moves away from the iconography. Tara's tantric imagery is a fierce, wrathful smile or laugh. A sweet smile risks reading as a generic benign goddess and may feel like trivialising to some devotees.",
+            "authenticity: The story merges two things the dossier keeps apart: the Ugra Tara aspect (relieves severe suffering) and the Bamakhepa 'feed him first' story. The Bamakhepa story has no stepping or advancing. Joining them as 'one compassion, not two faces' is a theological claim the research does not support. It is an interpretation presented as the story's meaning.",
+            "authenticity: The 'fierce to tender' arc implies that fierceness is the gate and tenderness is the resolution. In tantric understanding, her fierce form is itself the compassion. The arc risks a 'scary then nice' framing.",
+            "authenticity: Steps toward the viewer across water leaves the viewer in an ambiguous position: threatened, or saved? 'Guardian coming straight to the one who calls' is a devotional claim, and the concept does not clearly mark it as the creators' reading.",
+            "authenticity: Third-eye brightening and silver-blue are acknowledged as invented, which is good. But the concept also turns the hook's 'steady, serious gaze' into a stiff beat and does not say what the audience should understand it to mean.",
+            "authenticity: The share trigger, 'she comes straight toward what you're carrying, and she's gentle with you', makes the goddess's behaviour toward the viewer a promise. It is also close to commercial self-help messaging.",
+            "authenticity: Loose hair is again used as motion ('Her hair settles slowly as She moves') and highlights the departure from jata or Ekajata.",
+            "feasibility: The main action is a full-body step forward through water, which the brief warns against: water and fluids, large motion and physics. Ripples spreading in 'wide gentle rings' then 'fading into calm' is exactly the 'calming liquid' failure the guide lists, because reflections and the ripple physics regenerate independently.",
+            "feasibility: Too many moving elements: step, camera push-in, ripples, hair, then a face change (brows release, smile forms), then a third-eye glow, then ripples fading. That is well over the limit of two besides hair.",
+            "feasibility: Ripples that appear in the first second are not in the reference portrait, which has her standing in shallow dark water that is presumably still. Ripple appearance is an effect with no clear cause visible in frame 1 apart from the step.",
+            "feasibility: The concept relies on sequencing: 'step, then stop, then smile, then glow, then ripples fade'. Seedance renders one continuous clip and cannot be trusted to hit a 5-second handover, so the two-shot structure is fiction.",
+            "feasibility: A step forward is listed as reliable, but combined with a camera push-in the subject-to-camera distance changes twice over, so the crown framing 'centred and fully framed' will drift, and a walk forward with a pushing camera risks scale and identity drift.",
+            "feasibility: The expression arc (stern gaze to tender smile) is a large facial change, and a smile on a fierce, three-eyed face risks distorting the face or the third eye.",
+            "feasibility: The loop claim is weak: the ending 'close to the opening calm portrait' while the clip begins with a stern gaze means the opening frame and the final frame do not match.",
+            "feasibility: Audio mentions a step in water and a bell, which is fine, but irrelevant to render feasibility.",
+            "virality fix: Keep the step as the hook but make it decisive. Her stride should lunge or arrive close to the lens so the ripple hits the camera, giving a visceral 'she's coming for you' beat in the first 1.5s.",
+            "virality fix: Make the turn legible without relying on a fine smile. Use a clearer physical change, for example her raised stern brow dropping, her shoulders relaxing and her hand opening, plus the water going glassy.",
+            "virality fix: Drop one of the three payoff changes. Choose either the smile or the third-eye glow, and let the ripples settling be the visible consequence.",
+            "virality fix: Fix the loop by ending on a pose that matches the opening frame, for example resetting the final frame to her standing still with the water calm just before the step, so replay reads as 'she steps again'.",
+            "virality fix: Keep motion going in the second half, for example a slow lean-in or an outstretched hand as the water calms, so the last 5s are not a static face.",
+            "virality fix: Add a light on-screen text prompt like 'Send to someone who's carrying a lot' to push sends.",
+            "authenticity fix: Keep the advance fierce and unsmiling, or end on a calm, composed expression, not a 'tender smile'. If a softening is kept, make it subtle, such as relaxed brows and steady eyes, so it does not erase the tantric character.",
+            "authenticity fix: Rewrite the story to separate sources: the pratyalidha advance is from the Nila Tantra verses (via secondary summaries), and the Bamakhepa story is a devotional anecdote from Tarapith. State that joining them is the creators' interpretation. Drop 'not two faces' as an assertion, or phrase it as 'devotees often describe her fierceness as a mother's protection'.",
+            "authenticity fix: Add an anchor to the tradition's own meaning, such as the 'carries across' reading, so the step is a crossing and a rescue, not just an approach.",
+            "authenticity fix: Keep the third-eye glow and silver-blue as a flagged stylistic choice, and avoid showing it as a power surge.",
+            "authenticity fix: Tone down the share trigger and caption so they do not promise behaviour. Use 'In Tarapith tradition, devotees call her Ma'.",
+            "authenticity fix: Avoid featuring the loose hair in motion, and put the jata/Ekajata mismatch on the human review list.",
+            "feasibility fix: Drop the water ripples entirely. Keep the water as a static dark surface in the reference and let the camera, not the water, carry the motion.",
+            "feasibility fix: Keep one core action: a slow step or lean toward the camera with a locked or gently pushing frame, and nothing else. A slow lean forward is safer than a literal step through water.",
+            "feasibility fix: Move the softening to a small change only: a gentle shift from steady gaze to a faint warmth, with no 'smile forms' and no brow choreography.",
+            "feasibility fix: Cut the third-eye glow from this concept, or make it the only facial change. Do not combine it with the smile.",
+            "feasibility fix: Remove the two-beat timing. Describe a single continuous motion, for example 'She leans slowly toward the viewer as the camera eases in, gaze steady, hair settling'.",
+            "feasibility fix: Consider merging with concept E's cleaner gaze beat rather than building a separate walking concept."
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "results": [
+        {
+          "concept": {
+            "id": "A",
+            "title": "She Leans Toward You",
+            "source_seed": "Fierce protector, tender mother: the guarding gaze softens for the one who calls (the 'feed him first, he is my son' story).",
+            "logline": "Tara leans slowly toward the viewer with a steady gaze, Her third eye lighting softly, then settles back upright into calm.",
+            "hook": "From the first second She leans slowly toward the viewer with a steady, serious gaze, Her face growing larger in the frame while the dark water stays still around Her.",
+            "story": "Her name is read as the one who carries across, and Her fierce three-eyed gaze is the gaze of a protector. The slow lean is a reach toward the viewer, as if to carry them across. The unsmiling face stays fierce throughout. The only change in Her look is a soft light in the third eye, which is the creators' cinematic touch. The silver-blue tone is also a stylistic choice. Devotees of Bamakhepa tell that She called him her son and had him fed first. Linking that devotional story to the protector's gaze is the creators' reading, not a claim from the texts. Her hair stays loose as in the reference image, which differs from the matted or braided hair of the tradition. That mismatch is flagged for human review.",
+            "loop": "The clip begins and ends on the same calm, upright portrait with the third eye unlit and the water still. On replay the lean begins again, so the loop reads as She turns toward you once more.",
+            "share_trigger": "Sent to someone going through a hard stretch, as a quiet image of being watched over. It is shared with the line that devotees in the Bengal tradition call Her mother.",
+            "caption_hook": "In the devotional story, the fierce goddess calls her devotee her son.",
+            "audio": "A low steady drone with quiet night-water ambience. One soft, distant bell sounds as the third eye lights and fades as She settles back.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Eye level, locked frame matching the opening portrait, with the crown centered and fully framed.",
+                "action": "She leans slowly forward from the waist with a firm, steady gaze fixed on the viewer, which brings Her face closer and larger in the frame, and Her third eye lights softly with a silver-blue glow as She leans. Her hair settles gently under its own weight.",
+                "purpose": "Opens with a clear, readable action from the first second. The lean is a reach toward the viewer, and the lit third eye marks the moment Her attention rests on them."
+              },
+              {
+                "duration": 5,
+                "camera": "Same eye-level locked frame, crown centered and fully framed, with clear space above the star.",
+                "action": "She holds the steady gaze for a breath, then eases back upright to the starting pose, which returns Her face to its original size in the frame, and the third eye glow fades back to unlit as She settles.",
+                "purpose": "Delivers the payoff and a seamless loop. The fierce gaze stays unbroken, the leaning-in resolves into calm, and the final frame matches the opening portrait."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 7,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: The lean is a simple, readable motion that the model can render, and the return to upright gives a real loop. This is the better-built clip of the two.",
+            "virality: The hook is still a slow lean from a calm portrait. Visible motion starts at once, but 'slowly' and 'steady' mean there is no punch, and a lean from the waist on a three-quarter portrait risks looking like a zoom or a stiff tilt.",
+            "virality: The payoff is thin. A third eye lighting and fading is a glow-only beat, and the clip's own text calls it a cinematic touch with no textual basis. Nothing consequential happens in the world around her, and the water stays still, so the gesture has no consequence.",
+            "virality: The lean-in then lean-back structure reads as a breathing animation. Viewers get no question to hold them for 10s, so completion relies on the loop alone.",
+            "virality: Send-worthiness is moderate. 'Being watched over' is a real emotion, but the image alone does not say 'mother'. The fierce unsmiling face plus a lean can read as menacing, which undercuts the comfort the caption promises.",
+            "virality: Saves are low, as there is no information or surprise to keep. The one distinctive idea (fierce gaze that does not soften) fights the 'tender mother' seed and leaves the story seed barely visible.",
+            "virality: Silver-blue glow and the bell are generic devotional ambience, and novelty is low.",
+            "authenticity: The visual does not carry the story seed. The seed is 'the guarding gaze softens for the one who calls', but the face is explicitly kept fierce and unsmiling throughout. Nothing visibly softens, so the Bamakhepa 'my son' link exists only in the caption and not in the image.",
+            "authenticity: The caption asserts the story ('the fierce goddess calls her devotee her son') without naming Bamakhepa or Tarapith, and the story field concedes that linking it to the gaze is the creators' reading. A viewer gets a free-floating claim.",
+            "authenticity: Leaning forward from the waist and then retreating reads as a jump-scare or a peer-in move. Tara's iconography is hieratic and grounded, not a creature leaning at the viewer. A devotee could find it faintly menacing or trivialising, and the third-eye bell cue pushes it toward a horror beat.",
+            "authenticity: The silver-blue third-eye glow is an invention, and the tradition's own third-eye story (Sati's eye at Tarapith) is not used. The story field says 'creators' cinematic touch', which is honest but gives nothing the dossier supports.",
+            "authenticity: The 'carries across' reading of the lean is a stretch. Nothing in the frame (no water crossing, no path) shows ferrying or rescue, which the dossier calls her core story.",
+            "authenticity: There is no mention that the tiger-skin wrap or skull garland stay in frame, and the hair mismatch is left unresolved.",
+            "feasibility: A lean forward from the waist is a larger pose change than the model prefers. A restrained lean toward the camera is listed as reliable, but 'from the waist' on a three-quarter-length figure with a crown, skull garland and wrap risks body deformation and identity drift.",
+            "feasibility: The concept is built on two timed phases: lean in for 5 s, then ease back to the exact starting pose in 5 s. A return to the original pose and original face size is a reversal that Seedance does not do reliably, and the final frame matching the opening portrait is unlikely. The 'seamless loop' claim is overstated.",
+            "feasibility: The third eye lights and then fades. That is two sequential light changes on a small feature, and the fade-out depends on timing. Small glowing areas can flicker.",
+            "feasibility: The 'locked frame' with the crown centered and fully framed conflicts with a face growing larger as She leans. The crown and star above it would leave the frame or shift, and 'clear space above the star' cannot be maintained.",
+            "feasibility: The story and logline tell of fierce-to-tender softening, but the action keeps an unsmiling, fierce face throughout. The Bamakhepa link is not visible on screen, so the emotional payoff is weak, though that matters more for the story critic than for feasibility.",
+            "feasibility: The audio bell cue depends on the moment the eye lights, which cannot be controlled by timing.",
+            "feasibility: The statement that the water stays still is hard to guarantee while a figure in water moves, and water is a risky element.",
+            "virality fix: Add a consequence in the environment: as she leans in, the still water ripples outward from her, or a path of starlight forms across the surface toward the viewer, so the lean visibly changes the world.",
+            "virality fix: Make the third eye the hook, not the midpoint: it flares at 0.5s as the lean begins, with a sharp light, then dims on the way back, so the loop is a pulse the viewer can see.",
+            "virality fix: Make the lean more dramatic but still renderable, with a faster forward drift and a halt, so her face fills the frame at about 3s, then a slow release. Contrast in speed makes it feel like an event.",
+            "virality fix: Add one small softening detail at the closest point, such as the eyes easing or a slight head tilt, so the 'fierce becomes tender' idea shows on screen and not only in the caption.",
+            "virality fix: Keep the exact start-and-end frame match, since it is the strongest asset, and verify the lit third eye is fully off in the last frame so the loop is seamless.",
+            "authenticity fix: Make the softening visible, or drop the claim. For example, the gaze stays strong, but a slight tilt of the head or an open hand at the end shows tenderness. Alternatively, change the caption to something the image supports.",
+            "authenticity fix: Name the source in the caption: 'Devotees of Bamakhepa at Tarapith tell that Tara called him her son.' Mark it as a devotional story.",
+            "authenticity fix: Replace the waist-lean with a slower, more composed forward movement, such as a slight bow of the head or a steady approach. Avoid a sudden close-up or startle.",
+            "authenticity fix: Drop the bell on the third-eye glow, or make it a soft sustained tone, so it does not read as a horror sting.",
+            "authenticity fix: State that the tiger-skin wrap and skull garland remain visible, and minimise the loose-hair motion.",
+            "feasibility fix: Replace the waist lean with a small head and neck lean forward plus a slow camera push-in, so the camera does most of the work and the body barely changes pose.",
+            "feasibility fix: Cut the return to start. End on the leaned-in held gaze with the third eye softly lit, and rely on a hard cut to the portrait for the loop.",
+            "feasibility fix: Collapse the two shots into one continuous action: 'She leans slightly toward the camera, steady gaze, third eye warming softly.' Remove 'for a breath' and the fade.",
+            "feasibility fix: Allow the frame to tighten (waist-up) so the crown fit does not depend on keeping everything in view, or frame the reference with extra headroom.",
+            "feasibility fix: Say 'water stays calm' as a mood, but do not make the stillness an element the render must prove. Keep the lower frame mostly out of shot.",
+            "feasibility fix: Make the audio a single drone with water ambience and drop the timed bell."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "E",
+            "title": "She Steps Toward Her Own",
+            "source_seed": "The mother of the devoted: She turns toward the viewer, recognising them as Her own.",
+            "logline": "Tara steps slowly toward the viewer, and the star above Her crown and Her third eye brighten together as Her gaze meets yours.",
+            "hook": "From the first frame Her open eyes are fixed on the lens and She takes one slow, firm step forward through the shallow water, so Her figure visibly grows nearer.",
+            "story": "In the Tarapith devotional tradition, Tara is the fierce protector who is also a mother. One devotional account tells of the saint Bamakhepa, who was beaten for eating the offering first. Tara is said to have appeared in a queen's dream and told her to feed him first because he was Her son. This is a devotional story, not established doctrine. The clip draws on that mother-and-child feeling and does not retell the story literally. Her unwavering gaze and steady stride show the protective strength, and the tiger-skin wrap and skull garland stay in view. When She stops, the star above Her crown and Her third eye brighten together, softly and in one warm tone. This pairing is an invented symbol of recognition. It is not a textual detail and does not come from the Tarapith eye legend. That legend says Sati's third eye (some say an eyeball) fell at Tarapith, and it says nothing of a glow. Separately, Her name means star and also the pupil of the eye, which the star and the eye answering together echo visually. Human review note: the anchor's loose hair departs from the matted or braided hair of the tradition, so the clip keeps hair as a minor detail.",
+            "loop": "The clip ends on Her nearer, steady gaze with the star and third eye still glowing. A cut back to the opening portrait shows Her calm and unlit again, as if She is waiting to step toward the next viewer. The loop relies on that restart and not on a rendered reversal.",
+            "share_trigger": "Sent to someone going through a hard time, with 'In the Tarapith tradition, Tara is called a mother to her devotees.' It offers comfort through the image and promises nothing. Viewers are invited in the caption to send it to someone who needs it.",
+            "caption_hook": "Devotees at Tarapith speak of Tara as a mother: the fierce one who steps toward her own. Her name means star, and also the pupil of the eye.",
+            "audio": "Faint, quiet water at the start. A low, soft tone rises under Her step and warms when She stops and the star and third eye brighten, then holds gently to the end.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Camera holds steady at eye level on the three-quarter-length portrait, crown centered and fully in frame with the star above it.",
+                "action": "She takes one slow, firm step toward the viewer with Her eyes fixed on the lens, which brings Her figure visibly closer and makes Her face and shoulders fill more of the frame. Her third eye stays unlit as in the reference portrait.",
+                "purpose": "A clear, readable action from the first second: the fierce protector advances. The growing closeness is the visible consequence and sets up the question of what happens when She arrives."
+              },
+              {
+                "duration": 5,
+                "camera": "Camera holds steady at eye level, crown centered and fully in frame with the star above it.",
+                "action": "She comes to a stop and holds Her steady gaze on the viewer, and in answer the star above Her crown and Her third eye brighten together in one soft, warm tone, so Her face glows gently as the clip ends. Her hair settles under gravity as She stops.",
+                "purpose": "The payoff: recognition. Her arrival is met by the star and the third eye lighting together, which shows the star-and-pupil meaning on screen. The clip ends on the held glow without a reset."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 5,
+            "authenticity": 8,
+            "feasibility": 6
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is weak. A slow step toward the lens is just a slow push-in on a portrait. Nothing happens in the first 1.5s except gradual scaling, and the 'one slow, firm step' is easy for the model to render as a drifting zoom or a float, not a real step with water reaction.",
+            "virality: The payoff arrives at 5s. The first half is a plain approach with no change, so viewers have no reason to expect a payoff and many will swipe before the glow.",
+            "virality: Loop is broken by its own admission. It ends on a close, glowing Tara and 'cuts back' to a calm, unlit, farther portrait. That is a hard visual jump, not a flow into the opening frame, and the shot list even says 'without a reset', which contradicts the loop claim.",
+            "virality: The gesture has a consequence (glow) but the glow is a generic 'soft warm light' on a face and a star. This is the glow-only trope the rubric penalises, and it is invented symbolism that carries no instant meaning on a phone.",
+            "virality: Two lit elements (star above crown and third eye) in one tone is subtle at phone size. The star is far from the face, so the viewer's eye has to split.",
+            "virality: Send-worthiness is decent (comfort to someone struggling), but the 'mother who steps toward her own' idea relies on caption text to land. The image alone reads as 'goddess walks at camera'.",
+            "virality: Novelty is middling. Approaching-camera goddess with a glowing third eye is common in AI devotional clips. The Bamakhepa 'feed him first' link is almost invisible in the visuals.",
+            "virality: Keeping skull garland, tiger skin and crown fully in frame while she gets closer and her face fills more of the frame is contradictory framing, and invites model drift in the crown and star.",
+            "authenticity: The paired star and third-eye glow is the creators' own invention. The story field says so honestly, but the caption and on-screen text do not. A viewer will likely read the glow as canonical 'recognition', and a devotee could take it as a claim about Tara.",
+            "authenticity: The glow is soft, warm and affirming, which risks sanitising the Ugra aspect of the third eye. The dossier describes fierce, bright eyes and a terrifying laugh. One slow step is a gentle gloss on the pratyalidha stride, which advances with force.",
+            "authenticity: 'Recognising them as Her own' casts every viewer as a devotee. Tara calls her devotees her children, and the story is about one specific saint, Bamakhepa. The clip leans on that story without naming him or Tarapith on screen.",
+            "authenticity: The star-and-pupil meaning of the name is well grounded, but the star 'answering' the eye is a visual pun that is not part of the tradition. It needs to stay framed as a reading, not a fact.",
+            "authenticity: The loose hair departs from the jata or Ekajata braid. It is flagged, but the shot actions still call attention to the hair settling.",
+            "authenticity: The caption says 'fierce one who steps toward her own', but the on-screen step is calm and measured. The fierceness comes from the gaze alone.",
+            "feasibility: The 'one slow step forward' is a strength (the Kali render did it well), but this concept stacks three changes: the step, the star brightening and the third eye brightening. That is near the limit of 'one intentional change per clip'. The glow is dense light and could flicker or shimmer.",
+            "feasibility: Two shots with a second-by-second split (5 s walking, then 5 s stopping and glowing) rely on timing inside a continuous render. Seedance cannot be told to walk for exactly 5 s, stop, and only then light up. Expect the glow to start early or the step to run the whole clip.",
+            "feasibility: The camera is described as 'locked' while the figure steps forward in shallow water. Stepping through water risks ripples, splashes and reflections that regenerate independently, and these count as extra moving elements beyond the step and the glow.",
+            "feasibility: The star above the crown is a small, distant, glowing element that has to brighten on its own while the head moves toward the camera. Small tracked glowing objects are a known weak point and the star may drift or duplicate.",
+            "feasibility: A step toward the camera at three-quarter length changes scale (the figure grows), and this can shift the face and crown. The crown with the sun disc, skull garland and tiger-skin wrap all stay in frame and must hold identity through the scale change. 'Crown centered and fully in frame' is hard to keep while She advances.",
+            "feasibility: Hair settling under gravity on stopping is another timed event, though minor.",
+            "feasibility: The loop depends on a hard cut back to the portrait. The end state (glowing, nearer) differs from the start, so the loop is not seamless, though it is acceptable for a restart.",
+            "feasibility: The audio cues (tone rising under the step, warming at the glow) imply timing the video cannot guarantee.",
+            "virality fix: Make the step physical and instant: her foot lands in the first second and a ring of ripples spreads across the dark water, with the water visibly parting or lighting under her foot. Ripples give the model a legible consequence.",
+            "virality fix: Put the payoff earlier and make it a single clear change. For example, the third eye opens or ignites on the beat of the second step at about 3s, with a pronounced pulse, not a slow warm fade.",
+            "virality fix: Fix the loop. Make the final frame match the first: start on the close, glowing frame and end after she has stepped back or the glow has dimmed to the same state, or start at a tight close-up and end at the same crop. Do not rely on a hard cut between mismatched frames.",
+            "virality fix: Drop the star-above-crown glow or tie it to the eye with a visible light line, so there is one unmistakable event. One lit eye beats two lit elements.",
+            "virality fix: Give the viewer a stake in the first second: her eyes snap open on the lens as the first step lands, so the 'she noticed you' moment is the hook itself.",
+            "virality fix: Use a stronger recognition gesture at the end, such as her hand reaching toward the lens and stopping just short, so the 'my own' meaning is visible without the caption.",
+            "authenticity fix: Keep the 'invented symbol' disclaimer in the pinned caption or comment, for example 'the glow is our artistic touch, not a textual detail'. Do not let it read as scripture.",
+            "authenticity fix: Keep the brightening restrained, and do not let the third eye glow turn sweet or sentimental. Keep the steady, unsmiling gaze and keep the tiger-skin wrap and skull garland visible in both shots.",
+            "authenticity fix: Name Bamakhepa and Tarapith in the caption as a devotional story ('devotees tell...'), and soften 'steps toward her own' to something like 'devotees call her mother'.",
+            "authenticity fix: Reduce hair motion to near-nothing, or frame tighter so the hair mismatch is not noticeable.",
+            "authenticity fix: Make the step firm, with a grounded stride and no drifting or gliding, so it echoes the pratyalidha stance.",
+            "feasibility fix: Drop the star glow and keep only one light change, the third eye warming softly. Or keep a single gentle glow shared by the third eye only, and let the star stay as in the reference portrait.",
+            "feasibility fix: Remove the shot split and write one continuous 10 s action: 'She takes one slow step toward the camera, gaze fixed on the lens, third eye gently warming as She comes closer.' No separate stop beat.",
+            "feasibility fix: Reduce water interaction. Say the water around Her feet stays nearly still, or frame at waist-up so the feet and water are mostly out of frame, and describe the step as a slow lean-and-advance of the upper body.",
+            "feasibility fix: Use a slow camera push-in combined with a very small step, so the camera produces most of the closeness and the body moves less. This keeps identity stable.",
+            "feasibility fix: Keep the glow subtle and slow, described as 'a faint warm light' rather than a bright dual brightening, to avoid shimmer.",
+            "feasibility fix: Make the audio a single steady tone rather than cues tied to specific moments."
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "results": [
+        {
+          "concept": {
+            "id": "A",
+            "title": "The Gaze That Softens",
+            "source_seed": "Fierce protector, tender mother: the Ugra gaze that guards you softens for the one who calls (the 'feed him first, he is my son' story).",
+            "logline": "Tara's stern gaze softens as She tilts Her head toward the viewer, and the star above Her crown brightens in answer.",
+            "hook": "In the first second Her stern, wide-open eyes lock onto the viewer and Her head begins to lower and tilt, so Her face drifts a little closer as the guardian look starts to change.",
+            "story": "Tara is the fierce protector, three-eyed and stern, and devotees also call Her mother. At Tarapith, devotees of Bamakhepa tell that She called him Her son and had him fed first. The clip shows that turn in Her face. The stern guarding gaze holds, then the head lowers and tilts, the brows ease and the eyes grow tender. The star above Her crown brightens in answer. Her name means star, so the brightening star is the creators' symbol for Her reply to the one who calls. It is not a claim from the texts. The third eye stays unlit, so nothing is added to Her iconography. The tiger-skin wrap and skull garland stay in view in the lower frame. Her hair is loose in the reference image, unlike the matted or braided hair of the tradition. That mismatch is flagged for human review. Linking the Bamakhepa story to this gaze is the creators' reading of a devotional tale.",
+            "loop": "The clip ends on the softened, tilted gaze and the brighter star. On replay it hard-cuts back to the stern upright portrait, so the loop reads as the guardian softening for you again.",
+            "share_trigger": "Sent to someone going through a hard stretch, or to a person who needs to be reminded that a stern protector can also be a mother. The softening face says 'mother' without words, and the caption names where the story comes from.",
+            "caption_hook": "Devotees of Bamakhepa at Tarapith tell that Tara, the fierce one, called him her son.",
+            "audio": "One low steady drone with quiet night-water ambience. A soft sustained tone rises gently under the second half as Her expression eases. No timed accents.",
+            "shots": [
+              {
+                "duration": 5,
+                "camera": "Eye level, matching the opening portrait, with a very slow, small push-in. The crown with its sun disc and the star above it stay centered and fully framed with headroom to spare.",
+                "action": "Her stern gaze holds the viewer, then Her head lowers a little and tilts to one side, which brings Her face slightly closer to the camera. The tiger-skin wrap and skull garland stay in view in the lower frame, and Her hair settles under its own weight.",
+                "purpose": "The hook is a clear, readable face action from the first second. The lowering tilt turns the guardian's stare into an approach toward the viewer, and the small push-in carries the movement without a body lean."
+              },
+              {
+                "duration": 5,
+                "camera": "Same eye-level frame and the same very slow push-in, with the crown and star still centered and fully framed.",
+                "action": "With Her head still tilted, Her brows ease and Her eyelids soften, which changes Her expression from stern guardian to tender mother, and the star above Her crown brightens in answer. The clip ends on this held, softened gaze.",
+                "purpose": "The payoff makes the story visible: the fierce gaze softens for the one who calls, and the star above Her responds. The ending holds still, so the render has no reversal to get wrong."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 4,
+            "authenticity": 8,
+            "feasibility": 7
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: Hook is weak. 'Eyes lock on, head lowers and tilts a little' is a small, slow face drift, and on a phone it will read as a near-static portrait. No visible consequence in the first 1.5s.",
+            "virality: The payoff is a subtle expression change (brows ease, eyelids soften). Video models render this unreliably, and viewers scrolling at speed may not see it at all. The 'stern to tender' beat is the whole video and it is the least legible part.",
+            "virality: The star 'brightens in answer' is a glow-only change. The brief penalises glow-only scenes, and it is the same dull-to-bright device as most generic AI devotional clips.",
+            "virality: The goddess does very little. Tilting the head and softening the eyes is a pose change, not an action with a consequence. Nothing in the world reacts except a star.",
+            "virality: Loop is a hard cut from a soft, tilted, bright-star ending back to a stern upright portrait. The viewer feels the jump, and the 'softening again' reading depends on a cut. The loop is imposed rather than flowing.",
+            "virality: The ending holds still on the payoff for the back half of the clip. With a 5s hold on a subtle expression, completion will sag.",
+            "virality: Send-worthiness is plausible ('stern protector is also a mother') but the visual carries too little to trigger a send without the caption. The story is explained entirely in text.",
+            "virality: Novelty is low. A portrait of a goddess with a brightening star is the generic AI devotional clip. The Bamakhepa link is invisible on screen.",
+            "virality: The sun disc, star, skull garland and tiger skin all need to stay framed. That is a lot to hold for a face-centred shot, and a push-in risks cropping the crown.",
+            "authenticity: The core idea holds up. A fierce protector who is also a mother, drawn from the Bamakhepa 'feed him first, he is my son' story, matches the dossier. It adds nothing to Her iconography: the third eye stays unlit, and the sun disc, tiger skin and skull garland are unchanged.",
+            "authenticity: The story text discloses the creators' reading of the star and the Bamakhepa link, but the caption hook does not. Viewers who only see the caption get the devotional tale with no marker that the star brightening is invented. The star symbolism rests on 'star' as one etymology. That is acceptable, but it should be labelled as interpretation on screen or in the caption.",
+            "authenticity: Shot 1 says 'Her hair settles under its own weight.' That draws attention to the loose hair, which the dossier flags as departing from the matted jata or Ekajata braid. Nothing in the video explains the mismatch.",
+            "authenticity: 'Tender mother' softened brows and eyes lean toward sentimental. Tara's iconography is wrathful (pratyalidha stance, terrifying laugh), and the softening is the creators' device, not a textual scene. The softening is reverent but leaves out that the fierce form stays fierce.",
+            "authenticity: The caption says Tara 'called him her son' as plain fact. The dossier says she 'reportedly' appeared in a queen's dream. The hedge should be in the caption as well as the story.",
+            "authenticity: The hard cut back to the stern portrait on loop is fine, but it implies her softening is reversible or conditional. A devotee could read that as Her affection switching on and off.",
+            "feasibility: Concept is mostly a face action (head lowers and tilts, brows ease, eyes soften), which suits the model. The head lowering and tilting while the camera pushes in is a small combined motion, but it is within what the guide lists as reliable.",
+            "feasibility: Count of changes: head lower+tilt, expression shift, star brightening, push-in, hair settling. That is about three moving elements plus hair, right at the limit. The star brightening is a glow effect and may shimmer or flicker; it is the riskiest element.",
+            "feasibility: The expression change from stern to tender is subtle and hard to render. Seedance may under-deliver (barely visible) or over-deliver (a smile and identity drift). Brows easing and eyelids softening are two or three micro-changes bundled into one.",
+            "feasibility: The prompt structure leans on timing: shot 1 is the tilt, shot 2 is the softening and star, with 'holds, then lowers'. This is a sequential beat with a hold-then-change order inside a single continuous render, which the rubric penalises. The two-shot, 5s/5s split is only a narrative description, not a cut, and the render cannot honour it.",
+            "feasibility: 'Fully framed with headroom to spare' for the crown and star, while the camera pushes in and the head lowers, is in tension. The push-in plus the lowering head may crop the star, which is needed for the payoff.",
+            "feasibility: The loop claim of a hard-cut back to the stern portrait is fine for editing but does nothing for the render. A soft stern-to-tender change is a weak first-second hook with little visible cause and effect: nothing visibly causes the star to brighten.",
+            "feasibility: The skull garland and tiger-skin in the lower frame are only in frame 1 if the reference portrait shows them. The dossier says the anchor matches, so this is probably fine, but confirm the reference is framed low enough to include them. The crown's sun disc and star are in the reference per the round 3 note.",
+            "virality fix: Give the first 1.5s a bold, unmistakable motion. For example, the stern gaze snaps to the lens and a ripple runs across the shallow water at Her feet as She steps or sways toward you.",
+            "virality fix: Make the softening a larger, readable physical gesture, such as Her raised guarding hand lowering and opening toward the viewer, or Her shoulders dropping. Do not rely on brow and eyelid micro-expression.",
+            "virality fix: Give the star's response a visible consequence in the world, for example light falling to the water and a path or ripples spreading toward the viewer, instead of just brightening.",
+            "virality fix: Build the loop so the final frame returns to the stern pose (soften, then re-guard) or use a real matching end frame instead of a hard cut.",
+            "virality fix: Cut the held end. Land the payoff by about 6s and use the remaining time for the return to the opening frame.",
+            "virality fix: Keep one idea and one gesture. Drop the lower-frame requirements for the wrap and skull garland, which only add framing constraints.",
+            "authenticity fix: Add a short caption line such as 'The glowing star is our symbol, not a textual detail.' Change the caption to 'Devotees at Tarapith tell that Tara appeared in a queen's dream and said Bamakhepa was Her son.'",
+            "authenticity fix: Remove the hair-settling action. Keep the hair as still as possible, or keep the framing off it, and leave the mismatch flagged for human review.",
+            "authenticity fix: Keep the softening subtle, so the eyes stay steady and the stern power is still readable at the end. Her strength should not look dissolved.",
+            "authenticity fix: Consider a soft dissolve or a slower return on the loop instead of a hard cut, so it reads as constant protection rather than a toggle.",
+            "feasibility fix: Cut the clip to one intentional change: a slow head tilt and lower with a slow push-in, ending on a soft gaze. Drop the separate star brightening or make it a very faint, slow glow with no flicker.",
+            "feasibility fix: Replace 'brows ease and eyelids soften' with one simple instruction, for example 'a slow blink, then her gaze settles gently on the viewer'. That is a documented reliable micro-expression.",
+            "feasibility fix: Write the prompt as one continuous motion with no 'then' sequencing and no per-shot timing. Say 'slowly tilts her head toward the camera while her expression gently softens'.",
+            "feasibility fix: Keep the push-in very small and set the framing so the star stays in frame even at the end. Check the headroom in the reference crop.",
+            "feasibility fix: If the star is kept, tie it to a visible cause: let the star's light be already in the reference and only gently intensify as the face softens, or skip it and let the face carry the beat."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "E",
+            "title": "She Leans Toward Her Own",
+            "source_seed": "The mother of the devoted: She turns toward the viewer, recognising them as Her own.",
+            "logline": "Tara leans toward the viewer, Her third eye flaring once as Her gaze locks on you, then She settles back to calm.",
+            "hook": "Within the first 1.5 seconds Her calm eyes lock onto the lens, She leans in so Her face grows toward you, and a first spark of light kindles in Her third eye.",
+            "story": "Devotees at Tarapith call Tara a mother to those who call on Her, though She is also the fierce protector. One devotional account tells of the saint Bamakhepa, who was beaten for eating the offering first. Tara is said to have appeared in a queen's dream and told her to feed him first because he was Her son. This is a devotional story, not established doctrine, and the clip does not retell it literally. It draws on the feeling of the fierce one turning toward someone and claiming them. She leans in with a steady, unsmiling gaze, and Her third eye flares once in a sharp, restrained pulse. The tiger-skin wrap and skull garland stay in view. The flaring third eye is an invented symbol for being noticed. It is our artistic touch, not a textual detail, and it does not come from the Tarapith legend of Sati's eye, which mentions no light. Her name also means star and the pupil of the eye. That is a reading we offer, not a claim about the tradition. The star above Her crown stays exactly as in the reference portrait so the light has one clear focus. The loose hair departs from the matted or braided hair of the tradition, so the clip gives it no attention.",
+            "loop": "The clip is built as a loop. It opens on the calm portrait with the third eye unlit. She leans in and the eye flares. Then She slowly straightens and the light fades until the last frame matches the first: upright, centered, calm, third eye unlit. The restart flows from the end frame with no jump in framing or light.",
+            "share_trigger": "Sent to someone going through a hard time, with the line 'Devotees at Tarapith call Tara mother.' The moment She looks straight at you and leans in reads as being seen, and it promises nothing. The caption invites viewers to send it to someone who needs to feel noticed.",
+            "caption_hook": "Devotees at Tarapith tell of Bamakhepa, the saint Tara called her son, and they call her mother. (The glowing eye is our artistic touch, not a textual detail.)",
+            "audio": "A single low, steady tone under faint, quiet water, held evenly from start to end with no cues tied to specific moments.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Camera holds steady at eye level on the three-quarter-length portrait, crown with the sun disc centered and fully in frame, star above it unchanged.",
+                "action": "Her open eyes lock onto the lens and She leans slowly forward from the waist with a firm, grounded posture, which brings Her face and shoulders closer to the viewer. As She leans, a spark kindles in Her third eye and builds to one sharp pulse of warm light at about 3 seconds, which lights the centre of Her forehead.",
+                "purpose": "The hook and payoff come early. She notices you at once, and the third eye lights in one clear event that reads on a phone screen. The lean makes the viewer feel looked at."
+              },
+              {
+                "duration": 6,
+                "camera": "Camera holds steady at eye level, crown centered and fully in frame, tiger-skin wrap and skull garland visible.",
+                "action": "She holds the steady, unsmiling gaze for a moment, then slowly straightens to Her upright stance, which returns Her face to its original size in the frame. As She straightens, the light in Her third eye eases down to its unlit state.",
+                "purpose": "The closing frame matches the opening frame, so the loop restarts without a jump. The slow return gives a feeling of being watched over, with Her strength held in reserve."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 6,
+            "feasibility": 4
+          },
+          "guard_problems": [
+            "MotionGuard hair-physics: hair is described without gradual settling, swaying or billowing"
+          ],
+          "feedback": [
+            "virality: The hook is better. A lean toward the lens plus a third-eye spark inside 1.5s is a visible, large motion, and being looked at directly is a real stopper on a phone.",
+            "virality: The third-eye flare is stated by the concept itself to be an invented symbol with no textual basis. It is a glow event, which is the generic AI device the brief warns about, though at least it is one clear event at about 3s.",
+            "virality: The lean 'from the waist' on a three-quarter portrait is rendering risk. Models often distort proportions or morph the face when a figure grows toward the camera and then returns to scale.",
+            "virality: The payoff is a pulse and then nothing. After 3s the remaining 7s is a slow straighten and fade-down, so the back half has little to hold viewers and completion will suffer.",
+            "virality: The goddess leans and flares, but nothing in the world changes. There is no consequence beyond Her own forehead lighting up.",
+            "virality: The loop is the strongest part of the concept. Start and end are the same calm frame, so the replay is seamless, but a seamless loop of a slow return is also a quiet ending and gives no reward for staying.",
+            "virality: Send-worthiness rests on 'being seen', which is decent for someone going through a hard time. The caption does the story work, and the Bamakhepa reference is not visible in the clip.",
+            "virality: Caption hook is clumsy and half apologetic, with the disclaimer in parentheses. It undercuts the hook.",
+            "virality: The audio is a flat drone with no cue for the flare. That wastes the one moment that should land with a sound, and sound-on viewers get no hit.",
+            "authenticity: The central device, the third eye flaring with a 'sharp pulse of warm light', is invented. It is not in the dossier's iconography or in the Tarapith legend. The concept admits this, but disclosure does not make it appropriate. In Shaiva and Shakta imagery a flaring third eye carries connotations of destructive fire and annihilation. That clashes with the 'mother claims her child' meaning, and a devotee could read it as a special-effects laser on a sacred feature.",
+            "authenticity: The story is weakly tied to the deity's meaning. The Bamakhepa tale is about motherly protection, but the clip's key moment is a light flare, and the loop is a lean-in and lean-back. The caption admits the glow is 'our artistic touch', so the video's main visual is not drawn from the tradition.",
+            "authenticity: The story text acknowledges the Tarapith eye legend, but the concept still uses the third eye as its main prop. Tarapith's sanctity is tied to the eye falling, so lighting it up as an effect risks making a place of pilgrimage into a gimmick, even though the dossier notes that source does not mention light.",
+            "authenticity: The lean toward the viewer 'from the waist' with a steady, unsmiling gaze and a flash from the forehead can read as threatening or confrontational. It is not clearly the recognition of a devoted child. The share line 'reads as being seen' leans on a mood the visuals may not deliver.",
+            "authenticity: The caption presents 'Bamakhepa, the saint Tara called her son' as fact, with less hedging than the story text. The caption's grammar also has a lowercase 'her' for the deity, which a devotee would notice.",
+            "authenticity: The loose hair is flagged but not fixed. The concept says 'gives it no attention', yet a forward lean will move the hair.",
+            "feasibility: The third eye lighting and flaring is a glow effect that Seedance renders unreliably (flicker, shimmer, a smear across the forehead). It also adds light that is not in the reference, and the concept makes it the hook and the payoff.",
+            "feasibility: The pulse is timed: 'spark kindles... builds to one sharp pulse at about 3 seconds', then fades. That is second-by-second timing in a single continuous render and cannot be controlled.",
+            "feasibility: Too many sequential events: lean forward from the waist, third eye kindles, pulses, holds, straightens, light fades. That is a full out-and-back arc with three moving elements (body lean, third-eye light, return) plus hair. A lean from the waist is a large pose change, beyond a small slow lean.",
+            "feasibility: The loop depends on the last frame matching the first exactly (same framing, pose and unlit eye). Seedance does not guarantee a return to the starting state, and identity drift grows with the extra motion. The reverse motion of straightening up and the light fading is where it will go wrong. A clip that does not return exactly gives a visible jump on replay.",
+            "feasibility: 'Sharp pulse' conflicts with the guide's preference for slow, restrained changes. 'Firm, grounded posture' while leaning from the waist is contradictory.",
+            "feasibility: The three-quarter-length framing in a lean makes the body move a lot; the guide recommends waist-up for identity stability.",
+            "feasibility: The concept is also heavy with disclaimers ('invented symbol', 'not a textual detail') which signal that the central visual is arbitrary rather than grounded.",
+            "virality fix: Make the flare produce a consequence in the scene. For example, the pulse sends a ring of light across the dark water at Her feet and the ripples reach the viewer, so the moment affects the world and the lean has a payoff.",
+            "virality fix: Compress the setup so the flare lands near 2s, then use the remaining time for the settle. A shorter lean-and-flare with a quick return makes the loop tighter and lifts completion.",
+            "virality fix: Keep the lean small and mostly head and shoulders forward. That reduces the morphing risk and still reads clearly on a phone.",
+            "virality fix: Add one soft audio accent on the flare, such as a single low bell or breath, so the moment is felt as well as seen.",
+            "virality fix: Rewrite the caption as one clean line with a direct send prompt, for example 'Send this to someone who needs to be seen,' and move the disclaimer to a pinned comment.",
+            "authenticity fix: Drop the third-eye flare. Express recognition through the gaze and a slow lean, and let the star above the crown, already in the reference image, brighten softly as the single light event. Label that as a creators' symbol.",
+            "authenticity fix: If any light is kept, make it a gentle, steady warming of the whole face and not a sharp pulse from the third eye. Keep the third eye unlit, as in the tradition.",
+            "authenticity fix: Rewrite the caption hook as 'Devotees at Tarapith tell that Tara appeared in a queen's dream and said Bamakhepa was Her son.' Capitalise 'Her' and keep the hedge.",
+            "authenticity fix: Soften the lean so it reads as turning toward the viewer rather than looming, and keep the face calm, with no sharp stare.",
+            "authenticity fix: Either fix the loose hair by hold-still framing or log the mismatch prominently for human review.",
+            "feasibility fix: Drop the third eye flare entirely. Keep one change: a slow, small lean toward the camera (or a slow push-in) with her gaze settling on the viewer.",
+            "feasibility fix: Remove the return-to-start arc. End on the held, closer gaze and let the editor handle the loop with a cut or crossfade instead of relying on the render to reverse.",
+            "feasibility fix: Remove the 'about 3 seconds' and any other timing cues; describe the motion as one continuous slow lean.",
+            "feasibility fix: Reframe as waist-up, reduce the lean to a few degrees of head and shoulder movement, and keep the crown and star unchanged.",
+            "feasibility fix: If a light accent is kept, make it the existing third-eye marking only, with the lighting held constant and no flare.",
+            "guard: MotionGuard hair-physics: hair is described without gradual settling, swaying or billowing"
+          ],
+          "passed": false
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "results": [
+        {
+          "concept": {
+            "id": "E",
+            "title": "She Leans Toward Her Own",
+            "source_seed": "The mother of the devoted: She turns toward the viewer, recognising them as Her own.",
+            "logline": "Tara's gaze settles on you and She leans gently closer, and the star above Her crown brightens in answer.",
+            "hook": "In the first 1.5 seconds Her calm open eyes settle on the lens and Her head and shoulders begin a slow, small lean toward you, so Her face grows slightly closer.",
+            "story": "Devotees at Tarapith call Tara a mother to those who call on Her, though She is also a fierce protector. One devotional account tells of the saint Bamakhepa, who was beaten for eating the offering first. Tara is said to have appeared in a queen's dream and told her to feed him first because he was Her son. This is a devotional story, and the clip does not retell it literally. It carries the feeling of the fierce one turning toward someone and recognising them as Her own. She meets the viewer's eyes with a calm, soft face and leans a few degrees closer, and the star above Her crown, already in the reference portrait, brightens gently in answer. That brightening is a creators' symbol for being noticed, not a textual detail. The third eye stays unlit throughout, as in the reference. The tiger-skin wrap and skull garland stay in view. The loose hair in the reference differs from the matted or braided hair of the tradition. This is logged for human review, and the framing keeps attention on the face and the star.",
+            "loop": "The clip ends on the held, closer gaze with the star bright. The editor loops it with a short crossfade back to the opening portrait, so the replay reads as Her turning toward you again and the render does not need to reverse its motion.",
+            "share_trigger": "Sent to someone going through a hard time. The moment Tara looks straight at you, leans in and the star above Her brightens reads as being seen and cared for, and it promises nothing more.",
+            "caption_hook": "Send this to someone who needs to be seen.",
+            "audio": "A low, steady tone under faint, quiet water, with one soft low bell note and a gentle breath as the star brightens, then fading into the tone.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Camera holds steady at eye level on the three-quarter-length portrait, crown with the sun disc centered and fully in frame, star above it, third eye unlit.",
+                "action": "Her open eyes settle on the lens and Her head and shoulders lean slowly forward by a few degrees, which brings Her calm face slightly closer to the viewer. Her hair settles gradually under natural gravity as She leans.",
+                "purpose": "The hook is immediate. Being looked at directly by Her stops the scroll, and the small lean makes the viewer feel noticed without looming."
+              },
+              {
+                "duration": 6,
+                "camera": "Camera holds steady at eye level, crown centered and fully in frame, tiger-skin wrap and skull garland visible.",
+                "action": "She completes the same slow lean and rests Her soft gaze on the viewer, and the star above Her crown brightens gently in answer, which lights the dark sky around it with a calm, steady glow. Her hair continues to settle under natural gravity.",
+                "purpose": "The payoff is the star answering Her gaze, so the sky responds to being seen. The clip ends on the closer, held look, which gives a lasting feeling of being watched over and gives the editor a clean point to loop from."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 3,
+            "authenticity": 7,
+            "feasibility": 8
+          },
+          "guard_problems": [],
+          "feedback": [
+            "virality: This is the 'goddess stands there' failure the rubric penalises. The only motion is a lean of a few degrees plus a slow star brightening. There is no visible, specific action in the first 1.5 seconds, and a lean of 'a few degrees' on a locked camera is nearly invisible on a phone. The hook is essentially a stare.",
+            "virality: The gesture has no consequence for 4 seconds. The star brightens only in shot 2, so the first half is a static portrait. Viewers will scroll before the payoff arrives.",
+            "virality: The payoff is a glow-only change (a star brightening). That is exactly the generic AI devotional pattern, with low novelty. It is also weakly legible: the star is small and above the crown, and a brightening in a night sky may not register as an event on a phone screen.",
+            "virality: The loop is weak. The end is a held, closer gaze with the star bright, and the opening is the star dim at rest. A crossfade between a bright-star frame and a dim-star frame will show a visible pop, and the replay does not flow. The brief admits the render does not reverse and relies on an editor's crossfade to hide it.",
+            "virality: Hair 'settling under natural gravity' is an invisible detail that risks odd cloth or hair physics from the model, with no payoff for the viewer.",
+            "virality: Send-worthiness rests on 'send this to someone who needs to be seen', which is generic comfort-content. Many near-identical clips exist, so there is no particular reason to pick this one, and the caption does little work.",
+            "virality: Save value is low. There is no learnable fact or striking image, because the Bamakhepa story is mentioned but not shown.",
+            "virality: The concept drops the strongest elements in the dossier: the third eye lit, the ocean, the stride, and the water setting. It reads as a portrait with a mood, not a moment.",
+            "authenticity: The clip is mostly a generic gentle lean and a brightening star. It has little that is specific to Tara. The Bamakhepa story is only a feeling, and the lean could be any benevolent goddess, which weakens fidelity to her 'ferry across / saviour' purpose and fierce Ugra character.",
+            "authenticity: The tone leans soft and sentimental ('calm, soft face', 'being seen and cared for'). This risks dropping Tara's fierceness altogether, which flattens a Mahavidya into a comforting wellness image. Devotees may find it pleasant but incomplete.",
+            "authenticity: The star brightening as a response to her gaze is the creators' symbol. It is disclosed, but the star's real meaning (the name 'Tara' as star) is not used to ground it, so it reads as decoration.",
+            "authenticity: The hair is the biggest problem. Shot actions say 'Her hair settles gradually under natural gravity', which animates and emphasizes loose hair, the very detail that departs from the tradition. The story text says attention is kept off the hair, but the shot descriptions draw attention to it.",
+            "authenticity: The caption 'Send this to someone who needs to be seen' has no tradition content, no Tarapith attribution and no note on the symbolism. The caption hook should carry the disclosure as the concept A caption does.",
+            "authenticity: The audio calls for a bell note and a breath, which is a generic spiritual-wellness texture and not tied to tantric or Tarapith practice. This is minor but adds to the soft-focus feel.",
+            "authenticity: The loop by crossfade to the opening portrait means the lean restarts, which is fine, but a lean that reads as looming at close range could feel intrusive, not reverent.",
+            "feasibility: The brightening star is a glow effect. The guide flags dense glow and particle effects as flickery, though this is a single point of light and the star already exists in the reference. Risk is shimmer or the star changing shape or size, or light spilling unevenly onto the sky.",
+            "feasibility: The brightening is a 'sequential' payoff in the second half (lean first, then star answers). It depends on the star lighting up as a consequence of the gaze, which is a symbolic cause and effect with no visible physical link. The model may brighten it early, flicker, or not at all.",
+            "feasibility: 'Three-quarter-length portrait' framing is looser than the waist-up the model handles best, which adds some identity risk for the face during a lean. The lean also involves head and shoulders moving together, a slightly larger pose change than a head tilt.",
+            "feasibility: The 4s/6s split and 'first 1.5 seconds' are second-by-second timing language. The shots should be written as one continuous action.",
+            "feasibility: The loop relies on an editor crossfade and the end state (closer, star bright) differs from frame 1. That is fine for feasibility but the star state mismatch makes the seam visible.",
+            "feasibility: Hair 'settling under natural gravity as She leans' is acceptable, but the claim that the glow lights the sky 'around it' adds a second lighting change that should be dropped.",
+            "virality fix: Give Her a real, visible action in the first second. For example, She turns Her head sharply to lock eyes with the lens, or She reaches a hand toward the camera, with a clear consequence (the water stills, the star drops light into Her palm).",
+            "virality fix: Move the star's reaction into the first 1.5 seconds and make it dramatic and legible, such as the star flaring and a beam of light touching Her face, not a gentle brightening after 4 seconds.",
+            "virality fix: If the lean is kept, make it bold: a clear forward movement that fills the frame, ending with Her face close and the eyes sharp. A few degrees will not read.",
+            "virality fix: Fix the loop by starting and ending on the same star state. For example, open with the star already bright and dimming as She turns, or end with it returning to the opening brightness, so the cycle is seamless.",
+            "virality fix: Replace the generic caption with something specific, such as the 'feed him first, he is my son' line as an on-screen hook, to give the clip a story and a reason to be saved.",
+            "virality fix: Cut hair-settling and other micro-details. One motion plus one clear consequence is enough, and a clip that simple can be grasped in under 2 seconds.",
+            "authenticity fix: Anchor the star brightening explicitly in the name 'Tara' (star), and say so in the caption, so the symbol rests on the dossier and not on mood.",
+            "authenticity fix: Keep a trace of fierceness (steady, unsmiling, three-eyed presence, skull garland and tiger skin clearly in frame) so she reads as the fierce mother and not a gentle generic goddess.",
+            "authenticity fix: Remove the hair-settling-under-gravity motion. Lock the hair still or frame so it is minimal, and flag regeneration with matted or braided hair for human review.",
+            "authenticity fix: Rewrite the caption to include the devotional-story framing and the disclosure that the star brightening is our symbol. For example: 'Tara means star. One Tarapith story calls her mother to those who call on her. The star answering is our symbol.'",
+            "authenticity fix: Replace the bell and breath audio with a plain low drone and water ambience, matching concept A, to avoid generic spirituality cues.",
+            "authenticity fix: Keep the lean small and never fill the frame, so it reads as attention and not looming.",
+            "feasibility fix: Keep it to gaze, a small lean and a gentle brightening of the existing star. Delete 'lights the dark sky around it' so the model does not have to relight the background.",
+            "feasibility fix: Let a slow camera push-in carry most of the closeness and shrink the body lean to a minimal head and shoulder settle. Frame waist-up if the anchor allows, to protect identity.",
+            "feasibility fix: Phrase the star as 'the star above Her crown glows a little brighter' in one sentence with no ordering against the lean. Accept that its timing may vary and test whether a slightly brighter star over the whole clip works.",
+            "feasibility fix: Remove the shot durations and the 1.5-second language and describe a single continuous 10s move."
+          ],
+          "passed": false
+        },
+        {
+          "concept": {
+            "id": "A",
+            "title": "She Comes When You Call",
+            "source_seed": "Fierce protector, tender mother: the Ugra gaze that guards you softens for the one who calls (the 'feed him first, he is my son' story).",
+            "logline": "Tara keeps Her steady, fearless gaze and takes one firm step toward the viewer, sending a ring of ripples across the dark water to the lens.",
+            "hook": "In the first second Her foot presses forward into the shallow water and a ring of ripples spreads from Her feet across the dark surface toward the viewer, while Her eyes stay locked on the lens.",
+            "story": "Tara is the fierce protector, three-eyed and unflinching, and devotees also call Her mother. Devotees at Tarapith tell that She reportedly appeared in a queen's dream and said the saint Bamakhepa was Her son and should be fed first. The clip shows the idea in one action: the fierce goddess comes toward the one who calls. Her face stays strong and steady, so Her power is not dissolved. One firm step brings Her closer and ripples carry the movement out to the viewer. The step is the creators' symbol for Her answer. It is not a scene from the texts, and linking this tale to the step is the creators' reading of a devotional story. Her third eye stays unlit, and the sun disc, star and ornaments are unchanged from the reference. The hair is loose in the reference image, unlike the matted or braided hair of the tradition. The framing leaves the hair unremarked, and the mismatch is flagged for human review.",
+            "loop": "The clip ends with Her slightly closer, upright and level, with the same centered crown and star as the opening and the ripples fading to still water. The replay cut to the opening frame is near-identical in composition, so it reads as a soft reset. A short cross-dissolve is recommended in editing, so it feels like constant protection and not a switch.",
+            "share_trigger": "Sent to someone going through a hard stretch, with a line like 'she comes when you call'. The visible arrival, a step toward you and ripples reaching the screen, says 'protector who answers' without needing the caption.",
+            "caption_hook": "Devotees at Tarapith tell that Tara appeared in a queen's dream and said Bamakhepa was Her son. The step toward you is our symbol, not a textual detail.",
+            "audio": "Low steady drone with quiet night-water ambience. One soft low water sound as Her foot meets the water in the first second, then a gentle sustained tone that fades as the ripples settle.",
+            "shots": [
+              {
+                "duration": 4,
+                "camera": "Locked at eye level, matching the opening portrait. The crown with its sun disc and the star above it stay centered and fully framed with generous headroom.",
+                "action": "Her gaze stays fixed on the viewer as She presses one foot forward into the shallow water, which sends a ring of ripples spreading from Her feet across the dark surface toward the camera.",
+                "purpose": "A bold, readable hook in the first second: a clear stride with an immediate visible consequence in the water, with a face that stays strong and steady."
+              },
+              {
+                "duration": 6,
+                "camera": "Same locked eye-level frame, with the crown and star still centered and fully framed with headroom to spare.",
+                "action": "Her step completes and Her head lowers very slightly, as if bending to listen, which brings Her face a little closer to the viewer while the ripples reach the foreground and fade to still water. Her eyes stay steady on the viewer to the end.",
+                "purpose": "The payoff by about the sixth second: the protector has arrived and attends to the one who called, with Her strength intact. The remaining time lets the water settle so the end frame matches the opening for a clean loop."
+              }
+            ]
+          },
+          "scores": {
+            "virality": 6,
+            "authenticity": 8,
+            "feasibility": 5
+          },
+          "guard_problems": [
+            "logline is longer than 25 words; the concept must fit in one short sentence",
+            "MotionGuard hair-physics: hair is described without gradual settling, swaying or billowing"
+          ],
+          "feedback": [
+            "virality: The hook is good: a foot pressing into water with ripples spreading is visible, specific motion with an immediate consequence, and it is the only concept here where the goddess clearly DOES something. But 'presses one foot forward' is a small, low-contrast motion on a locked eye-level portrait. On a phone the foot may be out of frame or barely readable, and the ripple ring may render weakly or as a texture shimmer.",
+            "virality: A locked-eye-level camera with a step 'toward the viewer' is a physics contradiction. If the camera is locked and She steps forward, She should grow noticeably larger. The brief instead says the face comes only 'a little closer'. The step may not read as a step, and the ripples may be the only evidence.",
+            "virality: Shot 2 is weak. After the step, the head 'lowers very slightly' while ripples fade, which is about 6 seconds of settling. That is a slow second half with no new event and no twist. The hold relies on a mild 'bending to listen' that is barely visible, so mid-clip drop-off is likely.",
+            "virality: The payoff is soft. The viewer learns nothing new after second 2, and nothing answers the question 'what happens when She arrives?' The ripples fading to stillness is a resolution of motion, not of meaning.",
+            "virality: The loop is a near-identical end frame with a cross-dissolve. That is workable, but the opening is a moment of action (the foot pressing) and the ending is stillness, so the replay has a small energy dip and does not feel seamless. The 'closer' end pose also mismatches the opening framing, so a dissolve will show a size jump.",
+            "virality: Send-worthiness depends on the caption line. The 'she comes when you call' idea is decent and specific, but the on-screen meaning of a step is ambiguous without caption help. The caption hook is a long disclaimer-style text ('our symbol, not a textual detail') that kills the scroll-stopping value; it reads like a footnote.",
+            "virality: Novelty is moderate. Goddess walking through dark water toward camera is a familiar AI devotional trope, though the ripple consequence lifts it above pure standing-and-glowing. The third eye stays unlit and the star does nothing, so the strongest iconographic assets are unused.",
+            "authenticity: The Bamakhepa 'feed him first' story is a modern-saint devotional anecdote about a queen's dream. It is mapped onto a generic stride-through-water action, so the tie is thin. The concept admits the step is the creators' symbol, which is honest, but the story-to-image link is tenuous.",
+            "authenticity: The firm step toward the viewer pulls on the pratyalidha/advancing-stride iconography. That stance is meant to be wrathful, over a corpse, and the concept softens it without saying so. A devotee may see a fierce stride recast as a gentle 'comes when you call' gesture. Plausible, but it is interpretation.",
+            "authenticity: 'Tender mother' is carried only by a slight head-lowering. Most of the clip is a fierce advance, so the 'softens for the one who calls' idea is underplayed and the ripples are doing the work.",
+            "authenticity: The caption hook says 'Devotees at Tarapith tell that Tara appeared in a queen's dream', but the dossier cites Wikipedia and a 'reportedly' account. Hedging is present, but 'devotees tell' is a mild overstatement of what was verified from search summaries only.",
+            "authenticity: The loose hair mismatch is flagged but not fixed. Shipping the video with loose hair, when the dossier says matted or braided hair is the tradition, is a real fidelity gap and not just a note for review.",
+            "authenticity: The 'she comes when you call' share line promises responsiveness. For people in hardship, it edges toward a guarantee, though it is gentler than a claim of results.",
+            "feasibility: Rests on water physics, which the guide lists as risky. Ripples from a foot press must radiate in a clean ring toward the lens and then 'fade to still water'. Seedance tends to regenerate ripples and reflections independently, and calming a surface is explicitly called out as unreliable.",
+            "feasibility: A foot stepping forward into water is a full-body, lower-body motion. Her feet and legs may be partly out of frame or ambiguous, which risks identity drift and a warped stance. The step must move the body forward, yet the camera is locked and the crown and star must stay centered with fixed headroom. Those two demands conflict: a real step forward changes scale and framing.",
+            "feasibility: Several moving elements at once: step/body advance, head lowering, ripple ring, ripples reaching the foreground and settling, plus hair. That is more than two moving elements besides settling hair.",
+            "feasibility: Relies on second-by-second timing: 'in the first second' the foot presses, 'by about the sixth second' the payoff, then the water settles so the last frame matches the first. One continuous render cannot be told to hit those beats or to return to a near-identical end frame. The 4s/6s split is not something the model will honour.",
+            "feasibility: The loop depends on the end frame matching the opening composition even though She ends closer and with lowered head. The clip will not reproduce it, and the cross-dissolve is an edit workaround.",
+            "feasibility: The hook requires cause and effect (foot to ripples) to be legible in the first second, but image-to-video usually ramps motion in slowly, so the hook may not land.",
+            "feasibility: The shot list is two shots with a duration split, which implies a cut or timing structure. The brief is a single 10s clip.",
+            "virality fix: Make the step unmistakable. Use a slight low angle or a slow dolly-back so the step visibly pushes Her toward the lens, with the ripple ring crossing the frame bottom within 1 second. Keep the foot and water in frame, not just the portrait.",
+            "virality fix: Give shot 2 an event. For example, when the ripples reach the lens, the star above the crown flares once, or the third eye opens for a single beat. That gives a payoff worth waiting for and a reason to rewatch.",
+            "virality fix: Cut the second half's slack. Compress the settle to about 2 seconds and use the rest for the payoff, or shorten the clip to about 7 to 8 seconds so completion rate rises.",
+            "virality fix: Design the loop deliberately. End with the ripples fading while She is back at the opening distance (or begin the clip already one step back), so the last frame truly matches the first and the next step reads as a fresh arrival.",
+            "virality fix: Shorten the caption to a single punchy line, such as 'When you call, she comes.', and move the sourcing disclaimer to the comments or description.",
+            "virality fix: Keep the render simple: one foot, one ripple ring, one steady gaze. Do not add extra water effects that the video model may turn into noise.",
+            "authenticity fix: Keep the stride but call it the advancing, protective stride in the caption, so it ties to the pratyalidha iconography in the dossier. Optionally add that her stance is traditionally fierce.",
+            "authenticity fix: Make the lowered head and attentive softening clearer (slightly softer brow or eyes) so the 'mother' half reads, while keeping the fierce frame.",
+            "authenticity fix: Soften the caption to 'One devotional story from Tarapith says...' and keep the explicit disclaimer that the step is our symbol.",
+            "authenticity fix: Resolve the hair before release: either regenerate the anchor with matted or braided hair, or get explicit human sign-off. Don't let the mismatch pass silently.",
+            "authenticity fix: Rephrase the share line to something like 'she is said to answer her children' so it does not read as a promise.",
+            "feasibility fix: Drop the ripple ring as the payoff. Make the camera do the movement: a slow push-in on Her face while She holds a steady gaze, with only faint ambient ripple at the waterline that does not need to be causal.",
+            "feasibility fix: Replace the foot step with a small lean or slow step-forward that is mostly implied by the push-in, and let the water move only as a side effect that needs no clean geometry.",
+            "feasibility fix: Cut to one intentional change: steady gaze plus slow push-in plus a slight head lower. Remove 'fade to still water' and the first-second hook timing.",
+            "feasibility fix: Write it as a single continuous 10s action with no beat timestamps. Treat the loop as an editor crossfade and do not require matching end frames.",
+            "guard: logline is longer than 25 words; the concept must fit in one short sentence",
+            "guard: MotionGuard hair-physics: hair is described without gradual settling, swaying or billowing"
+          ],
+          "passed": false
+        }
+      ]
+    }
+  ]
+}

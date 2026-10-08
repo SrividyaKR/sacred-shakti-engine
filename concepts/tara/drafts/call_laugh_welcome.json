@@ -1,0 +1,25 @@
+{
+  "title": "The Call, The Laugh, The Welcome",
+  "source_seed": "Patron of seafarers; Ugra Tara's fierce laugh; the mother of the devoted",
+  "caption_hook": "Before every crossing, they called her name. She turned. She laughed at the dark. Then she opened her arms.",
+  "shots": [
+    {
+      "duration": 5,
+      "camera": "Eye level, front-facing, three-quarter-length framing from the reference portrait, with one slow, small push-in throughout and the crown and golden sun disc centered and fully framed.",
+      "action": "Her stern gaze holds the viewer, then the bright star above Her crown flares once and Her head turns slowly to look out over the dark sea toward the horizon, as if answering a call. After a moment Her head turns back to the viewer with a stern, steady look. Her hair settles under natural gravity.",
+      "purpose": "She hears the call: the star is the cause, her turn is the action."
+    },
+    {
+      "duration": 5,
+      "camera": "The same eye-level framing and slow push-in continue, the crown and golden sun disc centered and fully framed.",
+      "action": "Her chin lifts slightly and She gives a brief, fierce, confident laugh, Her shoulders and the skull garland shaking with it and the gold jewelry glinting. As the laugh ends She settles into a composed, steady look and the vertical third eye glows softly. Her hair settles under natural gravity.",
+      "purpose": "Ugra Tara laughs at what frightens the one who called."
+    },
+    {
+      "duration": 5,
+      "camera": "The camera pulls back slightly so Her open arms stay fully in frame, with the crown and golden sun disc centered and fully framed.",
+      "action": "She opens both arms slowly outward from Her sides, palms open toward the viewer in a wide gesture of protection, and the golden sun disc and the bright star above Her crown brighten as Her stern gaze softens into a faint, tender smile. Her hair settles under natural gravity.",
+      "purpose": "The fierce protector becomes the welcoming mother."
+    }
+  ]
+}

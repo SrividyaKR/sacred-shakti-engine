@@ -28,20 +28,24 @@ GLOSSARY = {
 # Curated visual canon, written in plain English from the classical iconography. Review before locking an anchor.
 CANON = {
     "tara": {
+        "crown_ornament": "golden sun disc",
+        "first_frame": ("a front-facing, three-quarter-length portrait of Tara at eye level, standing in calm shallow dark water: "
+                        "crown with a golden sun disc centered and fully framed, a bright star above it, a visible unlit third eye, "
+                        "eyes open with a calm expression, a starry midnight sky behind Her, and nothing else in the frame."),
         "appearance": {
             "skin": "deep sapphire-blue skin",
             "eyes": "large, luminous eyes with a steady, compassionate gaze",
             "third_eye": "a subtle vertical third eye",
-            "headwear": "elaborate tiered gold and silver crown resting flush on voluminous black hair, seamlessly integrated with a solid crescent moon at its peak, with a faint guiding star above",
+            "headwear": "elaborate tiered gold and silver crown resting flush on voluminous black hair, topped with a golden sun disc at its peak, with a bright guiding star above",
             "hair": "thick, long black hair in heavy locks falling past the shoulders",
             "attire": [
                 "dark indigo fitted V-neck silk bodice with subtle embroidered silver starbursts",
                 "fitted pleated wrap skirt in a tiger-skin pattern of gold and black stripes",
             ],
             "ornamentation": [
-                "multi-layered skull garland",
+                "multi-layered skull garland with a silver star pendant",
                 "ornate serpent-shaped gold armbands and wrist cuffs on both arms",
-                "gold and silver waist belt",
+                "gold waist belt with a silver star medallion",
             ],
             "feet": "bare feet",
         },
@@ -49,15 +53,15 @@ CANON = {
             "elemental_domain": "reflective dark ocean shore, distant starlight, solitary guiding star",
             "motion_archetype": "stationary_command",
             "signature_phenomena": [
-                "expanding concentric ripples across calm dark water",
-                "voluminous black hair drifting in sea breeze and settling under natural gravity",
-                "slow deliberate arm gesture",
+                "She slowly extends Her open hand over the dark water, and a narrow path of starlight spreads across the surface toward the viewer, guiding the way across",
+                "soft concentric ripples spreading outward from the path of starlight on the calm dark water",
+                "heavy black hair settling under natural gravity, with only a slight sway from Her motion",
             ],
         },
         "environment": {
             "sky": "deep indigo midnight sky with one bright guiding star and cold distant stars",
             "lighting": "low-key moonlit lighting; cool blue-white gleams catch the silhouette, crown and silver jewelry",
-            "ground": "dark wet sand at the edge of a calm black ocean",
+            "ground": "calm shallow dark water at the edge of a black ocean",
             "excluded": ["daylight", "fire"],
         },
         "negatives": ["daylight", "bright sky", "stiff hair", "geometric overlays", "low angle shot", "modern clothing"],

@@ -1,17 +1,71 @@
 {
   "series": "Dasa Mahavidyas",
   "version": 1,
-  "statuses": ["queued", "active", "completed"],
+  "statuses": [
+    "queued",
+    "active",
+    "completed"
+  ],
   "deities": [
-    {"order": 1,  "id": "kali",            "status": "completed", "anchor_locked": true},
-    {"order": 2,  "id": "tara",            "status": "queued",    "anchor_locked": true},
-    {"order": 3,  "id": "tripura_sundari", "status": "queued",    "anchor_locked": false},
-    {"order": 4,  "id": "bhuvaneshwari",   "status": "queued",    "anchor_locked": false},
-    {"order": 5,  "id": "bhairavi",        "status": "queued",    "anchor_locked": false},
-    {"order": 6,  "id": "chhinnamasta",     "status": "queued",    "anchor_locked": false},
-    {"order": 7,  "id": "dhumavati",       "status": "queued",    "anchor_locked": false},
-    {"order": 8,  "id": "bagalamukhi",     "status": "queued",    "anchor_locked": false},
-    {"order": 9,  "id": "matangi",         "status": "queued",    "anchor_locked": false},
-    {"order": 10, "id": "kamalatmika",      "status": "queued",    "anchor_locked": false}
+    {
+      "order": 1,
+      "id": "kali",
+      "status": "completed",
+      "anchor_locked": true
+    },
+    {
+      "order": 2,
+      "id": "tara",
+      "status": "active",
+      "anchor_locked": true
+    },
+    {
+      "order": 3,
+      "id": "tripura_sundari",
+      "status": "queued",
+      "anchor_locked": false
+    },
+    {
+      "order": 4,
+      "id": "bhuvaneshwari",
+      "status": "queued",
+      "anchor_locked": false
+    },
+    {
+      "order": 5,
+      "id": "bhairavi",
+      "status": "queued",
+      "anchor_locked": false
+    },
+    {
+      "order": 6,
+      "id": "chhinnamasta",
+      "status": "queued",
+      "anchor_locked": false
+    },
+    {
+      "order": 7,
+      "id": "dhumavati",
+      "status": "queued",
+      "anchor_locked": false
+    },
+    {
+      "order": 8,
+      "id": "bagalamukhi",
+      "status": "queued",
+      "anchor_locked": false
+    },
+    {
+      "order": 9,
+      "id": "matangi",
+      "status": "queued",
+      "anchor_locked": false
+    },
+    {
+      "order": 10,
+      "id": "kamalatmika",
+      "status": "queued",
+      "anchor_locked": false
+    }
   ]
 }

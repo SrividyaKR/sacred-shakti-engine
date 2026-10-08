@@ -41,12 +41,15 @@ class Shot(BaseModel):
     duration: int
     camera: str
     action: str
+    purpose: str = ""  # why this shot exists; used by reviewers, never put in the prompt
 
 
 class Anchor(BaseModel):
     id: str
     name: str
     epithet: str
+    crown_ornament: str = "silver crescent moon"  # the centerpiece the camera must keep framed
+    first_frame: str = ""  # plain description of the reference portrait, used when planning shots
     anchor_locked: bool = False  # True only after a human approves the reference portrait
     reference_images: dict[str, str]
     appearance: Appearance
@@ -66,7 +69,7 @@ class PromptBundle(BaseModel):
 
 
 OPENING_CAMERA = ("Starts on the face from the reference portrait at horizontal eye level, then a smooth, continuous "
-                  "optical pull-back locked at eye level reveals Her full length. The crown and silver crescent moon "
+                  "optical pull-back locked at eye level reveals Her full length. The crown and {crown_ornament} "
                   "stay centered and fully framed.")
 SETTLE = "Her hair gradually settles under natural gravity, cascading down past Her shoulders."
 
@@ -134,16 +137,20 @@ class Director:
             "Style: reverent, elegant, non-graphic, finely detailed, calm sovereign expression.",
         ])
 
-    def compose_anchor(self, a: Anchor, aspect: str = "portrait_9x16") -> PromptBundle:
+    def compose_anchor(self, a: Anchor, aspect: str = "portrait_9x16", shots: Optional[list[Shot]] = None) -> PromptBundle:
+        """`shots` (an approved storyboard) replaces the archetype template plan."""
         ap, env = a.appearance, a.environment
         palette = a.creative_palette
-        plan = a.shots or SHOT_PLANS[palette.motion_archetype if palette else "grounded_stride"]
-        shots = [sh.model_copy(update={"camera": sh.camera.format(ground=env.ground),
-                                       "action": sh.action.format(ground=env.ground)}) for sh in plan]
+        use_palette_dynamics = shots is None  # an approved storyboard is authoritative
+        if shots is None:
+            plan = a.shots or SHOT_PLANS[palette.motion_archetype if palette else "grounded_stride"]
+            shots = [sh.model_copy(update={"camera": sh.camera.format(ground=env.ground, crown_ornament=a.crown_ornament),
+                                           "action": sh.action.format(ground=env.ground, crown_ornament=a.crown_ornament)}) for sh in plan]
 
         t, timeline = 0, []
         for i, sh in enumerate(shots, 1):
-            timeline.append(f"Shot {i} ({t}-{t + sh.duration}s): {sh.camera} {sh.action}")
+            timeline.append(f"{sh.camera} {sh.action}" if len(shots) == 1
+                            else f"Shot {i} ({t}-{t + sh.duration}s): {sh.camera} {sh.action}")
             t += sh.duration
 
         prompt = " ".join([
@@ -158,7 +165,7 @@ class Director:
             *([f"Elemental domain: {palette.elemental_domain}."] if palette else []),
             f"Lighting: {env.lighting}.",
             *timeline,
-            *([f"Physical dynamics throughout: {'; '.join(palette.signature_phenomena)}."] if palette else []),
+            *([f"Physical dynamics throughout: {'; '.join(palette.signature_phenomena)}."] if palette and use_palette_dynamics else []),
             "Style: reverent cinematic realism, elegant and non-graphic, smooth natural motion, "
             "consistent identity and costume throughout.",
         ])
