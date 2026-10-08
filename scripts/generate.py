@@ -26,9 +26,16 @@ HANDLE = "@sacredshaktiAI"
 BASE_HASHTAGS = ["#DasaMahavidya", "#Shakti", "#Tantra", "#SacredFeminine", "#Hinduism", "#sacredshaktiAI"]
 
 
+class Shot(BaseModel):
+    duration: int
+    camera: str
+    action: str
+
+
 class Motion(BaseModel):
     camera: str
     action: str = ""
+    shots: list[Shot] = Field(default_factory=list)
     lighting: str
     atmosphere: str
     pacing: str
@@ -90,6 +97,15 @@ def get_goddess(cfg: dict, goddess_id: str) -> Goddess:
     raise SystemExit(f"Unknown goddess '{goddess_id}'")
 
 
+def timeline(shots: list[Shot]) -> str:
+    """Describe consecutive shots as one timed sequence for a single long generation."""
+    t, parts = 0, []
+    for i, sh in enumerate(shots, 1):
+        parts.append(f"Shot {i} ({t}-{t + sh.duration}s): {sh.camera} {sh.action}")
+        t += sh.duration
+    return " ".join(parts)
+
+
 def build_motion_prompt(g: Goddess, cfg: dict) -> str:
     ico, mo = g.iconography, g.motion
     parts = [
@@ -100,6 +116,7 @@ def build_motion_prompt(g: Goddess, cfg: dict) -> str:
         f"Sacred geometry subtly present: {', '.join(ico.sacred_geometry)}.",
         f"Camera: {mo.camera}",
         *([f"Action: {mo.action}"] if mo.action else []),
+        *([timeline(mo.shots)] if mo.shots else []),
         f"Lighting: {mo.lighting}",
         f"Atmosphere: {mo.atmosphere}",
         f"Pacing: {mo.pacing}",
@@ -258,12 +275,19 @@ def main() -> None:
     ap.add_argument("--provider", default="auto", choices=["auto", "openrouter", "fal"],
                     help="Seedance API route; auto = OpenRouter if OPENROUTER_API_KEY is set, else fal if FAL_KEY is set")
     ap.add_argument("--aspect-ratio", default="9:16", choices=["9:16", "1:1"])
-    ap.add_argument("--duration", default="5", choices=["5", "10"], help="clip seconds")
+    ap.add_argument("--duration", type=int, default=None,
+                    help="clip seconds: 4-30 for Seedance, 5 or 10 for Kling/MiniMax (default: total of the goddess's shots, else 5)")
     ap.add_argument("--resolution", default="720p", choices=["480p", "720p", "1080p"], help="Seedance only")
     ap.add_argument("--audio", action="store_true", help="let Seedance generate audio (off by default; soundtrack is added later)")
     args = ap.parse_args()
 
     g = get_goddess(cfg, args.goddess)
+    seedance = args.model in SEEDANCE_ALIASES
+    if args.duration is None:
+        args.duration = sum(sh.duration for sh in g.motion.shots) or 5
+    if not (4 <= args.duration <= 30 if seedance else args.duration in (5, 10)):
+        ap.error("--duration must be 4-30 for Seedance, or 5/10 for other models")
+    args.duration = str(args.duration)
     prompt = build_motion_prompt(g, cfg)
     negative = ", ".join(filter(None, [cfg["global"]["negative_prompt"], g.negative_prompt]))
     caption, tags = build_caption(g, len(ids))
