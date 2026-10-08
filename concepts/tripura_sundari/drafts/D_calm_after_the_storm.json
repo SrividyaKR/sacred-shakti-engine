@@ -1,0 +1,26 @@
+{
+  "id": "D",
+  "title": "The Calm After the Storm",
+  "source_seed": "Seed 4: Calm sovereign after the storm (Lalitopakhyana war narrative, the four-day battle with Bhandasura ends; no battle imagery shown)",
+  "logline": "She turns her head to survey the far horizon, turns back with a long exhale, and the stars above brighten as her shoulders ease.",
+  "hook": "Her head begins a slow, level turn toward the far horizon within the first second.",
+  "story": "After the long war, the texts give sovereign calm, not triumph. She looks over the quiet world she has won, then returns to the viewer with an unhurried exhale. The sky answers her peace: the pale stars grow clearer.",
+  "loop": "Her head returns to front-facing with the frame-1 smile, matching the start.",
+  "share_trigger": "Sent after a hard stretch or finished project: 'it is over, you can breathe'.",
+  "caption_hook": "The war lasted four days. This is what she did when it was over.",
+  "audio": "Solemn and eerie: distant low horn-like drone and a slow dark war-drum roll at the turn (about 110 bpm, deep skin drums), cutting to open silence and a single clear tone at the exhale.",
+  "shots": [
+    {
+      "duration": 5,
+      "camera": "Eye level, front-facing, full-length framing from the reference portrait, held steady, with the tall crown and crescent moon centered and fully framed.",
+      "action": "Her head turns slowly and level toward the far horizon and Her steady gaze surveys the quiet distance, Her crown jewels glinting softly as they turn. Her hair settles under natural gravity.",
+      "purpose": "She looks over the world after the war; the turn is deliberate, the glint shows the motion."
+    },
+    {
+      "duration": 5,
+      "camera": "The same steady eye-level full-length framing, the crown and crescent moon centered and fully framed.",
+      "action": "Her head turns slowly back to the viewer and She breathes out long and slowly, Her shoulders easing down and Her smile warming, and the faint stars in the twilight sky above Her grow clearer. Her hair settles under natural gravity.",
+      "purpose": "Her peace is the cause, the clearer stars are the visible answer."
+    }
+  ]
+}

@@ -1,0 +1,1088 @@
+[
+ {
+  "id": "E01",
+  "title": "The Fire-Pit Opens",
+  "pitch": "A mountain-sized fire sacrifice by terrified gods splits the ground and Tripura Sundari rises out of it on a chariot taller than the flames.",
+  "hook_first_second": "Black screen, a crack of orange light splits the frame and a giant crowned hand clears the rim.",
+  "beats": [
+   "Gods chant around a huge pit as the sky darkens",
+   "Fire collapses inward into a pure white point",
+   "A crowned girl-goddess rises on a chariot, flames bending away from her",
+   "Camera pulls back to show the pit is the size of a lake"
+  ],
+  "payoff": "Her eyes open and every flame in the valley turns rose-gold.",
+  "loop": "Flames pour back into the pit and the crack closes to the same black screen.",
+  "seed": "Chidagni Kunda birth, Lalitopakhyana (Brahmanda Purana) via dossier",
+  "invented_symbols": [],
+  "send_trigger": "Tag the friend who always shows up at the worst moment and saves everything."
+ },
+ {
+  "id": "E02",
+  "title": "Bhandasura's Army Meets One Smile",
+  "pitch": "A demon host the size of a sea of black armour charges a lone girl on a lotus and stops dead when she smiles.",
+  "hook_first_second": "A million spear points glint on a horizon, then one small smile fills the frame.",
+  "beats": [
+   "Army floods a plain to the edge of sight",
+   "She sits on the lotus without moving",
+   "Front rank freezes, the rank behind crashes into it",
+   "Armour begins to melt into rose petals from the front line backwards"
+  ],
+  "payoff": "The whole army is a field of petals and she is still smiling.",
+  "loop": "Petals blow back up into spears and the charge starts again.",
+  "seed": "Bhandasura war, Lalitopakhyana (Brahmanda Purana) via dossier",
+  "invented_symbols": [
+   "armour turning into petals (invented)"
+  ],
+  "send_trigger": "Send to someone whose calm wins every argument."
+ },
+ {
+  "id": "E03",
+  "title": "Sri Chakra Unfolds Into a City",
+  "pitch": "A glowing line-drawing of nine triangles on black water rises into a full golden city with her palace at the central dot.",
+  "hook_first_second": "One glowing dot on black, then triangles shoot out like lightning.",
+  "beats": [
+   "Dot pulses",
+   "Nine triangles grow outward, each drawn by light",
+   "Lines lift and become walls, towers, bridges",
+   "Camera dives down the central tower into her throne room"
+  ],
+  "payoff": "She sits where the dot was, the whole city built around her.",
+  "loop": "City folds back to a single dot.",
+  "seed": "Sri Chakra as her body (Yoginihridaya via dossier); Sri Nagara",
+  "invented_symbols": [
+   "lines-to-architecture transformation (invented)"
+  ],
+  "send_trigger": "Save for the satisfying build."
+ },
+ {
+  "id": "E04",
+  "title": "Chakra Raja Ratha Rides the Sky",
+  "pitch": "Her giant chariot, a moving city of nine floors, crosses the night sky and eclipses a moon.",
+  "hook_first_second": "A shadow slides over the moon and it is the underside of a chariot.",
+  "beats": [
+   "Moon in a clear sky",
+   "Chariot hull blocks it, wheels as wide as rivers",
+   "Armies of gods cheer from its decks",
+   "Camera climbs the floors up to the roof where she waits"
+  ],
+  "payoff": "Moon reappears behind her crown as a crescent halo.",
+  "loop": "Chariot passes out of frame and reveals the moon again.",
+  "seed": "Chakra Raja Ratha, indianetzone via dossier",
+  "invented_symbols": [
+   "nine floors (echo of nine enclosures, loosely invented)"
+  ],
+  "send_trigger": "Send to someone who makes entrances."
+ },
+ {
+  "id": "E05",
+  "title": "Bala Drives the Swan Chariot Through the Thirty Sons",
+  "pitch": "Child Bala races a swan-drawn chariot through thirty demon princes, each felled by one flower arrow that blooms where it lands.",
+  "hook_first_second": "A tiny girl's laugh and a swan wing slam into the frame.",
+  "beats": [
+   "Swans burst out of mist pulling a gold chariot",
+   "Thirty demons rise from the ground in a ring",
+   "Bala draws her sugarcane bow, arrows fly in a fan",
+   "Each demon turns into a lotus bud"
+  ],
+  "payoff": "Thirty lotuses stand where the demons were and open at once.",
+  "loop": "Chariot circles back into the mist, same laugh.",
+  "seed": "Bala kills Bhandasura's thirty sons, realshepower via dossier",
+  "invented_symbols": [
+   "arrows blooming into lotuses (invented)"
+  ],
+  "send_trigger": "Send to the kid in your life who thinks they are tough."
+ },
+ {
+  "id": "E06",
+  "title": "Kama Rises From the Ashes",
+  "pitch": "A burned field of grey ash trembles and a glance from her brings the god of love back as a tide of colour sweeping a dead world.",
+  "hook_first_second": "Grey ash, then one green sprout and the whole frame lurches into colour.",
+  "beats": [
+   "Dead black plain, ash drifting in still air",
+   "She turns her head toward it",
+   "Colour spreads outward in a ring like a shockwave",
+   "Forests, rivers and birds appear in seconds"
+  ],
+  "payoff": "A young man stands in the middle of the new valley, bow lowered.",
+  "loop": "Colour drains back to ash as she turns away.",
+  "seed": "Lalita revives Kama, Lalitopakhyana ch.30",
+  "invented_symbols": [
+   "colour shockwave (invented)"
+  ],
+  "send_trigger": "Send to someone who needs a fresh start."
+ },
+ {
+  "id": "E07",
+  "title": "Fifteen Moons Join Her",
+  "pitch": "Fifteen goddesses, each a different phase of the moon, descend from the sky and merge into her crown as the sixteenth.",
+  "hook_first_second": "A thin crescent hangs alone in black.",
+  "beats": [
+   "First moon goddess lands on water, ripples spread",
+   "More arrive, each one slightly fuller",
+   "Fifteen circle her in a wheel of light",
+   "They fold into one beam and enter her crown"
+  ],
+  "payoff": "A full moon blooms behind her head.",
+  "loop": "The full moon wanes to the first crescent.",
+  "seed": "Fifteen Nityas and sixteenth kala, kamakotimandali",
+  "invented_symbols": [],
+  "send_trigger": "Send as a moon-phase appreciation."
+ },
+ {
+  "id": "E08",
+  "title": "The Throne Is the Gods",
+  "pitch": "Four colossal gods kneel on a cliff and become the legs of her throne as she settles into it.",
+  "hook_first_second": "Four giants fall to their knees at once, shaking the screen.",
+  "beats": [
+   "Gods march across a canyon",
+   "They kneel, bodies turning to gold stone",
+   "A lotus the size of a stadium lowers onto them",
+   "She steps out of the light and sits"
+  ],
+  "payoff": "The whole mountain quakes once and goes quiet.",
+  "loop": "Gods stand and walk back, throne empties.",
+  "seed": "Throne legs Brahma Vishnu Rudra Ishana, Vedadhara",
+  "invented_symbols": [
+   "stone-turn (invented); avoid corpse imagery"
+  ],
+  "send_trigger": "Send to a boss-energy friend."
+ },
+ {
+  "id": "E09",
+  "title": "Eighteen Arms, One Battlefield",
+  "pitch": "Her golden eighteen-armed war form unfolds in the sky above a battlefield, each arm carrying a different weapon of light.",
+  "hook_first_second": "A single golden hand rises, then seventeen more unfold like a fan.",
+  "beats": [
+   "Soldiers look up from the mud",
+   "Arms unfold in a halo covering the sky",
+   "Each weapon fires a different colour beam",
+   "Battlefield falls silent"
+  ],
+  "payoff": "The sky is a mandala of beams and she is smiling inside it.",
+  "loop": "Arms fold back into one hand lowering.",
+  "seed": "Eighteen-armed martial form, Tripura Rahasya",
+  "invented_symbols": [],
+  "send_trigger": "Send to the strongest person you know."
+ },
+ {
+  "id": "E10",
+  "title": "The Sugarcane Bow Draws the Ocean",
+  "pitch": "She draws her bow and an entire sea rises into a wall behind the string.",
+  "hook_first_second": "The bowstring snaps taut and water leaps up behind it.",
+  "beats": [
+   "Calm sea at night",
+   "She lifts the sugarcane bow",
+   "Ocean rises in a glass wall, ships tilt",
+   "She releases a single flower arrow"
+  ],
+  "payoff": "The wall of water parts around the arrow and a path opens to the horizon.",
+  "loop": "Water crashes back and calm returns.",
+  "seed": "Sugarcane bow = mind; flower arrows (Sahasranama)",
+  "invented_symbols": [],
+  "send_trigger": "Send to someone who is about to do something huge."
+ },
+ {
+  "id": "E11",
+  "title": "Three Cities Turn Like a Clock",
+  "pitch": "Three floating cities (waking, dreaming, deep sleep) rotate around her and she steps between them.",
+  "hook_first_second": "Three cities hang in a black sky and one starts to fall.",
+  "beats": [
+   "Bright city of day, then a dream city of melting stairs, then a sleeping city with no lights",
+   "They revolve around her",
+   "She walks into the dream city and stairs reform",
+   "She holds all three still"
+  ],
+  "payoff": "The three cities lock into a triangle with her at the centre.",
+  "loop": "Triangle spins and the cities resume.",
+  "seed": "Tripura = three states, Tripura Rahasya (interpretive)",
+  "invented_symbols": [
+   "floating cities (invented visual)"
+  ],
+  "send_trigger": "Send to anyone who lives in their dreams."
+ },
+ {
+  "id": "E12",
+  "title": "The Giant Lotus Blooms Over a Drowned City",
+  "pitch": "A drowned city under black water is lit from below as a giant golden lotus opens through the surface.",
+  "hook_first_second": "Dark water, then a golden bud punches through the surface.",
+  "beats": [
+   "Camera sinks to streets under the sea",
+   "Light climbs up the skyscrapers from below",
+   "The lotus opens and floods the city with light",
+   "Fish glow gold"
+  ],
+  "payoff": "She sits in the lotus above the whole drowned skyline.",
+  "loop": "Petals close and the sea goes dark again.",
+  "seed": "Lotus seat (Sahasranama dhyana)",
+  "invented_symbols": [
+   "drowned city (invented)"
+  ],
+  "send_trigger": "Save for the atmosphere."
+ },
+ {
+  "id": "E13",
+  "title": "Lakshmi and Saraswati Fan Her Cooling the Storm",
+  "pitch": "Two goddesses fanning her lotus stop a hurricane with a single sweep.",
+  "hook_first_second": "A hurricane eye opens above a throne.",
+  "beats": [
+   "Storm tears at the lotus",
+   "Lakshmi and Saraswati stand and wave great fans",
+   "Rain freezes in the air",
+   "Clouds peel apart"
+  ],
+  "payoff": "Stars appear in a perfect circle above her.",
+  "loop": "Clouds close again and fans lower.",
+  "seed": "Attendants at the throne, secondary",
+  "invented_symbols": [],
+  "send_trigger": "Send to a friend in a stormy week."
+ },
+ {
+  "id": "E14",
+  "title": "The Missile of the Great Desire",
+  "pitch": "She fires the Mahakameshwara missile and it flies across the screen, growing until it is a comet the size of the moon.",
+  "hook_first_second": "A pinprick of light leaves her palm.",
+  "beats": [
+   "Dark mountain fortress of the demon king",
+   "Light grows as it flies, bending rivers of cloud",
+   "It hits the fortress dead centre",
+   "Silence, then the fortress turns to glowing dust"
+  ],
+  "payoff": "Dust rises and forms her crescent crown in the sky.",
+  "loop": "The crescent shrinks to a pinprick again.",
+  "seed": "Mahakameshwara missile ends Bhandasura, Wikipedia via dossier",
+  "invented_symbols": [],
+  "send_trigger": "Send to someone ending something this week."
+ },
+ {
+  "id": "E15",
+  "title": "Rajarajeshwari Greets a Hundred Kings",
+  "pitch": "A hundred kings climb a glowing staircase of one thousand steps and bow at once as she looks down.",
+  "hook_first_second": "Kings in a column climbing, crowns glittering.",
+  "beats": [
+   "Kings struggle up the staircase",
+   "Each one's crown dissolves into petals as they near the top",
+   "They reach a lotus gate",
+   "All kneel in a wave"
+  ],
+  "payoff": "She lifts her hand and a hundred empty thrones turn to flowers.",
+  "loop": "Staircase retracts and kings stand at the bottom again.",
+  "seed": "Rajarajeshwari, queen of queens",
+  "invented_symbols": [
+   "crown dissolves into petals (invented)"
+  ],
+  "send_trigger": "Send to someone who runs a team."
+ },
+ {
+  "id": "E16",
+  "title": "A Thousand Suns Rise in a Night Valley",
+  "pitch": "In a pitch-dark valley a thousand small red lights float up and join into one glowing goddess.",
+  "hook_first_second": "Total black, then one red spark, then a thousand.",
+  "beats": [
+   "Sparks rise like fireflies",
+   "They tighten into a spiral",
+   "A giant figure forms from the spiral",
+   "She opens her eyes and the valley glows rose"
+  ],
+  "payoff": "The red glow reaches the far mountain and lights it from within.",
+  "loop": "Sparks drain back to the valley floor.",
+  "seed": "Radiance of a thousand rising suns (Sahasranama v2)",
+  "invented_symbols": [],
+  "send_trigger": "Send to someone who is your light."
+ },
+ {
+  "id": "E17",
+  "title": "Giant Walks Across the Ocean at Moonrise",
+  "pitch": "She is as tall as the horizon and steps across the sea while ships pass between her ankles.",
+  "hook_first_second": "Tiny ships beside an enormous bare foot.",
+  "beats": [
+   "Fleet in calm night",
+   "Foot lands, wave rolls out",
+   "Camera tilts up the whole scale of her",
+   "She stoops and cups a ship in her palm"
+  ],
+  "payoff": "The ship sails on, glowing, with sailors weeping with joy.",
+  "loop": "She straightens and walks out of frame, ripple remains.",
+  "seed": "Beauty of the three worlds, brhat.in",
+  "invented_symbols": [
+   "giant scale (invented)"
+  ],
+  "send_trigger": "Send as scale flex."
+ },
+ {
+  "id": "E18",
+  "title": "The Elephant Goad Turns a Stampede",
+  "pitch": "A herd of thousand elephants stampedes down a canyon and she hooks the lead one with a golden goad, and they all turn like water.",
+  "hook_first_second": "A thousand elephants thunder toward the lens.",
+  "beats": [
+   "Dust cloud and stampede",
+   "She stands in the canyon with a goad",
+   "Hook catches the lead elephant's tusk",
+   "Herd curves into a perfect spiral around her"
+  ],
+  "payoff": "The elephants kneel in a ring.",
+  "loop": "They stand and stampede again.",
+  "seed": "Goad = repulsion/control, Sahasranama",
+  "invented_symbols": [],
+  "send_trigger": "Send to someone herding chaos."
+ },
+ {
+  "id": "E19",
+  "title": "The Noose Binds the Wild Sea Dragon",
+  "pitch": "A sea dragon the length of a city rises, she throws the red noose and it settles like a bracelet on its neck, turning it gentle.",
+  "hook_first_second": "A dragon head bursts through ice.",
+  "beats": [
+   "Dragon roars, ice cracks",
+   "The noose spins out of her hand",
+   "It lands, the dragon calms",
+   "It lays its head on the ice by her lotus"
+  ],
+  "payoff": "Dragon's eye turns from red to gold.",
+  "loop": "Noose returns to her hand, dragon dives.",
+  "seed": "Noose of attachment, Sahasranama",
+  "invented_symbols": [
+   "dragon (invented creature)"
+  ],
+  "send_trigger": "Send to someone taming a bad habit."
+ },
+ {
+  "id": "E20",
+  "title": "Kadamba Grove Blooms in One Beat",
+  "pitch": "A burnt forest erupts into a million blossoms on a drum beat as she walks through it.",
+  "hook_first_second": "Burnt trunks, then bloom on the beat.",
+  "beats": [
+   "Black trees",
+   "Each footstep blooms a ring of flowers",
+   "Ring spreads at speed",
+   "Entire forest is in flower"
+  ],
+  "payoff": "Petals rain down in slow motion over her crown.",
+  "loop": "Petals rise back, forest chars, reset.",
+  "seed": "Kadamba grove and Chintamani mansion, Tripura Rahasya",
+  "invented_symbols": [],
+  "send_trigger": "Send to someone who needs hope."
+ },
+ {
+  "id": "E21",
+  "title": "Chintamani Palace Assembles Itself",
+  "pitch": "A palace built of wish-jewels assembles itself out of mountains, each gem flying in from space.",
+  "hook_first_second": "A single gem hits the ground and rings.",
+  "beats": [
+   "Gems fly in from the sky",
+   "Walls climb in fast time-lapse",
+   "Domes rise and roof closes",
+   "Camera flies through doors to her throne"
+  ],
+  "payoff": "She raises a gem, and the palace lights every window.",
+  "loop": "Gems fly out again, palace vanishes.",
+  "seed": "Chintamani mansion, Tripura Rahasya",
+  "invented_symbols": [],
+  "send_trigger": "Send to someone who builds things."
+ },
+ {
+  "id": "E22",
+  "title": "The Eclipse Is Her Crown",
+  "pitch": "During a total eclipse the corona is revealed to be her ruby crown and the dark moon is her face.",
+  "hook_first_second": "A black disc with a ring of light, which blinks, an eye.",
+  "beats": [
+   "Crowds look up at the eclipse",
+   "Corona sharpens into jewels",
+   "The dark disc becomes a face",
+   "She smiles as totality ends"
+  ],
+  "payoff": "Daylight returns on the crowd gasping.",
+  "loop": "Eclipse covers the sun once more.",
+  "seed": "Radiance of rising suns, crescent crown",
+  "invented_symbols": [
+   "eclipse = crown (invented); uses daylight, intentionally off-series"
+  ],
+  "send_trigger": "Send as a mind-blown."
+ },
+ {
+  "id": "E23",
+  "title": "Hundred Mirrors, One Goddess",
+  "pitch": "A palace of mirrors shatters and every shard shows her in a different form of life; they all fly together into one.",
+  "hook_first_second": "A mirror cracks and her eye is in the crack.",
+  "beats": [
+   "Hall of mirrors, each showing a woman at a different age",
+   "Mirrors break, shards swirl",
+   "Shards rebuild as one lotus-seated figure",
+   "The last shard flips to show the viewer"
+  ],
+  "payoff": "The viewer's reflection is inside her crown.",
+  "loop": "Shards fall, hall resets.",
+  "seed": "Consciousness behind three states, Tripura Rahasya",
+  "invented_symbols": [
+   "viewer reflection (invented)"
+  ],
+  "send_trigger": "Send to a friend who has many sides."
+ },
+ {
+  "id": "E24",
+  "title": "Swan Armada",
+  "pitch": "Ten thousand swans take off from a lake at once, and form into a giant swan chariot carrying Bala.",
+  "hook_first_second": "One swan wing, then ten thousand.",
+  "beats": [
+   "Lake at dusk, swans wake",
+   "They lift in a black-and-white storm",
+   "They knit into a chariot shape in the sky",
+   "Bala steps aboard with bow raised"
+  ],
+  "payoff": "Chariot dissolves into feathers over the city, who all look up.",
+  "loop": "Feathers return to birds on the lake.",
+  "seed": "Bala swan chariot",
+  "invented_symbols": [
+   "swans forming chariot (invented)"
+  ],
+  "send_trigger": "Send to someone who loves birds."
+ },
+ {
+  "id": "E25",
+  "title": "Rain of Flower Arrows",
+  "pitch": "She looses a single flower arrow that splits into a million blossoms and rains over a warring continent.",
+  "hook_first_second": "A single flower arrow hangs in black.",
+  "beats": [
+   "Arrow splits into a bloom cloud",
+   "Cloud crosses the continent in seconds",
+   "Over each army, flowers fall",
+   "Swords drop one by one"
+  ],
+  "payoff": "Both armies kneel in a sea of petals.",
+  "loop": "Petals lift back into one arrow.",
+  "seed": "Five flower arrows = five senses",
+  "invented_symbols": [],
+  "send_trigger": "Send to someone ending a fight."
+ },
+ {
+  "id": "E26",
+  "title": "Her Heartbeat Is the Tide",
+  "pitch": "Every wave on Earth beats in time with her pulse as she sleeps under the ocean, then wakes.",
+  "hook_first_second": "Waves smash in sync, a single thud.",
+  "beats": [
+   "Coast beats against a cliff",
+   "Camera plunges to her lotus on the seafloor",
+   "Her heart glows gold with each beat",
+   "Her eyes open, the sea goes still"
+  ],
+  "payoff": "The whole ocean becomes a mirror.",
+  "loop": "Waves resume with her pulse.",
+  "seed": "Consciousness as cosmic ground, Tripura Rahasya",
+  "invented_symbols": [
+   "goddess sleeping under sea (invented)"
+  ],
+  "send_trigger": "Send at 3 a.m."
+ },
+ {
+  "id": "E27",
+  "title": "The Crescent Moon Detaches",
+  "pitch": "The crescent on her crown lifts off, grows into the real moon and hangs over a night city.",
+  "hook_first_second": "A crescent glints on a crown, then slides off.",
+  "beats": [
+   "Crescent drifts up",
+   "Grows as it rises",
+   "Becomes full moon over a skyline",
+   "Tides surge in joy"
+  ],
+  "payoff": "The moon looks down with her eyes for one second.",
+  "loop": "Moon shrinks and returns to her crown.",
+  "seed": "Crescent on crown, Tripura Rahasya",
+  "invented_symbols": [
+   "moon with her eyes (invented)"
+  ],
+  "send_trigger": "Send to a moon lover."
+ },
+ {
+  "id": "E28",
+  "title": "Matangi and Varahi Hold the Wings of the War",
+  "pitch": "Two goddesses crash into the demon flanks as Tripura Sundari holds the centre, a three-way pincer shown from the sky.",
+  "hook_first_second": "Three streaks of colour cross a black plain.",
+  "beats": [
+   "Overhead view of army",
+   "Matangi in green from the left",
+   "Varahi in storm-blue from the right",
+   "She at the centre pulses once"
+  ],
+  "payoff": "The pincer closes and the plain becomes a lotus-shaped crater.",
+  "loop": "Colours retreat.",
+  "seed": "Matangi and Varahi in the war, indianetzone",
+  "invented_symbols": [],
+  "send_trigger": "Send to your girl squad."
+ },
+ {
+  "id": "E29",
+  "title": "The Sixteen-Petal Lotus Opens One Petal per Second",
+  "pitch": "A sixteen-petal lotus counts the seconds, and every petal reveals a different world.",
+  "hook_first_second": "One petal peels to show a snowy planet.",
+  "beats": [
+   "Petal 1-4: worlds of ice, sand, forest, sea",
+   "Petal 5-12: faster worlds",
+   "Petal 13-15: the final worlds close in",
+   "Petal 16: her face"
+  ],
+  "payoff": "All sixteen worlds glow as a ring behind her.",
+  "loop": "Petals close in reverse, to the first.",
+  "seed": "Sixteen-petalled lotus in Sri Chakra",
+  "invented_symbols": [],
+  "send_trigger": "Rewatch to count the worlds."
+ },
+ {
+  "id": "E30",
+  "title": "Crown of Rubies Is a Constellation",
+  "pitch": "The rubies in her crown lift off and become the stars of a new constellation shaped like her.",
+  "hook_first_second": "Red stars flare in the black.",
+  "beats": [
+   "Rubies leave the crown, one by one",
+   "They sail outward in a swarm",
+   "Lock into a constellation",
+   "Constellation outlines her figure"
+  ],
+  "payoff": "Sailors on a ship below navigate by it.",
+  "loop": "Stars sink back into the crown.",
+  "seed": "Ruby crown (iconography)",
+  "invented_symbols": [
+   "constellation (invented)"
+  ],
+  "send_trigger": "Send to a stargazer."
+ },
+ {
+  "id": "E31",
+  "title": "Mountain Sized Lotus Throne Grows",
+  "pitch": "A tiny golden lotus on a pond grows till it overtops a mountain range with her seated on it.",
+  "hook_first_second": "A tiny lotus bud, the camera nearly touching it.",
+  "beats": [
+   "Bud opens and grows",
+   "Pulls past clouds",
+   "Camera shows entire range below",
+   "She sits, small and calm, on the top"
+  ],
+  "payoff": "A mountain bows beneath her.",
+  "loop": "Lotus shrinks back.",
+  "seed": "Lotus throne",
+  "invented_symbols": [],
+  "send_trigger": "Save for scale."
+ },
+ {
+  "id": "E32",
+  "title": "Fire Walls Part Like Curtains",
+  "pitch": "She walks through a wall of fire a mile high and it opens like silk curtains before her.",
+  "hook_first_second": "A fire wall from edge to edge of frame.",
+  "beats": [
+   "Heat shimmer",
+   "She steps forward",
+   "Fire parts left and right, never touching her",
+   "Beyond the fire, a green valley"
+  ],
+  "payoff": "Valley blooms as the fire closes behind.",
+  "loop": "Fire wall returns.",
+  "seed": "Chidagni Kunda emergence",
+  "invented_symbols": [],
+  "send_trigger": "Send to a fearless friend."
+ },
+ {
+  "id": "E33",
+  "title": "Kameshwara Carried on Her Palm",
+  "pitch": "She lifts the great god Shiva-as-Kameshwara on one palm like a lamp as he fights to stay awake.",
+  "hook_first_second": "A colossal sleeping figure on a tiny palm.",
+  "beats": [
+   "He is huge, she is small",
+   "Palm rises to eye level",
+   "He opens one eye",
+   "He smiles; they share a silent look"
+  ],
+  "payoff": "The whole cosmos lights up around the two of them.",
+  "loop": "He closes his eye, palm lowers.",
+  "seed": "Kameshwara as consort, Wikipedia",
+  "invented_symbols": [
+   "lamp imagery (invented)"
+  ],
+  "send_trigger": "Send to your partner."
+ },
+ {
+  "id": "E34",
+  "title": "The Star Bridge",
+  "pitch": "She lays a bridge of stars across a yawning chasm so a lost caravan can cross.",
+  "hook_first_second": "A caravan stops at a bottomless drop.",
+  "beats": [
+   "Camels shy",
+   "She draws a line with a flower arrow",
+   "Stars land in the line and solidify",
+   "Caravan crosses"
+  ],
+  "payoff": "The last camel steps off and the bridge dissolves.",
+  "loop": "Bridge rebuilds.",
+  "seed": "Compassion, Sahasranama dhyana v2",
+  "invented_symbols": [],
+  "send_trigger": "Send to someone who got you across."
+ },
+ {
+  "id": "E35",
+  "title": "The Palace in the Eye of the Whirlpool",
+  "pitch": "A whirlpool the width of a country opens and her palace rises dry in the centre.",
+  "hook_first_second": "Spiral of water from above.",
+  "beats": [
+   "Ships circle toward the drain",
+   "Water walls rise",
+   "Palace of pearl pushes up from the deep",
+   "She stands on the balcony"
+  ],
+  "payoff": "Ships glide into the palace harbour.",
+  "loop": "Water closes.",
+  "seed": "Pearl and ocean (crown pearls)",
+  "invented_symbols": [
+   "palace in whirlpool (invented)"
+  ],
+  "send_trigger": "Send to someone who feels at the edge."
+ },
+ {
+  "id": "E36",
+  "title": "Each Pearl Is a Planet",
+  "pitch": "She pulls a string of pearls from her crown and each pearl becomes a lit planet.",
+  "hook_first_second": "One pearl swells to fill the frame.",
+  "beats": [
+   "Pearls roll out like a bead string",
+   "They hang apart as worlds",
+   "Each shows a tiny glowing city",
+   "Camera flies along the string"
+  ],
+  "payoff": "Final pearl is Earth with her face reflected.",
+  "loop": "String retracts.",
+  "seed": "Pearl crown",
+  "invented_symbols": [],
+  "send_trigger": "Send to a wonder-seeker."
+ },
+ {
+  "id": "E37",
+  "title": "The Demon City Lifts Off the Ground",
+  "pitch": "Bhandasura's flying fortress rises, she calls a lightning of petals and it falls out of the sky and into a lake.",
+  "hook_first_second": "A mile-long iron fortress floating upward.",
+  "beats": [
+   "Fortress blots out the stars",
+   "She lifts her bow",
+   "Petal storm shreds the hull",
+   "Fortress sinks without a splash"
+  ],
+  "payoff": "Lake becomes a bed of lotus flowers.",
+  "loop": "Fortress rises again.",
+  "seed": "Bhandasura's city Shunyaka (Lalitopakhyana), name flagged",
+  "invented_symbols": [
+   "petal storm (invented)"
+  ],
+  "send_trigger": "Send to a villain defeater."
+ },
+ {
+  "id": "E38",
+  "title": "The Bow Becomes a Rainbow",
+  "pitch": "She flings the bow into the sky where it stretches into a rainbow-like arc over a desert and rain falls.",
+  "hook_first_second": "A cracked desert and one bow spinning upward.",
+  "beats": [
+   "Bow flies up and grows",
+   "Colours bloom in the air",
+   "Rain hits the desert",
+   "Green shoots appear"
+  ],
+  "payoff": "Children dance in the first rain.",
+  "loop": "Rainbow retracts.",
+  "seed": "Sugarcane bow",
+  "invented_symbols": [
+   "rain = bow (invented)"
+  ],
+  "send_trigger": "Send to anyone who needs rain."
+ },
+ {
+  "id": "E39",
+  "title": "Dance of the Sixteen Lamps",
+  "pitch": "Sixteen floating lamps line up and ignite in sequence to wake a sleeping mountain.",
+  "hook_first_second": "One lamp, one flame, then a ring.",
+  "beats": [
+   "Lamps float down a canyon",
+   "Each flame lights the next",
+   "Mountain's eyes glow",
+   "Mountain rises as a giant guardian"
+  ],
+  "payoff": "The guardian kneels at her lotus.",
+  "loop": "Mountain sleeps again.",
+  "seed": "Shodashi sixteen",
+  "invented_symbols": [
+   "mountain guardian (invented)"
+  ],
+  "send_trigger": "Send to a lights lover."
+ },
+ {
+  "id": "E40",
+  "title": "Wish-Granting Tree Grows to the Sky",
+  "pitch": "A wish-gem planted by her grows a tree whose branches carry every wish as a glowing fruit.",
+  "hook_first_second": "A gem in soil, and a green flash.",
+  "beats": [
+   "Root cracks the ground",
+   "Trunk climbs through clouds",
+   "Fruit lights in colours",
+   "People reach up"
+  ],
+  "payoff": "Each fruit opens to a tiny scene.",
+  "loop": "Tree shrinks into the gem.",
+  "seed": "Chintamani gem",
+  "invented_symbols": [
+   "wish fruit (invented)"
+  ],
+  "send_trigger": "Send your wish."
+ },
+ {
+  "id": "E41",
+  "title": "Colossal Hands Wash the Stars",
+  "pitch": "Her giant hands cup a galaxy and pour it like water over a sleeping city.",
+  "hook_first_second": "A galaxy hung in two golden palms.",
+  "beats": [
+   "Palms descend through clouds",
+   "Galaxy tilts",
+   "Stars flow as a river",
+   "City windows light as stars land"
+  ],
+  "payoff": "People wake to a sky full of falling light.",
+  "loop": "Stars pour back up.",
+  "seed": "Beauty of the three worlds",
+  "invented_symbols": [],
+  "send_trigger": "Send to a wonder fan."
+ },
+ {
+  "id": "E42",
+  "title": "Gold Lion Mount Roars the Dark Away",
+  "pitch": "Her lion charges across the sky and each roar peels a layer off a black storm.",
+  "hook_first_second": "A lion's roar, mouth full of gold.",
+  "beats": [
+   "Black storm covers a city",
+   "Lion leaps from a cloud",
+   "Roars; the cloud rips",
+   "Stars appear"
+  ],
+  "payoff": "Lion lands before her lotus and bows.",
+  "loop": "Storm returns.",
+  "seed": "Lion mount, Wikipedia",
+  "invented_symbols": [],
+  "send_trigger": "Send to a lion fan."
+ },
+ {
+  "id": "E43",
+  "title": "Time Stops at the Wedding",
+  "pitch": "At the wedding of the worlds every raindrop, bird and flame freezes while she walks the aisle.",
+  "hook_first_second": "A raindrop stops mid-air in a golden hall.",
+  "beats": [
+   "Hall full of freeze-frame guests",
+   "She walks past each, touching a hand",
+   "Each frozen thing resumes with a smile",
+   "Everyone looks at the entrance"
+  ],
+  "payoff": "A gust of petals and applause.",
+  "loop": "Everything freezes.",
+  "seed": "Kameshwara and Kameshwari union",
+  "invented_symbols": [
+   "freeze (invented)"
+  ],
+  "send_trigger": "Send to a newly engaged."
+ },
+ {
+  "id": "E44",
+  "title": "Veena Sound Makes the River Dance",
+  "pitch": "Her speech sweeter than a veena literally lifts a river into a living ribbon dancing up a cliff.",
+  "hook_first_second": "A single note and a river leaps.",
+  "beats": [
+   "Tranquil river",
+   "Note sounds",
+   "River lifts into a dancing ribbon",
+   "Ribbon climbs the cliff"
+  ],
+  "payoff": "Ribbon pours into the cliff-top lotus lake.",
+  "loop": "River falls back down.",
+  "seed": "Speech sweeter than veena, Sahasranama",
+  "invented_symbols": [],
+  "send_trigger": "Send to a music lover."
+ },
+ {
+  "id": "E45",
+  "title": "The Crimson Silk Runs for Miles",
+  "pitch": "Her crimson sari unrolls across a continent as a red road and armies walk it as if through a river.",
+  "hook_first_second": "Red cloth ripples to a vanishing point.",
+  "beats": [
+   "Cloth falls from her lotus",
+   "Unfurls over hills",
+   "Travellers walk on it",
+   "It reaches an enemy gate"
+  ],
+  "payoff": "Gate opens before the cloth touches it.",
+  "loop": "Cloth rolls back.",
+  "seed": "Crimson garment (dhyana v4)",
+  "invented_symbols": [],
+  "send_trigger": "Send to a traveler."
+ },
+ {
+  "id": "E46",
+  "title": "The Red Ocean Wakes",
+  "pitch": "A planet-wide ocean of red light surges across an alien world until the night side catches fire with her radiance.",
+  "hook_first_second": "Black planet, a red edge.",
+  "beats": [
+   "Light front crosses a night world",
+   "Cities flare to life",
+   "Creatures look up",
+   "She appears as sunrise"
+  ],
+  "payoff": "Planet glows with her form.",
+  "loop": "Light recedes.",
+  "seed": "Red glow fills the universe (Sahasranama v3)",
+  "invented_symbols": [
+   "planet-scale glow (invented)"
+  ],
+  "send_trigger": "Send to a sci-fi fan."
+ },
+ {
+  "id": "E47",
+  "title": "Parashurama Falls Into Her Lesson",
+  "pitch": "A warrior's axe sprouts flowers as Dattatreya's voice and her presence teach him the three states.",
+  "hook_first_second": "An axe frozen mid-swing.",
+  "beats": [
+   "Warrior mid-battle",
+   "World stills",
+   "Axe blossoms",
+   "Warrior sees three cities"
+  ],
+  "payoff": "He drops to knees, weeping softly.",
+  "loop": "Axe rises again.",
+  "seed": "Tripura Rahasya Dattatreya to Parashurama",
+  "invented_symbols": [],
+  "send_trigger": "Send to a student."
+ },
+ {
+  "id": "E48",
+  "title": "Bala Rides a Giant Swan Over a Battle",
+  "pitch": "Bala, small and fearless, rides a swan that dwarfs a castle, scattering demons with a laugh.",
+  "hook_first_second": "A swan the size of a castle in the sky.",
+  "beats": [
+   "Swan banks over fortress",
+   "Bala shoots flowers",
+   "Demons swat at petals and collapse into sleep",
+   "Swan lands"
+  ],
+  "payoff": "Bala hops down and pats the swan.",
+  "loop": "Swan takes off again.",
+  "seed": "Bala story",
+  "invented_symbols": [],
+  "send_trigger": "Send to a playful soul."
+ },
+ {
+  "id": "E49",
+  "title": "The Moon Plucked for a Mirror",
+  "pitch": "She lifts the full moon like a mirror and shows an army its own fear; the army kneels.",
+  "hook_first_second": "Full moon in a hand.",
+  "beats": [
+   "Army sees its reflection in the moon",
+   "Faces change",
+   "Weapons drop",
+   "Moon returns"
+  ],
+  "payoff": "Army kneels in silver light.",
+  "loop": "Moon returns to the sky.",
+  "seed": "Moon / sixteenth kala",
+  "invented_symbols": [
+   "moon as mirror (invented)"
+  ],
+  "send_trigger": "Send to a friend who needs a mirror."
+ },
+ {
+  "id": "E50",
+  "title": "Gods in Hiding Return Home",
+  "pitch": "Gods hiding in rock, trees and ice are called out one by one by her bell, and the whole heaven rebuilds in a single sweep.",
+  "hook_first_second": "A bell, and a rock cracks.",
+  "beats": [
+   "Gods hidden everywhere",
+   "Bell sounds",
+   "They emerge, shaking",
+   "Heaven rebuilds around them"
+  ],
+  "payoff": "Indra bows and weeps.",
+  "loop": "Gods retreat.",
+  "seed": "Gods driven from heaven by Bhandasura",
+  "invented_symbols": [
+   "bell (invented)"
+  ],
+  "send_trigger": "Send to someone finally home."
+ },
+ {
+  "id": "E51",
+  "title": "The Four Arms Hold Four Seasons",
+  "pitch": "Each of her four hands lifts a season's weather and the world cycles around her.",
+  "hook_first_second": "Four hands rise at once.",
+  "beats": [
+   "Noose catches winter",
+   "Goad lifts spring",
+   "Bow draws summer",
+   "Arrow lights autumn"
+  ],
+  "payoff": "Seasons spin round her in a ring.",
+  "loop": "Ring slows and returns to winter.",
+  "seed": "Noose, goad, bow, arrows",
+  "invented_symbols": [
+   "seasons per object (invented)"
+  ],
+  "send_trigger": "Send to a seasons fan."
+ },
+ {
+  "id": "E52",
+  "title": "A Desert Palace Grows From Her Footsteps",
+  "pitch": "She walks across a dune and a palace grows behind each step.",
+  "hook_first_second": "One step, a tower.",
+  "beats": [
+   "Steps, each making a room",
+   "Palace stretches to horizon",
+   "Camels arrive",
+   "She sits in the last room"
+  ],
+  "payoff": "Dune sand turns to marble.",
+  "loop": "Palace sinks.",
+  "seed": "Sri Nagara",
+  "invented_symbols": [],
+  "send_trigger": "Send to a builder."
+ },
+ {
+  "id": "E53",
+  "title": "Cosmic Court of Sixteen Throngs",
+  "pitch": "She opens court in the sky and sixteen kinds of beings, from sea-folk to star-folk, arrive to kneel.",
+  "hook_first_second": "A trumpet and sixteen portals.",
+  "beats": [
+   "Portals open",
+   "Sea-folk, star-folk, forest-folk pour out",
+   "They kneel in sixteen rings",
+   "She nods"
+  ],
+  "payoff": "Each ring blossoms a light.",
+  "loop": "Portals close.",
+  "seed": "Shodashi sixteen",
+  "invented_symbols": [
+   "sixteen peoples (invented)"
+  ],
+  "send_trigger": "Send to a worldbuilder."
+ },
+ {
+  "id": "E54",
+  "title": "Ten Thousand Lamps Float Up to Form Her Face",
+  "pitch": "On Magha Purnima a river city lights ten thousand lamps and from above they form her face.",
+  "hook_first_second": "Dark river, a single lamp.",
+  "beats": [
+   "Lamps float",
+   "They gather",
+   "Camera rises",
+   "Her face emerges"
+  ],
+  "payoff": "She blinks, the lamps flicker together.",
+  "loop": "Lamps drift apart.",
+  "seed": "Magha Purnima jayanti, dossier",
+  "invented_symbols": [
+   "lamp portrait (invented)"
+  ],
+  "send_trigger": "Send to anyone who loves lights."
+ },
+ {
+  "id": "E55",
+  "title": "Black Mirror Lake Reveals Her Rising",
+  "pitch": "From beneath a perfectly black lake she rises slowly, water streaming off the gold lotus, camera tilting from reflection to sky.",
+  "hook_first_second": "Reflection of stars, then a lotus crowns through it.",
+  "beats": [
+   "Calm lake",
+   "Ripple centre",
+   "Lotus rises",
+   "Water falls off her crown"
+  ],
+  "payoff": "She floats up above the lake, rosy light on the hills.",
+  "loop": "She descends, reflection settles.",
+  "seed": "Lotus above dark water (series look)",
+  "invented_symbols": [],
+  "send_trigger": "Send as a vibe."
+ },
+ {
+  "id": "E56",
+  "title": "Sun Tamed by a Girl",
+  "pitch": "A small god-sized sun tries to burn the world, and Bala dips it in a bowl of water like a hot pebble.",
+  "hook_first_second": "A red sun fills the frame.",
+  "beats": [
+   "Sun scorches a village",
+   "Bala laughs and lifts a bowl",
+   "Sun fits inside",
+   "Steam clouds"
+  ],
+  "payoff": "Villagers rest under a cool sky.",
+  "loop": "Bowl tilts, sun returns.",
+  "seed": "Bala",
+  "invented_symbols": [
+   "sun in bowl (invented)"
+  ],
+  "send_trigger": "Send to hot-weather survivors."
+ },
+ {
+  "id": "E57",
+  "title": "Armour of Flowers",
+  "pitch": "As a thousand arrows fly at her, her crimson silk blooms into a petal shield that catches them and they bloom.",
+  "hook_first_second": "Arrows streak in from every side.",
+  "beats": [
+   "Arrows fly",
+   "Silk lifts",
+   "Petals form a dome",
+   "Arrows burst into flowers"
+  ],
+  "payoff": "Dome opens to a garden.",
+  "loop": "Arrows rain again.",
+  "seed": "Flowers as weapons, Kamadeva's arsenal",
+  "invented_symbols": [
+   "silk dome (invented)"
+  ],
+  "send_trigger": "Send to an unbreakable friend."
+ },
+ {
+  "id": "E58",
+  "title": "The Birth of a Sixteenth Star",
+  "pitch": "In a dark galaxy a fifteenth star flickers and she lights the sixteenth, completing the pattern and waking the sky.",
+  "hook_first_second": "Fifteen stars in a ring, a gap.",
+  "beats": [
+   "Gap pulses",
+   "She touches it",
+   "Star lights",
+   "Ring spins"
+  ],
+  "payoff": "Sky wakes in colours.",
+  "loop": "Star dims.",
+  "seed": "Sixteen kalas",
+  "invented_symbols": [],
+  "send_trigger": "Send to someone who completes you."
+ },
+ {
+  "id": "E59",
+  "title": "Goddess in the Heart of a Supernova",
+  "pitch": "A star explodes in slow motion; at the centre she is calm, gathering the blast into a single gentle bloom.",
+  "hook_first_second": "Star bursting white.",
+  "beats": [
+   "Shockwave",
+   "Her silhouette",
+   "Bloom folds the blast",
+   "Stars stream"
+  ],
+  "payoff": "Bloom becomes a nebula.",
+  "loop": "Nebula collapses.",
+  "seed": "Radiance, sun-like",
+  "invented_symbols": [
+   "cosmic setting (invented)"
+  ],
+  "send_trigger": "Send to a space fan."
+ },
+ {
+  "id": "E60",
+  "title": "The Last Word of the War",
+  "pitch": "After a four-day battle the final demon's sword falls and the whole world takes one breath.",
+  "hook_first_second": "Silence after chaos.",
+  "beats": [
+   "Four-day battle in four-second montage",
+   "Sword falls",
+   "Wind drops",
+   "World breathes"
+  ],
+  "payoff": "She opens her eyes.",
+  "loop": "Battle montage restarts.",
+  "seed": "Four-day battle, Wikipedia Bhandasura",
+  "invented_symbols": [],
+  "send_trigger": "Send to the survivor."
+ }
+]

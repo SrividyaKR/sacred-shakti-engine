@@ -1,0 +1,9 @@
+{
+  "id": "n02_the_sea_bows",
+  "title": "The Sea Bows",
+  "reference": "anchors/tripura_sundari_portrait_9x16.png",
+  "start_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She sits on the golden lotus on a vast bare wet seabed, the ocean drained away, glistening sand and shells around her. On the horizon a gigantic wave towers against the twilight sky.",
+  "end_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She sits on the golden lotus on a wet seabed. The giant wave has curved over and bowed down before her like a bowing head, and a scatter of glowing pearls lies on the sand around the lotus.",
+  "video_prompt": "The ocean has drained away from the seabed. A gigantic wave rises on the horizon and rolls toward the goddess, then slows and bows over her like a head bowing in reverence, melting into water that leaves scattered glowing pearls on the sand around her lotus. She sits calm. Slow eye-level push-in.",
+  "duration": 10
+}

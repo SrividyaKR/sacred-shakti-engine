@@ -1,0 +1,9 @@
+{
+  "id": "s01_crown_becomes_bow",
+  "title": "The Crown Becomes the Bow",
+  "reference": "anchors/tripura_sundari_portrait_9x16.png",
+  "start_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She sits cross-legged on the golden lotus above calm dark water, hands resting open, a gentle smile, the crescent moon centered on her crown.",
+  "end_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She sits on the golden lotus holding the golden crescent as a bow, drawing a rose-gold flower arrow, her crown now topped only by a small pearl, a bloom of rose light at the arrow tip.",
+  "video_prompt": "The crescent moon on her crown lifts free, grows and curves into a golden bow in her hands. She draws a flower arrow and releases it. The arrow bursts into a bloom of rose-gold light that opens across the dark water. Slow eye-level push-in.",
+  "duration": 10
+}

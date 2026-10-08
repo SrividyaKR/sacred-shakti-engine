@@ -17,3 +17,5 @@ Do real research, not recall:
 - Keep it reverent and non-graphic. Plain English; give Sanskrit terms only with a gloss, and only in the dossier (never in video prompts).
 
 Write the dossier to research/<id>.md (extend, do not overwrite, an existing file: add a dated section). Reply with the path, the five story seeds, and the main disagreements between sources.
+
+Also read research/lessons_learned.md first: it holds the director's standing preferences and past feedback. Apply them.

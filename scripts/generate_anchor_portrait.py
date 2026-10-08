@@ -6,6 +6,7 @@
 
 import argparse
 import base64
+import json
 import os
 import sys
 from datetime import datetime
@@ -74,6 +75,61 @@ def edit_candidate(args) -> int:
     return 0
 
 
+def deep_merge(base: dict, over: dict) -> dict:
+    out = dict(base)
+    for k, v in over.items():
+        out[k] = deep_merge(out[k], v) if isinstance(v, dict) and isinstance(out.get(k), dict) else v
+    return out
+
+
+def generate_variants(args) -> int:
+    """One portrait per variant of the base anchor, so a human can compare real alternatives."""
+    from src.agents.director import Anchor
+
+    director = Director()
+    base = director.load_anchor(args.character).model_dump()
+    variants = json.loads(args.variants_file.read_text(encoding="utf-8"))
+    out_dir = ROOT / "outputs" / "anchors" / args.character
+    stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    jobs = []
+    for i, v in enumerate(variants, 1):
+        anchor = Anchor(**deep_merge(base, v.get("overrides", {})))
+        prompt = director.compose_portrait(anchor)
+        if v.get("extra"):
+            prompt += f" Pose and composition: {v['extra']}"
+        rep = SemanticGuard().check(prompt, anchor.negatives, anchor.environment.excluded)
+        print(f"[{'PASS' if rep.ok else 'FAIL'}] variant {i} {v['label']}")
+        for f in rep.findings:
+            print(f"    {f.level.upper()} {f.rule}: {f.message}")
+        if not rep.ok:
+            return 1
+        jobs.append((i, v, f"{prompt} Avoid: {', '.join(anchor.negatives)}."))
+    if args.dry_run:
+        for i, v, prompt in jobs:
+            print(f"\n--- v{i} {v['label']} ---\n{prompt}")
+        return 0
+
+    import requests
+
+    key = os.environ.get("OPENROUTER_API_KEY")
+    if not key:
+        print("OPENROUTER_API_KEY not set. Add it to .env.", file=sys.stderr)
+        return 1
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for i, v, prompt in jobs:
+        print(f"Generating v{i} {v['label']}...")
+        r = requests.post(IMAGES_URL, json={"model": args.model, "prompt": prompt, "aspect_ratio": args.aspect_ratio, "n": 1},
+                          headers={"Authorization": f"Bearer {key}"}, timeout=300)
+        if not r.ok:
+            print(f"OpenRouter rejected the request ({r.status_code}): {r.text[:400]}", file=sys.stderr)
+            return 1
+        item = r.json()["data"][0]
+        dest = out_dir / f"{args.character}_v{i}_{v['label']}_{stamp}{EXT.get(item.get('media_type', 'image/png'), '.png')}"
+        dest.write_bytes(base64.b64decode(item["b64_json"]))
+        print(f"  saved {dest.relative_to(ROOT)}")
+    return 0
+
+
 def main() -> int:
     from dotenv import load_dotenv
 
@@ -84,6 +140,7 @@ def main() -> int:
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--aspect-ratio", default="9:16", choices=["9:16", "1:1"])
     ap.add_argument("--dry-run", action="store_true", help="show the prompt, payload and output paths; no API call")
+    ap.add_argument("--variants-file", type=Path, help="JSON list of {label, title, overrides, extra}: one portrait per variant")
     ap.add_argument("--base", type=Path, help="edit mode: image to edit (pose, face and framing are kept)")
     ap.add_argument("--reference", type=Path, action="append", default=[], help="edit mode: extra reference image (repeatable)")
     ap.add_argument("--edit-prompt", help="edit mode: instruction describing the change")
@@ -91,6 +148,8 @@ def main() -> int:
     args = ap.parse_args()
     if args.base:
         return edit_candidate(args)
+    if args.variants_file:
+        return generate_variants(args)
 
     director = Director()
     try:

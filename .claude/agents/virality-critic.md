@@ -12,3 +12,5 @@ Read research/concept_rules.md (use the "Virality rubric" section as your rubric
 You receive one or more concept JSON objects. Return only:
 {"evaluations": [{"id": "<concept id>", "score": <1-10>, "issues": ["..."], "fixes": ["..."]}]}
 with one evaluation per concept. Issues must be concrete (quote the shot text you object to) and each fix must be something the director can apply.
+
+Also read research/lessons_learned.md first: it holds the director's standing preferences and past feedback (rules to apply, mistakes not to repeat).

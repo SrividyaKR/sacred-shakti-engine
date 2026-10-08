@@ -1,0 +1,1022 @@
+[
+ {
+  "id": "S01",
+  "title": "The Crown Becomes the Bow",
+  "pitch": "The crescent moon on her crown slides off, stretches into a sugarcane bow, and a flower arrow shot from it blooms into the lotus she sits on.",
+  "hook_first_second": "A glowing crescent unhooks from her crown and bends like liquid metal.",
+  "beats": [
+   "Crescent lifts off the crown and elongates into a green sugarcane bow",
+   "Bow string forms from a thread of moonlight",
+   "A flower arrow flies across the dark water",
+   "The arrow lands and blooms into the golden lotus under her"
+  ],
+  "payoff": "The weapon of desire and the seat of peace are the same object.",
+  "loop": "The lotus petals close, curve into a crescent and settle back on her crown.",
+  "seed": "Sugarcane bow and flower arrows; crescent moon crown (Sahasranama, Tripura Rahasya)",
+  "invented_symbols": "none",
+  "send_trigger": "People send it as 'watch the crown turn into a bow'."
+ },
+ {
+  "id": "S02",
+  "title": "Liquid Gold Rises",
+  "pitch": "A pool of liquid gold on black water climbs upward against gravity, folds itself into her face, then pours back down as she opens her eyes.",
+  "hook_first_second": "Gold liquid lifts off the water in a single smooth column.",
+  "beats": [
+   "Gold column rises and sculpts a cheek and brow",
+   "Features sharpen into her face, eyes closed",
+   "Eyes open, gold runs off like a mask into the water",
+   "Surface smooths, ripples run backward"
+  ],
+  "payoff": "A statue of liquid gold becomes a living face in one pour.",
+  "loop": "Ripples converge to a point and the gold column rises again.",
+  "seed": "Golden complexion (Tripura Rahasya golden form); radiance (Sahasranama v2)",
+  "invented_symbols": "none",
+  "send_trigger": "Satisfying liquid physics people replay."
+ },
+ {
+  "id": "S03",
+  "title": "Sixteen Phases, Sixteen Faces",
+  "pitch": "The moon waxes through sixteen phases and each phase is a face of hers, from a sliver-eyed girl to the full-moon queen.",
+  "hook_first_second": "A thin crescent blinks and is already a smiling face.",
+  "beats": [
+   "Crescent becomes the face of a girl",
+   "Each waxing step ages the face and adds jewels",
+   "Full moon is Shodashi in her crown",
+   "Moon wanes back through the faces, shrinking to a crescent"
+  ],
+  "payoff": "The sixteenth moon is her; the whole month is one face growing up.",
+  "loop": "The final sliver is the first crescent, restarting the count.",
+  "seed": "Shodashi as the sixteenth lunar digit (Advaita-l thread, interpretive)",
+  "invented_symbols": "none",
+  "send_trigger": "Tag a friend for each phase."
+ },
+ {
+  "id": "S04",
+  "title": "Mirror Hall of Ages",
+  "pitch": "She walks through a corridor of mirrors; each reflection is a different age of the same goddess, ending with Bala at the far end holding a bow.",
+  "hook_first_second": "Her reflection steps out of the glass a half-second before she does.",
+  "beats": [
+   "Reflection leads, younger than her",
+   "Each next mirror shows a younger self, snapping into place",
+   "Infinite tunnel ends on small Bala",
+   "Bala raises a flower arrow at the camera"
+  ],
+  "payoff": "The goddess and the child are the same light at different sizes.",
+  "loop": "Bala shoots; the arrow shatters the first mirror and the corridor rebuilds.",
+  "seed": "Bala Tripura Sundari as child form (Lalitopakhyana retellings)",
+  "invented_symbols": "none",
+  "send_trigger": "Mirror-tunnel hypnosis and a surprise ending."
+ },
+ {
+  "id": "S05",
+  "title": "Wheel Into Sri Chakra",
+  "pitch": "A swan chariot wheel spins faster until its spokes fold into the nine interlocking triangles of the Sri Chakra, then the camera falls into the center point.",
+  "hook_first_second": "A wheel on the water spins and its spokes bend into triangles.",
+  "beats": [
+   "Chariot wheel on dark water spins",
+   "Spokes fold into nine triangles",
+   "Camera dives into the center dot",
+   "Dot swells into a pupil in her eye"
+  ],
+  "payoff": "Her chariot, her home and her eye are one geometry.",
+  "loop": "Her pupil reflects the swan wheel on the water; it begins to spin.",
+  "seed": "Chakra Raja Ratha chariot; Sri Chakra as her body (Yoginihridaya via brhat.in)",
+  "invented_symbols": "none",
+  "send_trigger": "Geometry that clicks into place."
+ },
+ {
+  "id": "S06",
+  "title": "Flames Freeze Into Petals",
+  "pitch": "A roaring ritual fire freezes mid-lick, every flame turns to a golden petal and a girl in crimson rises from the pit as the petals bloom open around her.",
+  "hook_first_second": "Fire stops dead and turns to gold glass.",
+  "beats": [
+   "Flames freeze and harden into petals",
+   "Petals unfold outward in a ring",
+   "A girl of sixteen stands up out of the center",
+   "Petals fall and she steps onto water"
+  ],
+  "payoff": "The birth from the fire-pit of awareness, shown as a flower opening.",
+  "loop": "Her step ripples; the petals curl back into flames.",
+  "seed": "Chidagni Kunda emergence, Lalitopakhyana",
+  "invented_symbols": "none",
+  "send_trigger": "Perfect freeze-frame to unfreeze."
+ },
+ {
+  "id": "S07",
+  "title": "Ash Remembers Being Love",
+  "pitch": "Grey ash of burnt Kama lies on dark stone; Tripura's glance sweeps it, the ash lifts as fireflies and re-forms a young man holding a flower bow.",
+  "hook_first_second": "Ash grains float upward like reversed snow.",
+  "beats": [
+   "Ash on stone, a faint red light grazes it",
+   "Ash lifts and swirls into fireflies",
+   "Fireflies compress into a shape of a man",
+   "He opens his eyes and bows"
+  ],
+  "payoff": "Death reversed by a look.",
+  "loop": "As he bows, his body dissolves back to ash on the stone.",
+  "seed": "Lalita revives Kama (Lalitopakhyana ch. 30, secondary retellings)",
+  "invented_symbols": "none",
+  "send_trigger": "Reverse-time ash is instantly watchable."
+ },
+ {
+  "id": "S08",
+  "title": "Mercury Pearl Crown",
+  "pitch": "One pearl drops into the water, splits into sixteen pearls that rise and arrange themselves into her crown as it settles on her head.",
+  "hook_first_second": "A single pearl hits water with a ringing drop.",
+  "beats": [
+   "Pearl splits into two, four, eight, sixteen",
+   "Pearls rise on thin columns of water",
+   "They snap into a ring and a crescent forms",
+   "Crown lands on her head"
+  ],
+  "payoff": "Sixteen pearls is her name made visible.",
+  "loop": "A pearl rolls off the crown into the water again.",
+  "seed": "Shodashi, sixteen; pearl-and-ruby crown",
+  "invented_symbols": "none",
+  "send_trigger": "Satisfying split and snap-fit."
+ },
+ {
+  "id": "S09",
+  "title": "The Red Ribbon Road",
+  "pitch": "Her crimson silk noose-ribbon is cast across the void; it becomes a road, a river, a staircase and finally a wedding sash around the moon.",
+  "hook_first_second": "A red ribbon is tossed and never lands.",
+  "beats": [
+   "Ribbon extends and flattens into a road",
+   "Road ripples into a red river",
+   "River folds into a staircase upward",
+   "At the top it ties around the moon"
+  ],
+  "payoff": "The noose of attachment becomes a path to the moon.",
+  "loop": "The moon unties and the ribbon drops into her hand.",
+  "seed": "Noose of attachment (Sahasranama, Drik Panchang)",
+  "invented_symbols": "none",
+  "send_trigger": "Ribbon morph, calming."
+ },
+ {
+  "id": "S10",
+  "title": "Cloud Elephant Taming",
+  "pitch": "A black storm cloud takes the shape of a rampaging elephant; her goad touches it and it shrinks to a toy elephant that sleeps on her palm.",
+  "hook_first_second": "A dark cloud grows tusks.",
+  "beats": [
+   "Cloud elephant stamps over the water",
+   "Goad of gold touches its forehead",
+   "It shrinks, cloud folding in on itself",
+   "Tiny elephant curls up asleep in her hand"
+  ],
+  "payoff": "Vast wildness becomes gentle by one touch.",
+  "loop": "Her palm closes; the cloud billows again and the elephant reappears.",
+  "seed": "Goad (ankusha) as control of the mind",
+  "invented_symbols": "none",
+  "send_trigger": "Big-to-tiny scale magic."
+ },
+ {
+  "id": "S11",
+  "title": "Penrose Lotus Stairs",
+  "pitch": "Lotus petals form an impossible endless staircase; Bala climbs and arrives back at the bottom while an older Tripura waits at the top.",
+  "hook_first_second": "A tiny girl steps onto a petal that becomes a step.",
+  "beats": [
+   "Petals arranged as an impossible staircase",
+   "Bala climbs, camera orbits",
+   "Each landing is a different bloom size",
+   "She reaches the top and meets herself"
+  ],
+  "payoff": "Climbing forever is arriving.",
+  "loop": "She is back at the bottom step, same footfall.",
+  "seed": "Lotus throne; Bala",
+  "invented_symbols": "Invented impossible-geometry device; no source",
+  "send_trigger": "Impossible architecture people dissect."
+ },
+ {
+  "id": "S12",
+  "title": "Sari to Sky",
+  "pitch": "Her crimson silk unspools across the horizon, thins, and becomes the twilight sky itself, with the first star pinned where her brooch was.",
+  "hook_first_second": "A hem of red silk starts to roll away like a wave.",
+  "beats": [
+   "Silk unrolls across the lake",
+   "It rises and spreads overhead",
+   "Fold lines become cloud bands",
+   "A star sparks where the silk was clasped"
+  ],
+  "payoff": "She is wearing the evening.",
+  "loop": "Sky folds back to silk and rewraps her shoulders.",
+  "seed": "Crimson garment (Sahasranama dhyana v4, hibiscus-red)",
+  "invented_symbols": "none",
+  "send_trigger": "Cloth to sky is a gorgeous shot."
+ },
+ {
+  "id": "S13",
+  "title": "Pour Out The Dusk",
+  "pitch": "She tips a golden cup; the blue twilight pours out of the sky in a ribbon, fills the cup, and the world goes black, stars appearing in the cup.",
+  "hook_first_second": "The sky bends like liquid and pours into a cup.",
+  "beats": [
+   "Cup tilts and sky streams down",
+   "The cup fills with blue light",
+   "Sky above goes midnight with stars",
+   "She sips, stars reappear in the sky"
+  ],
+  "payoff": "She drinks the dusk to make the night.",
+  "loop": "The cup refills with the same dusk sky.",
+  "seed": "Dhyana verse with wine-cup (Sahasranama page, verse 1)",
+  "invented_symbols": "none",
+  "send_trigger": "Pouring sky is shareable and loopable."
+ },
+ {
+  "id": "S14",
+  "title": "Swan Chariot Origami",
+  "pitch": "A white paper swan lands on the water, unfolds into a chariot, Bala springs aboard, and the chariot folds back into a swan that takes flight.",
+  "hook_first_second": "A paper swan floats onto the surface.",
+  "beats": [
+   "Swan unfolds, creases glowing",
+   "Becomes a chariot with a flower canopy",
+   "Bala flicks the sugarcane reins",
+   "Chariot refolds mid-air into a flying swan"
+  ],
+  "payoff": "The child's ride is a single sheet of light.",
+  "loop": "Swan dives, crumples to paper on the water.",
+  "seed": "Bala's chariot (Lalitopakhyana)",
+  "invented_symbols": "Swan paper origami is invented styling",
+  "send_trigger": "Fold/unfold ASMR."
+ },
+ {
+  "id": "S15",
+  "title": "Thirty Shadows Bloom",
+  "pitch": "Thirty dark shadows stalk toward Bala; each arrow she shoots turns one into a lotus bud, until a whole pond of buds opens at once.",
+  "hook_first_second": "A wall of dark shapes lurches forward.",
+  "beats": [
+   "Bala draws the bow",
+   "Arrows fly, each bud blooms on impact",
+   "The pond fills with thirty lotuses",
+   "They open in sequence to reveal glowing pearls"
+  ],
+  "payoff": "Enemies transformed, not destroyed.",
+  "loop": "The lotuses close and shadows rise from the buds again.",
+  "seed": "Bala kills Bhandasura's thirty sons (indianetzone, popular); non-graphic version",
+  "invented_symbols": "none",
+  "send_trigger": "Nonviolent but epic."
+ },
+ {
+  "id": "S16",
+  "title": "Flowers In Her Hair Take Flight",
+  "pitch": "Champaka, ashoka and punnaga flowers in her hair turn to fireflies, then to stars, then re-form as a garland as she turns her head.",
+  "hook_first_second": "A flower in her hair unfolds into a glowing insect.",
+  "beats": [
+   "Petals lift as fireflies",
+   "Fireflies scatter into the sky as stars",
+   "Stars drift back and re-weave into a garland",
+   "She turns; the garland settles"
+  ],
+  "payoff": "Her adornments are the constellations.",
+  "loop": "The garland flickers into fireflies again.",
+  "seed": "Hair fragrant with champaka, ashoka, punnaga (Sahasranama v4)",
+  "invented_symbols": "none",
+  "send_trigger": "Pretty and rewatchable."
+ },
+ {
+  "id": "S17",
+  "title": "Sun Earring, Moon Earring",
+  "pitch": "Her left earring (a sun) and right earring (a moon) swing and swap; as they swap, the sky behind her trades day for night with a seamless crossfade.",
+  "hook_first_second": "Two earrings swing like a pendulum into each other.",
+  "beats": [
+   "Earrings swing; sun and moon swap places",
+   "Sky rotates from night to dawn",
+   "Lake turns from black to gold",
+   "Swap again; night returns"
+  ],
+  "payoff": "Day and night live on her ears.",
+  "loop": "Earrings return to start, dusk again.",
+  "seed": "Earrings, one sun one moon (Sahasranama v7-8)",
+  "invented_symbols": "Day shown only briefly; breaks night rule by design",
+  "send_trigger": "Pendulum swing hooks."
+ },
+ {
+  "id": "S18",
+  "title": "Koi Eyes",
+  "pitch": "Her darting fish-shaped eyes slip out as two koi that swim around each other in a yin-like circle and return as her eyes, blinking.",
+  "hook_first_second": "Her eyes swim off her face as two fish.",
+  "beats": [
+   "Eyes leave the face, leaving smooth skin",
+   "Koi circle the lotus",
+   "Circle tightens into a spiral",
+   "Koi dive back and eyes open"
+  ],
+  "payoff": "Fish-shaped eyes taken literally.",
+  "loop": "She blinks; koi ripple beneath the lotus.",
+  "seed": "Fish-shaped eyes (Sahasranama v6)",
+  "invented_symbols": "none",
+  "send_trigger": "Eerie but pretty."
+ },
+ {
+  "id": "S19",
+  "title": "Kadamba Orbs",
+  "pitch": "Spherical kadamba blossoms drift in a grove, each one lights as a lamp, rises and aligns into the Sri Chakra among the stars.",
+  "hook_first_second": "A ball-shaped flower lights up like a lamp.",
+  "beats": [
+   "Grove of glowing spheres",
+   "They rise slowly",
+   "They snap into triangles in the sky",
+   "Her face appears as the central point"
+  ],
+  "payoff": "The grove is the diagram.",
+  "loop": "Lamps descend and become blossoms again.",
+  "seed": "Kadamba grove, Chintamani mansion (Tripura Rahasya via Wikipedia)",
+  "invented_symbols": "none",
+  "send_trigger": "Constellation snaps are satisfying."
+ },
+ {
+  "id": "S20",
+  "title": "The Wish Jewel Ripple",
+  "pitch": "A wish-granting jewel falls into the water; each ripple rings out and turns into a different thing: a swan, a flute, a lotus, a moon, a girl.",
+  "hook_first_second": "A jewel falls in slow motion with a deep bell tone.",
+  "beats": [
+   "Jewel strikes water",
+   "First ring becomes a swan",
+   "Next rings: flute, lotus, moon",
+   "The final ring lifts a girl standing on the lake"
+  ],
+  "payoff": "Every wish arrives as a ripple.",
+  "loop": "The girl steps into the first ring and the jewel is back in the air.",
+  "seed": "Chintamani wish-jewel mansion (Tripura Rahasya)",
+  "invented_symbols": "none",
+  "send_trigger": "Caption: what would your wish be."
+ },
+ {
+  "id": "S21",
+  "title": "Lotus Stem Without End",
+  "pitch": "Camera follows the lotus stem down from her seat; it keeps descending through water, then stars, then back up to the same flower and her smile.",
+  "hook_first_second": "Camera plunges down a golden stem.",
+  "beats": [
+   "Stem descends through black water",
+   "Passes through a layer of stars",
+   "Emerges upward into the bud",
+   "Bud opens with her smiling"
+  ],
+  "payoff": "The throne is rooted in the whole universe.",
+  "loop": "The flower closes as the camera plunges again.",
+  "seed": "Lotus throne above water; Sadashiva beneath the lotus (Vedadhara, Tripura Rahasya)",
+  "invented_symbols": "none",
+  "send_trigger": "Infinite descent loop."
+ },
+ {
+  "id": "S22",
+  "title": "Nine Triangles Origami",
+  "pitch": "Nine glowing triangles of paper fold themselves in the air into a sixteen-petal lotus, and she sits at its center as it finishes.",
+  "hook_first_second": "Triangular shards of light fly together.",
+  "beats": [
+   "Four upward and five downward triangles interlock",
+   "They fold outward into petals",
+   "Sixteen petals open",
+   "She appears at center, eyes closed"
+  ],
+  "payoff": "Sacred geometry becomes a living flower.",
+  "loop": "Petals fold back into triangles and spin.",
+  "seed": "Sri Chakra nine triangles; sixteen-petal enclosure (unverified)",
+  "invented_symbols": "none",
+  "send_trigger": "Satisfying fold."
+ },
+ {
+  "id": "S23",
+  "title": "Nectar Crown",
+  "pitch": "Golden nectar from a tilted cup runs over her head and hardens in mid-flow into a crown, then into a halo spinning like a coin.",
+  "hook_first_second": "Liquid gold falls on her hair and stops mid-air.",
+  "beats": [
+   "Gold trickles from a cup",
+   "It catches and builds the crown shape",
+   "Halo spins faster, glowing",
+   "Halo flips like a coin and lands as a moon"
+  ],
+  "payoff": "The crown forms from nectar.",
+  "loop": "The moon melts and pours back into the cup.",
+  "seed": "Crown with crescent; nectar cup (dhyana verse)",
+  "invented_symbols": "none",
+  "send_trigger": "Golden liquid slow-mo."
+ },
+ {
+  "id": "S24",
+  "title": "Hibiscus Silk",
+  "pitch": "One crimson hibiscus petal falls, then thousands, which flow together into a silk gown that wraps her while the flower heads become jewels.",
+  "hook_first_second": "A single hibiscus petal falls and lands with a splash.",
+  "beats": [
+   "Petals pour down",
+   "Gather into a flowing river of red",
+   "The river climbs her figure and sets into silk",
+   "Hibiscus buds clasp as brooches"
+  ],
+  "payoff": "Her dress is made from flowers.",
+  "loop": "Silk frays back into petals falling.",
+  "seed": "Crimson garment 'glowing like hibiscus' (dhyana v4)",
+  "invented_symbols": "none",
+  "send_trigger": "Petal-to-fabric is soothing."
+ },
+ {
+  "id": "S25",
+  "title": "A Thousand Lanterns, One Face",
+  "pitch": "One thousand glowing lanterns float on the lake, drift together and merge into a single huge face of the goddess lying on the water, smiling.",
+  "hook_first_second": "A thousand tiny lights drift as one swarm.",
+  "beats": [
+   "Lanterns spread on the water",
+   "They drift to an outline",
+   "Outline fills with warm light",
+   "The face blinks, lanterns scatter"
+  ],
+  "payoff": "The thousand rising suns made into night lights.",
+  "loop": "Lanterns scatter and reform in the same shape.",
+  "seed": "Radiance of a thousand rising suns (Sahasranama v2)",
+  "invented_symbols": "none",
+  "send_trigger": "Swarm morph screenshot."
+ },
+ {
+  "id": "S26",
+  "title": "Step Through The Mirror Lake",
+  "pitch": "The lake surface is a mirror; Tripura steps into it, her reflection steps out as Bala, and Bala steps into the lotus seat.",
+  "hook_first_second": "A foot lands and the lake does not ripple.",
+  "beats": [
+   "Foot on glass-still lake",
+   "Reflection rises as a girl",
+   "Positions swap, the girl sits on lotus",
+   "The goddess is now the reflection beneath"
+  ],
+  "payoff": "Goddess and child swap realities.",
+  "loop": "Now Bala steps in and Tripura rises.",
+  "seed": "Bala and Lalita as same goddess (Lalitopakhyana)",
+  "invented_symbols": "none",
+  "send_trigger": "Swap loops forever."
+ },
+ {
+  "id": "S27",
+  "title": "Nine Enclosures Nesting Doll",
+  "pitch": "A nine-layered golden nesting doll opens; each shell reveals a smaller goddess in the next enclosure, until the last is a glowing point that expands to the night sky.",
+  "hook_first_second": "A golden egg cracks open with a click.",
+  "beats": [
+   "Outer shell opens to reveal a smaller shell",
+   "Each shell shows a slightly different face",
+   "Seventh to ninth shrink rapidly",
+   "Final dot explodes into stars"
+  ],
+  "payoff": "The Navavarana journey to the center.",
+  "loop": "The dot contracts and a new egg forms.",
+  "seed": "Muthuswami Dikshitar's Navavarana kritis, nine Sri Chakra enclosures",
+  "invented_symbols": "none",
+  "send_trigger": "Nesting-doll ASMR."
+ },
+ {
+  "id": "S28",
+  "title": "Fifteen Lamps and the Sixteenth",
+  "pitch": "One lamp is lit each beat, fifteen in a circle; the sixteenth is her own light, which turns the whole ring into a moon.",
+  "hook_first_second": "A match flames and lights a tiny oil lamp.",
+  "beats": [
+   "Lamps ignite one by one",
+   "Circle forms on the water",
+   "Sixteenth point is a girl's face",
+   "Ring closes into a full moon"
+  ],
+  "payoff": "The Nityas and the sixteenth who holds them.",
+  "loop": "Lamps go out one by one, ring dark.",
+  "seed": "Fifteen Nityas plus Shodashi (kamakotimandali)",
+  "invented_symbols": "none",
+  "send_trigger": "Counting hypnosis."
+ },
+ {
+  "id": "S29",
+  "title": "Tortoise Hill",
+  "pitch": "A tortoise shell on the Matabari lake enlarges into a hill with a temple; fish circling become gold coins; the temple becomes a lotus.",
+  "hook_first_second": "A tortoise shell swells like a balloon.",
+  "beats": [
+   "Shell swells into a hill",
+   "Temple grows on top",
+   "Fish glitter and rise as coins",
+   "Temple petals open into a lotus"
+  ],
+  "payoff": "Peetha hill turned into flower.",
+  "loop": "Lotus closes into a shell.",
+  "seed": "Matabari Kurma Peeth and Kalyan Sagar lake (greenmesg, sacredsites)",
+  "invented_symbols": "none",
+  "send_trigger": "Tiny to huge scale."
+ },
+ {
+  "id": "S30",
+  "title": "Footsteps That Bloom",
+  "pitch": "She walks across the dark water; each step blooms a lotus that connects into a path that curls into a spiral and lifts into a galaxy.",
+  "hook_first_second": "A bare foot sinks and a lotus flowers at once.",
+  "beats": [
+   "Steps bloom in sequence",
+   "Path winds into a spiral",
+   "Spiral lifts off the water",
+   "Galaxy turns above the lake"
+  ],
+  "payoff": "Her walk makes worlds.",
+  "loop": "Last lotus blooms where she began.",
+  "seed": "Lotus symbolism, Shakti peetha (right foot fell at Matabari, devotional)",
+  "invented_symbols": "none",
+  "send_trigger": "Lotus-trail hypnosis."
+ },
+ {
+  "id": "S31",
+  "title": "The Torn Manuscript Wings",
+  "pitch": "A hundred-verse scroll tears in half; the halves flutter and become the two wings of a white swan that carries the verses to the sky.",
+  "hook_first_second": "Paper rips with a crack and the halves take flight.",
+  "beats": [
+   "Scroll rips in two",
+   "Halves flap and feather out",
+   "Swan forms from the pages",
+   "It carries Bala's chariot away"
+  ],
+  "payoff": "Verses become flight.",
+  "loop": "Swan lands, wings flatten into the scroll.",
+  "seed": "Saundarya Lahari manuscript torn by Nandi (devotional)",
+  "invented_symbols": "none",
+  "send_trigger": "Paper-to-bird morph."
+ },
+ {
+  "id": "S32",
+  "title": "From Hair to Foot",
+  "pitch": "Camera follows a single strand of her hair down; it becomes a river, then a lotus stem, then her ankle bracelet and bare foot touching the water.",
+  "hook_first_second": "A single hair strand becomes a river.",
+  "beats": [
+   "Strand falls and widens",
+   "River branches and grows lotus",
+   "Stem thickens into her ankle",
+   "Foot touches water, ripple spreads"
+  ],
+  "payoff": "Saundarya Lahari's hair-to-foot hymn made literal.",
+  "loop": "Ripple sends the hair strand up again.",
+  "seed": "Saundarya Lahari 'from her hair to her feet' (Wikipedia)",
+  "invented_symbols": "none",
+  "send_trigger": "One continuous impossible zoom."
+ },
+ {
+  "id": "S33",
+  "title": "Cymatic Sri Chakra",
+  "pitch": "Her voice hums a note; gold sand on a black drum skin vibrates into a Sri Chakra pattern, then into a face, then collapses.",
+  "hook_first_second": "Gold sand jumps and starts to dance.",
+  "beats": [
+   "Sand shivers into rings",
+   "Rings sharpen into triangles",
+   "Triangles resolve into her sleeping face",
+   "Note ends; sand falls flat"
+  ],
+  "payoff": "Sound builds her image.",
+  "loop": "The note returns and sand jumps again.",
+  "seed": "Speech 'surpassing the veena' (Sahasranama v10)",
+  "invented_symbols": "none",
+  "send_trigger": "Cymatics are famously satisfying."
+ },
+ {
+  "id": "S34",
+  "title": "The Smile Spreads",
+  "pitch": "Her smile widens and the landscape copies it: the horizon curves up, the lake curves up, the crescent moon curves into a grin.",
+  "hook_first_second": "Her smile starts at the eyes and the horizon bends with it.",
+  "beats": [
+   "Smile begins",
+   "Horizon and shoreline curve",
+   "Moon becomes a curved smile in the sky",
+   "World relaxes back to flat"
+  ],
+  "payoff": "A smile that rewrites geometry.",
+  "loop": "Smile relaxes; horizon lifts again.",
+  "seed": "Smile that enraptures Kameshwara (Sahasranama v11)",
+  "invented_symbols": "none",
+  "send_trigger": "Cute and spooky."
+ },
+ {
+  "id": "S35",
+  "title": "Cup Into Lotus",
+  "pitch": "In her hand a wine cup tilts and the pour turns into the petals of a red lotus, then the lotus closes into a cup again.",
+  "hook_first_second": "Red liquid curls upward as petals.",
+  "beats": [
+   "Cup tilted, liquid rising",
+   "Petals form around the stream",
+   "Bloom is complete in her palm",
+   "Petals fold to cup"
+  ],
+  "payoff": "Wine-cup and red lotus dhyana verse resolved as one.",
+  "loop": "Cup refilling as petals unfold again.",
+  "seed": "Dhyana verse: wine-cup and red lotus (Sahasranama page)",
+  "invented_symbols": "none",
+  "send_trigger": "Beautiful macro loop."
+ },
+ {
+  "id": "S36",
+  "title": "Fear Not, Monster",
+  "pitch": "A huge shadowy creature looms over the lake; Tripura lifts an open palm and the creature disintegrates into lotus petals that fall into the water.",
+  "hook_first_second": "A looming shadow with eyes.",
+  "beats": [
+   "Shadow creeps",
+   "Open palm lifts",
+   "Shadow shreds to petals",
+   "Petals float on still water"
+  ],
+  "payoff": "Abhaya gesture with a result.",
+  "loop": "Petals gather into the shadow again.",
+  "seed": "Abhaya (fearlessness) gesture, 12th-century images (brhat.in)",
+  "invented_symbols": "none",
+  "send_trigger": "Fear to beauty."
+ },
+ {
+  "id": "S37",
+  "title": "Eighteen Arms Kaleidoscope",
+  "pitch": "Her arms multiply into a fan of eighteen, each a different object that morphs: bow, lotus, mirror, moon, drum, flame.",
+  "hook_first_second": "Two arms become four, eight, eighteen in a blink.",
+  "beats": [
+   "Arms fan out",
+   "Objects morph hand to hand",
+   "Kaleidoscope of motion",
+   "Arms retract to two"
+  ],
+  "payoff": "The golden martial form as a motion mandala.",
+  "loop": "Arms fan again.",
+  "seed": "Eighteen-armed golden form (Tripura Rahasya via brhat.in)",
+  "invented_symbols": "none",
+  "send_trigger": "Symmetry hypnosis."
+ },
+ {
+  "id": "S38",
+  "title": "Bala Wakes In The Bud",
+  "pitch": "A closed lotus bud on the lake glows; Bala sleeps curled inside; the bud opens and she stands, instantly pulling a bow.",
+  "hook_first_second": "A bud glows and a tiny heartbeat of light pulses.",
+  "beats": [
+   "Bud glowing",
+   "Petals peel back",
+   "Girl uncurls, stands",
+   "Strings the sugarcane bow"
+  ],
+  "payoff": "Birth as flower opening.",
+  "loop": "Bud reseals around her.",
+  "seed": "Bala child form",
+  "invented_symbols": "none",
+  "send_trigger": "Cute birth moment."
+ },
+ {
+  "id": "S39",
+  "title": "Fractal Mirror Daughter",
+  "pitch": "Bala holds a hand mirror; inside it, Tripura holds a mirror; inside, Bala again; zoom through ten levels and back.",
+  "hook_first_second": "A tiny hand mirror fills the frame.",
+  "beats": [
+   "Zoom into the mirror",
+   "Tripura holds a mirror",
+   "Bala again",
+   "Back out, quick"
+  ],
+  "payoff": "Child and sovereign nest endlessly.",
+  "loop": "Zoom restarts on the first mirror.",
+  "seed": "Bala and Lalita (Lalitopakhyana)",
+  "invented_symbols": "none",
+  "send_trigger": "Droste effect."
+ },
+ {
+  "id": "S40",
+  "title": "Sunset Lion Dissolves",
+  "pitch": "A lion made of sunset cloud paces beside her, her palm on its mane; as it walks it breaks into water ripples that become a swan.",
+  "hook_first_second": "A cloud lion appears at the horizon.",
+  "beats": [
+   "Lion approaches",
+   "Mane turns to ripples",
+   "Body becomes lake water",
+   "Swan rises from the water"
+  ],
+  "payoff": "Her mount transforms.",
+  "loop": "Swan flies away and lion forms again.",
+  "seed": "Lion mount (Wikipedia infobox)",
+  "invented_symbols": "none",
+  "send_trigger": "Cloud-creature transformation."
+ },
+ {
+  "id": "S41",
+  "title": "Five Arrows, Five Elements",
+  "pitch": "Five flower arrows fly: one hits the water and becomes a wave, one the earth and becomes a hill, then flame, wind, sky.",
+  "hook_first_second": "Five arrows leave the bow at once.",
+  "beats": [
+   "Arrow to water",
+   "Arrow to land",
+   "Arrow to flame",
+   "Arrow to air and sky"
+  ],
+  "payoff": "Five senses as five elements.",
+  "loop": "Arrows return to the bow.",
+  "seed": "Five flower arrows as five subtle elements (Sahasranama)",
+  "invented_symbols": "none",
+  "send_trigger": "Quick elemental montage."
+ },
+ {
+  "id": "S42",
+  "title": "Reverse Rain of Petals",
+  "pitch": "Petals fall onto the lake, then time reverses: they rise, fly back and reassemble into a woman standing on the water.",
+  "hook_first_second": "A rain of petals falls on still water.",
+  "beats": [
+   "Petals hit water",
+   "Petals reverse",
+   "They gather",
+   "Form a woman with arms open"
+  ],
+  "payoff": "Reverse time creates a goddess.",
+  "loop": "She dissolves into petals falling.",
+  "seed": "Kama's flower arrows",
+  "invented_symbols": "none",
+  "send_trigger": "Reverse physics."
+ },
+ {
+  "id": "S43",
+  "title": "Sixteen Pearl Necklace Orbit",
+  "pitch": "A pearl necklace falls and its sixteen pearls each become a planet orbiting her in a lit solar system.",
+  "hook_first_second": "Pearls fall in slow motion.",
+  "beats": [
+   "Pearls scatter",
+   "Each floats to orbit",
+   "Planets rotate",
+   "One pearl becomes a moon"
+  ],
+  "payoff": "The necklace is an orrery.",
+  "loop": "Pearls fall back onto a string.",
+  "seed": "Shodashi sixteen; pearl crown",
+  "invented_symbols": "none",
+  "send_trigger": "Tiny solar system."
+ },
+ {
+  "id": "S44",
+  "title": "Sugarcane City",
+  "pitch": "A sugarcane stalk grows from the lake; camera zooms into a joint and finds a glowing city of lanterns that is the stalk's inner world.",
+  "hook_first_second": "A green stalk shoots up from the water.",
+  "beats": [
+   "Stalk grows",
+   "Zoom into a node",
+   "City of light appears",
+   "City rises and becomes the stalk again"
+  ],
+  "payoff": "Her bow contains a world.",
+  "loop": "Camera zooms out of the node.",
+  "seed": "Sugarcane bow, Sri Nagara city (Lalitopakhyana)",
+  "invented_symbols": "none",
+  "send_trigger": "World-inside-an-object."
+ },
+ {
+  "id": "S45",
+  "title": "The Last Pearl In The Cup",
+  "pitch": "Tripura holds an empty golden plate; pearls rain down, then lotus petals, then gold coins, overflowing and spilling and filling the lake.",
+  "hook_first_second": "An empty plate and the first coin lands.",
+  "beats": [
+   "Plate fills",
+   "Overflows",
+   "Lake fills with gold",
+   "Plate empties again"
+  ],
+  "payoff": "Abundance in one beat.",
+  "loop": "Plate empty, coin drops.",
+  "seed": "Dikshitar's cartloads of provisions (rasikas.org, devotional)",
+  "invented_symbols": "none",
+  "send_trigger": "Abundance shot."
+ },
+ {
+  "id": "S46",
+  "title": "Kintsugi Moon",
+  "pitch": "A cracked pale moon is mended with seams of liquid gold from her fingertip, and the repaired moon becomes her crown.",
+  "hook_first_second": "A moon with a crack runs through its middle.",
+  "beats": [
+   "Gold seam drawn",
+   "Cracks heal in a web of gold",
+   "Moon lifts and shrinks",
+   "Crown placed"
+  ],
+  "payoff": "Healing a broken moon.",
+  "loop": "Crack appears again.",
+  "seed": "Crescent crown; compassion (dhyana verse 2)",
+  "invented_symbols": "Kintsugi imagery is invented styling",
+  "send_trigger": "Mending is satisfying."
+ },
+ {
+  "id": "S47",
+  "title": "Three Cities Fall",
+  "pitch": "She drops through three nested cities: waking, dreaming and deep sleep; each darker, ending in a single glowing eye that is her.",
+  "hook_first_second": "A city seen from above flips inside out.",
+  "beats": [
+   "First city by day-lit streets",
+   "Second city dreamlike",
+   "Third city black",
+   "Eye opens in the dark"
+  ],
+  "payoff": "Consciousness behind all states.",
+  "loop": "Eye closes and city one again.",
+  "seed": "Tripura Rahasya reading of the three cities (interpretive)",
+  "invented_symbols": "Three cities as visual metaphor is interpretive",
+  "send_trigger": "Philosophical hook."
+ },
+ {
+  "id": "S48",
+  "title": "Smoke Ring Swan",
+  "pitch": "Incense smoke rings rise from the lotus and become a swan, which swims through the dark and returns as smoke.",
+  "hook_first_second": "A perfect smoke ring spins up.",
+  "beats": [
+   "Ring rises",
+   "Becomes wings",
+   "Swan swims",
+   "Smoke cloud returns"
+  ],
+  "payoff": "Smoke shaped into a bird.",
+  "loop": "Swan vanishes to a ring.",
+  "seed": "Swan imagery (brief)",
+  "invented_symbols": "none",
+  "send_trigger": "Smoke art."
+ },
+ {
+  "id": "S49",
+  "title": "Sandalwood Paste Bindu",
+  "pitch": "A single drop of dark musk paste lands on her brow, spreads as ink into a galaxy, then pulls back into a dot.",
+  "hook_first_second": "A dark drop falls from a fingertip in macro.",
+  "beats": [
+   "Drop lands",
+   "Ink blooms",
+   "Galaxy forms in the ink",
+   "Retracts to a dot"
+  ],
+  "payoff": "The brow mark is a universe.",
+  "loop": "Another drop falls.",
+  "seed": "Musk mark on the brow (Sahasranama v5)",
+  "invented_symbols": "none",
+  "send_trigger": "Macro ink bloom."
+ },
+ {
+  "id": "S50",
+  "title": "Lotus Shutter",
+  "pitch": "A sixteen-petal lotus closes like a camera iris; the center shrinks to a pupil, which opens as a full moon, and the moon is her eye.",
+  "hook_first_second": "Petals snap closed like a shutter.",
+  "beats": [
+   "Petals close",
+   "Iris narrows",
+   "Pupil opens",
+   "Moon fills the sky"
+  ],
+  "payoff": "Flower, iris, eye and moon are one object.",
+  "loop": "Moon becomes a flower again.",
+  "seed": "Sixteen-petal lotus; Shodashi",
+  "invented_symbols": "none",
+  "send_trigger": "Iris transition."
+ },
+ {
+  "id": "S51",
+  "title": "Silk Birds",
+  "pitch": "Her scarf unwinds into a flock of red birds that spiral and fly back into the cloth, tying itself around Bala's neck.",
+  "hook_first_second": "Silk rips into wings.",
+  "beats": [
+   "Scarf unravels",
+   "Flock flies",
+   "Flock circles the lotus",
+   "Scarf reweaves around Bala"
+  ],
+  "payoff": "Cloth into birds.",
+  "loop": "Silk unravels again.",
+  "seed": "Crimson silk; Bala",
+  "invented_symbols": "none",
+  "send_trigger": "Cloth to flock."
+ },
+ {
+  "id": "S52",
+  "title": "Five Reflections",
+  "pitch": "Ripples on the water show reflections one by one: Bala, Shodashi, Lalita, Rajarajeshwari, Kamakshi, each a different pose, then merging into one.",
+  "hook_first_second": "The ripple shows a different girl each time.",
+  "beats": [
+   "Five faces show in sequence",
+   "They overlap",
+   "Merge into one face",
+   "One reflection smiles"
+  ],
+  "payoff": "Her named forms are one face.",
+  "loop": "Reflection rotates to the first form.",
+  "seed": "Named forms (dossier)",
+  "invented_symbols": "none",
+  "send_trigger": "Forms identification comments."
+ },
+ {
+  "id": "S53",
+  "title": "Gold Dust Cyclone",
+  "pitch": "A swirl of golden dust twists into a funnel, tilts, and pours itself into her open palm where it hardens into a small gold lotus.",
+  "hook_first_second": "Gold dust swirls on the water.",
+  "beats": [
+   "Funnel rises",
+   "Pours into palm",
+   "Hardens to lotus",
+   "She places it on the water and it grows"
+  ],
+  "payoff": "Storm tamed into a bloom.",
+  "loop": "Lotus melts back to dust.",
+  "seed": "Golden radiance",
+  "invented_symbols": "none",
+  "send_trigger": "Spiral physics."
+ },
+ {
+  "id": "S54",
+  "title": "Moon Pool Swim",
+  "pitch": "Bala dives into the reflection of the moon and swims through it; underwater the moon's reflection is a tunnel to the real moon, where Tripura waits.",
+  "hook_first_second": "A girl dives into the moon's reflection.",
+  "beats": [
+   "Dive",
+   "Tunnel of light",
+   "Surfaces on the moon",
+   "Meets Tripura"
+  ],
+  "payoff": "Reflection as portal.",
+  "loop": "Dive again.",
+  "seed": "Bala; crescent moon",
+  "invented_symbols": "none",
+  "send_trigger": "Portal fantasy."
+ },
+ {
+  "id": "S55",
+  "title": "The Bow That Draws The Dawn",
+  "pitch": "She draws the sugarcane bow and the string pulls the night sky taut like a tent; releasing it snaps stars into place.",
+  "hook_first_second": "The sky stretches like fabric.",
+  "beats": [
+   "Draw",
+   "Sky tightens",
+   "Release",
+   "Stars twinkle into place"
+  ],
+  "payoff": "Night drawn on her bow.",
+  "loop": "Bow slackens, sky relaxes.",
+  "seed": "Sugarcane bow",
+  "invented_symbols": "none",
+  "send_trigger": "Sky physics."
+ },
+ {
+  "id": "S56",
+  "title": "The Eye In The Lotus",
+  "pitch": "A lotus center opens and a human eye blinks inside; the camera pulls back and the whole lake is her face, the lotus her eye.",
+  "hook_first_second": "A lotus pistil blinks.",
+  "beats": [
+   "Eye in flower",
+   "Pull back",
+   "Lake as face",
+   "Lotus eye blinks"
+  ],
+  "payoff": "The lake is a face.",
+  "loop": "Zoom back in.",
+  "seed": "Lotus seat; consciousness (Tripura Rahasya)",
+  "invented_symbols": "none",
+  "send_trigger": "Pull-back reveal."
+ },
+ {
+  "id": "S57",
+  "title": "Gold Sand Hourglass",
+  "pitch": "An hourglass of gold sand turns upside down on the water; as sand falls it forms Bala, then a young Tripura, then an older queen, and falls into a reflecting moon.",
+  "hook_first_second": "An hourglass slowly rotates.",
+  "beats": [
+   "Sand pours",
+   "Forms Bala",
+   "Forms Tripura",
+   "Forms queen"
+  ],
+  "payoff": "Time passes within one goddess.",
+  "loop": "Hourglass flips.",
+  "seed": "Bala to Rajarajeshwari forms",
+  "invented_symbols": "Hourglass invented",
+  "send_trigger": "Time-lapse aging."
+ },
+ {
+  "id": "S58",
+  "title": "Crescent Boat",
+  "pitch": "The crescent moon tilts into a boat; Bala sails on it across the lake and the boat turns back into the moon behind her.",
+  "hook_first_second": "The crescent drops to the water and floats.",
+  "beats": [
+   "Crescent as boat",
+   "Bala boards",
+   "Sails",
+   "Boat rises"
+  ],
+  "payoff": "Moon is her ride.",
+  "loop": "Moon returns to sky.",
+  "seed": "Crescent moon; Bala",
+  "invented_symbols": "none",
+  "send_trigger": "Cute fantasy."
+ },
+ {
+  "id": "S59",
+  "title": "Parting Of The Lotus Lake",
+  "pitch": "She opens her arms and the lotus lake parts like a curtain; beneath is the starry sky, and the reflection below is the real sky above.",
+  "hook_first_second": "The water splits open down the middle.",
+  "beats": [
+   "Water parts",
+   "Sky beneath",
+   "Camera falls through",
+   "Lake closes overhead"
+  ],
+  "payoff": "The world flips.",
+  "loop": "Lake closes and opens.",
+  "seed": "Lotus and water",
+  "invented_symbols": "none",
+  "send_trigger": "World flip."
+ },
+ {
+  "id": "S60",
+  "title": "Hand To Lotus To Hand",
+  "pitch": "Her hand opens; a lotus blooms out of it; the lotus opens, revealing her other hand; that hand opens a lotus again, passing the camera through six levels and back to the first hand.",
+  "hook_first_second": "A hand opens and a bud pops.",
+  "beats": [
+   "Hand",
+   "Lotus",
+   "Hand again",
+   "Lotus again"
+  ],
+  "payoff": "Infinite zoom with a pulse.",
+  "loop": "Last lotus is the first hand.",
+  "seed": "Lotus throne; hand gestures",
+  "invented_symbols": "none",
+  "send_trigger": "Infinite zoom."
+ }
+]

@@ -28,7 +28,7 @@ class Environment(BaseModel):
     excluded: list[str] = Field(default_factory=list)  # words the Semantic Guard keeps out of the prompt
 
 
-MotionArchetype = Literal["grounded_stride", "stationary_command", "atmospheric_arc"]
+MotionArchetype = Literal["grounded_stride", "stationary_command", "atmospheric_arc", "seated_presence"]
 
 
 class CreativePalette(BaseModel):
@@ -94,6 +94,19 @@ SHOT_PLANS = {
                     "gaze steady toward the viewer."),
         ),
     ],
+    "seated_presence": [
+        Shot(
+            duration=5,
+            camera=("Eye level, front-facing, full-length framing from the reference portrait, with a slow, steady push-in "
+                    "toward Her face and the crown and {crown_ornament} centered and fully framed."),
+            action=f"She sits composed and sovereign on {{ground}}, a gentle faint smile on Her face. {SETTLE}",
+        ),
+        Shot(
+            duration=5,
+            camera="The push-in continues at the same pace, with the crown centered and fully framed at eye level.",
+            action="She remains seated and serene, Her gaze steady on the viewer and Her smile warming slowly.",
+        ),
+    ],
     "atmospheric_arc": [
         Shot(duration=5, camera=OPENING_CAMERA, action=f"As the camera pulls back, {SETTLE}"),
         Shot(
@@ -125,7 +138,7 @@ class Director:
         ap, env = a.appearance, a.environment
         return " ".join([
             f"Cinematic photorealistic portrait of {a.name}, {a.epithet}, the Hindu goddess.",
-            "Framing: head and upper chest, front-facing, camera at horizontal eye level, "
+            "Framing: three-quarter-length (head to upper thighs), front-facing, camera at horizontal eye level, "
             "crown fully framed and centered, vertical 9:16 composition.",
             f"Complexion: {ap.skin}. Eyes: {ap.eyes}. Forehead: {ap.third_eye}.",
             f"Crown: {ap.headwear}.",

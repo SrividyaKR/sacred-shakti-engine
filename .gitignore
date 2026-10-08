@@ -6,3 +6,5 @@ __pycache__/
 .DS_Store
 .venv/
 outputs/
+assets/audio/**/*.mp3
+assets/audio/**/*.wav

@@ -16,14 +16,14 @@
     {
       "order": 2,
       "id": "tara",
-      "status": "active",
+      "status": "completed",
       "anchor_locked": true
     },
     {
       "order": 3,
       "id": "tripura_sundari",
-      "status": "queued",
-      "anchor_locked": false
+      "status": "active",
+      "anchor_locked": true
     },
     {
       "order": 4,

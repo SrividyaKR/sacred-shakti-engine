@@ -1,0 +1,9 @@
+{
+  "id": "e10_bow_draws_the_ocean",
+  "title": "The Bow Draws the Ocean",
+  "reference": "anchors/tripura_sundari_portrait_9x16.png",
+  "start_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She stands on a dark shore holding a sugarcane bow with the string fully drawn and a flower arrow, calm and focused. Ahead of her a gigantic wall of dark ocean water rises into the twilight sky.",
+  "end_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She stands on a dark shore lowering the sugarcane bow. The giant wall of ocean water ahead has split in two, parted like a canyon, with a path of glowing rose-gold light running between the walls to the horizon.",
+  "video_prompt": "She releases the flower arrow. A streak of rose-gold light flies into the towering wall of ocean water and splits it down the middle. The two halves of water roll apart like curtains, opening a glowing path to the horizon. Slow eye-level push-in, then a gentle pull-back.",
+  "duration": 10
+}

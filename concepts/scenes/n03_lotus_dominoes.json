@@ -1,0 +1,9 @@
+{
+  "id": "n03_lotus_dominoes",
+  "title": "Lotus Dominoes",
+  "reference": "anchors/tripura_sundari_portrait_9x16.png",
+  "start_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She stands on a single golden lotus at the front of a vast dark valley filled with thousands of closed lotus buds under the twilight sky.",
+  "end_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She stands on the golden lotus. The whole vast valley behind her is now filled with thousands of open golden lotuses, each glowing, stretching to the horizon.",
+  "video_prompt": "A single lotus opens under her feet and a wave of lotus buds bursts open across the dark valley, bud after bud like falling dominoes, each flaring gold, rolling out to the horizon. She stands calm as the glow reaches the horizon. Slow pull-back.",
+  "duration": 10
+}

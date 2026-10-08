@@ -1,0 +1,9 @@
+{
+  "id": "ts3_01_ash_wont_stay_ash",
+  "title": "The Ash Will Not Stay Ash",
+  "reference": "anchors/tripura_sundari_portrait_9x16.png",
+  "start_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She stands on a quiet dark plain of grey ash under the twilight sky, looking down with compassion at a low mound of grey ash at her feet, a soft rose glow around her.",
+  "end_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She stands on the dark plain looking down with a warm smile. Where the mound of ash was, a young man in simple clothes has risen to his knees, one hand reaching up, golden light on his face, flowers blooming in the grey ash around them.",
+  "video_prompt": "The goddess looks down with compassion at a mound of ash. Her rose glow touches the ash and a hand bursts up out of it, then a young man rises from the ash, alive, as flowers bloom in the grey ground around them. She smiles. Slow eye-level push-in.",
+  "duration": 10
+}

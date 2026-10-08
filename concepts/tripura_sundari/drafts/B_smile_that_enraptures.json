@@ -1,0 +1,26 @@
+{
+  "id": "B",
+  "title": "The Smile That Enraptures",
+  "source_seed": "Seed 2: The smile that overwhelms the Lord of Desire (Lalita Sahasranama, verse 11 'her gentle smile enraptures Kameshwara'; dhyana verse 2 'eyes full of waves of compassion')",
+  "logline": "Her head tilts and she leans toward the viewer as her smile spreads from her eyes, and her rose-gold glow brightens on her face and jewels.",
+  "hook": "Within a second her head tilts and her eyes begin to crinkle into a smile.",
+  "story": "The tradition's central image is her face, and a smile so captivating it overwhelms the god of desire. The smile is the event: it starts in the eyes, grows, and the light of her own radiance answers it, brightening the crown, pearls and rubies.",
+  "loop": "She eases upright and the smile softens back to the gentle smile of frame 1.",
+  "share_trigger": "Sent as 'the way she looks at you' to someone loved; saved as a calm-down loop.",
+  "caption_hook": "The old texts say her smile alone could undo a god. Watch it begin.",
+  "audio": "Eerie-tender: a high glassy bowed tone and a slow, wide choir-like pad, light hand-drum taps entering at the lean (about 100 bpm), the pad opening up as the smile peaks.",
+  "shots": [
+    {
+      "duration": 6,
+      "camera": "Eye level, front-facing, full-length framing from the reference portrait, with the tall crown and crescent moon centered and fully framed.",
+      "action": "Her head tilts slightly to one side and Her eyes warm and crinkle as a smile begins to spread from them, and Her upper body leans a little forward, so Her pearls and ruby pendants swing gently and settle. Her hair settles under natural gravity.",
+      "purpose": "The smile starts in the eyes; the lean and the swinging jewels show it is real movement."
+    },
+    {
+      "duration": 6,
+      "camera": "A slow, small push-in at eye level, the crown and crescent moon centered and fully framed.",
+      "action": "The smile reaches its fullest, tender and radiant, and Her rose-gold glow brightens across Her face, crown and jewels, then She eases upright and the smile softens to a gentle one. Her hair settles under natural gravity.",
+      "purpose": "The smile's visible effect: her own light brightens in answer, then settles."
+    }
+  ]
+}

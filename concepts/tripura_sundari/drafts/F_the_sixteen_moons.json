@@ -1,0 +1,23 @@
+{
+  "id": "F",
+  "title": "The Sixteen Moons",
+  "source_seed": "Seed: Shodashi, the sixteenth phase of the moon (Advaita-l discussion of the 16 kalas, interpretive) and the full-moon Lalita Jayanti on Magha Purnima. Invented symbol: the crown crescent visibly growing.",
+  "logline": "The crescent moon on her crown swells through its phases into a full moon, and the whole dark sea turns to silver and rose-gold.",
+  "story": "The crescent moon on her crown swells through its phases into a full moon, and the whole dark sea turns to silver and rose-gold. Seed: Shodashi, the sixteenth phase of the moon (Advaita-l discussion of the 16 kalas, interpretive) and the full-moon Lalita Jayanti on Magha Purnima. Invented symbol: the crown crescent visibly growing.",
+  "loop": "The light settles and she rests in the frame-1 smile.",
+  "audio": "Eerie and solemn: low drone, bowed tone, deep frame drums building faster at the payoff; tempo from the director (rule 8).",
+  "shots": [
+    {
+      "duration": 5,
+      "camera": "Eye level, front-facing, the tall crown and crescent moon centered and fully framed, full-length framing with a slow pull-back so the sky above the crown shows.",
+      "action": "The crescent moon on Her crown begins to swell, thickening phase by phase into a half moon, its pale light spreading over Her face and the gold of the lotus. Her hair settles under natural gravity.",
+      "purpose": "The growing moon is the cause; the spreading light is the effect."
+    },
+    {
+      "duration": 5,
+      "camera": "The slow pull-back holds at eye level, the crown centered and fully framed.",
+      "action": "The moon on Her crown reaches a perfect full moon and a wave of silver-rose light rolls outward from it across the dark water, and every ripple takes on its glow while the golden lotus petals lift and open wider. Her hair settles under natural gravity.",
+      "purpose": "Full moon at last: the sixteenth phase floods the world with light."
+    }
+  ]
+}

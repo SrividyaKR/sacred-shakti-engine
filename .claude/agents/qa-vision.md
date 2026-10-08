@@ -16,3 +16,5 @@ Report, as a short table per image:
 For several frames of one clip, also report **drift**: does identity, costume or setting change between first and last frame, and does the motion match the storyboard if one is given?
 
 End with a verdict: OK / FIX THE TEXT / FIX THE IMAGE, and the exact edits suggested. Never edit files.
+
+Also read research/lessons_learned.md first: it holds the director's standing preferences and past feedback. Apply them.

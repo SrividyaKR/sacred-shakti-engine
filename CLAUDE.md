@@ -134,7 +134,8 @@ Exit code is 0 when composition and validation pass, 1 when validation fails or 
 
 ## Working agreements
 
+- **Feedback loop (self-learning):** after every piece of director feedback on a portrait, concept, render or audio, append a dated entry to `research/lessons_learned.md` (shown, feedback quoted, change made, rule for next time) and fold any new standing rule into its list. Every agent reads that file first. At the start of a new deity, re-read it.
 - Live renders cost money (a 10 s, 720p Seedance clip is a few dollars). Run `--dry-run` first and confirm before a live render.
 - Confirm before pushing or any other outward-facing action; commit only when asked.
 - **Anchor approval workflow** for a new deity: run the Archivist, generate portrait candidates, pick one by eye, copy it to `anchors/<id>_portrait_9x16.png`, then set `anchor_locked: true` in both `configs/anchors/<id>.json` and `configs/series_manifest.json`. A live video render refuses to run until both are true.
-- Kali and Tara are locked. Tara's reference portrait is `outputs/anchors/tara/tara-anchor.jpeg`.
+- Kali and Tara are locked. Tara's reference portrait is `anchors/tara_portrait_9x16.jpeg`.

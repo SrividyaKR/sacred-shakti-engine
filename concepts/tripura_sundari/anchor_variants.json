@@ -1,0 +1,59 @@
+[
+  {
+    "label": "standing-rose-crimson",
+    "title": "Standing, rose-crimson, pre-dawn glow (the default)",
+    "extra": "Standing upright and serene, three-quarter-length, front-facing, a gentle faint smile, hands resting naturally at Her sides.",
+    "overrides": {}
+  },
+  {
+    "label": "lotus-throne",
+    "title": "Seated on a golden lotus throne",
+    "extra": "Seated upright on a large golden lotus throne above calm water, three-quarter-length, front-facing, a gentle faint smile, hands resting calmly in Her lap.",
+    "overrides": {
+      "environment": {
+        "ground": "a golden lotus throne above calm water among open pink lotuses"
+      },
+      "appearance": {
+        "feet": "bare feet resting among lotus petals"
+      }
+    }
+  },
+  {
+    "label": "golden-red",
+    "title": "Warm golden-red complexion, golden-rose light",
+    "extra": "Standing upright and serene, three-quarter-length, front-facing, a gentle faint smile, hands resting naturally at Her sides.",
+    "overrides": {
+      "appearance": {
+        "skin": "warm golden-red skin with a soft inner glow"
+      },
+      "environment": {
+        "lighting": "warm golden-rose radiance glowing from Her own form, lighting the crown, jewels and face"
+      }
+    }
+  },
+  {
+    "label": "full-moon",
+    "title": "Full-moon night, silver light with a rose glow",
+    "extra": "Standing upright and serene, three-quarter-length, front-facing, a gentle faint smile, hands resting naturally at Her sides.",
+    "overrides": {
+      "environment": {
+        "sky": "deep indigo midnight sky with a large full moon low behind Her and soft stars",
+        "lighting": "silver moonlight with a faint rose glow from Her form, lighting the crown, jewels and face"
+      }
+    }
+  },
+  {
+    "label": "sovereign",
+    "title": "Regal and composed, tall pearl-and-ruby crown, no smile",
+    "extra": "Standing tall, three-quarter-length, front-facing, a calm, level, sovereign expression with no smile, hands resting naturally at Her sides.",
+    "overrides": {
+      "appearance": {
+        "headwear": "very tall tiered gold crown set with rubies and pearls, resting flush on glossy black hair, topped with a slender jeweled crescent moon",
+        "attire": [
+          "deep crimson silk bodice with heavy gold border embroidery",
+          "wrap skirt of deep crimson silk with a wide gold border and fine pleats"
+        ]
+      }
+    }
+  }
+]

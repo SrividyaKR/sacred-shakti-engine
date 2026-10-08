@@ -1,0 +1,26 @@
+{
+  "id": "E2",
+  "title": "The Look That Answers (calm water)",
+  "source_seed": "Seed 3 (devotional telling): in one telling of the Lalita story (Lalitopakhyana ch. 30, Lalita restores Kama), her compassionate look gives life back; dhyana verse 2, 'eyes full of waves of compassion'. The glance telling is secondary, not canonical.",
+  "logline": "The camera moves in on her face as her composed look softens into compassion meeting the viewer, and her rose-gold glow brightens in answer.",
+  "hook": "From the first second the camera glides toward her face while her steady eyes begin to soften.",
+  "story": "The viewer is the one her compassion reaches. Her look softens, and her own radiance answers it, brightening her face, crown and jewels as her smile warms. The water below stays calm.",
+  "loop": "The glow eases and her expression rests in the gentle smile of frame 1, ready to restart.",
+  "share_trigger": "Sent to someone who needs comfort: 'she looks at you and the light comes back'.",
+  "caption_hook": "In one telling of the Lalita story, a single compassionate look gave life back. Watch it reach you.",
+  "audio": "Solemn: low drone and a bowed tone, a gentle frame drum that quickens slightly at the glow. Tempo and references to come from the director (rule 8); no throat-singing, no war horn.",
+  "shots": [
+    {
+      "duration": 5,
+      "camera": "Eye level, a slow push-in from the full-length reference framing toward Her face, the tall crown and crescent moon centered and fully framed and the face clearly readable.",
+      "action": "Her composed look softens into compassion as Her eyes meet the viewer, Her brow easing and Her gentle smile deepening a little. Her hair settles under natural gravity.",
+      "purpose": "Her gaze reaches the viewer first; the softening face is the action."
+    },
+    {
+      "duration": 5,
+      "camera": "The slow eye-level push-in holds on Her face, the crown and crescent moon centered and fully framed.",
+      "action": "Her rose-gold glow brightens across Her face, crown and jewels in answer to Her look, and Her smile warms. Her hair settles under natural gravity.",
+      "purpose": "The visible consequence of Her compassion: Her radiance answers and the light returns."
+    }
+  ]
+}

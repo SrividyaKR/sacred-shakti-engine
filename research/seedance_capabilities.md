@@ -30,3 +30,7 @@ Built from vendor and blog guides and one technical report (no official ByteDanc
 ## Verified in this project (real renders; these override guesses above)
 - **Kali, 10 s, 720p, Seedance 2.5 via OpenRouter (approved by the director):** started on the face from the reference portrait at eye level, eye-level pull-back to full length, then a slow walk toward the viewer with natural arm swing, bare feet on plain dark earth, hair settling. **Walking toward the camera, arm swing and the pull-back all rendered well.**
 - **Tara, first render:** standing planted with a raised hand rendered without artifacts, but the beat had no purpose. **Hair moved far too much when the prompt said sea breeze or drifting**: use only "settles under natural gravity".
+
+## Verified: Kling 3.0 Std via OpenRouter (2026-10-08)
+- Accepts photoreal portrait keyframes and start+end frame; transformations (meteors to petals, lotus buds opening across a valley, crescent to bow) rendered cleanly in 10s at 720p for about $0.84.
+- Seedance 2.0 fast and Veo 3.1 Fast refused the same images as possible real people.

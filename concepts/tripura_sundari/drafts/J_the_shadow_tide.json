@@ -1,0 +1,23 @@
+{
+  "id": "J",
+  "title": "The Shadow Tide",
+  "source_seed": "Seed: the war with Bhandasura, born from Kama's ashes, and her calm sovereignty (Lalitopakhyana; Bhandasura, Wikipedia). Non-graphic. Invented symbol: Bhandasura as a tide of shadow, not a figure.",
+  "logline": "A vast wave of black shadow races across the water to swallow her, and her rose-gold glow rises and breaks it into drifting golden petals.",
+  "story": "A vast wave of black shadow races across the water to swallow her, and her rose-gold glow rises and breaks it into drifting golden petals. Seed: the war with Bhandasura, born from Kama's ashes, and her calm sovereignty (Lalitopakhyana; Bhandasura, Wikipedia). Non-graphic. Invented symbol: Bhandasura as a tide of shadow, not a figure.",
+  "loop": "The light settles and she rests in the frame-1 smile.",
+  "audio": "Eerie and solemn: low drone, bowed tone, deep frame drums building faster at the payoff; tempo from the director (rule 8).",
+  "shots": [
+    {
+      "duration": 5,
+      "camera": "Eye level, front-facing, the tall crown and crescent moon centered and fully framed, full-length framing, steady.",
+      "action": "A vast dark wave of shadow rises on the horizon and races across the water toward the lotus, towering higher than the lotus as the sky behind it darkens and the water trembles, while She sits calm and unmoved. Her hair settles under natural gravity.",
+      "purpose": "The threat is felt: the tide of Bhandasura closing in."
+    },
+    {
+      "duration": 5,
+      "camera": "The camera holds at eye level, the crown centered and fully framed.",
+      "action": "As the wave reaches Her, a blaze of rose-gold light surges from Her and the wave shatters into thousands of golden petals that drift down and settle on the calm water while Her smile widens. Her hair settles under natural gravity.",
+      "purpose": "Her radiance, not a weapon, ends the war."
+    }
+  ]
+}

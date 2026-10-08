@@ -1,0 +1,15 @@
+[
+  {
+    "label": "lotus-throne-youthful",
+    "title": "Lotus throne, youthful radiant face (fresh generation)",
+    "extra": "Seated upright on a large golden lotus throne above calm water, three-quarter-length, front-facing, a gentle faint smile, hands resting calmly and clearly separated in Her lap with five clear fingers each. A youthful adult face in the early twenties: fresh, smooth skin, soft rounded cheeks, a radiant ageless look.",
+    "overrides": {
+      "environment": {
+        "ground": "a golden lotus throne above calm water among open pink lotuses"
+      },
+      "appearance": {
+        "feet": "bare feet resting among lotus petals"
+      }
+    }
+  }
+]

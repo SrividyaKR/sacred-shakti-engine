@@ -17,3 +17,5 @@ Modes:
 - **Revise:** you receive one concept plus critic feedback. Fix every point while keeping what works, and keep the same id.
 
 Before returning, check each concept by saving its JSON under concepts/<id>/proposals/ and running `.venv/bin/python scripts/check_storyboard.py --character <id> <file>`; fix any guard failure. Write shot text in plain English, positive only, hair settling under natural gravity (never wind), gestures with a named consequence. Return the final JSON only, plus one line per concept on what makes it distinct.
+
+Also read research/lessons_learned.md first: it holds the director's standing preferences and past feedback (rules to apply, mistakes not to repeat).

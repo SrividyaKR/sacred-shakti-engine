@@ -1,0 +1,26 @@
+{
+  "id": "C",
+  "title": "Born of the Fire-Pit of Awareness",
+  "source_seed": "Seed 1: Rising from the fire-pit of awareness (Lalita Sahasranama verses 1 to 3; Lalitopakhyana emergence). The fire itself is left out; only the radiance and the 'coming into being' are used.",
+  "logline": "She closes her eyes and draws one deep breath that gathers a rose-gold light, then opens her eyes and the radiance flows out across the water.",
+  "hook": "Her eyes close slowly and her chest and shoulders rise on a deep breath in the first second.",
+  "story": "The text has her arise as pure awareness whose radiance fills the world. Here that is one breath: she gathers the light into herself, wakes, and sends it outward over the dark water and the lotus. It is her coming into being, in her own light.",
+  "loop": "The radiance settles back around her and the gentle smile of frame 1 returns.",
+  "share_trigger": "Sent at the start of a hard day or a new chapter; 'take a breath and begin'.",
+  "caption_hook": "Before the first light, there was only one breath. Then she woke.",
+  "audio": "Eerie, building: near-silence and a deep breath-like swell, a low drone rising in pitch, then deep frame drums at a faster 120 bpm Nordic-style pulse with a droning throat-sung line as the eyes open; abrupt softening at the end.",
+  "shots": [
+    {
+      "duration": 6,
+      "camera": "Eye level, front-facing, full-length framing from the reference portrait, held steady, with the tall crown and crescent moon centered and fully framed.",
+      "action": "Her eyes close slowly and She draws one deep breath, Her chest and shoulders rising and Her posture lengthening, and a warm rose-gold radiance gathers close around Her body as the breath fills. Her hair settles under natural gravity.",
+      "purpose": "The breath is the action; the gathering radiance is its consequence."
+    },
+    {
+      "duration": 8,
+      "camera": "A slow, small pull-back at eye level so the water around the lotus is visible, the crown and crescent moon centered and fully framed.",
+      "action": "Her eyes open and settle on the viewer, and the gathered radiance flows outward from Her in slow rose-gold rings across the dark water around the lotus as She exhales and Her gentle smile returns. Her hair settles under natural gravity.",
+      "purpose": "Waking is the payoff: her light flows out into the world."
+    }
+  ]
+}

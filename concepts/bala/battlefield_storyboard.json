@@ -1,0 +1,30 @@
+{
+  "id": "bala_battlefield",
+  "title": "Bala Routs the Thirty Sons",
+  "source_seed": "Lalitopakhyana (Brahmanda Purana): the girl form Bala Tripurasundari, Lalita's daughter, destroys the thirty sons of Bhandasura while the main army is elsewhere. Invented visuals: the swan-drawn chariot motion, the flower arrow volley and the army dissolving into golden embers; non-graphic.",
+  "logline": "A young goddess rides a swan-drawn chariot onto a smoky field, draws a sugarcane bow, and one volley of light turns a dark army to golden embers.",
+  "story": "Shot A establishes her on the chariot; Shot B is the tension of the drawn bow; Shot C is the release and the army dissolving into golden embers, ending in sovereign stillness. No bodies, no blood: the army is shown as dark figures that dissolve into light.",
+  "loop": "Ends in a still, sovereign pose that can cut back to the opening glide.",
+  "audio": "Eerie, solemn: low drone, deep frame drums building faster to the release (tempo from the director, rule 8).",
+  "notes": "Bala is Tripura Sundari (her girl form), so this uses the tripura_sundari anchor. The locked portrait is seated on the lotus, so a chariot first-frame still is generated from it for this storyboard (outputs/anchors/tripura_sundari/bala_chariot_firstframe.png).",
+  "shots": [
+    {
+      "duration": 5,
+      "camera": "Eye level, front-facing, a steady wide framing from the reference portrait with the crown and crescent moon centered and fully framed, easing back slowly as the chariot advances.",
+      "action": "She stands upright in a swan-drawn golden chariot, golden armor over crimson silk, and the white swans glide the chariot forward across a smoky dark field, the smoke parting around the wheels. Her hair settles under natural gravity.",
+      "purpose": "The chariot's advance is the cause; the parting smoke shows its speed."
+    },
+    {
+      "duration": 5,
+      "camera": "Eye level medium close-up on Her face and bow, the crown and crescent moon centered and fully framed, a slow steady push-in.",
+      "action": "She draws a sugarcane bow with a flower arrow, a playful royal smirk on Her face, and the crescent moon on Her crown flares brighter as the string tightens, lighting the smoke in front of Her. Her hair settles under natural gravity.",
+      "purpose": "The drawn bow is the cause; the flaring crescent and lit smoke are the effect."
+    },
+    {
+      "duration": 5,
+      "camera": "Eye level, the crown and crescent moon centered and fully framed, a smooth pull-back that widens to a full-length view of Her in the chariot.",
+      "action": "She releases the arrow and a volley of golden light streaks across the field, and the dark army ahead dissolves into drifting golden embers that rise and fade, leaving Her standing still and sovereign in the clearing smoke. Her hair settles under natural gravity.",
+      "purpose": "The released volley is the cause; the dark army dissolving into embers is the effect."
+    }
+  ]
+}

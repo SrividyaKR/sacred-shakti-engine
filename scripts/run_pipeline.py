@@ -59,6 +59,30 @@ def execute(args, bundle, anchor_path: Path, payload_for, provider: str, model_i
     return mp4
 
 
+def find_audio(character: str) -> "Path | None":
+    """The deity's audio bed, if one has been placed in assets/audio/<id>/."""
+    path = ROOT / "assets" / "audio" / character / f"{character}_theme_15s.mp3"
+    return path if path.exists() else None
+
+
+def mux_audio(video: Path, audio: Path) -> Path:
+    """Add the audio bed to the video without re-encoding it; returns the final file (<stem>_final.mp4)."""
+    import shutil
+    import subprocess
+
+    final = video.with_name(video.stem + "_final.mp4")
+    if not shutil.which("ffmpeg"):
+        print("ffmpeg not found; keeping the silent video (brew install ffmpeg).", file=sys.stderr)
+        return video
+    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-i", str(video), "-i", str(audio),
+           "-c:v", "copy", "-c:a", "aac", "-shortest", str(final)]
+    res = subprocess.run(cmd, capture_output=True, text=True)
+    if res.returncode != 0:
+        print(f"Audio merge failed, keeping the silent video: {res.stderr.strip()[:300]}", file=sys.stderr)
+        return video
+    return final
+
+
 def main() -> int:
     from dotenv import load_dotenv
 
@@ -71,7 +95,8 @@ def main() -> int:
     ap.add_argument("--provider", default="auto", choices=["auto", "openrouter", "fal"])
     ap.add_argument("--aspect-ratio", default="9:16", choices=["9:16", "1:1"])
     ap.add_argument("--resolution", default="720p", choices=["480p", "720p", "1080p"])
-    ap.add_argument("--audio", action="store_true")
+    ap.add_argument("--audio", action="store_true", help="let Seedance generate its own audio (skips the audio bed)")
+    ap.add_argument("--no-audio-bed", action="store_true", help="do not mux assets/audio/<id>/<id>_theme_15s.mp3")
     ap.add_argument("--duration", type=int, default=None, help="override seconds (default: total of the shot plan)")
     ap.add_argument("--storyboard", type=Path, help="JSON with an approved concept (shots, caption_hook); replaces the template shot plan")
     args = ap.parse_args()
@@ -138,6 +163,8 @@ def main() -> int:
         print("\n=== PROMPT ===\n" + bundle.prompt)
         print("\n=== NEGATIVES ===\n" + negative)
         print("\n=== CAPTION ===\n" + caption)
+        bed = None if (args.audio or args.no_audio_bed) else find_audio(deity.id)
+        print(f"\n=== AUDIO ===\n{'would mux ' + str(bed.relative_to(ROOT)) if bed else 'none (silent video)'}")
         print(f"\n=== PAYLOAD (provider: {provider}, model: {model_id}) ===")
         print(json.dumps(payload_for("<first-frame image: data URI or uploaded URL>"), indent=2, ensure_ascii=False))
         return 0
@@ -152,6 +179,13 @@ def main() -> int:
     mp4 = execute(args, bundle, ref, payload_for, provider, model_id)
     meta["video_file"] = str(mp4.relative_to(ROOT))
     mp4.with_suffix(".json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+    bed = None if (args.audio or args.no_audio_bed) else find_audio(deity.id)
+    if bed:
+        final = mux_audio(mp4, bed)
+        meta["audio_bed"] = str(bed.relative_to(ROOT))
+        meta["video_file"] = str(final.relative_to(ROOT))
+        mp4.with_suffix(".json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+        mp4 = final
     print(f"Saved {mp4}")
     return 0
 

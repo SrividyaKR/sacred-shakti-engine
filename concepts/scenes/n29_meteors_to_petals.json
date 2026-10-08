@@ -1,0 +1,9 @@
+{
+  "id": "n29_meteors_to_petals",
+  "title": "Meteors Become Petals",
+  "reference": "anchors/tripura_sundari_portrait_9x16.png",
+  "start_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She sits cross-legged on the golden lotus above calm dark water, composed, a soft rose glow around her. The night sky above is filled with dozens of blazing meteors streaking down toward her.",
+  "end_prompt": "The same goddess as in the reference image: same face, same tall jeweled crown with the crescent moon, same pearl and ruby jewelry and crimson silk with gold borders. Full-length vertical frame, eye level, cinematic realism, deep blue twilight. She sits cross-legged on the golden lotus above calm dark water, composed, a soft rose glow around her. The sky above rains thousands of soft rose petals drifting down toward her, glowing faintly, a few landing on the water.",
+  "video_prompt": "A meteor shower streaks down toward the goddess. As each meteor enters the soft rose glow around her it softens and breaks apart into drifting rose petals, until the whole sky is raining petals onto the calm dark water. She sits calm and unmoved with a gentle smile. Slow eye-level push-in.",
+  "duration": 10
+}

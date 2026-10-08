@@ -1,0 +1,1266 @@
+[
+ {
+  "id": "ts4_01",
+  "title": "Pull back from one eye",
+  "format": "Slow-reveal pull-back",
+  "pitch": "The frame opens inside her single dark eye where a tiny golden lotus floats on black water, and pulls back past the face, the throne, the sea, until the lotus is the pupil of a lotus-shaped island seen from space.",
+  "hook_first_second": "A single golden lotus sits in black, and you cannot tell it is an eye.",
+  "beats": [
+   "inside the eye, one lotus on water",
+   "pull back to the whole face, moon crown",
+   "pull back to throne on dark sea",
+   "pull back to the island shaped like the same lotus"
+  ],
+  "payoff": "The lotus on water was the reflection of the eye and the island at once.",
+  "loop": "Last frame is a single lotus on black water, identical to the first.",
+  "seed": "Sahasranama verse 5-11: face described feature by feature, smile, nose ornament brighter than stars",
+  "invented_symbols": "Eye as island is a visual invention",
+  "send_trigger": "Send to someone who loves things that are bigger than they look."
+ },
+ {
+  "id": "ts4_02",
+  "title": "The fire-pit opens like a flower",
+  "format": "Wait-for-it payoff",
+  "pitch": "In a circular fire-pit of pale embers, a ring of gods waits in silence; at the count of the third heartbeat the flames fold open like petals and she stands up from the centre, already crowned.",
+  "hook_first_second": "Gods in a ring stare at a perfectly still fire.",
+  "beats": [
+   "silent ring of gods at the pit",
+   "flames curl inward like a closing bud",
+   "one ember lifts and does not fall",
+   "the flames open outward as petals and she rises seated on a lotus"
+  ],
+  "payoff": "She is revealed seated, not climbing out, as if the fire was only her throne rising.",
+  "loop": "Petals close back into a flame ring, gods in the same ring, silence.",
+  "seed": "Lalitopakhyana: Lalita rises from the fire-pit of awareness (Chidagni Kunda)",
+  "invented_symbols": "Flames as petals",
+  "send_trigger": "Send to the friend who says nothing happens in mythology."
+ },
+ {
+  "id": "ts4_03",
+  "title": "Viewer is the devotee",
+  "format": "POV",
+  "pitch": "You kneel with a single marigold held up; her golden hand comes down from above frame, takes it, and you watch the flower turn into a bright coral bloom that spreads up her arm as gold light.",
+  "hook_first_second": "A hand reaches out of the dark to take the flower in your hands.",
+  "beats": [
+   "your hands, one flower, trembling",
+   "her fingers take it",
+   "bloom spreads along her wrist",
+   "she looks down at you and the flower is now in your hair"
+  ],
+  "payoff": "You are the one given the flower back, crowned with it.",
+  "loop": "The next frame is your hands holding a new flower again.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "none",
+  "send_trigger": "Send to someone you want to feel chosen."
+ },
+ {
+  "id": "ts4_04",
+  "title": "Before: ash, after: him",
+  "format": "Before/after",
+  "pitch": "A heap of grey ash in the shape of a man; she looks at it with no weapon, and a thin line of colour travels across it from the ground up until a living young man with a sugarcane bow gasps and stands.",
+  "hook_first_second": "A human-shaped pile of ash on cold stone.",
+  "beats": [
+   "ash heap, absolute stillness",
+   "her glance lands, a seam of rose light",
+   "colour climbs from the feet",
+   "he breathes and the bow is back in his hand"
+  ],
+  "payoff": "The ash is gone, and he is holding the bow she keeps.",
+  "loop": "He is turned to ash again but the bow remains on the stone, and the loop restarts.",
+  "seed": "Lalitopakhyana ch.30: Lalita revives Kama (Madana) from ash",
+  "invented_symbols": "none",
+  "send_trigger": "Send to someone who needs a second chance."
+ },
+ {
+  "id": "ts4_05",
+  "title": "Zoom out until she is the moon",
+  "format": "Impossible-scale reveal",
+  "pitch": "A tiny lotus on a pond is the camera subject; the camera drifts upward and the pond is the pupil of a night-sky face, whose crown crescent is the real moon over a sleeping city.",
+  "hook_first_second": "The pond is just a pond.",
+  "beats": [
+   "lotus on pond with ripples",
+   "rise above the water, rim of the pond becomes an eyelid",
+   "clouds part, face in the sky",
+   "city below looks up at a crescent crown"
+  ],
+  "payoff": "The moon in the sky is her crown, and the pond was her eye.",
+  "loop": "The city's pond has a lotus on it again, tiny.",
+  "seed": "Shodashi = the sixteenth phase of the moon, 15 Nityas (lunar-day goddesses)",
+  "invented_symbols": "Sky face is invented",
+  "send_trigger": "Send to someone who looks at the moon at night."
+ },
+ {
+  "id": "ts4_06",
+  "title": "Sixteen",
+  "format": "Counting loop",
+  "pitch": "A sixteen-step countdown: at each beat one more phase of the moon lights up the sky; at the sixteenth beat the moon is full and she is sitting on it.",
+  "hook_first_second": "A black sky and one thin line of silver, the number is not shown.",
+  "beats": [
+   "thin moon",
+   "half moon over water",
+   "gibbous with a reflected figure",
+   "full moon, she sits on its rim, feet on the water"
+  ],
+  "payoff": "The sixteenth phase is not the moon but her.",
+  "loop": "The black sky gets thin again as it restarts.",
+  "seed": "Shodashi = the sixteenth phase of the moon, 15 Nityas (lunar-day goddesses)",
+  "invented_symbols": "She sitting on the moon is an invented image",
+  "send_trigger": "Send to someone who counts days to full moon."
+ },
+ {
+  "id": "ts4_07",
+  "title": "The sugarcane bow",
+  "format": "ASMR satisfying",
+  "pitch": "Close macro: a sugarcane stalk is drawn into a bow, juice beading, the string pulled slow with a soft creak, a flower arrow released that blooms in mid-air into five flowers that land on five sleeping creatures, each waking.",
+  "hook_first_second": "Macro of dewy sugarcane bending with a creak.",
+  "beats": [
+   "cane bend, droplets",
+   "string tension sound",
+   "arrow released, soft thud",
+   "five flowers land and five eyes open"
+  ],
+  "payoff": "Each creature wakes to a different sense: sight, sound, smell, taste, touch.",
+  "loop": "Cane drops straight again, droplets rise, loop.",
+  "seed": "Sugarcane bow = the mind, five flower arrows = five senses (Sahasranama)",
+  "invented_symbols": "Five creatures for five senses",
+  "send_trigger": "Send to ASMR people."
+ },
+ {
+  "id": "ts4_08",
+  "title": "Gold pour",
+  "format": "ASMR satisfying",
+  "pitch": "Liquid gold pours slowly over a crimson silk, and as it settles it forms the fold lines of a robe, and then the robe is on her, and the pour continues over her crown and becomes the moon.",
+  "hook_first_second": "Slow glossy gold pour over red silk.",
+  "beats": [
+   "pour from a bowl",
+   "silk folds shape the gold",
+   "robe forms on a seated body",
+   "crescent forms at the crown"
+  ],
+  "payoff": "You realise the gold was dressing her all along.",
+  "loop": "Gold runs off her and is a bowl again.",
+  "seed": "Sahasranama verse 2-3: radiance of a thousand rising suns, red glow filling the universe",
+  "invented_symbols": "none",
+  "send_trigger": "Send to people who watch satisfying videos at night."
+ },
+ {
+  "id": "ts4_09",
+  "title": "Which one is she",
+  "format": "Hidden-detail reward",
+  "pitch": "Four hundred women in crimson fill a lotus hall; the camera does a long slow sweep and a barely visible one has a crescent moon in her hair; replay shows the rest of the hall facing her.",
+  "hook_first_second": "A crowd of identical women in red.",
+  "beats": [
+   "wide hall, everyone alike",
+   "slow sweep, one faint crescent",
+   "zoom to her hands",
+   "everyone's gaze lines point to her"
+  ],
+  "payoff": "You see all the gazes lines were pointing to her from the first frame.",
+  "loop": "Back to the wide hall, crowd identical.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "none",
+  "send_trigger": "Send to friends: 'did you find her?'"
+ },
+ {
+  "id": "ts4_10",
+  "title": "Trailer: Rise of the Sixteen",
+  "format": "Cinematic trailer",
+  "pitch": "A trailer with voiceless scenes: a burned heaven, gods in the dark, a wall of demon smoke, then silence, a single lotus on water, a girl stands up in it; title card 'SHE WAS ALWAYS THE LIGHT'.",
+  "hook_first_second": "A dead sky and a silent bell.",
+  "beats": [
+   "burned heaven",
+   "gods bow",
+   "smoke wall",
+   "lotus, and her rising"
+  ],
+  "payoff": "A title card appears and the whole sky turns peach.",
+  "loop": "Black screen and the faint bell returns.",
+  "seed": "Lalitopakhyana: Lalita rises from the fire-pit of awareness (Chidagni Kunda)",
+  "invented_symbols": "Title card text is invented",
+  "send_trigger": "Send to people who love epic trailers."
+ },
+ {
+  "id": "ts4_11",
+  "title": "Chariot launch",
+  "format": "Trailer moment",
+  "pitch": "Bala in her swan chariot sits in a hush; the swans lift their wings together and the chariot rises from the lake through the surface in a perfect flat-water crown of drops that freeze in the air.",
+  "hook_first_second": "Still water, still swans, then a single feather drops.",
+  "beats": [
+   "calm lake and still swans",
+   "feather touches water",
+   "wings open together",
+   "chariot rises, drops hang"
+  ],
+  "payoff": "Every hanging drop holds a tiny chariot reflection.",
+  "loop": "Drops fall and the lake is still again.",
+  "seed": "Chakra Raja Ratha, her war chariot; Bala's swan chariot",
+  "invented_symbols": "Reflections inside drops",
+  "send_trigger": "Send to those who like slow-motion splashes."
+ },
+ {
+  "id": "ts4_12",
+  "title": "The lotus that counts",
+  "format": "Loop",
+  "pitch": "Sixteen petals on a golden lotus open one by one, each petal revealing a different version of her face, from child to queen; the last petal is the first one's face again.",
+  "hook_first_second": "One petal, one child's face.",
+  "beats": [
+   "petal 1 child",
+   "petals 5 to 8 girl",
+   "petals 9 to 15 queen",
+   "petal 16 child again"
+  ],
+  "payoff": "The last face is the first.",
+  "loop": "Petal 1 returns.",
+  "seed": "Shodashi = the sixteenth phase of the moon, 15 Nityas (lunar-day goddesses)",
+  "invented_symbols": "Faces on petals",
+  "send_trigger": "Send to someone who says time only moves forward."
+ },
+ {
+  "id": "ts4_13",
+  "title": "Wait for the bell",
+  "format": "Wait-for-it payoff",
+  "pitch": "A grand temple at night with a hundred lamps unlit; the camera waits; one temple bell sounds, and lamps light in a ripple across the temple until they trace the Sri Chakra and the central lamp is her eye.",
+  "hook_first_second": "A black temple and one tiny lamp at the end.",
+  "beats": [
+   "dark temple",
+   "bell rings",
+   "lamps ripple",
+   "lamps form the nine triangles, central lamp opens as an eye"
+  ],
+  "payoff": "The temple was a drawing of her.",
+  "loop": "Lamps go out in reverse ripple.",
+  "seed": "Sri Chakra as her other body (Yoginihridaya), nine triangles around a bindu",
+  "invented_symbols": "Lamps as yantra; eye in centre",
+  "send_trigger": "Send to a friend who loves temple lights."
+ },
+ {
+  "id": "ts4_14",
+  "title": "Hidden in the water",
+  "format": "Hidden-detail reward",
+  "pitch": "A calm dark pond with twilight reflection; first look shows only the moon, replay shows her sitting reflected, crowned, below a lotus that has no matching lotus above.",
+  "hook_first_second": "A still pond reflection with a single lotus.",
+  "beats": [
+   "pond with one lotus",
+   "moon in reflection",
+   "reflection shows a sitting girl",
+   "a hand rises in the reflection only"
+  ],
+  "payoff": "The reflection is the real world, and she sits in the world below.",
+  "loop": "Reflection resets to the quiet pond.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "Reflection holds the real figure",
+  "send_trigger": "Send to someone who reads reflections."
+ },
+ {
+  "id": "ts4_15",
+  "title": "Marigolds to mountains",
+  "format": "Impossible-scale reveal",
+  "pitch": "A single offering of marigolds is an ant-sized marigold carpet; the camera rises and it is a mountain of marigolds as tall as a city, and at its peak she sits holding a single marigold the size of her palm.",
+  "hook_first_second": "A marigold petal filling the frame.",
+  "beats": [
+   "petal close-up",
+   "tower of petals",
+   "hills of petals",
+   "she sits at the peak"
+  ],
+  "payoff": "The whole mountain is the devotion given to her, and she holds one flower back.",
+  "loop": "One petal falls and the frame is one petal again.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "Marigold mountain",
+  "send_trigger": "Send to anyone who offers flowers."
+ },
+ {
+  "id": "ts4_16",
+  "title": "What she holds",
+  "format": "Slow-reveal pull-back",
+  "pitch": "The frame starts on her closed fist, which opens to a seed; pull back and the seed is a bud on a lotus that is a seat for her, with four arms each holding noose, goad, bow, arrows as the camera completes the pull-back.",
+  "hook_first_second": "A closed golden fist on dark fabric.",
+  "beats": [
+   "fist",
+   "fingers open to a seed",
+   "pull back to four hands",
+   "full seated figure with all four objects"
+  ],
+  "payoff": "Four objects, each a thing she held within the seed.",
+  "loop": "Hands close back to a fist.",
+  "seed": "noose = attachment, goad = guidance (Sahasranama)",
+  "invented_symbols": "Seed in fist",
+  "send_trigger": "Send to someone who talks with their hands."
+ },
+ {
+  "id": "ts4_17",
+  "title": "Reverse the war",
+  "format": "Reverse-play",
+  "pitch": "Footage of a wrecked war chariot, burnt banners and smoke is played backwards: the smoke drains into the ground, banners unburn, a girl walks backwards out of the field, and the last frame shows the fire-pit.",
+  "hook_first_second": "Smoke pulls back into a dead chariot.",
+  "beats": [
+   "smoke retreats",
+   "banners unburn",
+   "chariot repairs",
+   "girl backwards into the pit"
+  ],
+  "payoff": "The war was one breath, unbreathed.",
+  "loop": "The smoke leaves again.",
+  "seed": "Lalitopakhyana: Lalita rises from the fire-pit of awareness (Chidagni Kunda)",
+  "invented_symbols": "Backwards war",
+  "send_trigger": "Send to the friend who loves reverse videos."
+ },
+ {
+  "id": "ts4_18",
+  "title": "Moon phases on her crown",
+  "format": "ASMR satisfying",
+  "pitch": "On her crown the crescent slowly fills as she turns in a slow rotation, and each fill is accompanied by a soft chime, until the full moon sits like a pearl; the pearl then shrinks back with a reverse chime.",
+  "hook_first_second": "A crescent with a chime.",
+  "beats": [
+   "crescent chime",
+   "half",
+   "gibbous",
+   "full"
+  ],
+  "payoff": "The full moon is the only light on her face.",
+  "loop": "Pearl shrinks.",
+  "seed": "Shodashi = the sixteenth phase of the moon, 15 Nityas (lunar-day goddesses)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to someone who sleeps with ambient sound."
+ },
+ {
+  "id": "ts4_19",
+  "title": "Sixteen-year old test",
+  "format": "Before/after",
+  "pitch": "Split screen: left side an old tired stone statue of her, right side her alive; the camera locks and a slow wipe makes the stone statue age backwards to the girl, ending with the girl and the stone statue gone.",
+  "hook_first_second": "A grey statue next to a bright girl.",
+  "beats": [
+   "split screen",
+   "wipe starts",
+   "crack lines close",
+   "only the girl"
+  ],
+  "payoff": "The statue is the one that is gone, not the girl.",
+  "loop": "Statue re-forms.",
+  "seed": "Matabari founding legend: image fetched in one night, fixed to the ground at first sunrise ray",
+  "invented_symbols": "Statue-to-girl",
+  "send_trigger": "Send to people who like restoration videos."
+ },
+ {
+  "id": "ts4_20",
+  "title": "Third lotus",
+  "format": "Wait-for-it payoff",
+  "pitch": "Two lotuses open on dark water in sequence, then a long pause; the third does not open but rises and shows itself to be a gold throne in the shape of a lotus, and she sits on it.",
+  "hook_first_second": "Two lotuses open, the third is a closed bud.",
+  "beats": [
+   "lotus one",
+   "lotus two",
+   "pause",
+   "bud lifts and she sits"
+  ],
+  "payoff": "The third wasn't a flower but a seat.",
+  "loop": "Bud sinks.",
+  "seed": "Throne of Brahma, Vishnu, Rudra, Ishana with Sadashiva as seat (Vedadhara, Tripura Rahasya)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to impatient friends."
+ },
+ {
+  "id": "ts4_21",
+  "title": "Swan POV",
+  "format": "POV",
+  "pitch": "You are a swan in Bala's chariot, seeing the world ahead: the lake, the golden dawn-lit mist, her small hands on the reins, a demon boy's fortress on a hill; you take off and her arrow flower floats past your wing.",
+  "hook_first_second": "A white feathered neck in front, a girl's hand on the reins behind.",
+  "beats": [
+   "swan neck, lake",
+   "fortress appears",
+   "flower arrow flies past",
+   "castle doors open as a bloom"
+  ],
+  "payoff": "The castle is opened by flowers, not force.",
+  "loop": "Back at the lake, same feather.",
+  "seed": "Bala Tripura Sundari kills Bhandasura's sons (Lalitopakhyana, popular retellings)",
+  "invented_symbols": "Castle door bloom",
+  "send_trigger": "Send to someone who loves fantasy."
+ },
+ {
+  "id": "ts4_22",
+  "title": "The thousand names",
+  "format": "Hidden-detail reward",
+  "pitch": "A scroll unrolls across the sky, each name a glowing line; on replay one line glows differently, and her name for the viewer's own birthday-month appears.",
+  "hook_first_second": "A long scroll of tiny glowing lines.",
+  "beats": [
+   "scroll",
+   "names glow in sequence",
+   "one stops",
+   "shifts to her smile"
+  ],
+  "payoff": "The scroll is her hair.",
+  "loop": "Scroll rewinds.",
+  "seed": "Lalita Sahasranama: thousand names composed by eight speech goddesses at her command",
+  "invented_symbols": "Scroll as hair; personal name is invented",
+  "send_trigger": "Send with 'what's your name on it?'"
+ },
+ {
+  "id": "ts4_23",
+  "title": "Silent first-aid",
+  "format": "ASMR satisfying",
+  "pitch": "A cracked golden bowl lies on stone; she touches it with one finger, and gold seams knit across the cracks with a quiet ticking sound, and the bowl fills with water and a lotus floats up.",
+  "hook_first_second": "A broken bowl in the dark.",
+  "beats": [
+   "cracked bowl",
+   "fingertip touches",
+   "gold seams",
+   "lotus appears"
+  ],
+  "payoff": "The cracks became the most beautiful part.",
+  "loop": "Bowl cracks again.",
+  "seed": "Lalitopakhyana ch.30: Lalita revives Kama (Madana) from ash",
+  "invented_symbols": "Kintsugi-like bowl is invented",
+  "send_trigger": "Send to anyone who has been broken and repaired."
+ },
+ {
+  "id": "ts4_24",
+  "title": "Lantern river",
+  "format": "Slow-reveal pull-back",
+  "pitch": "Start on one floating lamp on a river; pull back and a thousand lamps float in a spiral shape that shows her face from above, her eyes two whirlpools.",
+  "hook_first_second": "A single lamp drifting.",
+  "beats": [
+   "lamp",
+   "a hundred lamps",
+   "a spiral",
+   "a face from above"
+  ],
+  "payoff": "The lamps were drifting to her eyes.",
+  "loop": "Lamp returns.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "Lamp face",
+  "send_trigger": "Send to a friend who lights lamps."
+ },
+ {
+  "id": "ts4_25",
+  "title": "Girl and giant",
+  "format": "Impossible-scale reveal",
+  "pitch": "Bala, a small girl, stands before a huge iron door; she lifts a flower, taps it once, and the door opens to reveal that the door was a tiny gate on a mountain-sized demon who now bows.",
+  "hook_first_second": "A small girl, a big gate.",
+  "beats": [
+   "small girl, huge gate",
+   "tap",
+   "gate opens",
+   "the whole mountain is a demon, kneeling"
+  ],
+  "payoff": "The size of the demon makes her tap more audacious.",
+  "loop": "Door closes.",
+  "seed": "Bala Tripura Sundari kills Bhandasura's sons (Lalitopakhyana, popular retellings)",
+  "invented_symbols": "Demon is a mountain",
+  "send_trigger": "Send to anyone who is small and mighty."
+ },
+ {
+  "id": "ts4_26",
+  "title": "The mirror room",
+  "format": "Hidden-detail reward",
+  "pitch": "A hall of mirrors where each mirror shows her in a different age; the camera glides; one mirror shows nobody, only the viewer; the last mirror shows the viewer crowned.",
+  "hook_first_second": "Mirrors with a girl in each.",
+  "beats": [
+   "glide",
+   "child",
+   "queen",
+   "empty mirror",
+   "viewer crowned"
+  ],
+  "payoff": "The empty mirror was waiting for you.",
+  "loop": "Camera returns.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "Viewer crowned",
+  "send_trigger": "Send to someone you think is a queen."
+ },
+ {
+  "id": "ts4_27",
+  "title": "Glance chain",
+  "format": "Domino cause-effect",
+  "pitch": "Her eyes move left; a candle lights; a lotus blooms; a bell rings; a dry river fills; a dead tree buds; and at the end of the chain a baby laughs in a hut.",
+  "hook_first_second": "Her eye shifts, a candle lights.",
+  "beats": [
+   "candle",
+   "lotus",
+   "river",
+   "tree",
+   "baby"
+  ],
+  "payoff": "All of it started from the movement of her eyes.",
+  "loop": "Eyes shift back.",
+  "seed": "Lalitopakhyana ch.30: Lalita revives Kama (Madana) from ash",
+  "invented_symbols": "none",
+  "send_trigger": "Send to people who like Rube Goldberg chains."
+ },
+ {
+  "id": "ts4_28",
+  "title": "Eight speech goddesses",
+  "format": "Cinematic trailer",
+  "pitch": "Eight women whisper into one lotus; each whisper becomes a gold thread; the threads are woven into a single crown placed on her.",
+  "hook_first_second": "Whispers in the dark.",
+  "beats": [
+   "eight whispers",
+   "eight threads",
+   "weave",
+   "crown"
+  ],
+  "payoff": "The crown is made of names.",
+  "loop": "Crown unweaves.",
+  "seed": "Lalita Sahasranama: thousand names composed by eight speech goddesses at her command",
+  "invented_symbols": "Thread crowns",
+  "send_trigger": "Send to a word-lover."
+ },
+ {
+  "id": "ts4_29",
+  "title": "Dawn that never comes",
+  "format": "Loop",
+  "pitch": "A night sky holds a thin red line on the horizon; the red line never rises; but the crown crescent glows brighter as the red line fails, until the line is her smile.",
+  "hook_first_second": "A red line at the bottom of the night.",
+  "beats": [
+   "red line",
+   "line widens",
+   "crescent brightens",
+   "smile"
+  ],
+  "payoff": "The dawn is her mouth.",
+  "loop": "Line returns.",
+  "seed": "Sahasranama verse 2-3: radiance of a thousand rising suns, red glow filling the universe",
+  "invented_symbols": "Horizon as mouth",
+  "send_trigger": "Send to night owls."
+ },
+ {
+  "id": "ts4_30",
+  "title": "Nine triangles",
+  "format": "ASMR satisfying",
+  "pitch": "Nine interlocking triangles of gold wire click into place one by one around a glowing seed, each with a satisfying click; the final click lights a figure at the centre.",
+  "hook_first_second": "A golden seed and a wire.",
+  "beats": [
+   "wire",
+   "click click",
+   "nine",
+   "centre light"
+  ],
+  "payoff": "The centre is her.",
+  "loop": "Wires unclick.",
+  "seed": "Sri Chakra as her other body (Yoginihridaya), nine triangles around a bindu",
+  "invented_symbols": "Machine-like click yantra",
+  "send_trigger": "Send to satisfying video fans."
+ },
+ {
+  "id": "ts4_31",
+  "title": "Dust to throne",
+  "format": "Before/after",
+  "pitch": "A heap of dust at a lake; a gust of nothing; the dust assembles into the four-legged throne; the figures forming the legs bow; she is already seated.",
+  "hook_first_second": "Dust heap.",
+  "beats": [
+   "dust",
+   "grains float",
+   "legs form",
+   "seat and she"
+  ],
+  "payoff": "The gods as legs is the proof she sits above them.",
+  "loop": "Throne collapses.",
+  "seed": "Throne of Brahma, Vishnu, Rudra, Ishana with Sadashiva as seat (Vedadhara, Tripura Rahasya)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to history-lovers."
+ },
+ {
+  "id": "ts4_32",
+  "title": "The long walk to the lake",
+  "format": "One-take",
+  "pitch": "One continuous shot follows Bala from a mountain palace, through corridors, over a bridge, past guards who fall asleep one by one as she passes, to the lake edge, where the swans wait.",
+  "hook_first_second": "Bala skips past a sleeping guard.",
+  "beats": [
+   "corridor",
+   "bridge",
+   "garden",
+   "lake"
+  ],
+  "payoff": "The guards fell asleep from her smile.",
+  "loop": "Back at the palace.",
+  "seed": "Chakra Raja Ratha, her war chariot; Bala's swan chariot",
+  "invented_symbols": "Sleeping guards",
+  "send_trigger": "Send to anyone who loves a one-take."
+ },
+ {
+  "id": "ts4_33",
+  "title": "Midnight market",
+  "format": "POV",
+  "pitch": "You are in a night market; every stall's red cloth lifts at once as she passes, and each vendor holds up a flower to her; you realise you hold one too.",
+  "hook_first_second": "A stall's red cloth lifts.",
+  "beats": [
+   "market",
+   "cloths lift",
+   "flowers up",
+   "your hand"
+  ],
+  "payoff": "The market was a procession.",
+  "loop": "Cloth drops.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "Market procession",
+  "send_trigger": "Send to market lovers."
+ },
+ {
+  "id": "ts4_34",
+  "title": "Hair to feet",
+  "format": "Slow-reveal pull-back",
+  "pitch": "A verse-form reveal: starts at her hair, a slow tilt downward past brow, eye, nose ornament, lips, neck, hands, feet touching the water; each part has a flower blooming beneath it.",
+  "hook_first_second": "Black hair full of flowers.",
+  "beats": [
+   "hair",
+   "face",
+   "hands",
+   "feet in water"
+  ],
+  "payoff": "Where the feet touch, rings spread across the whole pond.",
+  "loop": "Hair appears again.",
+  "seed": "Saundarya Lahari: 100 verses, hymn from hair to feet",
+  "invented_symbols": "none",
+  "send_trigger": "Send to poetry fans."
+ },
+ {
+  "id": "ts4_35",
+  "title": "The seventh ripple",
+  "format": "Wait-for-it payoff",
+  "pitch": "Ripples spread from her toe; count six, seventh ripple lights as gold; it touches the shore, and every lamp on the shore turns on.",
+  "hook_first_second": "A drop touching dark water.",
+  "beats": [
+   "first ripple",
+   "count",
+   "seventh",
+   "shore lights"
+  ],
+  "payoff": "The seventh ripple is the only one that carries light.",
+  "loop": "Drop falls again.",
+  "seed": "Sahasranama verse 2-3: radiance of a thousand rising suns, red glow filling the universe",
+  "invented_symbols": "none",
+  "send_trigger": "Send to count-along fans."
+ },
+ {
+  "id": "ts4_36",
+  "title": "A hundred hands",
+  "format": "Impossible-scale reveal",
+  "pitch": "She holds a lotus; the camera pushes inside the lotus where a hundred hands of hers hold a hundred lotuses, each containing a world; go deeper forever.",
+  "hook_first_second": "A hand and a lotus.",
+  "beats": [
+   "lotus",
+   "hands",
+   "worlds",
+   "deeper"
+  ],
+  "payoff": "One of the worlds is your own room.",
+  "loop": "Back out to hand.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "Worlds in lotus; your room",
+  "send_trigger": "Send to someone who likes infinity."
+ },
+ {
+  "id": "ts4_37",
+  "title": "Burn the night, keep the moon",
+  "format": "Before/after",
+  "pitch": "A world covered in fire, a girl passing through it; fire becomes red lotus in her wake; the moon alone stays unburnt.",
+  "hook_first_second": "Flames at full frame.",
+  "beats": [
+   "fire",
+   "girl walks",
+   "fire to lotus",
+   "moon stays"
+  ],
+  "payoff": "All the fire turned into flowers at her feet.",
+  "loop": "Flowers become flames again.",
+  "seed": "Lalitopakhyana: Lalita rises from the fire-pit of awareness (Chidagni Kunda)",
+  "invented_symbols": "Fire to lotus",
+  "send_trigger": "Send to someone who needs calm."
+ },
+ {
+  "id": "ts4_38",
+  "title": "Satisfying peel",
+  "format": "ASMR satisfying",
+  "pitch": "A giant peach is peeled by a golden blade in one long ribbon, which falls into a spiral; inside the peach is a small golden lotus and inside it her sleeping face.",
+  "hook_first_second": "A perfect peach.",
+  "beats": [
+   "peach",
+   "peel",
+   "spiral",
+   "face"
+  ],
+  "payoff": "The peach is her skin colour.",
+  "loop": "Peel rewinds.",
+  "seed": "Sahasranama verse 2-3: radiance of a thousand rising suns, red glow filling the universe",
+  "invented_symbols": "Peach birth",
+  "send_trigger": "Send to fruit-lovers."
+ },
+ {
+  "id": "ts4_39",
+  "title": "Bow string whisper",
+  "format": "ASMR satisfying",
+  "pitch": "A bow made of sugarcane is plucked once: the note travels through her hair, into the lake, and the whole lake chimes in unison.",
+  "hook_first_second": "Single pluck.",
+  "beats": [
+   "pluck",
+   "hair trembles",
+   "lake chimes",
+   "silence"
+  ],
+  "payoff": "The note was the only sound.",
+  "loop": "Pluck.",
+  "seed": "Sugarcane bow = the mind, five flower arrows = five senses (Sahasranama)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to sound lovers."
+ },
+ {
+  "id": "ts4_40",
+  "title": "Throne of five",
+  "format": "Trailer moment",
+  "pitch": "The four gods hold the legs, the fifth lies as the seat; a roar from a demon outside; she doesn't move; they don't either; the roar ends.",
+  "hook_first_second": "Gods as furniture in the dark.",
+  "beats": [
+   "gods",
+   "roar",
+   "stillness",
+   "silence"
+  ],
+  "payoff": "Even the demon's roar stops at her calm.",
+  "loop": "Roar again.",
+  "seed": "Throne of Brahma, Vishnu, Rudra, Ishana with Sadashiva as seat (Vedadhara, Tripura Rahasya)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to people who like power moves."
+ },
+ {
+  "id": "ts4_41",
+  "title": "The mantra as light",
+  "format": "POV",
+  "pitch": "You say the mantra aloud; each syllable is a lit coal in front of your mouth that flies to her and forms her earrings, her ornament, her crown; at the sixteenth syllable her eyes open.",
+  "hook_first_second": "Your breath forms a coal.",
+  "beats": [
+   "syllable one",
+   "three",
+   "fifteen",
+   "sixteen"
+  ],
+  "payoff": "The sixteenth syllable opens her eyes.",
+  "loop": "Breath again.",
+  "seed": "Shodashi = the sixteenth phase of the moon, 15 Nityas (lunar-day goddesses)",
+  "invented_symbols": "Syllables as coals",
+  "send_trigger": "Send to anyone who chants."
+ },
+ {
+  "id": "ts4_42",
+  "title": "Three cities",
+  "format": "Impossible-scale reveal",
+  "pitch": "Three floating cities, waking, dreaming, sleeping, hang in the sky; she walks between them and her stride becomes a bridge that unites them.",
+  "hook_first_second": "Three cities.",
+  "beats": [
+   "cities",
+   "stride",
+   "bridge",
+   "one"
+  ],
+  "payoff": "All three are one city.",
+  "loop": "Bridge dissolves.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "Three cities as dream",
+  "send_trigger": "Send to dreamers."
+ },
+ {
+  "id": "ts4_43",
+  "title": "Sound of the bell on the lotus",
+  "format": "ASMR satisfying",
+  "pitch": "A tiny gold bell rings on a lotus leaf; each ring makes a drop of water roll into the next leaf until the water reaches her palm and forms a pearl.",
+  "hook_first_second": "Bell on a leaf.",
+  "beats": [
+   "ring",
+   "roll",
+   "palm",
+   "pearl"
+  ],
+  "payoff": "The pearl is the full moon.",
+  "loop": "Pearl rolls back.",
+  "seed": "Shodashi = the sixteenth phase of the moon, 15 Nityas (lunar-day goddesses)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to meditation fans."
+ },
+ {
+  "id": "ts4_44",
+  "title": "The weight of a flower",
+  "format": "Wait-for-it payoff",
+  "pitch": "A massive stone gate does not move for armies; a flower is placed on it by Bala; a hush; the gate shatters into petals.",
+  "hook_first_second": "Armies fail at a gate.",
+  "beats": [
+   "armies",
+   "hush",
+   "flower",
+   "petals"
+  ],
+  "payoff": "The gate's weight is nothing against a flower.",
+  "loop": "Gate rebuilds.",
+  "seed": "Bala Tripura Sundari kills Bhandasura's sons (Lalitopakhyana, popular retellings)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to fans of underdogs."
+ },
+ {
+  "id": "ts4_45",
+  "title": "Sunrise inside her",
+  "format": "Slow-reveal pull-back",
+  "pitch": "The frame is entirely red; pull back and the red is her robe; further and the robe sits on a lotus on dark water, in the dark hush before dawn.",
+  "hook_first_second": "Pure red.",
+  "beats": [
+   "red",
+   "robe folds",
+   "lotus",
+   "dark water"
+  ],
+  "payoff": "The red filled the universe until she was small.",
+  "loop": "Red returns.",
+  "seed": "Sahasranama verse 2-3: radiance of a thousand rising suns, red glow filling the universe",
+  "invented_symbols": "none",
+  "send_trigger": "Send to colour lovers."
+ },
+ {
+  "id": "ts4_46",
+  "title": "The lotus cracks like ice",
+  "format": "ASMR satisfying",
+  "pitch": "On a frozen lake, a golden crack spreads from her feet in lotus-petal shapes, each petal releasing a small light, until the ice is a lotus the size of the lake.",
+  "hook_first_second": "Ice sound.",
+  "beats": [
+   "crack",
+   "petals",
+   "lights",
+   "lake lotus"
+  ],
+  "payoff": "The lake itself becomes her seat.",
+  "loop": "Ice reseals.",
+  "seed": "Throne of Brahma, Vishnu, Rudra, Ishana with Sadashiva as seat (Vedadhara, Tripura Rahasya)",
+  "invented_symbols": "Ice lotus",
+  "send_trigger": "Send to people who like cracking ice."
+ },
+ {
+  "id": "ts4_47",
+  "title": "Hidden bow",
+  "format": "Hidden-detail reward",
+  "pitch": "A photo-like still of her seated; on rewatch the bow in her hand has a tiny arrow nocked and aimed at a tiny figure far off in the dark: you.",
+  "hook_first_second": "A calm still seated figure.",
+  "beats": [
+   "still",
+   "zoom into bow",
+   "zoom beyond",
+   "tiny you"
+  ],
+  "payoff": "The arrow is a flower and it is aimed at you.",
+  "loop": "Zoom resets.",
+  "seed": "Sugarcane bow = the mind, five flower arrows = five senses (Sahasranama)",
+  "invented_symbols": "Viewer as target",
+  "send_trigger": "Send to a crush."
+ },
+ {
+  "id": "ts4_48",
+  "title": "The sleeping village",
+  "format": "Cinematic trailer",
+  "pitch": "A village sleeps; she passes overhead on a chariot; every sleeper dreams a gold light; in each dream is a different face of hers; they wake in the morning with a flower under the pillow.",
+  "hook_first_second": "Village asleep.",
+  "beats": [
+   "village",
+   "chariot",
+   "dreams",
+   "flowers"
+  ],
+  "payoff": "Each sleeper wakes with a flower.",
+  "loop": "Village sleeps again.",
+  "seed": "Chakra Raja Ratha, her war chariot; Bala's swan chariot",
+  "invented_symbols": "Flower under pillow",
+  "send_trigger": "Send before sleep."
+ },
+ {
+  "id": "ts4_49",
+  "title": "Ashoka tree",
+  "format": "Before/after",
+  "pitch": "A leafless dry tree; she touches it with her foot; red buds open from root to crown within seconds; ashoka blossoms rain down.",
+  "hook_first_second": "A dead tree.",
+  "beats": [
+   "dead",
+   "foot",
+   "buds",
+   "blossoms"
+  ],
+  "payoff": "Blossoms fall into her palms.",
+  "loop": "Tree dries.",
+  "seed": "Sahasranama verse 5-11: face described feature by feature, smile, nose ornament brighter than stars",
+  "invented_symbols": "none",
+  "send_trigger": "Send to spring lovers."
+ },
+ {
+  "id": "ts4_50",
+  "title": "Eyes of fish",
+  "format": "Match-cut",
+  "pitch": "Match-cut: her fish-shaped eye becomes a fish in the pond, becomes a boat, becomes her smile, becomes a crescent moon.",
+  "hook_first_second": "An eye.",
+  "beats": [
+   "eye",
+   "fish",
+   "boat",
+   "smile",
+   "moon"
+  ],
+  "payoff": "The chain lands on the crown moon.",
+  "loop": "Moon becomes eye.",
+  "seed": "Sahasranama verse 5-11: face described feature by feature, smile, nose ornament brighter than stars",
+  "invented_symbols": "Chain of shapes",
+  "send_trigger": "Send to match-cut lovers."
+ },
+ {
+  "id": "ts4_51",
+  "title": "Counting stars on the nose ornament",
+  "format": "Hidden-detail reward",
+  "pitch": "Close on her nose ornament; every second a star in the sky behind goes out until just the ornament remains the brightest.",
+  "hook_first_second": "Stars and an ornament.",
+  "beats": [
+   "stars",
+   "out",
+   "out",
+   "one"
+  ],
+  "payoff": "The ornament shines brighter than stars as the verse says.",
+  "loop": "Stars return.",
+  "seed": "Sahasranama verse 5-11: face described feature by feature, smile, nose ornament brighter than stars",
+  "invented_symbols": "none",
+  "send_trigger": "Send to sparkle fans."
+ },
+ {
+  "id": "ts4_52",
+  "title": "The Kama bow returned",
+  "format": "Wait-for-it payoff",
+  "pitch": "Kama stands revived, empty-handed and shaking; she holds out his own bow; he reaches; she lets go only after a pause and a half smile; the bow is lighter than he remembered.",
+  "hook_first_second": "Shaking hand reaching.",
+  "beats": [
+   "reach",
+   "pause",
+   "release",
+   "he stands"
+  ],
+  "payoff": "He gets his weapon back, but it is now made of living cane.",
+  "loop": "Hand reaches again.",
+  "seed": "Lalitopakhyana ch.30: Lalita revives Kama (Madana) from ash",
+  "invented_symbols": "Living cane",
+  "send_trigger": "Send to forgiveness lovers."
+ },
+ {
+  "id": "ts4_53",
+  "title": "Chakra from above",
+  "format": "Impossible-scale reveal",
+  "pitch": "The camera begins above a city whose streets form the Sri Chakra; descend and a woman at the centre looks up, then the camera drops through her eye into the sea.",
+  "hook_first_second": "City map.",
+  "beats": [
+   "city",
+   "descent",
+   "centre",
+   "eye"
+  ],
+  "payoff": "The city was her.",
+  "loop": "City again.",
+  "seed": "Sri Chakra as her other body (Yoginihridaya), nine triangles around a bindu",
+  "invented_symbols": "City as yantra",
+  "send_trigger": "Send to map nerds."
+ },
+ {
+  "id": "ts4_54",
+  "title": "Silk unfurl",
+  "format": "ASMR satisfying",
+  "pitch": "A bolt of crimson silk unrolls across a lake without sinking; at the end of the roll is her seated, the silk becoming her robe.",
+  "hook_first_second": "Silk and ripples.",
+  "beats": [
+   "roll",
+   "float",
+   "reach",
+   "robe"
+  ],
+  "payoff": "The lake held silk without effort.",
+  "loop": "Silk rolls back.",
+  "seed": "Sahasranama verse 2-3: radiance of a thousand rising suns, red glow filling the universe",
+  "invented_symbols": "none",
+  "send_trigger": "Send to textile lovers."
+ },
+ {
+  "id": "ts4_55",
+  "title": "Hourglass of moon",
+  "format": "Loop",
+  "pitch": "Moon sand pours from the crescent to the lotus; the lotus fills; when full it tips and pours back into the crescent.",
+  "hook_first_second": "Sand pour.",
+  "beats": [
+   "pour",
+   "fill",
+   "tip",
+   "pour back"
+  ],
+  "payoff": "The cycle never ends.",
+  "loop": "Same.",
+  "seed": "Shodashi = the sixteenth phase of the moon, 15 Nityas (lunar-day goddesses)",
+  "invented_symbols": "Moon hourglass",
+  "send_trigger": "Send to loop watchers."
+ },
+ {
+  "id": "ts4_56",
+  "title": "Half-open eyes",
+  "format": "Slow-reveal pull-back",
+  "pitch": "Her eyes open half; the camera pulls back and the whole scene is the other half of the eye; it closes and everything blinks out.",
+  "hook_first_second": "Half-lidded eye.",
+  "beats": [
+   "half",
+   "pull",
+   "whole",
+   "blink"
+  ],
+  "payoff": "The scene exists only when she looks.",
+  "loop": "Opening again.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "none",
+  "send_trigger": "Send to philosophers."
+ },
+ {
+  "id": "ts4_57",
+  "title": "Departing swan",
+  "format": "Trailer moment",
+  "pitch": "Bala steps off the swan and the swan sets its own wing on her shoulder, then flies to the clouds and leaves a single feather on the lake.",
+  "hook_first_second": "Feather falling.",
+  "beats": [
+   "step",
+   "wing",
+   "fly",
+   "feather"
+  ],
+  "payoff": "The feather is a pen that draws the lotus.",
+  "loop": "Feather falls.",
+  "seed": "Chakra Raja Ratha, her war chariot; Bala's swan chariot",
+  "invented_symbols": "Feather pen",
+  "send_trigger": "Send to bird lovers."
+ },
+ {
+  "id": "ts4_58",
+  "title": "Last frame is the first",
+  "format": "Loop",
+  "pitch": "The video's last frame zooms into the first frame's eye reflection, which holds the first frame; shown as infinite regress of her seated on a lotus.",
+  "hook_first_second": "Her eye reflection of the lotus.",
+  "beats": [
+   "eye",
+   "reflection",
+   "reflection",
+   "reflection"
+  ],
+  "payoff": "Infinity.",
+  "loop": "Seamless.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "Infinite regress",
+  "send_trigger": "Send to loop fans."
+ },
+ {
+  "id": "ts4_59",
+  "title": "Dikshitar's nine gates",
+  "format": "Trailer moment",
+  "pitch": "A man walks through nine gates, each opening to a deeper colour; the last gate opens on a golden dot; he sings and the dot becomes her.",
+  "hook_first_second": "A man at a gate.",
+  "beats": [
+   "gate1",
+   "gate5",
+   "gate9",
+   "her"
+  ],
+  "payoff": "The song opens the last gate.",
+  "loop": "Gate closes.",
+  "seed": "Dikshitar's Kamalamba Navavarana: nine songs moving inward to the bindu",
+  "invented_symbols": "none",
+  "send_trigger": "Send to music lovers."
+ },
+ {
+  "id": "ts4_60",
+  "title": "Her anklet",
+  "format": "ASMR satisfying",
+  "pitch": "Her gold anklet bell chimes with each step on the water, and every chime makes a ring that sends a fish leaping; the final chime lights the moon.",
+  "hook_first_second": "Ankle bell.",
+  "beats": [
+   "step",
+   "chime",
+   "fish",
+   "moon"
+  ],
+  "payoff": "Every step is music.",
+  "loop": "Step.",
+  "seed": "Saundarya Lahari: 100 verses, hymn from hair to feet",
+  "invented_symbols": "none",
+  "send_trigger": "Send to anklet fans."
+ },
+ {
+  "id": "ts4_61",
+  "title": "Kadamba rain",
+  "format": "Wait-for-it payoff",
+  "pitch": "A kadamba grove in night heat; the first drop falls, nothing; the second; then a rain of golden kadamba flowers falls and she stands in it unwet.",
+  "hook_first_second": "A dry grove.",
+  "beats": [
+   "dry",
+   "drop",
+   "rain",
+   "her"
+  ],
+  "payoff": "The rain is flowers.",
+  "loop": "Rain stops.",
+  "seed": "Throne of Brahma, Vishnu, Rudra, Ishana with Sadashiva as seat (Vedadhara, Tripura Rahasya)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to rain lovers."
+ },
+ {
+  "id": "ts4_62",
+  "title": "Time-lapse of devotion",
+  "format": "Time-lapse",
+  "pitch": "A year in ten seconds: a small shrine under a banyan, flowers added, lamps, rain, moon cycles, until the shrine is a palace and the figure inside smiles.",
+  "hook_first_second": "A tiny shrine.",
+  "beats": [
+   "shrine",
+   "seasons",
+   "palace",
+   "smile"
+  ],
+  "payoff": "A small offering becomes a palace.",
+  "loop": "Back to the shrine.",
+  "seed": "Matabari founding legend: image fetched in one night, fixed to the ground at first sunrise ray",
+  "invented_symbols": "none",
+  "send_trigger": "Send to devotees."
+ },
+ {
+  "id": "ts4_63",
+  "title": "Gold hour inversion",
+  "format": "Before/after",
+  "pitch": "A twilight pond turns from blue to peach as she lowers her eyelids; when she raises them it turns blue; the world follows her blink.",
+  "hook_first_second": "Blue pond.",
+  "beats": [
+   "blue",
+   "peach",
+   "blue",
+   "peach"
+  ],
+  "payoff": "The twilight is her eyelids.",
+  "loop": "Blink.",
+  "seed": "Sahasranama verse 2-3: radiance of a thousand rising suns, red glow filling the universe",
+  "invented_symbols": "none",
+  "send_trigger": "Send to blinkers."
+ },
+ {
+  "id": "ts4_64",
+  "title": "Soft armour",
+  "format": "Cinematic trailer",
+  "pitch": "A queen is dressed in armour made of rose petals by eight attendants, each strap clicking, ending with the crescent crown; then a single raised eyebrow makes the demon army retreat.",
+  "hook_first_second": "Petal armour clicks.",
+  "beats": [
+   "dress",
+   "click",
+   "crown",
+   "brow"
+  ],
+  "payoff": "An eyebrow ends an army.",
+  "loop": "Armour undressed.",
+  "seed": "Bala Tripura Sundari kills Bhandasura's sons (Lalitopakhyana, popular retellings)",
+  "invented_symbols": "Petal armour",
+  "send_trigger": "Send to people who like power outfits."
+ },
+ {
+  "id": "ts4_65",
+  "title": "The first note",
+  "format": "Wait-for-it payoff",
+  "pitch": "Complete silence on a black lake; at the end she exhales once; the lake lights with a thousand lotuses each opening at a different time.",
+  "hook_first_second": "Silence.",
+  "beats": [
+   "silence",
+   "breath",
+   "lotus 1",
+   "lotuses"
+  ],
+  "payoff": "A single breath.",
+  "loop": "Silence.",
+  "seed": "Lalitopakhyana: Lalita rises from the fire-pit of awareness (Chidagni Kunda)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to silence lovers."
+ },
+ {
+  "id": "ts4_66",
+  "title": "Scale of a smile",
+  "format": "Impossible-scale reveal",
+  "pitch": "A tiny smile on a coin; zoom out, the coin is on a ring; the ring is on a hand; the hand is on a mountain-sized statue; she steps out of the statue and is the size of a woman.",
+  "hook_first_second": "Coin smile.",
+  "beats": [
+   "coin",
+   "ring",
+   "hand",
+   "statue",
+   "woman"
+  ],
+  "payoff": "The size was just her choosing.",
+  "loop": "Coin.",
+  "seed": "Sahasranama verse 5-11: face described feature by feature, smile, nose ornament brighter than stars",
+  "invented_symbols": "Statue stepping out",
+  "send_trigger": "Send to scale fans."
+ },
+ {
+  "id": "ts4_67",
+  "title": "Sugarcane sweetness",
+  "format": "ASMR satisfying",
+  "pitch": "Juice is squeezed from cane into a golden cup, drop by drop; the drops become pearls; the pearls become stars.",
+  "hook_first_second": "Press.",
+  "beats": [
+   "press",
+   "drop",
+   "pearl",
+   "star"
+  ],
+  "payoff": "The sky is sweet.",
+  "loop": "Squeeze.",
+  "seed": "Sugarcane bow = the mind, five flower arrows = five senses (Sahasranama)",
+  "invented_symbols": "none",
+  "send_trigger": "Send to sweet tooth."
+ },
+ {
+  "id": "ts4_68",
+  "title": "Tripura in three frames",
+  "format": "Trailer moment",
+  "pitch": "Three frames only: waking (bright), dreaming (blue), sleeping (black); in all three the same crescent hangs.",
+  "hook_first_second": "Bright.",
+  "beats": [
+   "wake",
+   "dream",
+   "sleep",
+   "crescent"
+  ],
+  "payoff": "The crescent is the constant.",
+  "loop": "Cycle.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "none",
+  "send_trigger": "Send to insomniacs."
+ },
+ {
+  "id": "ts4_69",
+  "title": "Kneel and rise",
+  "format": "POV",
+  "pitch": "You kneel on wet stone; the first person view rises as she lifts you by the chin, and the world rises with you until you stand eye to eye.",
+  "hook_first_second": "Wet stone.",
+  "beats": [
+   "kneel",
+   "lift",
+   "rise",
+   "eye"
+  ],
+  "payoff": "You are at her eye level.",
+  "loop": "Kneel.",
+  "seed": "Tripura Rahasya: Tripura = waking, dreaming, deep sleep; she is consciousness behind all three",
+  "invented_symbols": "none",
+  "send_trigger": "Send to anyone who needs lifting."
+ },
+ {
+  "id": "ts4_70",
+  "title": "Cut the night",
+  "format": "Hidden-detail reward",
+  "pitch": "A black frame; a thin gold line cuts across it; replay reveals the line was the edge of her blade-less smile.",
+  "hook_first_second": "Black.",
+  "beats": [
+   "black",
+   "line",
+   "widen",
+   "smile"
+  ],
+  "payoff": "The line is the smile.",
+  "loop": "Line closes.",
+  "seed": "Sahasranama verse 5-11: face described feature by feature, smile, nose ornament brighter than stars",
+  "invented_symbols": "none",
+  "send_trigger": "Send to minimalists."
+ }
+]
